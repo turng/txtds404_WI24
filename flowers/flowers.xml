@@ -17,8 +17,42 @@
       </fileDesc>
    </teiHeader>
    <text>
+      <front>
+         <div type="titled_page"/>
+         <figure/>
+         <div type="title_page"/>
+         <figure/>
+      </front>
       <body>
-         <p>Some text here.</p>
+         <lg type="flowers">
+            <head>Flowers</head>
+            <l>flower-then-meaning</l>
+         </lg>
+         <lg type="meanings">
+            <head>Meanings</head>
+            <l>meaning-then-flower</l>
+         </lg>
+         <lg type="poetry">
+            <head>Poetry</head>
+            <lg type="poem">
+               <head>
+                  <bibl>
+                     <title>Title of Poem</title>
+                     <author>Jeanette</author>  
+                  </bibl>
+               </head>
+               <l>line-of-poem</l>
+            </lg>
+         </lg>
+         <lg type="ils_list">
+            <l>meaning-then-page-number</l>
+         </lg>
       </body>
+      <back>
+         <div type="bibl"/>
+         <div type="bio"/>
+         <div type="etc."/>
+      </back>
+
    </text>
 </TEI>
