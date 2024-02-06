@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="preface" rend="cap">
+            <p>The object of this little volume is to place before......</p>
+         </div>
+
+         <div type="chapter" n="1">
+            <head rend="cap">perfume</head>
+            <div type="section" n="1.1">
+               <head rend="cap">sachet powders</head>
+               <pb n="100"/>
+
+               <p n="1.1.1"> 293 </p>
+               <p rend="cap">frangipanni sachet.</p>
+               <list>
+                  <item n="1"><ref target="#GroundSandalwood">Ground Sandalwood</ref>, <measure
+                        type="ounce">1 1/2 ounces</measure></item>
+                  <item n="1"><ref target="#PowderedOrrisRoot">Powdered Orris Root</ref>, <measure
+                        type="ounce">8 ounces</measure></item>
+                  <item n="1"><ref target="#GroundTonkBean">Ground Tonka Bean</ref>, <measure
+                        type="ounce">1/2 ounce</measure></item>
+                  <item n="1"><ref target="#OilofRose">Oil of Rose</ref>, <measure type="drop">5
+                        drops</measure></item>
+                  <item n="1"><ref target="#OilofNeroli">Oil of Neroli</ref>, <measure type="drop">3
+                        drops</measure></item>
+               </list>
+               <p>Mix them in a mortar very thoroughly.</p>
+               <lb/>
+               <p n="1.1.2">294</p>
+               <p rend="cap">heliotrope sachet</p>
+               <list>
+                  <item n="1">Powdered Oriss Root, 1/2 pound</item>
+                  <item n="1"> Rose Leaves, ground, 4 ounces</item>
+                  <item n="1"> Tonka Bean, ground, 2 ounces</item>
+                  <item n="1">Vanilla Bean, 1 ounce</item>
+                  <item n="1">Grain Musk, 30 grains</item>
+                  <item n="1">Oil of Bitter Almond, 1 drop</item>
+               </list>
+               <p>Mix them</p>
+               <lb/>
+               <p n="1.1.3">295</p>
+               <p rend="cap">millefleurs sachet.</p>
+               <list>
+                  <item n="1">Powdered Orris Root, 4 ounces</item>
+                  <item n="2">Powdered Benzoin, 4 ounces</item>
+                  <item n="3">Ground Lavender Flowers, 4 ounces</item>
+                  <item n="4">Ground Rose Leaves, 4 ounces</item>
+                  <item n="5">Ground Tonka Bean, 1 ounce</item>
+                  <item n="6">Ground Vanilla Bean, 1 ounce</item>
+                  <pb n="101"/>
+                  <item n="7"> Ground Cloves, 1 ounce</item>
+                  <item n="8"> Ground Mace, 1/2 ounce</item>
+                  <item n="9">Ground Cinnamon, 1 ounce</item>
+                  <item n="10">Ground Allspice, 1/2 ounce</item>
+                  <item n="11">Ground Sandalwood, 1 ounce</item>
+               </list>
+               <p>Mix them by sifting. </p>
+            </div>
+     
+            <div type="section" n="1.2">
+               <head rend="cap">pungents.</head>
+               <pb n="102"/>
+               <p n="1.1.1">299</p>
+               <p rend="cap">aromatic acetic acid.</p>
+               <list>
+                  <item n="1"/>
+                  <item/>
+               </list>
+               <p/>
+            </div>
+
+            <div type="section" n="1.3">
+               <head rend="cap">fumigators.</head>
+               <p n="1.1.1">303</p>
+               <p rend="cap">fumigating pastilles.</p>
+               <list>
+                  <item n="1"/>
+               </list>
+            </div>
+         </div>
+
+         <div type="chapter" n="2">
+            <head rend="cap">proprietary madicine</head>
+
+            <div type="section" n="2.1">
+               <head rend="cap">balsams</head>
+               <p n="2.1.1">306</p>
+               <p rend="cap">lung balsams</p>
+               <list>
+                  <item/>
+               </list>
+            </div>
+
+            <div type="section" n="2.2">
+               <head rend="cap">bitters</head>
+            </div>
+
+
+         </div>
+      </body>
+
+      <back>
+         <div type="endnotes">
+            <note xml:id="GroundSandalwood">a widely cultivated Indian tree that yields fragrant
+               timber and oil, freely available</note>
+         </div>
+      </back>
+   </text>
+
+</TEI>
