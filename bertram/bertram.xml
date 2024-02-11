@@ -14,17 +14,24 @@
             <p>Publication Information - how we are publishing in the context of our class</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source 
-               <bibl>
-               </bibl>
+            <p>The J.N. Bertram letters are a collection of letters that include personal
+               corrisponse, business corrispondece, and newspaper clippings. The material
+               transcribed in this edition is a sample from those three categories, including
+               handwritten letters, typewritten corrispondece, and newpaper clippings. 
+         <bibl> 
+            <title>Pamphlet title</title>
+            <author>Various</author>
+            <publisher>publisher, if you can identify this</publisher>
+            <date>date</date>
+            <idno type="...">supplies any form of identifier used to identify some object: an ISBN, call #</idno>
+                </bibl> 
             </p>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <editorialDecl>
             <normalization>
-               <p>This is where you can discuss choices you made about modernization spelling (or
-                  not)</p>
+               <p>All spellings were taken directly from the source, with no editing.</p>
             </normalization>
             <punctuation>
                <p>info about punctuation</p>
@@ -34,7 +41,8 @@
             </quotation>
             <correction>
                <p>If you discovered errors in your text, you can talk here about where you decided
-                  to correct them or not.</p>
+                  to correct them or not - Errors were left unedited; any mispellings that appear in
+                  the text were directly from the source.</p>
             </correction>
             <interpretation>
                <p>You can add interpretive info here.</p>
@@ -46,7 +54,6 @@
       <body>
          <p>Some text here.</p>
          <p>This is Nic trying to use GitHub, send <hi rend="caps">help</hi></p>
-         <p>This is Sofia testing Github. Very confused about how to pull/push...</p>
       </body>
    </text>
 </TEI>
