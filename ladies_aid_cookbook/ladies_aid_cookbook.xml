@@ -6,19 +6,420 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Ladies' Aid Society cook book</title>
+            <editor>Madeleine + Moses</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>wow, a cook book! git test</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>The Ladies' Aid Society cook book is an instructional text divided into the following
+               sections: Soups, Fish, Meats, Vegetables, Bread, Relishes, Salads, Pies, Cakes,
+               Puddings, tables of weights and measure, Candies, and an unnamed section containing
+               recipes for household fluids. Each section contains different recipes. First, we
+               transcribed ten different pages of recipes from various sections. After some of these
+               recipes, there is a name of a person who contributed the recipe to the cookbook. The
+               page numbers are at the bottom of each page. Also, since everything is organized
+               similarly, we planned to reflect this in our transcription. Finally, we have written
+               a diplomatic transcription since our text is so sparse and modern.</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <p>Some text here.</p>
+         <div type="section" n="Handwritten notes">
+            <p>Beets. sugar. milk. nuts. oranges. lemons. butter. eggs. meat. candy.</p>
+            <p>Sift baking powder in flour 5 tablespoons melted butter 1 coffee cup sugar creamed
+               together 2 eggs nutmeg to taste 3 teaspoons baking powder heaping 2 coffee cups milk
+               added Eggs + sugar + butter About 2 quarts flour added almost at once</p>
+            <note>this section is hand written later and is not an official part of the text</note>
+            <note>the list is likley a shopping list</note>
+         </div>
+         <div type="section" n="Soups">
+            <div type="recipe">
+               <head rend="bold">NORMANDY SOUP.</head>
+               <p>One knuckle veal, 3 quarts cold water, 1 onion, ½ loaf baker’s bread, 1 quart
+                  cream, 2 tablespoonfuls butter, 2 tablespoonfuls flour. Put veal and onion on in
+                  cold water, let simmer 2 hours. Then add bread cut in slices, let simmer 2 hours
+                  longer. Remove meat and press the other ingredients through sieve. Rub butter and
+                  flour together, stir into boiling soup. Add cream, salt, and pepper.</p>
+               <p>—Mrs. M. F. Mendenhall.</p>
+            </div>
+            <div type="recipe">
+               <head rend="bold">SPLIT PEA SOUP.</head>
+               <p>Two cups split peas, add 3 pints water and clean piece of bacon rind or small
+                  piece of bacon or ham; teaspoon salt, pepper to taste, small onion, small carrot.
+                  Boil all at least 3 hours. If preferred run through colander.</p>
+               <p>—Mrs. John R. Corkery</p>
+            </div>
+            <div type="recipe">
+               <head rend="bold">GERMAN POTATO SOUP.</head>
+               <p>A 10-cent shin bone, add 4 quarts water , boil 3 hours , cool and skim off fat,
+                  then put back on stove and add small handful salt, 1 dried chili pepper or black
+                  pepper to taste, 1 large onion, 2 medium sized carrots, small amount of cabbage or
+                  turnip, some dried celery or fresh, 8 good sized potatoes. Boil all at least 1
+                  hour and then run through colander and serve with bread croutons.</p>
+               <p>—Mrs. John R. Corkery.</p>
+            </div>
+            <div type="recipe">
+               <head rend="bold">SHRIMP SOUP.</head>
+               <p>Scald 1 quart milk in double boiler. Add 1 tablespoonful flour, 1 yolk egg mixed
+                  with a little milk. When cooked and ready to serve add 1 cup minced shrimps,
+                  1tablespoon grated cheese, white 1 egg whipped, salt and pepper to taste.</p>
+               <p>—Mrs. McCreary.</p>
+            </div>
+         </div>
+         <div type="section" n="fish">
+            <div type="recipe">
+               <head rend="bold">MINCED CLAM PATTIES.</head>
+               <p>One can of minced sea clams, 2 cupfuls off cream or milk, 3 tablespoonfuls flour,
+                  2 eggs, 1 tablespoonful butter, salt and pepper (to taste). Put in a stew pan or
+                  chafing dish the cream and clam juice and let come to a boil. Then add the eggs
+                  well beaten , salt, pepper, butter and clam meat. When this is hot thicken with
+                  the flour dissolved in a little milk or water. Pour into pastry patties and serve
+                  hot.</p>
+               <p>—Mrs. E.C. McRae.</p>
+            </div>
+            <div type="recipe">
+               <head rend="bold">SHRIMP PIRLEAU.</head>
+               <p>One teacup rice, ½ lb. bacon diced, 1 cup chopped onion, ½ can tomatoes, 1 lb.
+                  shrimp meat, 1 teaspoon beef extract, 1 teaspoon flour, ¼ lb. red pepper, 1
+                  teaspoon celery seed. Cook rice until dry. Cook bacon and onion together. Then mix
+                  all together and cook one hour.</p>
+               <p>—Mrs. Bruce Blake</p>
+            </div>
+            <div type="recipe">
+               <head rend="bold">SALMON LOAF.</head>
+               <p>One-half cup milk, 1 can salmon, ½ cup bread crumbs, 2 eggs well beaten, little
+                  chopped parsley, little mace, salt and pepper to taste. Turn into greased mold and
+                  steam 1 hour.</p>
+               <p>—Mrs. Joseph Briggs.</p>
+            </div>
+            <div type="recipe">
+               <head rend="bold">SCALLOPED FISH.</head>
+               <p>Boil 2 lbs. halibut in a cloth with 1 slice onion, 1 stalk celery, 1 sprig
+                  parlsey, 1 bay leaf, 4 cloves and juice ½ lemon. Separate fish from bone. Cut in
+                  buttered baking dish with laternate layers of white sauce made of 1 cup milk, 1
+                  tablespoon flour, 1 tablespoon butter. Heat in oven.</p>
+               <p>—Mrs. A. B. Lee</p>
+            </div>
+            <div type="recipe">
+               <head rend="bold">PIGS IN BLANKETS.</head>
+               <p>Sifter of flour; 4 teaspoons baking powder, 1 teaspoon salt; 2 tablespoons
+                  shortening; water or milk to make biscuit dough. Take 25 cents’ worth of link
+                  sausage and cut each link apart; roll our dough ¼ inch thick and cut in pieces;
+                  put one link of sausage in dough and cover all of sausage. Bake in oven, as
+                  biscuits. Do not place many in a pan, as they rise. Enough for 6 persons.</p>
+               <note>In our transcription, we plan to note how we found Pigs in a Blanket in the
+                  Fish section of this cook. We can mention how it may have been a publishing
+                  mistake and was probably meant for the Meats section</note>
+            </div>
+         </div>
+         <div type="section" n="Meats">
+            <div type="recipe">
+               <head rend="bold">HAM EN CASSEROLE.</head>
+               <p>Select a slice of ham about 2 inches thick; dredge with flour and saute brown in
+                  its own fat. Brown 2 sliced onions in this fat, also a carrot scraped and sliced.
+                  Place the ham in the casserole, cover with the vegetables, add 1 turnip, pared and
+                  cut into small cubes. Add ½ teaspoon of pepper; then pour on a cupful of boiling
+                  water, cover and cook for 3 hours in a moderate oven; half an hour before the
+                  cooking is finished, add a cupful of strained tomatoes.</p>
+               <p>—Mrs. B. L. Jenkins</p>
+            </div>
+            <div type="recipe">
+               <head rend="bold">STEAMED HAM.</head>
+               <p>Steam good sugar cured ham 30 minutes to the pound. Cover on all sides with sugar.
+                  Put into baking pan and add extra sugar on top and around it. Add 1 pint of water
+                  and bake until the water and sugar have formed a thick syrup. Put ham on platter
+                  and pour the syrup over it. Surround with rings of pineapple sauted in butter.
+                  Varnish with parsley.</p>
+               <p>-Mrs. J. K. Cecil.</p>
+            </div>
+            <div type="recipe">
+               <head rend="bold">"DOBE" MEAT.</head>
+               <p>One large onion browned in tablespoonful of lard, 1 teaspoonful of cinnamon, 1
+                  dozen cloves, pepper and salt to taste, ½ cup sugar, ½ cup tomatoes. Rub your pan
+                  with garlic. When onions are browned, flour your meat, put in a pan, add other
+                  ingredients and cook slowly in an over for 2 hours.</p>
+               <p>—Mrs. Newman.</p>
+            </div>
+            <div type="recipe">
+               <head rend="bold">CASSEROLE OF RICE AND MEAT.</head>
+               <p>Cook rice until tender in salted water. Butter a mold and line it ½ inch or more
+                  with the rice. Fill the center with the following: 2cups finely chopped cold
+                  cooked meat, 1 beaten egg, ¼ cup cracker or bread crumbs, salt, pepper, celery
+                  salt, onion juice, sage, nutmeg, or lemon juice depending on the variety of meat,
+                  hot stock or water to moisten. Pack the meat in the rice lined mold. Cover the top
+                  with riceand cover the rice with buttered paper to keep out the moisture. Steam ¾
+                  of an hour. Serve with tomato sauce. Potato may be used in place of rice.</p>
+               <p>—Mrs. A. D. Butler.</p>
+            </div>
+            <div type="section" n="Vegetables">
+               <div type="recipe">
+                  <head rend="bold">STUFFED PEPPERS.</head>
+                  <p>Six green peppers, remove seeds amd led stand in hot water ½ hour; 1 cup
+                     chopped meat or oysters, 1¼ cups bread crumbs, ½ cup tomatoes, ½ onion
+                     (chopped), 1 tablespoon parsley (chopped), salt, 1 egg. Fill peppers. Pour over
+                     stock and bake ⅓ hour.</p>
+                  <p>—Mrs. Rutter.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">MEXICAN CORN.</head>
+                  <p>Two green peppers (chopped), ½ onion (chopped), fry in butter, then add 1
+                     tablespoon flour, 1 egg (beaten), 1 cup milk, 1 cup corn, ½ cup Mexican beans,
+                     cooked, salt and pepper, paprika. Pour in buttered dish, covered with
+                     bread-crumbs and bake in oven ½ hour.</p>
+                  <p>—Mrs. J. E. Daniel.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">CABBAGE AU GRATIN.</head>
+                  <p>Cut medium sized cabbage and cook in boiling salted water to cover until
+                     tender. Chop moderately and season with pepper, salt if necessary, and 1 green
+                     pepper pr pimento finely chopped. Cover with 1¼ cups thin white sauce, add 1-3
+                     cup grated cheese, mix well and sprinkle thickly with ¾ cup buttered crumbs.
+                     Place in oven and baker until mixture is heated through and crumbs are
+                     browned.</p>
+                  <p>—Mrs. Glen Powell</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">STUFFED PEPPERS(MEXICAN STYLE.</head>
+                  <p>Parboil peppers from which seeds have been removed, stuff with cold minced meat
+                     and bread crumbs, to which add a few raisins; dot the top with butter and bake
+                     half an hour.</p>
+                  <p>—Miss Mathers.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">CORN PUDDING</head>
+                  <p>Eight ears corn scored down center, thne scraped; 1 tablespoon butter, 1 cup
+                     milk, 1 teaspoon flour, 3 ggs beaten light. Bake ¾ hour.</p>
+                  <p>—Mrs. W. S. McCrea.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">SPANISH RICE.</head>
+                  <p>Two slices of bacon, cut into small pieces and fried nicely brown; add 2 cups
+                     water, 1 cup rice, 1 onion, ½ can tomatoes, 1 chile pepper; cook 30
+                     minutes.</p>
+               </div>
+            </div>
+            <div type="section" n="Bread">
+               <div type="recipe">
+                  <head rend="bold">CREAM DATE ROLES.</head>
+                  <p>Two cups pastry flour, ½ teaspoon salt, 4 teaspoons Royal baking powder, 1
+                     tablespoon butter, 1 cup cream (all measurements level), dates.</p>
+                  <p><hi rend="bold">Process:</hi> Sift dry ingredients together; rub in butter with
+                     fingers. Add cream, mix with spatula to soft dough. Handle lightly. Roll on
+                     floured board to 1-3 inch thickness. Cut with biscuit cutter; place ½ a stoned
+                     date on ½ biscuit, brush edges with milk, and fold as Parker House rolls. Press
+                     edges together, brush top of rolls with milk, place ½ date on top. Bake about
+                     15 minutes.</p>
+                  <p>Cheese Biscuit may be made by substituting grated cheese for dates in above
+                     recipe, and are delicious.</p>
+                  <p>-Mrs. E. F. Waggoner.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">>BROWN BREAD</head>
+                  <p>Mix together 1 teaspoonful salt, 2 teaspoonfuls soda (level), pinch ginger. Add
+                     1 cup molasses 2 cups sweet milk, 3¼ cups graham flour, ½ cup raisins. Steam 3
+                     hours, then bake 10 minutes.</p>
+                  <p>-Mrs. Wm. Merryweather.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">POTATO MUFFINS.</head>
+                  <p>Two cups mashed potato, 1 cup warm milk, 1 cake compressed yeast, 2 eggs well
+                     beaten, 1 tablespoon lard, 1 tablespoon sugar, 1 teaspoon butter, salt to
+                     taste, 3 cups flour. Set then at 11 o’clock. Roll at 4 and bake at 6.</p>
+                  <p>—Mrs. E. Taylor.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">NUT BREAD.</head>
+                  <p>One cup sour milk, 1 cup sweet milk, 2 cups whole wheat or graham flour, 1 cup
+                     white flour, 1 cup sugar (scant), 1 teaspoon baking powder, 1 teaspoon soda, 1
+                     teaspoon salt, ½ cup raisins and ½ cup walnuts chopped.</p>
+                  <p>—Mrs. W. H. Matthews.</p>
+               </div>
+            </div>
+            <div type="section" n="Relishes">
+               <div type="recipe">
+                  <head rend="bold">ORANGE MARMALADE.</head>
+                  <p>Take 1 dozen oranges, peel very thin (cut peel fine); remove all the white and
+                     slice oranges thin, add 2 qts. of cold water. Let stand for 24 hours, cook
+                     until tender, then add 8 lbs. sugar, juice of 4 lemons and boil at least 1 hour
+                     longer.</p>
+                  <p>–M. K.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">PEACH CONSERVE.</head>
+                  <p>Six pounds peaches (diced), 1 can pineapple (diced), 3 oranges, peel of 1
+                     orange, 6 cups sugar. Make a thick syrup of the sugar. Into this, drop the
+                     peaches and cook for 10 minutes. Cook the orange peel until tender and shred.
+                     Then add the pineapple, oranges and peel to the peaches, and cook for 5 minutes
+                     more.</p>
+                  <p>-Mrs. J. D. Ellis.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">RHUBARB CONSERVE.</head>
+                  <p>Five pounds rhubarb, 5 lbs. sugar, 3 oranges, 1 small tablespoon ground ginger,
+                     1 lb. walnut meats. Prepare rhubarb as for stewing peel and slice oranges fine,
+                     add sugar and ginger and cook until quite thick. Take off and add the nuts
+                     (chopped). Prunes can be used instead of rhubarb. Put them through grinder
+                     before cooking.</p>
+                  <p>—Mrs. Mae Jones.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">INDIAN PEACH PICKLES.</head>
+                  <p>Seven pounds fruit, 3 pounds sugar, 1 pint vinegar. Heat vinegar, sugar, and
+                     teaspoon whole allspice and cloves and several pieces of mace (these three
+                     spices tied in cloth), 1 tablespoon stick cinnamon. Pour over uncorked peaches,
+                     heating and pouring over peaches for 9 days. The last day cork peaches few
+                     minutes. Boil down syrup and pour over peaches.</p>
+                  <p>—Mrs. A. E. Blake.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">GRAPE CONSERVE.</head>
+                  <p>Three pints Concord grapes, 3 pints granulated sugar, 1 pint water, ½ pound
+                     seeded raisins, 2 oranges chopped fine, 1 cup chopped walnuts added last. Pulp
+                     grapes and cook pulps. Put through colander. Add skins and other inregdients
+                     and cook 1 hour.</p>
+                  <p>—Mrs. May Jason.</p>
+               </div>
+            </div>
+            <div type="section" n="Salads">
+               <div type="recipe">
+                  <head rend="bold">PINEAPPLE AND TOMATO SALAD.</head>
+                  <p>On a lettuce leaf place a ring of pineapple, then a slice of ripe tomato; put
+                     on a spoonful or two of mayonnaise dressing and garnish with a salted cherry or
+                     stuffed olive.</p>
+                  <p>—Mrs. B. L. Jenkins.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">POTATO SALAD.</head>
+                  <p>Six large boiled potatoes cut in cubes, 1 onion cut fine, 3 hard boiled eggs
+                     chopped. Mix with this dressing ½ cup sugar, ½ cup vinegar, ½ cup water, 1
+                     tablespoon flour, 1 tablespoon butter, 3 ggs. Mix well and cook in double
+                     boiler. When cool add cream.</p>
+                  <p>—Mrs. Dana Child.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">SALAD DRESSING FOR TEN PEOPLE.</head>
+                  <p>One-half cup vinegar, ½ cup butter, ½ cup sugar, 4 eggs. Boil all together
+                     until thick. Add 1 cup thick, sour cream. Let stand a minute. Pour over 12
+                     large potatoes, 8 hard-boiled eggs and 1 small onion.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">FRUIT SALAD DRESSING.</head>
+                  <p>One-fourth cup fruit juice (pineapple)m juice of ½ lemon, ¼ cup sugarm yolks of
+                     2 eggs. Cook slowly and cool before serving.</p>
+                  <p>—Mrs. F. H. Quilliam.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">HOT POTATO SALAD.</head>
+                  <p>Boil 6 or 8 potatoes without paring and dice while hot; peel and chop 1 large
+                     onion and mix with potato; cut up some breakfast bacon into small bits
+                     sufficient to fill a teacup and fry it a light brown; remove the meat, and into
+                     the grease stir 3 tablespoonsful of vinegar, making a sour gravy, which, with
+                     the bacon pour over the potato and onion; mix lightly. To be eaten hot.</p>
+                  <p>—Mrs. J. E. Horton.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">SALAD DRESSING.</head>
+                  <p>Mix together 1 teaspoon of salt, 1 teaspoon of dry mustard, 2 tablepsoons of
+                     sugar, 1 tablespoon of flour. To this add the yolks of 2 eggs, well beaten, 2
+                     tablespoons of melted butter, 1 cup sweet milk and ½ cup vinegar, the latter
+                     added slowly. Cook in double boiler, stirring constantly until thick. This will
+                     keep for weeks.</p>
+               </div>
+            </div>
+            <div type="section" n="Pies">
+               <div type="recipe">
+                  <head rend="bold">PINEAPPLE PIE.</head>
+                  <p>Fill a rich, flaky crust with the following: In a double boiler put the liquid
+                     of a can of shredded pineapple with two (2) cups of water, bring to a boil. Add
+                     five (5) tablespoons corn starch, dissolved in a liter of water, yolks of four
+                     (4) eggs, one and one-half (1½) cups of sugar, butter size of a walnut. When
+                     cool add the shredded pineapple. Fill crust with this mixture. Uhe the whites
+                     of the eggs for meringue, beaten with two (2) tablespoons sugar. Brown lightly
+                     in oven. This recipe makes two (2) large pies.</p>
+                  <p>-Mrs. A. M. Johnson.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">WALNUT PIES.</head>
+                  <p>Boil together until thick, yolks of 3 eggs, 1 cup sugar, 1 cup milk, 1 heaping
+                     teaspoon flour. Let cool and add a cup of chopped walnuts, then turn into baked
+                     pie crust, use whites for top.</p>
+                  <p>-Mrs. H. A. Flood.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">DIVINITY PIES.</head>
+                  <p>Whites of 3 eggs, beaten to a stiff froth; 1 tablespoon sugar, stirred into the
+                     whites of eggs; put eggs and sugar into the crust (baked the day before) and
+                     bake a short time; let cool, take ½ pint of whipping cream, beat to a stiffness
+                     and tdd 2 tablespoons sugar and spread over pie. Flavor to taste.</p>
+                  <p>-Mrs. Glenn Russell.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">APPLE CUSTARD PIE.</head>
+                  <p>One cup stewed apple, mashed very fine; 2 eggs, 1 cup sugar, ⅓ cup butter. Bake
+                     with one crust and use the whites of the eggs for frosting after the pie is
+                     done. Brown nicely by returning to oven.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">PUMPKIN PIE.</head>
+                  <p>One and one-half cups stewed pumpkin, dry; 2 cups milk, 2 beaten eggs, ½ cup
+                     brown sugar, 1 teaspoon cinnamon, ½ teaspoon each of sale and ginger. Line pie
+                     tins and bake in slow oven.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">RHUBARD PIE.</head>
+                  <p>One cup rhubarb, chopped fine 1 cup sugar, 1 egg. Bake in two crusts. Flavor
+                     with lemon if desired.</p>
+                  <note>correction: this recipie is recorded diplomatically, including the
+                     mispelling of "rhubarb" as "rhubard"</note>
+               </div>
+            </div>
+            <div type="section" n="Cakes">
+               <div type="recipe">
+                  <head rend="bold">NUT CAKES.</head>
+                  <p>One-half cup butter, 1 cup sugar, 3 eggs, ½ cup milk, 1¾ cups flour, 3
+                     teaspoons baking powder, 1 teaspoon flavoring, ¾ cup of nuts (walnuts or
+                     pecans) broken in small pieces Mixin usual manner and bake in small pans.</p>
+                  <p>-Mrs. Chas L. Featherstone.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">DATE CAKE.</head>
+                  <p>One pound dates (after stoning), 1 pound English walnut meats, 1 cup flour, 2
+                     rounded teaspoons baking powder, ½ teaspoon salt, 1 small cup sugar, 4 eggs
+                     beaten separately, teaspoon vanilla. Bake in loaf.</p>
+                  <p>-Mrs. G. W. Paine.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">DELICIOUS PORK CAKE.</head>
+                  <p>Two cups solid fat pork (ground fine), 2 cups boiling water (pour over pork), 2
+                     cups sugar, 2 cups New Orleans molasses, ½ pound currants, ½ pound raisins, ¼
+                     pound pound citron and lemon peel, 1 cup chopped nuts, 3 teaspoons soda,
+                     dissolved in boiling water, cloves, cinnamon, nutmeg, to taste. Mix quite stiff
+                     with flour and bake for 1¼ hours with a steady fire. Will keep
+                     indefinitely.</p>
+                  <p>-Mrs. A. E. Keats.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">SPICE CAKE.</head>
+                  <p>One egg, 1 cup sugar, ½ cup butter, 1 cup sour milk, 1 teaspoon soda, 2⅔ cups
+                     flour, all spices as desired.</p>
+                  <p>-Mrs. Z. Stewart.</p>
+               </div>
+               <div type="recipe">
+                  <head rend="bold">AUNT EMMA'S FRUIT CAKE.</head>
+                  <p>One and one-half cups light brown sugar, ⅔ cup butter, 2 eggs, ½ cup sour milk,
+                     scant 2½ cups flour, ⅔ cup raisins, ⅔ teaspoon soda, 2 tablespoons cut citron
+                     or ¼ cup chopped nuts.</p>
+                  <p>-Mrs. Emma Till.</p>
+               </div>
+            </div>
+         </div>
+         <div/>
+         <div/>
+         <div/>
+         <div/>
       </body>
    </text>
 </TEI>

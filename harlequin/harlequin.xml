@@ -6,13 +6,25 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Harlequin and Friar Bacon</title>
+            <author>Francesco Frost</author>
+            <editor>Bonnie, Cassidy, Echo</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>The version will be published through our http website, with connnecting our
+            github work station.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>We were able to read the pamphlet in the collection classroom located on the base level
+            of Allen Library North. 
+               <bibl>
+                  <title>Harlequin and Friar Bacon</title>
+                  <author>Francesco Frost</author>
+                  <publisher>The Music-Publishing Company</publisher>
+                  <date>1863 </date>
+                  <pubPlace>London: 19 Peter's Hill, St. Paul's</pubPlace>
+               </bibl>
+            </p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
