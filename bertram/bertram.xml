@@ -6,15 +6,41 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Jasper N. Bertram Personal Documents and Correspondance</title>
+            <author>Various Authors</author>
+            <editor>Jules Lockett, Sofia Posada, Nic Staley</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Publication Information - how we are publishing in the context of our class</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>Information about the source 
+               <bibl>
+               </bibl>
+            </p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <normalization>
+               <p>This is where you can discuss choices you made about modernization spelling (or
+                  not)</p>
+            </normalization>
+            <punctuation>
+               <p>info about punctuation</p>
+            </punctuation>
+            <quotation>
+               <p>info about how you approached quoted text</p>
+            </quotation>
+            <correction>
+               <p>If you discovered errors in your text, you can talk here about where you decided
+                  to correct them or not.</p>
+            </correction>
+            <interpretation>
+               <p>You can add interpretive info here.</p>
+            </interpretation>
+         </editorialDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
