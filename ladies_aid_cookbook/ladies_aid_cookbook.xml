@@ -21,7 +21,15 @@
                recipes, there is a name of a person who contributed the recipe to the cookbook. The
                page numbers are at the bottom of each page. Also, since everything is organized
                similarly, we planned to reflect this in our transcription. Finally, we have written
-               a diplomatic transcription since our text is so sparse and modern.</p>
+               a diplomatic transcription since our text is so sparse and modern.
+            <bibl>
+               <title>Ladies' Aid Society cookbook</title>
+               <author>Unknown.This was likely a collaborative effort among a group of people.</author>
+               <publisher>Vincent Methodist Episcopal Church, in Spokane, WA</publisher>
+               <date>1915</date>
+               <idno type="OCLC">950973749</idno>
+            </bibl>
+            </p>           
          </sourceDesc>
       </fileDesc>
    </teiHeader>
