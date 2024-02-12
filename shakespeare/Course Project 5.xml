@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Shakespeare Club of Port Gamble, Washington</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>This edition covers the daybook's entries from December 14 1896 to January 11 1987.
+               Residents of Port Gamble, Washington may be interested in reading this edition,
+               particularly the descendants of the Gove family. Upon doing research, our group
+               realized that the Gove family may have been an important family in the town that
+               worked in tugboat service, which was essential in Kitsap County. There is even a
+               historical house/landmark in town called the Gove House. We imagine that the
+               residents of Port Gamble and descendants of the Gove family would be interested in
+               this edition as it gives a glimpse into what life and leisure was like in the late
+               1800s. </p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The manuscript are meeting minutes contained within a “Day Book” ruled planner of 150
+               pages. The minutes are handwritten and contain descriptive paragraphs interspersed
+               with cast lists for their reading assignments. Included are two loose-leaf pages of
+               handwritten letters to the club president. 
+               <bibl>
+                  <title>Special Collections Manuscripts and Archives, University of Washington Libraries; Shakespeare Club Records</title>
+                  <author>Mrs. Ames</author>
+                  <date> December 14, 1896 to January 11, 1987</date>
+                     <msIdentifier>
+                          <settlement>Seattle</settlement>
+                          <repository>Special Collections Manuscripts and Archives, University og Washington Libraries</repository>
+                          <idno type ="OCLC">23949118</idno>
+                     </msIdentifier>
+               </bibl>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+   </text>
+</TEI>
