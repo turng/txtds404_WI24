@@ -25,6 +25,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
+            <p> 
             <bibl>
                <title type="main">HYPNOTISM AND HYPNOTIC SUGGESTION</title>
                <title type="subordinate">A SCIENTIFIC TREATISE OF THE USES AND POSSIBILITIES OF HYPNOTISM, SUGGESTION AND ALLIED PHENOMENA.</title>
@@ -36,8 +37,22 @@
                <pubPlace>Rochester, NY</pubPlace>
                <idno type="lc">BD 1121 H6 1900 pt.1. pt.4</idno>
             </bibl>
+            </p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <normalization>
+               <p>Original punctuation conventions have been retained.</p>
+            </normalization>
+            <hyphenation eol="none">
+               <p>Hyphenated words that appear at the end of the line have been reformed.</p>
+            </hyphenation>
+            <interpretation>
+               <p>Emphasis throughout text, including titles and headings, has been recorded and retained.</p>
+            </interpretation>
+         </editorialDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
