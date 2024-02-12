@@ -8,11 +8,14 @@
          <titleStmt>
             <title>Harlequin and Friar Bacon</title>
             <author>Francesco Frost</author>
-            <editor>Bonnie, Cassidy, Echo</editor>
          </titleStmt>
          <publicationStmt>
-            <p>The version will be published through our http website, with connnecting our
-            github work station.</p>
+            <publisher>Bonnie Ha, Cassidy Fallon Vierling, Echo Yu</publisher>
+            <pubPlace>Seattle, WA</pubPlace>
+            <address>
+               <addrLine>University of Washington, Seattle</addrLine>
+            </address>
+            <date>2024-02​-XX</date>
          </publicationStmt>
          <sourceDesc>
             <p>We were able to read the pamphlet in the collection classroom located on the base level
@@ -27,6 +30,22 @@
             </p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <samplingDecl>
+            <p>Editorial notes in the 1863's edition have not been reproduced</p>
+         </samplingDecl>
+         <editorialDecl>
+            <normalization method="silent">
+               <p>Original punctuation conventions in the 1863's edition will be retained as much as possible</p>
+            </normalization>
+            <interpretation>
+               <p>Italics will be recorded without interpretation</p>
+            </interpretation>
+         </editorialDecl>
+         <tagsDecl>
+            <rendition>caps, italics, bold</rendition>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
