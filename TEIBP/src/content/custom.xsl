@@ -22,7 +22,7 @@
     </xsl:template>
     
     <xsl:template match="tei:item">
-        <li><a href="@corresp"><xsl:apply-templates/></a></li>
+        <li><a href="{@corresp}"><xsl:apply-templates/></a></li>
     </xsl:template>
     
 
