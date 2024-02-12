@@ -11,13 +11,16 @@
             <editor>Jules Lockett, Sofia Posada, Nic Staley</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information - how we are publishing in the context of our class</p>
+            <p>While these documents represent a small fraction of the materials present within
+               archive of Jasper N. Bertram, we hope to attach this TEI encoding to the archival
+               record so that it may aid in distribution and availability of these materials
+               digitally.</p>
          </publicationStmt>
          <sourceDesc>
             <p> The J.N. Bertram letters are a collection of letters that include personal
-               corrisponse, business corrispondece, and newspaper clippings. The material
+               correspondence, business correspondence, and newspaper clippings. The material
                transcribed in this edition is a sample from those three categories, including
-               handwritten letters, typewritten corrispondece, and newpaper clippings. <bibl>
+               handwritten letters, typewritten correspondences, and newspaper clippings. <bibl>
                   <title>Jasper N. Bertram Papers</title>
                   <author>Various</author>
                   <publisher>Personal archives, unpublished</publisher>
@@ -42,9 +45,9 @@
                   authorial voice.</p>
             </punctuation>
             <correction>
-               <p>Errors were left unedited; any mispellings or odd capitalizations that appear in
+               <p>Errors were left unedited; any misspellings or odd capitalizations that appear in
                   the text were directly from the source. Places where text is unidentifiable will
-                  be marked <gap/></p>
+                  be marked &lt;gap/&gt;</p>
             </correction>
             <interpretation>
                <p>You can add interpretive info here.</p>
