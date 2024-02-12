@@ -10,7 +10,16 @@
             <editor>Madeleine + Moses</editor>
          </titleStmt>
          <publicationStmt>
-            <p>wow, a cook book! git test</p>
+            <p>This edition was created as part of the TXTDS 404/504 course at the University of
+               Washington</p>
+            <p>Special care was put into transcribing the text presented here as diplomatically as
+               possible. This edition was created with the intention of providing historical
+               recipies for readers for a variery of purposes, be it a study of ingredients
+               available, culinary culture of the early 20th century, and kitchen technology.</p>
+            <p>Origionally, the source text contained full page advertisments on every other page,
+               akin to what is seen in Victorian serials. These have been omitted from our edition,
+               as we felt that they were extranious information and rather that the effort should be
+               put into including as many recipies as possible.</p>
          </publicationStmt>
          <sourceDesc>
             <p>The Ladies' Aid Society cook book is an instructional text divided into the following
@@ -21,15 +30,15 @@
                recipes, there is a name of a person who contributed the recipe to the cookbook. The
                page numbers are at the bottom of each page. Also, since everything is organized
                similarly, we planned to reflect this in our transcription. Finally, we have written
-               a diplomatic transcription since our text is so sparse and modern.
-            <bibl>
-               <title>Ladies' Aid Society cookbook</title>
-               <author>Unknown.This was likely a collaborative effort among a group of people.</author>
-               <publisher>Vincent Methodist Episcopal Church, in Spokane, WA</publisher>
-               <date>1915</date>
-               <idno type="OCLC">950973749</idno>
-            </bibl>
-            </p>           
+               a diplomatic transcription since our text is so sparse and modern. <bibl>
+                  <title>Ladies' Aid Society cookbook</title>
+                  <author>Unknown. This was likely a collaborative effort among a group of
+                     people.</author>
+                  <publisher>Vincent Methodist Episcopal Church, in Spokane, WA</publisher>
+                  <date>1915</date>
+                  <idno type="OCLC">950973749</idno>
+               </bibl>
+            </p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
