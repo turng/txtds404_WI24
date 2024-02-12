@@ -6,15 +6,46 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Harlequin and Friar Bacon</title>
+            <author>Francesco Frost</author>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <publisher>Bonnie Ha, Cassidy Fallon Vierling, Echo Yu</publisher>
+            <pubPlace>Seattle, WA</pubPlace>
+            <address>
+               <addrLine>University of Washington, Seattle</addrLine>
+            </address>
+            <date>2024-02​-XX</date>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>We were able to read the pamphlet in the collection classroom located on the base level
+            of Allen Library North. 
+               <bibl>
+                  <title>Harlequin and Friar Bacon</title>
+                  <author>Francesco Frost</author>
+                  <publisher>The Music-Publishing Company</publisher>
+                  <date>1863 </date>
+                  <pubPlace>London: 19 Peter's Hill, St. Paul's</pubPlace>
+               </bibl>
+            </p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <samplingDecl>
+            <p>Editorial notes in the 1863's edition have not been reproduced</p>
+         </samplingDecl>
+         <editorialDecl>
+            <normalization method="silent">
+               <p>Original punctuation conventions in the 1863's edition will be retained as much as possible</p>
+            </normalization>
+            <interpretation>
+               <p>Italics will be recorded without interpretation</p>
+            </interpretation>
+         </editorialDecl>
+         <tagsDecl>
+            <rendition>caps, italics, bold</rendition>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
