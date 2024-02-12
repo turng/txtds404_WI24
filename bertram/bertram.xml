@@ -11,55 +11,51 @@
             <editor>Jules Lockett, Sofia Posada, Nic Staley</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information - how we are publishing in the context of our class</p>
+            <p>While these documents represent a small fraction of the materials present within
+               archive of Jasper N. Bertram, we hope to attach this TEI encoding to the archival
+               record so that it may aid in distribution and availability of these materials
+               digitally.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>This is where you talk about your source: i.e. the pamphlet itself. You can describe
-               in your own terms some info about it: where and how you were able to read it; you can
-               say anything you want here, about the physical document, if you'd like. No need for
-               full context, since you'll discuss that in your editorial intro. Then list the full
-               bibliographic info. Keep it all inside the paragraph tags, or you'll get an error.
-               
-               The J.N. Bertram letters are a collection of letters that include personal
-               corrisponse, business corrispondece, and newspaper clippings. The material
+            <p> The J.N. Bertram letters are a collection of letters that include personal
+               correspondence, business correspondence, and newspaper clippings. The material
                transcribed in this edition is a sample from those three categories, including
-               handwritten letters, typewritten corrispondece, and newpaper clippings. 
-         <bibl> 
-            <title>Jasper N. Bertram Letters</title>
-            <author>Various</author>
-            <publisher>Personal archives, unpublished</publisher>
-            <date>date</date>
-            <idno type="Accession_No">4215-001</idno>
-                </bibl> 
-            </p> 
+               handwritten letters, typewritten correspondences, and newspaper clippings. 
+               <bibl>
+                  <title>Jasper N. Bertram Papers</title>
+                  <author>Various</author>
+                  <publisher>Personal archives, unpublished</publisher>
+                  <date>Early 1900's: 1902-1909</date>
+                  <idno type="Accession_No">4215-001</idno>
+                  <idno type="box_#">3 of 7</idno>
+                  <idno type="folder_#">3-2 "General Correspondance"</idno>
+               </bibl>
+            </p>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <editorialDecl>
             <normalization>
-               <p>All spellings were taken directly from the source, with no editing.</p>
+               <p>In an effort to preserve authorial intent of manuscript documents, primarily
+                  comprised of letters of correspondence, we have chosen to leave all spelling and
+                  grammar errors. This choice was done in order for our edition to reflect the
+                  people composing the documents and the time period in which they were written.</p>
             </normalization>
             <punctuation>
-               <p>info about punctuation</p>
+               <p>Some letters contain no punctuation at all. No corrections were made to preserve
+                  authorial voice.</p>
             </punctuation>
-            <quotation>
-               <p>info about how you approached quoted text</p>
-            </quotation>
             <correction>
-               <p>If you discovered errors in your text, you can talk here about where you decided
-                  to correct them or not - Errors were left unedited; any mispellings that appear in
-                  the text were directly from the source.</p>
+               <p>Errors were left unedited; any misspellings or odd capitalizations that appear in
+                  the text were directly from the source. Places where text is unidentifiable will
+                  be marked &lt;gap/&gt;</p>
             </correction>
-            <interpretation>
-               <p>You can add interpretive info here.</p>
-            </interpretation>
          </editorialDecl>
       </encodingDesc>
    </teiHeader>
    <text>
       <body>
          <p>Some text here.</p>
-         <p>This is Nic trying to use GitHub, send <hi rend="caps">help</hi></p>
       </body>
    </text>
 </TEI>

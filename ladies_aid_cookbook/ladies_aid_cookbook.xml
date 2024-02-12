@@ -10,7 +10,16 @@
             <editor>Madeleine + Moses</editor>
          </titleStmt>
          <publicationStmt>
-            <p>wow, a cook book! git test</p>
+            <p>This edition was created as part of the TXTDS 404/504 course at the University of
+               Washington</p>
+            <p>Special care was put into transcribing the text presented here as diplomatically as
+               possible. This edition was created with the intention of providing historical
+               recipies for readers for a variery of purposes, be it a study of ingredients
+               available, culinary culture of the early 20th century, and kitchen technology.</p>
+            <p>Origionally, the source text contained full page advertisments on every other page,
+               akin to what is seen in Victorian serials. These have been omitted from our edition,
+               as we felt that they were extranious information and rather that the effort should be
+               put into including as many recipies as possible.</p>
          </publicationStmt>
          <sourceDesc>
             <p>The Ladies' Aid Society cook book is an instructional text divided into the following
@@ -21,15 +30,15 @@
                recipes, there is a name of a person who contributed the recipe to the cookbook. The
                page numbers are at the bottom of each page. Also, since everything is organized
                similarly, we planned to reflect this in our transcription. Finally, we have written
-               a diplomatic transcription since our text is so sparse and modern.
-            <bibl>
-               <title>Ladies' Aid Society cookbook</title>
-               <author>Unknown.This was likely a collaborative effort among a group of people.</author>
-               <publisher>Vincent Methodist Episcopal Church, in Spokane, WA</publisher>
-               <date>1915</date>
-               <idno type="OCLC">950973749</idno>
-            </bibl>
-            </p>           
+               a diplomatic transcription since our text is so sparse and modern. <bibl>
+                  <title>Ladies' Aid Society cookbook</title>
+                  <author>Unknown. This was likely a collaborative effort among a group of
+                     people.</author>
+                  <publisher>Vincent Methodist Episcopal Church, in Spokane, WA</publisher>
+                  <date>1915</date>
+                  <idno type="OCLC">950973749</idno>
+               </bibl>
+            </p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -51,14 +60,14 @@
                   cold water, let simmer 2 hours. Then add bread cut in slices, let simmer 2 hours
                   longer. Remove meat and press the other ingredients through sieve. Rub butter and
                   flour together, stir into boiling soup. Add cream, salt, and pepper.</p>
-               <p>—Mrs. M. F. Mendenhall.</p>
+               <p><name type="person" ref="#M._F._Mendenhall">—Mrs. M. F. Mendenhall.</name></p>
             </div>
             <div type="recipe">
                <head rend="bold">SPLIT PEA SOUP.</head>
                <p>Two cups split peas, add 3 pints water and clean piece of bacon rind or small
                   piece of bacon or ham; teaspoon salt, pepper to taste, small onion, small carrot.
                   Boil all at least 3 hours. If preferred run through colander.</p>
-               <p>—Mrs. John R. Corkery</p>
+               <p><name type="person" ref="#John_R._Corkery">—Mrs. John R. Corkery</name></p>
             </div>
             <div type="recipe">
                <head rend="bold">GERMAN POTATO SOUP.</head>
@@ -67,14 +76,14 @@
                   pepper to taste, 1 large onion, 2 medium sized carrots, small amount of cabbage or
                   turnip, some dried celery or fresh, 8 good sized potatoes. Boil all at least 1
                   hour and then run through colander and serve with bread croutons.</p>
-               <p>—Mrs. John R. Corkery.</p>
+               <p><name type="person" ref="#John_R._Corkery">—Mrs. John R. Corkery.</name></p>
             </div>
             <div type="recipe">
                <head rend="bold">SHRIMP SOUP.</head>
                <p>Scald 1 quart milk in double boiler. Add 1 tablespoonful flour, 1 yolk egg mixed
                   with a little milk. When cooked and ready to serve add 1 cup minced shrimps,
                   1tablespoon grated cheese, white 1 egg whipped, salt and pepper to taste.</p>
-               <p>—Mrs. McCreary.</p>
+               <p><name type="person" ref="#McCreary">—Mrs. McCreary.</name></p>
             </div>
          </div>
          <div type="section" n="fish">
@@ -86,7 +95,7 @@
                   well beaten , salt, pepper, butter and clam meat. When this is hot thicken with
                   the flour dissolved in a little milk or water. Pour into pastry patties and serve
                   hot.</p>
-               <p>—Mrs. E.C. McRae.</p>
+               <p><name type="person" ref="#E.C._McRae">—Mrs. E.C. McRae.</name></p>
             </div>
             <div type="recipe">
                <head rend="bold">SHRIMP PIRLEAU.</head>
@@ -94,14 +103,14 @@
                   shrimp meat, 1 teaspoon beef extract, 1 teaspoon flour, ¼ lb. red pepper, 1
                   teaspoon celery seed. Cook rice until dry. Cook bacon and onion together. Then mix
                   all together and cook one hour.</p>
-               <p>—Mrs. Bruce Blake</p>
+               <p><name type="person" ref="#Bruce_Blake">—Mrs. Bruce Blake</name></p>
             </div>
             <div type="recipe">
                <head rend="bold">SALMON LOAF.</head>
                <p>One-half cup milk, 1 can salmon, ½ cup bread crumbs, 2 eggs well beaten, little
                   chopped parsley, little mace, salt and pepper to taste. Turn into greased mold and
                   steam 1 hour.</p>
-               <p>—Mrs. Joseph Briggs.</p>
+               <p><name type="person" ref="#Joseph_Briggs">—Mrs. Joseph Briggs.</name></p>
             </div>
             <div type="recipe">
                <head rend="bold">SCALLOPED FISH.</head>
@@ -109,7 +118,7 @@
                   parlsey, 1 bay leaf, 4 cloves and juice ½ lemon. Separate fish from bone. Cut in
                   buttered baking dish with laternate layers of white sauce made of 1 cup milk, 1
                   tablespoon flour, 1 tablespoon butter. Heat in oven.</p>
-               <p>—Mrs. A. B. Lee</p>
+               <p><name type="person" ref="#A._B._Lee">—Mrs. A. B. Lee</name></p>
             </div>
             <div type="recipe">
                <head rend="bold">PIGS IN BLANKETS.</head>
@@ -132,7 +141,7 @@
                   cut into small cubes. Add ½ teaspoon of pepper; then pour on a cupful of boiling
                   water, cover and cook for 3 hours in a moderate oven; half an hour before the
                   cooking is finished, add a cupful of strained tomatoes.</p>
-               <p>—Mrs. B. L. Jenkins</p>
+               <p><name type="person" ref="#B._L._Jenkins">—Mrs. B. L. Jenkins</name></p>
             </div>
             <div type="recipe">
                <head rend="bold">STEAMED HAM.</head>
@@ -141,7 +150,7 @@
                   and bake until the water and sugar have formed a thick syrup. Put ham on platter
                   and pour the syrup over it. Surround with rings of pineapple sauted in butter.
                   Varnish with parsley.</p>
-               <p>-Mrs. J. K. Cecil.</p>
+               <p><name type="person" ref="#J._K._Cecil">-Mrs. J. K. Cecil.</name></p>
             </div>
             <div type="recipe">
                <head rend="bold">"DOBE" MEAT.</head>
@@ -149,7 +158,7 @@
                   dozen cloves, pepper and salt to taste, ½ cup sugar, ½ cup tomatoes. Rub your pan
                   with garlic. When onions are browned, flour your meat, put in a pan, add other
                   ingredients and cook slowly in an over for 2 hours.</p>
-               <p>—Mrs. Newman.</p>
+               <p><name type="person" ref="#Newman">—Mrs. Newman.</name></p>
             </div>
             <div type="recipe">
                <head rend="bold">CASSEROLE OF RICE AND MEAT.</head>
@@ -160,7 +169,7 @@
                   hot stock or water to moisten. Pack the meat in the rice lined mold. Cover the top
                   with riceand cover the rice with buttered paper to keep out the moisture. Steam ¾
                   of an hour. Serve with tomato sauce. Potato may be used in place of rice.</p>
-               <p>—Mrs. A. D. Butler.</p>
+               <p><name type="person" ref="#A._D._Butler">—Mrs. A. D. Butler.</name></p>
             </div>
             <div type="section" n="Vegetables">
                <div type="recipe">
@@ -169,7 +178,7 @@
                      chopped meat or oysters, 1¼ cups bread crumbs, ½ cup tomatoes, ½ onion
                      (chopped), 1 tablespoon parsley (chopped), salt, 1 egg. Fill peppers. Pour over
                      stock and bake ⅓ hour.</p>
-                  <p>—Mrs. Rutter.</p>
+                  <p><name type="person" ref="#Rutter">—Mrs. Rutter.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">MEXICAN CORN.</head>
@@ -177,7 +186,7 @@
                      tablespoon flour, 1 egg (beaten), 1 cup milk, 1 cup corn, ½ cup Mexican beans,
                      cooked, salt and pepper, paprika. Pour in buttered dish, covered with
                      bread-crumbs and bake in oven ½ hour.</p>
-                  <p>—Mrs. J. E. Daniel.</p>
+                  <p><name type="person" ref="#J._E._Daniel">—Mrs. J. E. Daniel.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">CABBAGE AU GRATIN.</head>
@@ -187,20 +196,20 @@
                      cup grated cheese, mix well and sprinkle thickly with ¾ cup buttered crumbs.
                      Place in oven and baker until mixture is heated through and crumbs are
                      browned.</p>
-                  <p>—Mrs. Glen Powell</p>
+                  <p><name type="person" ref="#Glen_Powell">—Mrs. Glen Powell</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">STUFFED PEPPERS(MEXICAN STYLE.</head>
                   <p>Parboil peppers from which seeds have been removed, stuff with cold minced meat
                      and bread crumbs, to which add a few raisins; dot the top with butter and bake
                      half an hour.</p>
-                  <p>—Miss Mathers.</p>
+                  <p><name type="person" ref="#Mathers">—Miss Mathers.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">CORN PUDDING</head>
                   <p>Eight ears corn scored down center, thne scraped; 1 tablespoon butter, 1 cup
                      milk, 1 teaspoon flour, 3 ggs beaten light. Bake ¾ hour.</p>
-                  <p>—Mrs. W. S. McCrea.</p>
+                  <p><name type="person" ref="#W._S._McCrea">—Mrs. W. S. McCrea.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">SPANISH RICE.</head>
@@ -222,28 +231,28 @@
                      15 minutes.</p>
                   <p>Cheese Biscuit may be made by substituting grated cheese for dates in above
                      recipe, and are delicious.</p>
-                  <p>-Mrs. E. F. Waggoner.</p>
+                  <p><name type="person" ref="#E._F._Waggoner.">-Mrs. E. F. Waggoner.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">>BROWN BREAD</head>
                   <p>Mix together 1 teaspoonful salt, 2 teaspoonfuls soda (level), pinch ginger. Add
                      1 cup molasses 2 cups sweet milk, 3¼ cups graham flour, ½ cup raisins. Steam 3
                      hours, then bake 10 minutes.</p>
-                  <p>-Mrs. Wm. Merryweather.</p>
+                  <p><name type="person" ref="#Wm._Merryweather">-Mrs. Wm. Merryweather.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">POTATO MUFFINS.</head>
                   <p>Two cups mashed potato, 1 cup warm milk, 1 cake compressed yeast, 2 eggs well
                      beaten, 1 tablespoon lard, 1 tablespoon sugar, 1 teaspoon butter, salt to
                      taste, 3 cups flour. Set then at 11 o’clock. Roll at 4 and bake at 6.</p>
-                  <p>—Mrs. E. Taylor.</p>
+                  <p><name type="person" ref="#E._Taylor">—Mrs. E. Taylor.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">NUT BREAD.</head>
                   <p>One cup sour milk, 1 cup sweet milk, 2 cups whole wheat or graham flour, 1 cup
                      white flour, 1 cup sugar (scant), 1 teaspoon baking powder, 1 teaspoon soda, 1
                      teaspoon salt, ½ cup raisins and ½ cup walnuts chopped.</p>
-                  <p>—Mrs. W. H. Matthews.</p>
+                  <p><name type="person" ref="#W._H._Matthews">—Mrs. W. H. Matthews.</name></p>
                </div>
             </div>
             <div type="section" n="Relishes">
@@ -253,7 +262,7 @@
                      slice oranges thin, add 2 qts. of cold water. Let stand for 24 hours, cook
                      until tender, then add 8 lbs. sugar, juice of 4 lemons and boil at least 1 hour
                      longer.</p>
-                  <p>–M. K.</p>
+                  <p><name type="person" ref="#M._K.">–M. K.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">PEACH CONSERVE.</head>
@@ -262,7 +271,7 @@
                      peaches and cook for 10 minutes. Cook the orange peel until tender and shred.
                      Then add the pineapple, oranges and peel to the peaches, and cook for 5 minutes
                      more.</p>
-                  <p>-Mrs. J. D. Ellis.</p>
+                  <p><name type="person" ref="#J._D._Ellis">-Mrs. J. D. Ellis.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">RHUBARB CONSERVE.</head>
@@ -271,7 +280,7 @@
                      add sugar and ginger and cook until quite thick. Take off and add the nuts
                      (chopped). Prunes can be used instead of rhubarb. Put them through grinder
                      before cooking.</p>
-                  <p>—Mrs. Mae Jones.</p>
+                  <p><name type="person" ref="#Mae_Jones">—Mrs. Mae Jones.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">INDIAN PEACH PICKLES.</head>
@@ -280,7 +289,7 @@
                      spices tied in cloth), 1 tablespoon stick cinnamon. Pour over uncorked peaches,
                      heating and pouring over peaches for 9 days. The last day cork peaches few
                      minutes. Boil down syrup and pour over peaches.</p>
-                  <p>—Mrs. A. E. Blake.</p>
+                  <p><name type="person" ref="#A._E._Blake">—Mrs. A. E. Blake.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">GRAPE CONSERVE.</head>
@@ -288,7 +297,7 @@
                      seeded raisins, 2 oranges chopped fine, 1 cup chopped walnuts added last. Pulp
                      grapes and cook pulps. Put through colander. Add skins and other inregdients
                      and cook 1 hour.</p>
-                  <p>—Mrs. May Jason.</p>
+                  <p><name type="person" ref="#May_Jason">—Mrs. May Jason.</name></p>
                </div>
             </div>
             <div type="section" n="Salads">
