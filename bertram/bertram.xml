@@ -6,15 +6,55 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Jasper N. Bertram Personal Documents and Correspondance</title>
+            <author>Various Authors</author>
+            <editor>Jules Lockett, Sofia Posada, Nic Staley</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Publication Information - how we are publishing in the context of our class</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>This is where you talk about your source: i.e. the pamphlet itself. You can describe
+               in your own terms some info about it: where and how you were able to read it; you can
+               say anything you want here, about the physical document, if you'd like. No need for
+               full context, since you'll discuss that in your editorial intro. Then list the full
+               bibliographic info. Keep it all inside the paragraph tags, or you'll get an error.
+               
+               The J.N. Bertram letters are a collection of letters that include personal
+               corrisponse, business corrispondece, and newspaper clippings. The material
+               transcribed in this edition is a sample from those three categories, including
+               handwritten letters, typewritten corrispondece, and newpaper clippings. 
+         <bibl> 
+            <title>Jasper N. Bertram Letters</title>
+            <author>Various</author>
+            <publisher>Personal archives, unpublished</publisher>
+            <date>date</date>
+            <idno type="Accession_No">4215-001</idno>
+                </bibl> 
+            </p> 
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <normalization>
+               <p>All spellings were taken directly from the source, with no editing.</p>
+            </normalization>
+            <punctuation>
+               <p>info about punctuation</p>
+            </punctuation>
+            <quotation>
+               <p>info about how you approached quoted text</p>
+            </quotation>
+            <correction>
+               <p>If you discovered errors in your text, you can talk here about where you decided
+                  to correct them or not - Errors were left unedited; any mispellings that appear in
+                  the text were directly from the source.</p>
+            </correction>
+            <interpretation>
+               <p>You can add interpretive info here.</p>
+            </interpretation>
+         </editorialDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>

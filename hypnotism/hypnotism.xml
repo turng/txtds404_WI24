@@ -6,13 +6,36 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Hypontism and Hypnotic Suggestion</title>
+            <respStmt>
+               <resp>Transcribed by</resp>
+               <name xml:id="JS">Jake Short</name>
+               <name xml:id="LD">Lilly Durham</name>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <authority>
+               <name ref="#JS">Jake Short</name>
+               <name ref="#LD">Lilly Durham</name>
+            </authority>
+            <pubPlace>Seattle, WA</pubPlace>
+            <date when="2024-02-12">2024-02​-12</date>
+            <availability>
+               <p>Available for purposes of academic research and teaching only.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <bibl>
+               <title type="main">HYPNOTISM AND HYPNOTIC SUGGESTION</title>
+               <title type="subordinate">A SCIENTIFIC TREATISE OF THE USES AND POSSIBILITIES OF HYPNOTISM, SUGGESTION AND ALLIED PHENOMENA.</title>
+               <editor>
+                  <name>E. VIRGIL NEAL, A. M., LL. D.</name>
+                  <name>CHARLES S. CLARK, M.A.</name>
+               </editor>
+               <publisher>New York State Publishing Company</publisher>
+               <pubPlace>Rochester, NY</pubPlace>
+               <idno type="lc">BD 1121 H6 1900 pt.1. pt.4</idno>
+            </bibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
