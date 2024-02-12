@@ -14,19 +14,19 @@
             <p>Publication Information - how we are publishing in the context of our class</p>
          </publicationStmt>
          <sourceDesc>
-            <p>
-               The J.N. Bertram letters are a collection of letters that include personal
+            <p> The J.N. Bertram letters are a collection of letters that include personal
                corrisponse, business corrispondece, and newspaper clippings. The material
                transcribed in this edition is a sample from those three categories, including
-               handwritten letters, typewritten corrispondece, and newpaper clippings. 
-         <bibl> 
-            <title>Jasper N. Bertram Letters</title>
-            <author>Various</author>
-            <publisher>Personal archives, unpublished</publisher>
-            <date>date</date>
-            <idno type="Accession_No">4215-001</idno>
-                </bibl> 
-            </p> 
+               handwritten letters, typewritten corrispondece, and newpaper clippings. <bibl>
+                  <title>Jasper N. Bertram Papers</title>
+                  <author>Various</author>
+                  <publisher>Personal archives, unpublished</publisher>
+                  <date>Early 1900's: 1902-1909</date>
+                  <idno type="Accession_No">4215-001</idno>
+                  <idno type="box_#">3 of 7</idno>
+                  <idno type="folder_#">3-2 "General Correspondance"</idno>
+               </bibl>
+            </p>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -38,12 +38,13 @@
                   people composing the documents and the time period in which they were written.</p>
             </normalization>
             <punctuation>
-               <p>Some letters contain no punctuation at all. No corrections were made to preserve authorial voice.</p>
+               <p>Some letters contain no punctuation at all. No corrections were made to preserve
+                  authorial voice.</p>
             </punctuation>
             <correction>
-               <p>If you discovered errors in your text, you can talk here about where you decided
-                  to correct them or not - Errors were left unedited; any mispellings that appear in
-                  the text were directly from the source.</p>
+               <p>Errors were left unedited; any mispellings or odd capitalizations that appear in
+                  the text were directly from the source. Places where text is unidentifiable will
+                  be marked <gap/></p>
             </correction>
             <interpretation>
                <p>You can add interpretive info here.</p>
@@ -54,7 +55,6 @@
    <text>
       <body>
          <p>Some text here.</p>
-         <p>This is Nic trying to use GitHub, send <hi rend="caps">help</hi></p>
       </body>
    </text>
 </TEI>
