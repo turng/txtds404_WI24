@@ -20,7 +20,8 @@
             <p> The J.N. Bertram letters are a collection of letters that include personal
                correspondence, business correspondence, and newspaper clippings. The material
                transcribed in this edition is a sample from those three categories, including
-               handwritten letters, typewritten correspondences, and newspaper clippings. <bibl>
+               handwritten letters, typewritten correspondences, and newspaper clippings. 
+               <bibl>
                   <title>Jasper N. Bertram Papers</title>
                   <author>Various</author>
                   <publisher>Personal archives, unpublished</publisher>
@@ -49,9 +50,6 @@
                   the text were directly from the source. Places where text is unidentifiable will
                   be marked &lt;gap/&gt;</p>
             </correction>
-            <interpretation>
-               <p>You can add interpretive info here.</p>
-            </interpretation>
          </editorialDecl>
       </encodingDesc>
    </teiHeader>
