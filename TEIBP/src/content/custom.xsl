@@ -17,5 +17,13 @@
          to be overridden here. -->
     <xsl:import href="teibp.xsl"/>
     
+    <xsl:template match="tei:list">
+        <ul><xsl:apply-templates/></ul>
+    </xsl:template>
+    
+    <xsl:template match="tei:item">
+        <li><a href="@corresp"><xsl:apply-templates/></a></li>
+    </xsl:template>
+    
 
 </xsl:stylesheet>
