@@ -6,13 +6,14 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>hi</title>
+            <title>Fancy</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
             <p>hello</p>
+            <p>bibliographic info</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
