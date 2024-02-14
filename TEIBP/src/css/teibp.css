@@ -1838,7 +1838,8 @@ html {
   margin-left: 2em;
   margin-right: 4em;
   padding: 2.5em;
-  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
+  /*font-family: "Gentium Book Basic", Cochin, Georgia, Serif;*/
+  font-family: didot;
   font-size: 14pt;
   background-color: #EBEBEB;
   color: #292929;
@@ -1864,6 +1865,7 @@ a:hover {
   text-decoration: underline;
 }
 #teibpToolbox {
+  display: none;
   left: 56em;
   top: 25px;
   position: fixed;
