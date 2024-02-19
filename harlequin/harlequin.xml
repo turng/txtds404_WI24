@@ -105,6 +105,49 @@
                   </note>
                </person>
             </listPerson>
+            
+            <bibl n="1">
+               <title>Puck (folklore)</title>
+               <date>This page was last edited on 26 January 2024, at 15:00 (UTC).</date>
+               <ref target="https://en.wikipedia.org/wiki/Puck_(folklore)"/>
+            </bibl>
+            
+            <bibl n="2">
+               <title>Oberon</title>
+               <date>This page was last edited on 21 January 2024, at 15:31 (UTC).</date>
+               <ref target="https://en.wikipedia.org/wiki/Oberon"/>
+            </bibl>
+            
+            <bibl n="3">
+               <title>The Host (Canterbury Tales)</title>
+               <date>This page was last edited on 25 January 2022, at 13:16 (UTC).</date>
+               <ref target="https://en.wikipedia.org/wiki/The_Host"/>
+            </bibl>
+            
+            <bibl n="4">
+               <title>Geoffrey Chaucer</title>
+               <date>This page was last edited on 7 February 2024, at 09:54 (UTC).</date>
+               <ref target="https://en.wikipedia.org/wiki/Geoffrey_Chaucer"/>
+            </bibl>
+            
+            <bibl n="5">
+               <title>John of Gaunt</title>
+               <date>This page was last edited on 8 February 2024, at 16:06 (UTC).</date>
+               <ref target="https://en.wikipedia.org/wiki/John_of_Gaunt"/>
+            </bibl>
+            
+            
+            <bibl>
+               <title>The Canterbury Tales</title>
+               <author>Geoffrey Chaucer</author>
+               <publisher>Various</publisher>
+               <pubPlace>London</pubPlace>
+               <date>14th century</date>
+               
+            </bibl>
+            
+ 
+            
          </div>
       </body>
    </text>
