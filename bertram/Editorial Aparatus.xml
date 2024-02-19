@@ -97,6 +97,8 @@
                   type="biblio" target="#source1">See source 1</ref>.</note>
             <note xml:id="n2">"Philedelphia book publisher, 1884 to 1960, original specialty
                Bibles." <ref type="biblio" target="#source2">See source 2</ref>.</note>
+            <note xml:id="n3"> Chelan county is located in central Washington <ref type="biblio" target="#source3">See source 3</ref></note>
+            <note xml:id="n4">Lakeside an unincorporated community located in Chelan County <ref type="biblio" target="#source4">See source 3</ref></note>
          </div>
          <div type="bibliography">
             <listBibl>
@@ -107,6 +109,14 @@
                <bibl xml:id="source2">
                   <title>John C. Winston Company</title>
                   <ref target="https://www.wikidata.org/wiki/Q21808712"/>
+               </bibl>
+               <bibl xml:id="source3">
+                  <title>Chelan County</title>
+                  <ref target="https://www.co.chelan.wa.us/"/>
+               </bibl>
+               <bibl xml:id="source4">
+                  <title>Lakeside</title>
+                  <ref target="https://edits.nationalmap.gov/apps/gaz-domestic/public/search/names/1521865"/>
                </bibl>
             </listBibl>
          </div>
