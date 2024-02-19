@@ -50,6 +50,62 @@
    <text>
       <body>
          <p>Some text here.</p>
+         <div type='editorial'>
+            <listPerson>
+               
+               <person xml:id="char1" role="fictional">
+                  <persName>
+                     <surname>Goodfellows</surname>
+                     <forename>Robin</forename>
+                     <choice>
+                        <orig>The Puck</orig>
+                     </choice>
+                  </persName>
+                  <note>
+                     <p>In English folklore, The Puck, also known as Goodfellows, are/is a domestic and nature sprite, demon, or fairy.</p>
+                  </note>
+               </person>
+               
+               <person xml:id="char2" role="fictional" sex="m">
+                  <persName>Oberon</persName>
+                  <note>
+                     <p>Oberon is a king of the fairies in medieval and Renaissance literature. He is best known as a character in William 
+                        Shakespeare's play A Midsummer Night's Dream, in which he is King of the Fairies and spouse of Titania, Queen of 
+                        the Fairies.</p>
+                  </note>
+               </person>
+               
+               <person xml:id="char3" role="fictional" sex="m">
+                  <persName>Harry Bailly or Harry Bailey</persName>
+                  <note>
+                     <p>The Host is a character who plays a key role in and throughout Geoffrey Chaucer's The Canterbury Tales. He is the 
+                        owner of the Tabard Inn in London, where the pilgrimage begins and he agrees to travel on the pilgrimage, and promises to judge both the tales the pilgrims tell, and disputes among the pilgrims.</p>
+                  </note>
+               </person>
+               
+               <person xml:id="char4" role="real" sex="m">
+                  <persName>Geoffrey Chaucer</persName>
+                  <birth>1340s</birth>
+                  <death>25 October 1400</death>
+                  <note>
+                     <p>Geoffrey Chaucer was an English poet, author, and civil servant best known for The Canterbury Tales. He has been 
+                        called the "father of English literature", or, alternatively, the "father of English poetry".</p>
+                  </note>
+               </person>
+               
+               <person xml:id="char5" role="real" sex="m">
+                  <persName>
+                     John of Gaunt
+                  </persName>
+                  <birth>6 March 1340</birth>
+                  <death>3 February 1399</death>
+                  <note>
+                     <p>John of Gaunt, Duke of Lancaster was an English royal prince, military leader, and statesman. He was the fourth son of 
+                        King Edward III of England, and the father of King Henry IV. </p>
+                  </note>
+               </person>
+            </listPerson>
+         </div>
       </body>
    </text>
 </TEI>
