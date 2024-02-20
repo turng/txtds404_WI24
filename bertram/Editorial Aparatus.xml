@@ -97,8 +97,18 @@
                   type="biblio" target="#source1">See source 1</ref>.</note>
             <note xml:id="n2">"Philedelphia book publisher, 1884 to 1960, original specialty
                Bibles." <ref type="biblio" target="#source2">See source 2</ref>.</note>
-            <note xml:id="n3"> Chelan county is located in central Washington <ref type="biblio" target="#source3">See source 3</ref></note>
-            <note xml:id="n4">Lakeside an unincorporated community located in Chelan County <ref type="biblio" target="#source4">See source 3</ref></note>
+            <note xml:id="n3"> Chelan county is located in central Washington <ref type="biblio"
+                  target="#source3">See source 3</ref></note>
+            <note xml:id="n4">Lakeside an unincorporated community located in Chelan County <ref
+                  type="biblio" target="#source4">See source 3</ref></note>
+            <note xml:id="n5">Diphtheria is a bacterial respiratory illness that primarily affects
+               children under 5. The disease was considered highly contagious and deadly during its
+               height, at the end of the 19th and beginning of the 20th century. Before the first
+               vaccine was created in the 1890s, 1 out of 10 children infected by the disease died.
+               Although, the vaccine was not widely distributed until the 1920s. <ref type="biblio"
+                  target="#source5">See source 5</ref></note>
+            <note xml:id="n6">JB Cralle &amp; Co were claim and pension attorneys. Their firm was
+               located in Washington DC.<ref type="biblio" target="#source6"/>See source 6</note>
          </div>
          <div type="bibliography">
             <listBibl>
@@ -116,8 +126,21 @@
                </bibl>
                <bibl xml:id="source4">
                   <title>Lakeside</title>
-                  <ref target="https://edits.nationalmap.gov/apps/gaz-domestic/public/search/names/1521865"/>
+                  <ref
+                     target="https://edits.nationalmap.gov/apps/gaz-domestic/public/search/names/1521865"
+                  />
                </bibl>
+               <bibl xml:id="source5">
+                  <title>Diphtheria</title>
+                  <ref
+                     target="https://artsci.case.edu/dittrick/2014/04/29/deadly-diphtheria-the-childrens-plague/"
+                  />
+               </bibl>
+               <bibl xml:id="source6">
+                  <title>JB Cralle &amp; Co</title>
+                  <ref
+                     target="https://www.nps.gov/common/uploads/teachers/lessonplans/General%20Affadavit%201905.pdf"
+                  /></bibl>
             </listBibl>
          </div>
       </back>
