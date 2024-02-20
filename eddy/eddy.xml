@@ -27,4 +27,99 @@
          <p>Some text here.</p>
       </body>
    </text>
+   <standOff>
+      <listPerson>
+         <person xml:id="mary_baker">
+            <persName>
+               <forename>Mary</forename>
+               <surname>Baker</surname>
+            </persName>
+            <age>
+               0-21
+            </age>
+            <residence>Bow</residence>
+            <residence>Sanborton Bridge</residence>
+         </person>
+         <person xml:id="mary_glover">
+            <persName>
+               <forename>Mary</forename>
+               <surname>Glover</surname>
+            </persName>
+            <age>
+               22-31
+            </age>
+            <residence>Charleston</residence>
+         </person>
+         <person xml:id="mary_patterson">
+            <persName>
+               <forename>Mary</forename>
+               <surname>Patterson</surname>
+            </persName>
+            <age>
+               32-51
+            </age>
+         </person>
+         <person xml:id="mary_eddy">
+            <persName>
+               <forename>Mary</forename>
+               <surname>Eddy</surname>
+            </persName>
+            <age>
+               56-89
+            </age>
+         </person>
+      </listPerson>
+      <listPlace>
+         <place xml:id="Bow">
+            <placeName>
+               <settlement type="town">Bow</settlement>
+               <region type="state">New Hampshire</region>
+            </placeName>
+         </place>
+         <place xml:id="Sanbornton">
+            <placeName>
+               <settlement type="town">Sanbornton Bridge</settlement>
+               <region type="state">New Hampshire</region>
+            </placeName>
+         </place>
+         <place xml:id="Charleston">
+            <placeName>
+               <settlement type="town">Charleston</settlement>
+               <region type="state">South Carolina</region>
+            </placeName>
+         </place>
+         <place xml:id="Portland">
+            <placeName>
+               <settlement type="town">Portland</settlement>
+               <region type="state">Maine</region>
+            </placeName>
+         </place>
+         <place xml:id="Lynn">
+            <placeName>
+               <settlement type="town">Lynn</settlement>
+               <region type="state">Massachusetts</region>
+            </placeName>
+         </place>
+         <place xml:id="Newton">
+            <placeName>
+               <settlement type="town">Newton</settlement>
+               <region type="state">Massachusetts</region>
+            </placeName>
+         </place>
+         <place xml:id="Boston">
+            <placeName>
+               <settlement type="town">Boston</settlement>
+               <region type="state">Massachusetts</region>
+            </placeName>
+         </place>
+         <place xml:id="Concord">
+            <placeName>
+               <settlement type="town">Concord</settlement>
+               <region type="state">New Hampshire</region>
+            </placeName>
+         </place>
+      </listPlace>
+      <listEvent>
+      </listEvent>
+   </standOff>
 </TEI>
