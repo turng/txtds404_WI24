@@ -49,7 +49,9 @@
    </teiHeader>
    <text>
       <body>
-         <p>Some text here.</p>
+         <p>“Harlequin and Friar Bacon” is a British pantomime play from the collection of Glenn Hughes who used the collection in the 1930s and 1940s as a tool for research and teaching his students in the drama program at the University of Washington. It comes from a collection of over 3,000 plays, the majority British. It is likely that “Harlequin and Friar Bacon” belongs to the subset within the collection of works added from a single contributing collection, all of which were made as sales or gifts to the audience of a performance, mainly consisting of Christmas extravaganzas, pantomimes, and burlesques. Pantomimes are usually performed around Christmas and are comedies that often include slapstick humor, jokes, innuendos, magic, fairies, and gender reversal.</p>
+	 <p>The focus of our edition of “Harlequin and Friar Bacon” is digitizing the original play to become accessible to actors and students who are interested in its content, whether that be for purposes of studying drama or gleaning an understanding of the content of historical plays. Pantomimes are still performed in the United States but with less frequency and popularity than in England, so the edition will also function to introduce actors to studies of plays on a global scale.</p>
+	 <p>Our edition features a transcription which is intended to maintain as much of the original content as possible, including preserving the British spellings for words as opposed to Americanizing them. Racial slurs have been redacted and given note in the end notes if relevant to understanding the passage. Any italics and bold are preserved as they are displayed in the original play. In the original print, advertisements line the jacket and are interspersed throughout the text, which have not been preserved in this digital edition because it is not intended for viewing by audiences but by actors.</p>
          <div type='editorial'>
             <listPerson>
                
@@ -135,7 +137,16 @@
                <date>This page was last edited on 8 February 2024, at 16:06 (UTC).</date>
                <ref target="https://en.wikipedia.org/wiki/John_of_Gaunt"/>
             </bibl>
-             
+		 
+	    <bibl n="6">
+		<title>19th century acting editions collection, 1762-1946</title>
+		<date>Historical note and collection information added 2017</date>
+		<ref target="https://archiveswest.orbiscascade.org/ark:80444/xv656279"/>
+
+	    <bibl n="7">
+		<title>A Complete Guide to Pantomime</title>
+		<date>03 June 2022</date>
+		<ref target="https://www.blackpoolgrand.co.uk/complete-guide-to-pantomime"/>
          </div>
       </body>
    </text>
