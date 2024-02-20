@@ -6,17 +6,17 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Hypontism and Hypnotic Suggestion</title>
+            <title type="book">Hypontism and Hypnotic Suggestion</title>
             <respStmt>
                <resp>Transcribed by</resp>
-               <name xml:id="JS">Jake Short</name>
-               <name xml:id="LD">Lilly Durham</name>
+               <name type="person" xml:id="JS">Jake Short</name>
+               <name type="person" xml:id="LD">Lilly Durham</name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>
-               <name ref="#JS">Jake Short</name>
-               <name ref="#LD">Lilly Durham</name>
+               <name type="person" ref="#JS">Jake Short</name>
+               <name type="person" ref="#LD">Lilly Durham</name>
             </authority>
             <pubPlace><placeName><settlement>Seattle</settlement>,
                <region>WA</region></placeName></pubPlace>
@@ -32,8 +32,8 @@
                   <title type="subordinate">A SCIENTIFIC TREATISE OF THE USES AND POSSIBILITIES OF
                      HYPNOTISM, SUGGESTION AND ALLIED PHENOMENA.</title>
                   <editor>
-                     <name>E. VIRGIL NEAL, A. M., LL. D.</name>
-                     <name>CHARLES S. CLARK, M.A.</name>
+                     <name type="person">E. VIRGIL NEAL, A. M., LL. D.</name>
+                     <name type="person">CHARLES S. CLARK, M.A.</name>
                   </editor>
                   <publisher>New York State Publishing Company</publisher>
                   <pubPlace>Rochester, NY</pubPlace>
@@ -58,13 +58,47 @@
       </encodingDesc>
    </teiHeader>
    <text>
+      <front>
+         <p>At the turn of the twentieth century, the concept of hypnotism experienced a surge in
+            public interest and experimentation from areas such as scientific inquiry,
+            entertainment, and therapeutic applications (LoC). The lead editor of this text, E.
+            Virgil Neal, capitalized on this cultural fascination towards hypnosis as another of his
+            various entrepreneurial endeavors; he began giving hypnosis demonstrations in the
+            mid-1890s (Conroy, 70), and in 1897, he wrote a book titled Hypnotism As It Is, which
+            set the stage for Hypnotism and Hypnotic Suggestion (Conroy, 35). Hypnotism and Hypnotic
+            Suggestion covers various uses of hypnosis, from the medical to religious, but Neal and
+            Clark personally contributed work which emphasized the more practical and business
+            related uses of hypnosis (Conroy, 41). The other 28 authors of Hypnotism and Hypnotic
+            Suggestion were considered specialists in the field, coming from universities such as
+            Harvard and Yale (Conroy, 41).</p>
+
+         <p>Hypnotism and Hypnotic Suggestion was intended to be instructional, aimed towards
+            students of Neal, Clark, and their other colleagues in the New York Institute of
+            Science, namely Thomas Adkin (Conroy, 70). The New York Institute of Science, which was
+            a mail-order company selling fraudulent degrees and courses relating to hypnotism and
+            personal magnetism, only operated from 1899 until 1912, because it was shut down by the
+            U.S. government (New York Tribune, pages 18 &amp; 11). According to the 1913 indictment,
+            the co-editors and Adkin had collaborated in a fraudulent hypnotic suggestion mail-order
+            scheme, of which this text was a part (New York Tribune, pages 18 &amp; 11).</p>
+
+         <p>When transcribing and editing this text, we chose to keep the text as close to the
+            original as possible, except for some visual aspects that don’t affect the reading of
+            the text (such as omitting specific line breaks and page breaks). We did not update
+            spellings, vocabulary, or other textual parts of the book.</p>
+      </front>
       <body>
          <div type="introduction">
-            <head><emph rend="bold"><title type="book">SUGGESTIONS AND DIRECTIONS FOR THE STUDY OF
-                     PERSONAL MAGNETISM AND HYPNOTISM.</title></emph> By <name type="person">X. LA MOTTE SAGE, A.
-                  M., Ph. D., LL. D.</name>, formerly Professor in <name type="place">Pieree College</name>,
-                     <placeName><settlement>Philadelphia</settlement>,
-                  <region>Pa</region></placeName>.</head>
+            <head>
+               <emph rend="bold"><title type="book">SUGGESTIONS AND DIRECTIONS FOR THE STUDY OF
+                     PERSONAL MAGNETISM AND HYPNOTISM.</title></emph>
+               <note n="1" type="editorial">"Personal Magnetism" is in reference to a speaking style
+                  more common during this time, used by people such as politicians for influence
+                     <ref target="#young">(Young)</ref>.</note> By <name type="person">X. LA MOTTE
+                  SAGE, A. M., Ph. D., LL. D.</name>, formerly Professor in <name type="place"
+                  >Pieree College</name>, <placeName><settlement>Philadelphia</settlement>,
+                     <region>Pa</region></placeName>. <note n="2" type="editorial">"X. La Motte
+                  Sage" is an alias used by Neal <ref target="#conroy">(Conroy)</ref>.</note>
+            </head>
             <div type="section">
                <head><emph rend="bold">READ THE INSTRUCTIONS VERY CAREFULLY.</emph></head>
                <p>Be sure that you thoroughly understand just what to do before attempting to
@@ -95,8 +129,11 @@
             </div>
             <div type="section">
                <head><emph rend="bold">THE STUMBLING BLOCK</emph></head>
-               <p>is hypnotizing the first one. Then remember that a good hypnotist might possibly
-                  try ten people and not hypnotize any of' them, because they resist. They may say
+               <p>is hypnotizing the first one. <note n="3" type="editorial">The beginning of this
+                     sentence is a direct transcription, not an error (including the
+                     capitalization). It may be a continuation of the title (though no other
+                     sections do this).</note> Then remember that a good hypnotist might possibly
+                  try ten people and not hypnotize any of them, because they resist. They may say
                   they do not, though they do. With different people the whole ten might be
                   affected. You should make due allowance for this. Should you not meet with the
                   success you anticipate, it will probably be because you do not follow our
@@ -106,7 +143,7 @@
                   you know your A, B, C's, and if you have any determination or perseverance
                   whatever, you cannot possibly make a failure. You are as certain to succeed as one
                   and one are two. After the ice is broken, that is, after you have hypnotized the
-                  first one or two, you will have confidence, and you yourself will be'surprised and
+                  first one or two, you will have confidence, and you yourself will be surprised and
                   mystified at your work.</p>
             </div>
             <div type="section">
@@ -127,19 +164,20 @@
             <div type="section">
                <head><emph rend="bold">CONFIDENCE.</emph></head>
                <p>To be successful in influencing people one must have confidence and perseverance.
-                  A weak, vacillating disposition never accomplishes anything. People will influence
-                  you or you will iiffuence them; it is for you to decide whether you will direct or
-                  be directed, whether you will be a master or a servant. Self-esteem, stubbornness,
-                  and an arrogant, haughty disposition are not the necessary elements with which to
-                  control people.</p>
+                  A weak, vacillating <note n="4" type="editorial">(always changing)</note>
+                  disposition never accomplishes anything. People will influence you or you will
+                  influence them; it is for you to decide whether you will direct or be directed,
+                  whether you will be a master or a servant. Self-esteem, stubbornness, and an
+                  arrogant, haughty disposition are not the necessary elements with which to control
+                  people.</p>
             </div>
             <div type="section">
                <head><emph rend="bold">INBORN POWER.</emph></head>
                <p>There is a subtle, unseen force by which people are influenced, and the minds of
-                  the multitude swayed. This secret power may ,be acquired by everyone who is
-                  willing to take the time and trouble to develop it. An all-wise Creator has not
-                  given it to the few, it is inborn in every person, and it is only necessary for
-                  one to put forth a proper effort to achieve the success which God intended.</p>
+                  the multitude swayed. This secret power may be acquired by everyone who is willing
+                  to take the time and trouble to develop it. An all-wise Creator has not given it
+                  to the few, it is inborn in every person, and it is only necessary for one to put
+                  forth a proper effort to achieve the success which God intended.</p>
             </div>
             <div type="section">
                <head><emph rend="bold">PERSONAL INFLUENCE.</emph></head>
@@ -149,7 +187,7 @@
                   will hereafter occupy; it matters not what your other capabilities or intellectual
                   attainments are, if you lack the power and ability to influence people you will
                   never achieve your full measure of success.</p>
-               <p>If you master the sciences 'of personal magnetism and hypnotism you will have a
+               <p>If you master the sciences of personal magnetism and hypnotism you will have a
                   thorough knowledge of the philosophy of personal influence, of the laws by which
                   the human mind is molded and swayed, of that intangible and subtle power which
                   controls where bayonets fail.</p>
@@ -167,7 +205,8 @@
          </div>
 
          <div type="part">
-            <head><emph rend="bold">HOW TO HYPNOTIZE</emph> By <name type="person">L. E. KASSEALL.</name></head>
+            <head><emph rend="bold">HOW TO HYPNOTIZE</emph> By <name type="person">L. E.
+                  KASSEALL.</name></head>
             <p>In this article I shall give the student my three favorite methods of producing
                hypnosis, and in doing so I shall endeavor to explain the methods so that the student
                may learn just how to hypnotize and mesmerize.</p>
@@ -232,17 +271,18 @@
             <div type="section">
                <head><emph rend="bold">METHOD NO. 3.</emph></head>
                <p><emph rend="bold">METHOD NO. 3.</emph></p>
-               <p>Have the subject lie down on a couch or bed, tell him to close his eyes, think of
-                  sleep and relax all of his muscles. Tell him to try to give up the suggestions
-                  which you are about to make. Have the arms lying straight down from the sides. You
-                  should place the three fingers of both hands in the center of the forehead, making
-                  a pass with both hands at the same time from the forehead down over the temples to
-                  and off the cheek bones to the shoulders, then on down over the arms, and off the
-                  tips of the subject's fingers. The pressure should be very light. This pass should
-                  be made slowly, and at the same time, you should suggest, "You are becoming
-                  drowsy—everything is getting dark to you—you are so tired and sleepy—you cannot
-                  hear sound but my voice—when I count ten you will be sound asleep.
-                  One-two-three-four-five-six-seven-eight-nine-ten."</p>
+               <p>Have the subject lie down on a couch or bed <note n="5" type="editorial">From the
+                     picture, they should lie down face-up.</note>, tell him to close his eyes,
+                  think of sleep and relax all of his muscles. Tell him to try to give up the
+                  suggestions which you are about to make. Have the arms lying straight down from
+                  the sides. You should place the three fingers of both hands in the center of the
+                  forehead, making a pass with both hands at the same time from the forehead down
+                  over the temples to and off the cheek bones to the shoulders, then on down over
+                  the arms, and off the tips of the subject's fingers. The pressure should be very
+                  light. This pass should be made slowly, and at the same time, you should suggest,
+                  "You are becoming drowsy—everything is getting dark to you—you are so tired and
+                  sleepy—you cannot hear sound but my voice—when I count ten you will be sound
+                  asleep. One-two-three-four-five-six-seven-eight-nine-ten."</p>
                <p>The passes should be made for fifteen or twenty minutes. The subject is then ready
                   to receive the suggestions you wish to give him. At the end of each pass, your
                   hands should close, coming back in a circle, and the fingers should not open until
@@ -273,5 +313,65 @@
             </div>
          </div>
       </body>
+      <back>
+         <div type="bibliography">
+            <listBibl>
+               <bibl xml:id="neal_clark">
+                  <title type="book">HYPNOTISM AND HYPNOTIC SUGGESTION</title>
+                  <title type="subordinate">A SCIENTIFIC TREATISE OF THE USES AND POSSIBILITIES OF
+                     HYPNOTISM, SUGGESTION AND ALLIED PHENOMENA.</title>
+                  <editor>
+                     <name>E. VIRGIL NEAL, A. M., LL. D.</name>
+                     <name>CHARLES S. CLARK, M.A.</name>
+                  </editor>
+                  <publisher>New York State Publishing Company</publisher>
+                  <pubPlace>Rochester, NY</pubPlace>
+                  <idno type="lc">BD 1121 H6 1900 pt.1. pt.4</idno>
+               </bibl>
+
+               <bibl xml:id="loc_hypnotism">
+                  <title type="main">Hypnotism: Topics in Chronicling America</title>
+                  <publisher>Library of Congress (LoC)</publisher>
+                  <ref>https://guides.loc.gov/chronicling-america-hypnotism</ref>
+               </bibl>
+
+               <bibl xml:id="kook">
+                  <title>New York Institute of Science</title>
+                  <publisher>Kook Science</publisher>
+                  <ref>https://hatch.kookscience.com/wiki/New_York_Institute_of_Science</ref>
+               </bibl>
+
+               <bibl xml:id="loc_nytribune">
+                  <title>New York Tribune</title>
+                  <date when="1918-06-23">1918-06-23</date>
+                  <pubPlace>New York, N.Y.</pubPlace>
+                  <publisher>Library of Congress</publisher>
+                  <publisher>Chronicling America: Historic American Newspapers</publisher>
+                  <ref>https://chroniclingamerica.loc.gov/lccn/sn83030214/1918-06-23/ed-1/seq-18/</ref>
+                  <ref>https://chroniclingamerica.loc.gov/lccn/sn83030214/1918-06-23/ed-1/seq-11/</ref>
+               </bibl>
+
+               <bibl xml:id="conroy">
+                  <title type="book">The cosmetics baron you've never heard of: E. Virgil Neal and
+                     Tokalon</title>
+                  <edition>Third Edition</edition>
+                  <author>
+                     <name type="person">Mary Schaeffer Conroy</name>
+                  </author>
+                  <ref>https://archive.org/details/cosmeticsbaronyo0000conr</ref>
+               </bibl>
+
+               <bibl xml:id="young">
+                  <title>Guest Post: Jeremy C. Young, “James Rush and the Invention of Personal
+                     Magnetism”</title>
+                  <author>
+                     <name type="person">Jeremy C. Young</name>
+                  </author>
+                  <publisher>The Junto</publisher>
+                  <ref>https://earlyamericanists.com/2017/01/16/guest-post-jeremy-c-young-james-rush-and-the-invention-of-personal-magnetism/</ref>
+               </bibl>
+            </listBibl>
+         </div>
+      </back>
    </text>
 </TEI>
