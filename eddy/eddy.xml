@@ -8,9 +8,11 @@
          <titleStmt>
             <title>Poems</title>
             <author>Mary Baker Eddy</author>
+            <editor>Emma Hong</editor>
+            <editor>Annie Melnick</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>This transcription of Poems was created as our final project submission for Professor Turnovsky's TXTDS 404 course, "Texts, Publics and Publication" at the University of Washington. Poems was chosen amongst various texts provided by the UW Libraries' Special Collections department. Our intention with this transcription was to preserve the content of Eddy's poetry, and provide through our poem selections and annotations a curated understanding of Eddy's beliefs and life. The literary content of the poems and historical period of time they were written in were a central focus in our transcription efforts. </p>
          </publicationStmt>
          <sourceDesc>
             <p>Information about the source</p>
@@ -18,6 +20,9 @@
       </fileDesc>
    </teiHeader>
    <text>
+      <front>
+         <p>Editorial introduction here.</p>
+      </front>
       <body>
          <p>Some text here.</p>
       </body>
