@@ -44,6 +44,7 @@
    </teiHeader>
    <text>
       <front>
+         <!-- GT: put the 2 intro paragraphs into a single <div type="intro">. That brings it together -->
          <p>A great way to engage in and learn much about a historical period can come from cuisine
             and the foods people used to prepare and eat. The Ladies’ Aid Society cook book was
             published by the Vincent Methodist Episcopal Church in Spokane, WA, in 1915. It is an
@@ -485,6 +486,7 @@
                </div>
             </div>
          </div>
+         <!-- GT: not sure what's going on with these empty <div>s. you can get right of all of them. -->
          <div/>
          <div/>
          <div/>
