@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jasper N. Bertram Papers</title>
+            <author>Various Authors</author>
+            <editor>Jules Lockett, Sofia Posada, Nic Staley</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>While these documents represent a small fraction of the materials present within
+               archive of Jasper N. Bertram, we hope to attach this TEI encoding to the archival
+               record so that it may aid in distribution and availability of these materials
+               digitally.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p> The Jasper N. Bertram papers are a collection of letters that include personal
+               correspondence, business correspondence, and newspaper clippings. The material
+               transcribed in this edition is a sample from those three categories, including
+               handwritten letters, typewritten correspondences, and newspaper clippings. <bibl>
+                  <title>Jasper N. Bertram Papers</title>
+                  <author>Various</author>
+                  <publisher>Personal archives, unpublished</publisher>
+                  <date>Early 1900's: 1902-1909</date>
+                  <idno type="Accession_No">4215-001</idno>
+                  <idno type="box_#">3 of 7</idno>
+                  <idno type="folder_#">3-2 "General Correspondance"</idno>
+               </bibl>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <normalization>
+               <p>In an effort to preserve authorial intent of manuscript documents, we have chosen
+                  to leave all spelling and grammatical errors unedited. This choice was made in
+                  order for our edition to reflect authorial voices of the various persons
+                  represented in this collection, and the time period in which the documents were
+                  written.</p>
+            </normalization>
+            <punctuation>
+               <p>Some letters contain no punctuation. No corrections were made to preserve
+                  authorial voice.</p>
+            </punctuation>
+            <correction>
+               <p>Errors were left unedited; any misspellings or odd capitalizations that appear in
+                  the text were directly from the source. Places where text is unidentifiable will
+                  be marked &lt;gap/&gt;</p>
+            </correction>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <titlePage>
+            <titlePart>...</titlePart>
+         </titlePage>
+         <div type="editorial_intro">
+            <p>The present documents reflect a small sample of the corpus known as the Jasper N.
+               Bertram papers. These papers contain an eclectic mix of letters, newspaper clippings,
+               business documents, greeting cards, pamphlets, personal correspondences, and notes.
+               The documents are printed, typewritten, and handwritten; some contain a mix of text
+               types. The archive within the University of Washington Special Collections provides a
+               brief <ref type="note" target="#n1">biographical overview</ref> of Jasper N.
+               Bertram's life.</p>
+            <p>While these documents represent a small fraction of the materials present within the
+               archive of Jasper N. Bertram, we hope to attach this TEI encoding to the archival
+               record so that it may aid in distribution and availability of these materials
+               digitally. The duration of Jasper N. Bertram's life encompasses a critical time in
+               our nation's history, from the Civil War, through the Industrial Revolution and the
+               First World War, to his death during the Roaring Twenties. The chosen documents
+               provide readers with a unique historical perspective of an individual with interests
+               rooted in Seattle and beyond.</p>
+            <p>In an effort to preserve authorial intent of manuscript documents, we have chosen to
+               leave all spelling and grammatical errors unedited. This choice was made in order for
+               our edition to reflect authorial voices of the various persons represented in this
+               collection, and the time period in which the documents were written. The excerpts
+               chosen represent the interests of the editors while also serving to present a sample
+               of multiple document types found throughout the collection.</p>
+         </div>
+      </front>
+      <body>
+         <p>Main text.<ref type="note" target="#n2">John C. Winston Company</ref>.</p>
+      </body>
+      <back>
+         <div type="endnotes">
+            <note xml:id="n1">"Jasper N. Bertram (1840-1928) was born in Wayne, Kentucky. He
+               enlisted in the Civil War with the Kentucky Volunteers, 9th Regiment, 3rd Division,
+               1862-1864. He married Mary Ann Garrett on January 1, 1866, in Overton, Tennessee and
+               they had five children. He was listed as a school teacher in Kentucky in 1873 and a
+               Republican Party worker in 1882 in the 3rd Congressional District. After his first
+               wife died in 1888, he moved to Seattle where he was district manager and salesman. He
+               married Mary Huselby in 1896. He died on July 1, 1928 in Seattle, Washington." <ref
+                  type="biblio" target="#source1">See source 1</ref>.</note>
+            <note xml:id="n2">"Philedelphia book publisher, 1884 to 1960, original specialty
+               Bibles." <ref type="biblio" target="#source2">See source 2</ref>.</note>
+            <note xml:id="n3"> Chelan county is located in central Washington <ref type="biblio"
+                  target="#source3">See source 3</ref></note>
+            <note xml:id="n4">Lakeside an unincorporated community located in Chelan County <ref
+                  type="biblio" target="#source4">See source 3</ref></note>
+            <note xml:id="n5">Diphtheria is a bacterial respiratory illness that primarily affects
+               children under 5. The disease was considered highly contagious and deadly during its
+               height, at the end of the 19th and beginning of the 20th century. Before the first
+               vaccine was created in the 1890s, 1 out of 10 children infected by the disease died.
+               Although, the vaccine was not widely distributed until the 1920s. <ref type="biblio"
+                  target="#source5">See source 5</ref></note>
+            <note xml:id="n6">JB Cralle &amp; Co were claim and pension attorneys. Their firm was
+               located in Washington DC.<ref type="biblio" target="#source6"/>See source 6</note>
+         </div>
+         <div type="bibliography">
+            <listBibl>
+               <bibl xml:id="source1">
+                  <title>Jasper N. Bertram papers</title>
+                  <ref target="https://archiveswest.orbiscascade.org/ark:/80444/xv10931"/>
+               </bibl>
+               <bibl xml:id="source2">
+                  <title>John C. Winston Company</title>
+                  <ref target="https://www.wikidata.org/wiki/Q21808712"/>
+               </bibl>
+               <bibl xml:id="source3">
+                  <title>Chelan County</title>
+                  <ref target="https://www.co.chelan.wa.us/"/>
+               </bibl>
+               <bibl xml:id="source4">
+                  <title>Lakeside</title>
+                  <ref
+                     target="https://edits.nationalmap.gov/apps/gaz-domestic/public/search/names/1521865"
+                  />
+               </bibl>
+               <bibl xml:id="source5">
+                  <title>Diphtheria</title>
+                  <ref
+                     target="https://artsci.case.edu/dittrick/2014/04/29/deadly-diphtheria-the-childrens-plague/"
+                  />
+               </bibl>
+               <bibl xml:id="source6">
+                  <title>JB Cralle &amp; Co</title>
+                  <ref
+                     target="https://www.nps.gov/common/uploads/teachers/lessonplans/General%20Affadavit%201905.pdf"
+                  /></bibl>
+            </listBibl>
+         </div>
+      </back>
+   </text>
+</TEI>

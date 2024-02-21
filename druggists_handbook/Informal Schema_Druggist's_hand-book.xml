@@ -27,7 +27,14 @@
             <div type="section" n="1.1">
                <head rend="cap">sachet powders</head>
                <pb n="100"/>
-
+               
+               <!-- GT: Just looking at the structure here, a couple of things:
+               1. I think you want another <div> here just enclosing each separate numbered recipe, so from "293" to the next number.
+               You can give this <div n="1.1.1">...
+               2. the "293" and "frangipanni sachet" look to me like headings for this section #293. I would use <head> for both.
+               Or depending on how you want to do it, you could have a single <head> and use @n for 293:
+               <head n="293">Frangipanni sachet</head>. Either way... -->
+               
                <p n="1.1.1"> 293 </p>
                <p rend="cap">frangipanni sachet.</p>
                <list>
@@ -43,6 +50,7 @@
                         drops</measure></item>
                </list>
                <p>Mix them in a mortar very thoroughly.</p>
+               <!-- GT: You don't need this linebreak... <p> implies a line-break -->
                <lb/>
                <p n="1.1.2">294</p>
                <p rend="cap">heliotrope sachet</p>
@@ -119,6 +127,8 @@
 
       <back>
          <div type="endnotes">
+            <!-- GT: good... There are benefits to using enumerating xml:id's for notes, eg. n1, n2, n3... 
+               Just in case you might want to cycle or loop through them -->
             <note xml:id="GroundSandalwood">a widely cultivated Indian tree that yields fragrant
                timber and oil, freely available</note>
          </div>
