@@ -79,7 +79,11 @@
             personal magnetism, only operated from 1899 until 1912, because it was shut down by the
             U.S. government (New York Tribune, pages 18 &amp; 11). According to the 1913 indictment,
             the co-editors and Adkin had collaborated in a fraudulent hypnotic suggestion mail-order
-            scheme, of which this text was a part (New York Tribune, pages 18 &amp; 11).</p>
+            scheme, of which this text was a part (New York Tribune, pages 18 &amp; 11). Given this,
+            we hope readers can read this edition for entertainment purposes, but not for
+            educational purposes. With its fraudulent nature, this edition can be used by students
+            to learn more about a "scam" during this time period, or to use the activities in the
+            text for fun.</p>
 
          <p>When transcribing and editing this text, we chose to keep the text as close to the
             original as possible, except for some visual aspects that don’t affect the reading of
@@ -354,6 +358,7 @@
                <bibl xml:id="conroy">
                   <title type="book">The cosmetics baron you've never heard of: E. Virgil Neal and
                      Tokalon</title>
+                  <date when="1937">1937</date>
                   <edition>Third Edition</edition>
                   <author>
                      <name type="person">Mary Schaeffer Conroy</name>
@@ -364,6 +369,7 @@
                <bibl xml:id="young">
                   <title>Guest Post: Jeremy C. Young, “James Rush and the Invention of Personal
                      Magnetism”</title>
+                  <date when="2017-01-16">2017-01-16</date>
                   <author>
                      <name type="person">Jeremy C. Young</name>
                   </author>
