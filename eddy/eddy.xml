@@ -21,6 +21,7 @@
    </teiHeader>
    <text>
       <front>
+         <!-- GT: bring the two paragraphs in your editorial into together into a single <div type="editorial_intro"> or whatever you want to call it -->
          <p>Mary Baker Eddy’s Poems is a collection of poetry written by Eddy during the course of her life, dated from childhood through her last years. As editors, we found this text notable because we wanted to contextualize Eddy’s poems by researching additional historical and biographical information, therefore deriving and providing more meaning from her work. An aspect of note is that there are varying levels of context provided for each poem. Only a portion of Eddy’s poems have footnotes listing the year and location the work was written. With the help of additional biographical information, we are able to piece together additional context. But many of the poems do not have that level of specificity. Some only list the year or time period in which it was written; many do not provide footnotes at all. This gives us a significant challenge when it comes to contextualizing Eddy’s poems.</p>
 	 <p>The goal of our project is twofold. The first is to attempt to contextualize some of Eddy’s poems based on clues, seeing if we could utilize stylistic and thematic elements to provide our best guess as to when and where the poem was written. In addition, for the poems with identifying information, we are going to provide annotations with facts about Eddy’s life during the time it was written. Our second goal is to share which poems stood out to us. Our edition only contains ten poems, and we picked our favorites to feature. This could give insight as to which of Eddy’s poems continue to be impactive in the twenty-first century.</p>
       </front>
@@ -28,8 +29,13 @@
          <p>Some text here.</p>
       </body>
    </text>
+   <!-- GT: excellent work on everything below -->
    <standOff>
+      <!-- GT: this is a great way to do the notes. It changes their status, in a way: they're separate from the text rather than part of the text.
+         Everything in <standOff> is considered like an associated database or appendix... -->
       <listAnnotation>
+         <!-- GT: normally you'd give notes enumerating XML:ids, as in n1, n2, n3, etc... I think that's because you might want
+            at some point to cycle or loop through them: maybe you want to represent them as numbered end notes...-->
          <annotation xml:id="ice_fall" target="editorial_stmt" motivation="commenting">
             <note>
                In 1866, Mary experienced an injurous fall in Lynn Massachusetts, having slipped on a patch of ice. The treatment of this injury involved morphine doses, which Mary continued taking through the end of her life. The fall marked a moment of spiritual revelation for Eddy, who attributed her recovery to teachings from the Bible and subsequently delved further into spititualism and the foundation of Christian Science.
@@ -55,10 +61,13 @@
                Two-syllable feet include Iambs (unstressed / stressed), Trochee (stressed / unstressed), and Spondee (stressed / stressed). Three-syllable feet include Anapests (unstressed / unstressed / stressed) and Dactyls (stressed / unstressed / unstressed). 
             </note>
             <!-- Annotations will be marked with xml:id references and bibliographic information, but first need to figure out what tags can be used for such purposes -->
+            <!-- GT: I'm not sure if this is what you're looking for here, but you can use <ref> or <ptr/> to point to the bilbiographic entries below -->
          </annotation>
       </listAnnotation>
       <listBibl>
-         <bibl type="article" xml:id="source1">
+         <!-- GT: by contrast, it's more conventional to give <bibl> entries more evocative xml:id's. Like using the authors name or a short title:
+            xml:id="chronology_events".-->
+          <bibl type="article" xml:id="source1">
             “A Chronology of Events Surrounding the Life of Mary Baker Eddy.” The Mary Baker Eddy Library, www.marybakereddylibrary.org/wp-content/uploads/2018/12/Mary_Baker_Eddy_Detailed_Annotated_Chronology_2018-12-10.pdf.  
          </bibl>
          <bibl type="website" xml:id="source2">
@@ -78,6 +87,12 @@
             “The Christian Science Pastor.” Christian Science, www.christianscience.com/the-christian-science-pastor. Accessed 20 Feb. 2024. 
          </bibl>
          <!-- Is this the correct place to host bibliographic information, or in body of the text? -->
+         <!-- GT: it validates! Normally you'd put notes and bibliography in the <back> of your <text>, in which case they're considered part of the text.
+            Like endnotes and bibliographies in a printed book you'd buy. <standOff> is a (newer) more database oriented approach, where the notes/bibliographies exist 
+             separately: outside and alongside the text. For <listPerson>, <listPlace> and <listEvent>, this is more common. But TEI and digital encoding is a chance to
+             rethink the print models, so if you prefer this organization, that's fine with me. I think it's a terrific experiment with these
+             editorial models. -->
+         
       </listBibl>
       <listPerson>
          <person xml:id="mary_baker">
@@ -96,6 +111,8 @@
                <forename>Mary</forename>
                <surname>Glover</surname>
             </persName>
+            <!-- GT: is this an age range? You could just provide the birth date/year of each person. Use <birth>: https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-birth.html
+            Then, when you have a given date, you can just figure out the age at the time -->
             <age>
                22-31
             </age>
