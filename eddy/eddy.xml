@@ -12,7 +12,7 @@
             <editor>Annie Melnick</editor>
          </titleStmt>
          <publicationStmt>
-            <p>This transcription of Poems was created as our final project submission for Professor Turnovsky's TXTDS 404 course, "Texts, Publics and Publication" at the University of Washington. Poems was chosen amongst various texts provided by the UW Libraries' Special Collections department. Our intention with this transcription was to preserve the content of Eddy's poetry, and provide through our poem selections and annotations a curated understanding of Eddy's beliefs and life. The literary content of the poems and historical period of time they were written in were a central focus in our transcription efforts. </p>
+            <p>This transcription of "Poems" was created as our final project submission for Professor Turnovsky's TXTDS 404 course, "Texts, Publics and Publication" at the University of Washington. Poems was chosen amongst various texts provided by the UW Libraries' Special Collections department. Our intention with this transcription was to preserve the content of Eddy's poetry, and provide through our poem selections and annotations a curated understanding of Eddy's beliefs and life. The literary content of the poems and historical period of time they were written in were a central focus in our transcription efforts. </p>
          </publicationStmt>
          <sourceDesc>
             <p>Information about the source</p>
@@ -21,10 +21,179 @@
    </teiHeader>
    <text>
       <front>
-         <p>Editorial introduction here.</p>
+         <!-- GT: bring the two paragraphs in your editorial into together into a single <div type="editorial_intro"> or whatever you want to call it -->
+         <p>Mary Baker Eddy’s Poems is a collection of poetry written by Eddy during the course of her life, dated from childhood through her last years. As editors, we found this text notable because we wanted to contextualize Eddy’s poems by researching additional historical and biographical information, therefore deriving and providing more meaning from her work. An aspect of note is that there are varying levels of context provided for each poem. Only a portion of Eddy’s poems have footnotes listing the year and location the work was written. With the help of additional biographical information, we are able to piece together additional context. But many of the poems do not have that level of specificity. Some only list the year or time period in which it was written; many do not provide footnotes at all. This gives us a significant challenge when it comes to contextualizing Eddy’s poems.</p>
+	 <p>The goal of our project is twofold. The first is to attempt to contextualize some of Eddy’s poems based on clues, seeing if we could utilize stylistic and thematic elements to provide our best guess as to when and where the poem was written. In addition, for the poems with identifying information, we are going to provide annotations with facts about Eddy’s life during the time it was written. Our second goal is to share which poems stood out to us. Our edition only contains ten poems, and we picked our favorites to feature. This could give insight as to which of Eddy’s poems continue to be impactive in the twenty-first century.</p>
       </front>
       <body>
          <p>Some text here.</p>
       </body>
    </text>
+   <!-- GT: excellent work on everything below -->
+   <standOff>
+      <!-- GT: this is a great way to do the notes. It changes their status, in a way: they're separate from the text rather than part of the text.
+         Everything in <standOff> is considered like an associated database or appendix... -->
+      <listAnnotation>
+         <!-- GT: normally you'd give notes enumerating XML:ids, as in n1, n2, n3, etc... I think that's because you might want
+            at some point to cycle or loop through them: maybe you want to represent them as numbered end notes...-->
+         <annotation xml:id="ice_fall" target="editorial_stmt" motivation="commenting">
+            <note>
+               In 1866, Mary experienced an injurous fall in Lynn Massachusetts, having slipped on a patch of ice. The treatment of this injury involved morphine doses, which Mary continued taking through the end of her life. The fall marked a moment of spiritual revelation for Eddy, who attributed her recovery to teachings from the Bible and subsequently delved further into spititualism and the foundation of Christian Science.
+            </note>
+         </annotation>
+         <annotation xml:id="christian_science" target="editorial_stmt" motivation="commenting">
+            <note>
+               Christian Science is the religion founded by Mary Baker Eddy. Its followers believe in healing and transformation through spirituality,  specifically through the doctrines and teachings of the Bible. After experiencing her own accident and divine healing, Mary spread her doctrines through her foundational textbook Christian Science and the Church itself. Founded in 1879, Christian Science is still a religion today.
+            </note>
+         </annotation>
+         <annotation xml:id="science_and_health" target="editorial_stmt" motivation="commenting">
+            <note>
+               Science and Health is the foundation scripture of Christian Science, written by Mary Baker Eddy from 1872-1975. The text is 500 pages long, was published by Christian Science Publishing Co., and is available through the organization's website. Christian Scientists refer to Science and Health alongside the Bible within their sermons, the teachings of both being integral to their religion. 
+            </note>
+         </annotation>
+         <annotation xml:id="line_break" target="poems" motivation="commenting">
+            <note>There are two types of line breaks seen in Mary's poetry. An End-Stop is when a line of poetry ends on a period or natural break in the sentence. An Enjambment is when a sentence continues across multiple poetic lines.
+            </note>
+         </annotation>
+         <annotation xml:id="meter" target="poems" motivation="commenting">
+            <note>
+               Poetic meter refers to the pattern of stressed and unstressed syllables in a line of poetry. Feet contain the repeated pattern of stressed sylablles, and can contain two or three syllables per feet. 
+               Two-syllable feet include Iambs (unstressed / stressed), Trochee (stressed / unstressed), and Spondee (stressed / stressed). Three-syllable feet include Anapests (unstressed / unstressed / stressed) and Dactyls (stressed / unstressed / unstressed). 
+            </note>
+            <!-- Annotations will be marked with xml:id references and bibliographic information, but first need to figure out what tags can be used for such purposes -->
+            <!-- GT: I'm not sure if this is what you're looking for here, but you can use <ref> or <ptr/> to point to the bilbiographic entries below -->
+         </annotation>
+      </listAnnotation>
+      <listBibl>
+         <!-- GT: by contrast, it's more conventional to give <bibl> entries more evocative xml:id's. Like using the authors name or a short title:
+            xml:id="chronology_events".-->
+          <bibl type="article" xml:id="source1">
+            “A Chronology of Events Surrounding the Life of Mary Baker Eddy.” The Mary Baker Eddy Library, www.marybakereddylibrary.org/wp-content/uploads/2018/12/Mary_Baker_Eddy_Detailed_Annotated_Chronology_2018-12-10.pdf.  
+         </bibl>
+         <bibl type="website" xml:id="source2">
+            Glatch, Sean. “12 Literary Devices in Poetry: Identifying Poetic Devices.” Writers.Com, 16 June 2023, writers.com/literary-devices-in-poetry. 
+         </bibl>
+         <bibl type="article" xml:id="source3">
+            Gottschalk, Stephen. "Mary Baker Eddy". Encyclopedia Britannica, 29 Nov. 2023, https://www.britannica.com/biography/Mary-Baker-Eddy. Accessed 20 February 2024.
+         </bibl>
+         <bibl type="article" xml:id="source4">
+            “Mary Baker Eddy.” Wikipedia, Wikimedia Foundation,  en.wikipedia.org/wiki/Mary_Baker_Eddy#CITEREFSilberger1980. 
+            <!-- Used for basic information, looking into sources cited through the article -->
+         </bibl>
+         <bibl type="article" xml:id="source5">
+            “Mary Baker Eddy - Deep Read.” Mary Baker Eddy Library, 17 Feb. 2022, www.marybakereddylibrary.org/mary-baker-eddy/mary-baker-eddy-deep-read/. 
+         </bibl>
+         <bibl type="website" xml:id="source6">
+            “The Christian Science Pastor.” Christian Science, www.christianscience.com/the-christian-science-pastor. Accessed 20 Feb. 2024. 
+         </bibl>
+         <!-- Is this the correct place to host bibliographic information, or in body of the text? -->
+         <!-- GT: it validates! Normally you'd put notes and bibliography in the <back> of your <text>, in which case they're considered part of the text.
+            Like endnotes and bibliographies in a printed book you'd buy. <standOff> is a (newer) more database oriented approach, where the notes/bibliographies exist 
+             separately: outside and alongside the text. For <listPerson>, <listPlace> and <listEvent>, this is more common. But TEI and digital encoding is a chance to
+             rethink the print models, so if you prefer this organization, that's fine with me. I think it's a terrific experiment with these
+             editorial models. -->
+         
+      </listBibl>
+      <listPerson>
+         <person xml:id="mary_baker">
+            <persName>
+               <forename>Mary</forename>
+               <surname>Baker</surname>
+            </persName>
+            <age>
+               0-21
+            </age>
+            <residence>Bow</residence>
+            <residence>Sanborton Bridge</residence>
+         </person>
+         <person xml:id="mary_glover">
+            <persName>
+               <forename>Mary</forename>
+               <surname>Glover</surname>
+            </persName>
+            <!-- GT: is this an age range? You could just provide the birth date/year of each person. Use <birth>: https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-birth.html
+            Then, when you have a given date, you can just figure out the age at the time -->
+            <age>
+               22-31
+            </age>
+            <residence>Charleston</residence>
+         </person>
+         <person xml:id="mary_patterson">
+            <persName>
+               <forename>Mary</forename>
+               <surname>Patterson</surname>
+            </persName>
+            <age>
+               32-51
+            </age>
+         </person>
+         <person xml:id="mary_eddy">
+            <persName>
+               <forename>Mary</forename>
+               <surname>Eddy</surname>
+            </persName>
+            <age>
+               56-89
+            </age>
+         </person>
+         <!-- Add: Mary's family (father, mother, brother who died); Mary's husbands (George Glover, Daniel Patterson, Asa Eddy); Mary's son (George Glover II); Phineas Quimby) -->
+      </listPerson>
+      <listPlace>
+         <place xml:id="Bow">
+            <placeName>
+               <settlement type="town">Bow</settlement>
+               <region type="state">New Hampshire</region>
+            </placeName>
+         </place>
+         <place xml:id="Sanbornton">
+            <placeName>
+               <settlement type="town">Sanbornton Bridge</settlement>
+               <region type="state">New Hampshire</region>
+            </placeName>
+         </place>
+         <place xml:id="Charleston">
+            <placeName>
+               <settlement type="town">Charleston</settlement>
+               <region type="state">South Carolina</region>
+            </placeName>
+         </place>
+         <place xml:id="Portland">
+            <placeName>
+               <settlement type="town">Portland</settlement>
+               <region type="state">Maine</region>
+            </placeName>
+         </place>
+         <place xml:id="Lynn">
+            <placeName>
+               <settlement type="town">Lynn</settlement>
+               <region type="state">Massachusetts</region>
+            </placeName>
+         </place>
+         <place xml:id="Newton">
+            <placeName>
+               <settlement type="town">Newton</settlement>
+               <region type="state">Massachusetts</region>
+            </placeName>
+         </place>
+         <place xml:id="Boston">
+            <placeName>
+               <settlement type="town">Boston</settlement>
+               <region type="state">Massachusetts</region>
+            </placeName>
+         </place>
+         <place xml:id="Concord">
+            <placeName>
+               <settlement type="town">Concord</settlement>
+               <region type="state">New Hampshire</region>
+            </placeName>
+         </place>
+         <!-- Consider more specific information to add to places, such as residences, geographic location -->
+      </listPlace>
+      <listEvent>
+         <event xml:id="birthday" when="1821-07-16">
+            <label>birthday</label>
+         </event>
+         <!-- Add more important dates: death of relatives, separation from husbands, birth of her son, foundation of Christian Science, publication of Science and Health, fall on the ice, death -->
+      </listEvent>
+   </standOff>
 </TEI>

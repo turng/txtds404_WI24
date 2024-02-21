@@ -43,14 +43,43 @@
       </fileDesc>
    </teiHeader>
    <text>
+      <front>
+         <!-- GT: put the 2 intro paragraphs into a single <div type="intro">. That brings it together -->
+         <p>A great way to engage in and learn much about a historical period can come from cuisine
+            and the foods people used to prepare and eat. The Ladies’ Aid Society cook book was
+            published by the Vincent Methodist Episcopal Church in Spokane, WA, in 1915. It is an
+            interesting text because this is not only a cookbook but also a kind of guidebook for
+            homemakers of the time. It is an instructional text divided into sections one might find
+            in a typical cookbook, such as Soups, Fish, Meats, Vegetables, Bread, Relishes, Salads,
+            Pies, Cakes, Puddings, tables of weights and measure, and Candies. An unnamed section
+            also contains recipes for household fluids like library paste. At the end of some of
+            these recipes, there is a name of a person who contributed the recipe to the cookbook.
+            The original copy also contains full-page advertisements on every other page, akin to
+            what is seen in Victorian serials, with advertisements promoting products and businesses
+            of the local community.</p>
+         <p>We created a digital version of this text because we believe anyone interested in
+            cuisine, food, and the history of the early 20th century would be curious about this
+            text and to bring about a new appreciation for this unique text from the Special
+            Collections of the University of Washington Library. If anyone wants to know how food
+            played a role in the history and culture of the time, they would be interested in this
+            book. Because the original text is so modern and sparse, special care was put into
+            transcribing the text presented here as diplomatically as possible. This edition was
+            created to provide historical recipes for readers for various purposes, be it a study of
+            ingredients available, the culinary culture of the early 20th century, or kitchen
+            technology. Even though the text has full-page advertisements on every other page, these
+            have been omitted from our edition, as we felt that they were extraneous information and
+            rather that the effort should be put into including as many recipes as possible.</p>
+      </front>
       <body>
          <div type="section" n="Handwritten notes">
             <p>Beets. sugar. milk. nuts. oranges. lemons. butter. eggs. meat. candy.</p>
             <p>Sift baking powder in flour 5 tablespoons melted butter 1 coffee cup sugar creamed
                together 2 eggs nutmeg to taste 3 teaspoons baking powder heaping 2 coffee cups milk
                added Eggs + sugar + butter About 2 quarts flour added almost at once</p>
-            <note>this section is hand written later and is not an official part of the text</note>
+            <note>this section is hand written addition, and is not an official part of the printed
+               text</note>
             <note>the list is likley a shopping list</note>
+            <note>im adding something here to test the push. please edit out later</note>
          </div>
          <div type="section" n="Soups">
             <div type="recipe">
@@ -77,12 +106,14 @@
                   turnip, some dried celery or fresh, 8 good sized potatoes. Boil all at least 1
                   hour and then run through colander and serve with bread croutons.</p>
                <p><name type="person" ref="#John_R._Corkery">—Mrs. John R. Corkery.</name></p>
+               <note>The "10-cent shin bone" is likley just a refrence to the expected price of the
+                  ingredient.</note>
             </div>
             <div type="recipe">
                <head rend="bold">SHRIMP SOUP.</head>
                <p>Scald 1 quart milk in double boiler. Add 1 tablespoonful flour, 1 yolk egg mixed
-                  with a little milk. When cooked and ready to serve add 1 cup minced shrimps,
-                  1tablespoon grated cheese, white 1 egg whipped, salt and pepper to taste.</p>
+                  with a little milk. When cooked and ready to serve add 1 cup minced shrimps, 1
+                  tablespoon grated cheese, white 1 egg whipped, salt and pepper to taste.</p>
                <p><name type="person" ref="#McCreary">—Mrs. McCreary.</name></p>
             </div>
          </div>
@@ -127,9 +158,9 @@
                   sausage and cut each link apart; roll our dough ¼ inch thick and cut in pieces;
                   put one link of sausage in dough and cover all of sausage. Bake in oven, as
                   biscuits. Do not place many in a pan, as they rise. Enough for 6 persons.</p>
-               <note>In our transcription, we plan to note how we found Pigs in a Blanket in the
-                  Fish section of this cook. We can mention how it may have been a publishing
-                  mistake and was probably meant for the Meats section</note>
+               <note>Again, this section is transcribed diplomatically. This recipe is misplaced in
+                  the Fish sction of the origional document, an editorial mistake as it was likley
+                  meant to be placed in the proceeding Meats section.</note>
             </div>
          </div>
          <div type="section" n="Meats">
@@ -199,7 +230,7 @@
                   <p><name type="person" ref="#Glen_Powell">—Mrs. Glen Powell</name></p>
                </div>
                <div type="recipe">
-                  <head rend="bold">STUFFED PEPPERS(MEXICAN STYLE.</head>
+                  <head rend="bold">STUFFED PEPPERS(MEXICAN STYLE).</head>
                   <p>Parboil peppers from which seeds have been removed, stuff with cold minced meat
                      and bread crumbs, to which add a few raisins; dot the top with butter and bake
                      half an hour.</p>
@@ -232,6 +263,9 @@
                   <p>Cheese Biscuit may be made by substituting grated cheese for dates in above
                      recipe, and are delicious.</p>
                   <p><name type="person" ref="#E._F._Waggoner.">-Mrs. E. F. Waggoner.</name></p>
+                  <note>A "Parker House roll" is a variety of bread roll made by rolling the dough
+                     into an oval shape and then folding them in half. They were invented at the
+                     Parker House Hotel in Boston in the 1870s.</note>
                </div>
                <div type="recipe">
                   <head rend="bold">>BROWN BREAD</head>
@@ -263,6 +297,12 @@
                      until tender, then add 8 lbs. sugar, juice of 4 lemons and boil at least 1 hour
                      longer.</p>
                   <p><name type="person" ref="#M._K.">–M. K.</name></p>
+                  <note>Interestingly, this is the only submission with a name that does not have a
+                     gendered title. All other recipes submissions with attached names have
+                     explicitly feminine titles such as miss or mrs. This segmentation is to be
+                     expected, as the setting of the early 20th century and only recent urbanization
+                     of Spokane at the time both would have reinforced more tradtional western
+                     gender roles.</note>
                </div>
                <div type="recipe">
                   <head rend="bold">PEACH CONSERVE.</head>
@@ -290,6 +330,8 @@
                      heating and pouring over peaches for 9 days. The last day cork peaches few
                      minutes. Boil down syrup and pour over peaches.</p>
                   <p><name type="person" ref="#A._E._Blake">—Mrs. A. E. Blake.</name></p>
+                  <note>It is unclear whether the term "indian" here is a refrence to the country in
+                     southern Asia or to the Indigenous peoples of the US.</note>
                </div>
                <div type="recipe">
                   <head rend="bold">GRAPE CONSERVE.</head>
@@ -306,7 +348,7 @@
                   <p>On a lettuce leaf place a ring of pineapple, then a slice of ripe tomato; put
                      on a spoonful or two of mayonnaise dressing and garnish with a salted cherry or
                      stuffed olive.</p>
-                  <p>—Mrs. B. L. Jenkins.</p>
+                  <p><name type="person" ref="Mrs._B._L._Jenkins">-Mrs. B. L. Jenkins.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">POTATO SALAD.</head>
@@ -314,7 +356,7 @@
                      chopped. Mix with this dressing ½ cup sugar, ½ cup vinegar, ½ cup water, 1
                      tablespoon flour, 1 tablespoon butter, 3 ggs. Mix well and cook in double
                      boiler. When cool add cream.</p>
-                  <p>—Mrs. Dana Child.</p>
+                  <p><name type="person" ref="Dana Child">-Mrs. Dana Child.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">SALAD DRESSING FOR TEN PEOPLE.</head>
@@ -326,7 +368,9 @@
                   <head rend="bold">FRUIT SALAD DRESSING.</head>
                   <p>One-fourth cup fruit juice (pineapple)m juice of ½ lemon, ¼ cup sugarm yolks of
                      2 eggs. Cook slowly and cool before serving.</p>
-                  <p>—Mrs. F. H. Quilliam.</p>
+                  <p><name type="person" ref="F._H._Quilliam">-Mrs. F. H. Quilliam</name></p>
+                  <note>The seemingly put of place "m"s are present in the origional text and have
+                     been transcribed here diplomatically</note>
                </div>
                <div type="recipe">
                   <head rend="bold">HOT POTATO SALAD.</head>
@@ -335,7 +379,7 @@
                      sufficient to fill a teacup and fry it a light brown; remove the meat, and into
                      the grease stir 3 tablespoonsful of vinegar, making a sour gravy, which, with
                      the bacon pour over the potato and onion; mix lightly. To be eaten hot.</p>
-                  <p>—Mrs. J. E. Horton.</p>
+                  <p><name type="person" ref="J._E._Horton">-Mrs. J. E. Horton.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">SALAD DRESSING.</head>
@@ -356,14 +400,14 @@
                      cool add the shredded pineapple. Fill crust with this mixture. Uhe the whites
                      of the eggs for meringue, beaten with two (2) tablespoons sugar. Brown lightly
                      in oven. This recipe makes two (2) large pies.</p>
-                  <p>-Mrs. A. M. Johnson.</p>
+                  <p><name type="person" ref="A._M._Johnson">-Mrs. A. M. Johnson.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">WALNUT PIES.</head>
                   <p>Boil together until thick, yolks of 3 eggs, 1 cup sugar, 1 cup milk, 1 heaping
                      teaspoon flour. Let cool and add a cup of chopped walnuts, then turn into baked
                      pie crust, use whites for top.</p>
-                  <p>-Mrs. H. A. Flood.</p>
+                  <p><name type="person" ref="H._A._Flood">-Mrs. H. A. Flood.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">DIVINITY PIES.</head>
@@ -371,7 +415,7 @@
                      whites of eggs; put eggs and sugar into the crust (baked the day before) and
                      bake a short time; let cool, take ½ pint of whipping cream, beat to a stiffness
                      and tdd 2 tablespoons sugar and spread over pie. Flavor to taste.</p>
-                  <p>-Mrs. Glenn Russell.</p>
+                  <p><name type="person" ref="Glenn_Russell">-Mrs. Glenn Russell.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">APPLE CUSTARD PIE.</head>
@@ -399,14 +443,15 @@
                   <p>One-half cup butter, 1 cup sugar, 3 eggs, ½ cup milk, 1¾ cups flour, 3
                      teaspoons baking powder, 1 teaspoon flavoring, ¾ cup of nuts (walnuts or
                      pecans) broken in small pieces Mixin usual manner and bake in small pans.</p>
-                  <p>-Mrs. Chas L. Featherstone.</p>
+                  <p><name type="person" ref="Chas_L._Featherstone">-Mrs. Chas L.
+                        Featherstone.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">DATE CAKE.</head>
                   <p>One pound dates (after stoning), 1 pound English walnut meats, 1 cup flour, 2
                      rounded teaspoons baking powder, ½ teaspoon salt, 1 small cup sugar, 4 eggs
                      beaten separately, teaspoon vanilla. Bake in loaf.</p>
-                  <p>-Mrs. G. W. Paine.</p>
+                  <p><name type="person" ref="G._W._Paine">-Mrs. G. W. Paine.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">DELICIOUS PORK CAKE.</head>
@@ -416,27 +461,77 @@
                      dissolved in boiling water, cloves, cinnamon, nutmeg, to taste. Mix quite stiff
                      with flour and bake for 1¼ hours with a steady fire. Will keep
                      indefinitely.</p>
-                  <p>-Mrs. A. E. Keats.</p>
+                  <p><name type="person" ref="A. _E._Keats">-Mrs. A. E. Keats.</name></p>
+                  <note>At the time of publication, most homes had either a wood stove or a range,
+                     which used natural or coal gas. The "steady fire" mentioned here could be in
+                     refrence to fire in a wood stove, or possibly that the submiter was invisioning
+                     that people would could this over the hearth,, which had only recently gone out
+                     of style.</note>
+                  <note>The citron mentioned here was not a common ingredient, and instead other
+                     citruses like lemons or oranges were commonly used. When citrons are mentioned
+                     though, it is often candied or in sweeter baked goods such as this.</note>
                </div>
                <div type="recipe">
                   <head rend="bold">SPICE CAKE.</head>
                   <p>One egg, 1 cup sugar, ½ cup butter, 1 cup sour milk, 1 teaspoon soda, 2⅔ cups
                      flour, all spices as desired.</p>
-                  <p>-Mrs. Z. Stewart.</p>
+                  <p><name type="person" ref="Z._Stewart">-Mrs. Z. Stewart.</name></p>
                </div>
                <div type="recipe">
                   <head rend="bold">AUNT EMMA'S FRUIT CAKE.</head>
                   <p>One and one-half cups light brown sugar, ⅔ cup butter, 2 eggs, ½ cup sour milk,
                      scant 2½ cups flour, ⅔ cup raisins, ⅔ teaspoon soda, 2 tablespoons cut citron
                      or ¼ cup chopped nuts.</p>
-                  <p>-Mrs. Emma Till.</p>
+                  <p><name type="person" ref="Emma_Till">-Mrs. Emma Till.</name></p>
                </div>
             </div>
          </div>
+         <!-- GT: not sure what's going on with these empty <div>s. you can get right of all of them. -->
          <div/>
          <div/>
          <div/>
          <div/>
       </body>
+      <back>
+         <div type="biliography">
+            <listBibl>
+               <bibl xml:id="Seattle_Times" n="1" type="webpage">
+                  <author>Daniel Newman</author>, <title>A delicious decade: The food of
+                     1910-1920</title>
+                  <publisher>Seattle Times</publisher>
+                  <date>2016</date>
+                  <ref
+                     target="https://www.seattletimes.com/life/food-drink/a-delicious-decade-the-food-of-1910-1920/"
+                  />
+               </bibl>
+               <bibl xml:id="Cookstove_Community" n="2" type="webpage">
+                  <author>Michael Umphrey</author>
+                  <title>Foodways in 1910</title>
+                  <publisher>The Montana Heritage Project</publisher>
+                  <date>2004</date>
+                  <ref target="https://cookstoves.net/articles/cookstove-history/foodways-1910/"/>
+               </bibl>
+               <bibl xml:id="Food_Timeline" n="3" type="digital_book"><author>Frances Stern and
+                     Gertrude Spitz</author>
+                  <title>Food for the Worker</title>
+                  <publisher>Witcomb and Barrows</publisher>
+                  <date>1917</date>
+                  <pubPlace>Boston</pubPlace>
+                  <ref target="https://www.foodtimeline.org/1917prices.pdf"/></bibl>
+               <bibl xml:id="American_Cookery" n="4" type="digital_book"><author>Amelia
+                     Simmons</author>
+                  <title>American Cookery</title>
+                  <publisher>Hudson and Goodwin</publisher>
+                  <pubPlace>Hartford</pubPlace>
+                  <date>1796</date>
+                  <ref target="http://www.fullbooks.com/American-Cookery.html"/>
+               </bibl>
+               <bibl xml:id="Wikipedia" n="5" type="webpage">
+                  <title>Spokane, Washington</title>
+                  <publisher>Wikipedia</publisher>
+                  <date>edited 2024</date></bibl>
+            </listBibl>
+         </div>
+      </back>
    </text>
 </TEI>
