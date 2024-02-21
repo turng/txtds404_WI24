@@ -59,6 +59,8 @@
    </teiHeader>
    <text>
       <front>
+         <!-- GT: ideally, you want to bring all the paragraphs of the intro into a single <div type="editorial_intro">
+            or something similar. -->
          <p>At the turn of the twentieth century, the concept of hypnotism experienced a surge in
             public interest and experimentation from areas such as scientific inquiry,
             entertainment, and therapeutic applications (LoC). The lead editor of this text, E.
@@ -93,6 +95,8 @@
       <body>
          <div type="introduction">
             <head>
+               <!-- GT: technically, these <emph>s should be <hi>s. <emph> refers to rhetorical emphasis.
+                  But here, you're talking about typographic emphasis: using bold face to draw attention to content. Not something emphatic -->
                <emph rend="bold"><title type="book">SUGGESTIONS AND DIRECTIONS FOR THE STUDY OF
                      PERSONAL MAGNETISM AND HYPNOTISM.</title></emph>
                <note n="1" type="editorial">"Personal Magnetism" is in reference to a speaking style
