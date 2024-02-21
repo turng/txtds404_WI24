@@ -59,6 +59,7 @@
            <figure><graphic url="dancing_cherubs.png"/><figDesc>Three cherubs dressed in white robes are dancing in a circle. All three cherubs are wearing hats, and the cherub on the left is carrying a bow and quiver full of arrows while the cherub on the right is standing in front of a bow placed on the ground. Two cherubs are wearing straw hats with blue ribbons, and the middle cherub is wearing a black top hat.></figDesc></figure>
            <figure><graphic url="balcony_women.png"/><figDesc>Three women wearing short-sleeved dresses and bonnets on their heads are standing on a green balcony. Two women are looking to the right, and one woman is facing away from the reader looking over the far edge of the balcony. The woman most far-right is holding bunches of flowers in her apron, and the woman next to her is holding a sprig of flowers above their heads with her right hand and hodling a bouquet of flowers at her side in her left hand. The third woman appears to be holding another bouquet of flowers in her right hand as well.</figDesc></figure>
         </div>
+        <!-- GT: nice job on the title page! -->
         <titlePage>
            <docTitle><titlePart><ref target="#Language">Language of Flowers</ref></titlePart></docTitle>
            <byline>Illustrated by <ref target="#Greenaway">Kate Greenaway</ref></byline>
@@ -99,6 +100,8 @@
             <item>Pennyroyal.....<hi rend="italics">Flee Away.</hi></item>
             <item>Peony.....<hi rend="italics">Shame. Bashfulness.</hi></item>
             <item>Peppermint.....<hi rend="italics">Warmth of feeling.</hi></item>
+            <!-- GT: I mentioned this in my email, but I wonder if the <ref> should only contain the name of the flower
+               if the ref is pointing to a note about the flower? -->
             <item><ref target="#periwinkle">Periwinkle, Blue.....<hi rend="italics">Early Friendship.</hi></ref></item>
             <item>Periwinkle, white.....<hi rend="italics">Pleasures of memory.</hi></item>
             <item>Persicaria.....<hi rend="italics">Restoration.</hi></item>
