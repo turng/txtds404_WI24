@@ -28,6 +28,56 @@
       </body>
    </text>
    <standOff>
+      <listAnnotation>
+         <annotation xml:id="ice_fall" target="editorial_stmt" motivation="commenting">
+            <note>
+               In 1866, Mary experienced an injurous fall in Lynn Massachusetts, having slipped on a patch of ice. The treatment of this injury involved morphine doses, which Mary continued taking through the end of her life. The fall marked a moment of spiritual revelation for Eddy, who attributed her recovery to teachings from the Bible and subsequently delved further into spititualism and the foundation of Christian Science.
+            </note>
+         </annotation>
+         <annotation xml:id="christian_science" target="editorial_stmt" motivation="commenting">
+            <note>
+               Christian Science is the religion founded by Mary Baker Eddy. Its followers believe in healing and transformation through spirituality,  specifically through the doctrines and teachings of the Bible. After experiencing her own accident and divine healing, Mary spread her doctrines through her foundational textbook Christian Science and the Church itself. Founded in 1879, Christian Science is still a religion today.
+            </note>
+         </annotation>
+         <annotation xml:id="science_and_health" target="editorial_stmt" motivation="commenting">
+            <note>
+               Science and Health is the foundation scripture of Christian Science, written by Mary Baker Eddy from 1872-1975. The text is 500 pages long, was published by Christian Science Publishing Co., and is available through the organization's website. Christian Scientists refer to Science and Health alongside the Bible within their sermons, the teachings of both being integral to their religion. 
+            </note>
+         </annotation>
+         <annotation xml:id="line_break" target="poems" motivation="commenting">
+            <note>There are two types of line breaks seen in Mary's poetry. An End-Stop is when a line of poetry ends on a period or natural break in the sentence. An Enjambment is when a sentence continues across multiple poetic lines.
+            </note>
+         </annotation>
+         <annotation xml:id="meter" target="poems" motivation="commenting">
+            <note>
+               Poetic meter refers to the pattern of stressed and unstressed syllables in a line of poetry. Feet contain the repeated pattern of stressed sylablles, and can contain two or three syllables per feet. 
+               Two-syllable feet include Iambs (unstressed / stressed), Trochee (stressed / unstressed), and Spondee (stressed / stressed). Three-syllable feet include Anapests (unstressed / unstressed / stressed) and Dactyls (stressed / unstressed / unstressed). 
+            </note>
+            <!-- Annotations will be marked with xml:id references and bibliographic information, but first need to figure out what tags can be used for such purposes -->
+         </annotation>
+      </listAnnotation>
+      <listBibl>
+         <bibl type="article" xml:id="source1">
+            “A Chronology of Events Surrounding the Life of Mary Baker Eddy.” The Mary Baker Eddy Library, www.marybakereddylibrary.org/wp-content/uploads/2018/12/Mary_Baker_Eddy_Detailed_Annotated_Chronology_2018-12-10.pdf.  
+         </bibl>
+         <bibl type="website" xml:id="source2">
+            Glatch, Sean. “12 Literary Devices in Poetry: Identifying Poetic Devices.” Writers.Com, 16 June 2023, writers.com/literary-devices-in-poetry. 
+         </bibl>
+         <bibl type="article" xml:id="source3">
+            Gottschalk, Stephen. "Mary Baker Eddy". Encyclopedia Britannica, 29 Nov. 2023, https://www.britannica.com/biography/Mary-Baker-Eddy. Accessed 20 February 2024.
+         </bibl>
+         <bibl type="article" xml:id="source4">
+            “Mary Baker Eddy.” Wikipedia, Wikimedia Foundation,  en.wikipedia.org/wiki/Mary_Baker_Eddy#CITEREFSilberger1980. 
+            <!-- Used for basic information, looking into sources cited through the article -->
+         </bibl>
+         <bibl type="article" xml:id="source5">
+            “Mary Baker Eddy - Deep Read.” Mary Baker Eddy Library, 17 Feb. 2022, www.marybakereddylibrary.org/mary-baker-eddy/mary-baker-eddy-deep-read/. 
+         </bibl>
+         <bibl type="website" xml:id="source6">
+            “The Christian Science Pastor.” Christian Science, www.christianscience.com/the-christian-science-pastor. Accessed 20 Feb. 2024. 
+         </bibl>
+         <!-- Is this the correct place to host bibliographic information, or in body of the text? -->
+      </listBibl>
       <listPerson>
          <person xml:id="mary_baker">
             <persName>
@@ -68,6 +118,7 @@
                56-89
             </age>
          </person>
+         <!-- Add: Mary's family (father, mother, brother who died); Mary's husbands (George Glover, Daniel Patterson, Asa Eddy); Mary's son (George Glover II); Phineas Quimby) -->
       </listPerson>
       <listPlace>
          <place xml:id="Bow">
@@ -118,8 +169,13 @@
                <region type="state">New Hampshire</region>
             </placeName>
          </place>
+         <!-- Consider more specific information to add to places, such as residences, geographic location -->
       </listPlace>
       <listEvent>
+         <event xml:id="birthday" when="1821-07-16">
+            <label>birthday</label>
+         </event>
+         <!-- Add more important dates: death of relatives, separation from husbands, birth of her son, foundation of Christian Science, publication of Science and Health, fall on the ice, death -->
       </listEvent>
    </standOff>
 </TEI>
