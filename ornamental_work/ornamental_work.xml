@@ -89,8 +89,8 @@
             <head type="main" rend="caps">Explanation of Terms Used in Knitting, and Hints on
                Knitting.</head>
             <ab type="StitchType" xml:id="CastOn">
-               <term><hi rend="italics">To cast on-</hi></term>
-               <gloss>The first interlacement of the cotton on the needle.</gloss></ab>
+               <ref type="note" target="#n1"><term><hi rend="italics">To cast on-</hi></term>
+               <gloss>The first interlacement of the cotton on the needle.</gloss></ref></ab>
             <ab type="StitchType" xml:id="CastOff">
                <term><hi rend="italics">To cast off-</hi></term>
                <gloss>to knit two stitches, and to pass over the second, and so on to the last
@@ -147,8 +147,6 @@
                <gloss>to pass the cotton from one needle to the other without changing its position.</gloss></ab>
          </div>
          <div type="notesinprogress">
-         <p><ref type="note" target="#n1">To cast on–The first interlacement of the cotton on the
-            needle.</ref></p>
          <p><ref type="note" target="#n2">[Needles] are made of steel, bone, ivory, or wood, and you
             purchase such sizes as agrees with the work you have to do. In all large trimming
             stores where this kind of material is kept, they will tell you the best sizes, if you
