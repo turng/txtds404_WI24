@@ -145,12 +145,42 @@
             <ab type="StitchType" xml:id="TakeUnder">
                <term><hi rend="italics">To take under-</hi></term>
                <gloss>to pass the cotton from one needle to the other without changing its position.</gloss></ab>
+            <ab type="InstructionProse"><hi rend="italics"><ref type="StitchType"
+               target="#PearlARow">Pearl</ref>, <ref type="StitchType" target="#Seam"
+                  >seam</ref>,</hi> and <hi rend="italics"><ref type="StitchType" target="#Rib"
+                     >rib-stitch</ref></hi> are the same.</ab>
+            <ab type="InstructionProse">Be careful in knitting to have the cotton or wool of a
+               moderate tension-not too lose, nor too tight.</ab>
+            <ab type="InstructionProse">When it is requisite to <ref type="StitchType"
+               target="#CastOff">cast off</ref>, and continue a row on a separate needle, run a
+               coarse thread through the <ref type="StitchType" target="#CastOff">cast off</ref>
+               stitches, as they are easily taken up when required.</ab>
+            <ab type="InstructionProse">It is a good plan to have children taught to knit, boys as
+               well as girls, and to have them learn to knit without looking at their work. Old
+               ladies who have lost their sight often knit very beautifully, and as a general rule
+               we find that they began very young, and learned to knit without giving their work
+               steady attention. The blind in all Asylums are beautiful knitters, and in case of any
+               accident to the eyesight it would be a great resource, as well as when deprived of
+               sight by old age.</ab>
+            <ab type="InstructionProse"><ref type="note" target="#n2">Knitting needles vary in size
+               and length. For small articles the short ones are most convenient. They are made
+               of steel, bone, ivory, or wood, and you purchase such sizes as agrees with the
+               work you have to do. In all large trimming stores where this kind of material is
+               kept, they will tell you the best sizes, if you are ignorant yourself.</ref></ab>
+            <ab type="InstructionProse">Here is a cut of a gauge for measuring needles for knitting
+               and netting meshes, and for crochet needles.</ab>
+            <ab type="figure">
+               <ref target="ExplanationOfTerms">
+                  <figure type="ToolImage">
+                     <graphic url="WireGauge.jpg"/>
+                     <figDesc>A side-view of a metal gauge tool, resembling a spoked wheel with a
+                        hollow center and several spokes labeled with numbers 1-19.</figDesc>
+                     <p rend="bottom"><hi rend="caps">Wire Gauge</hi></p>
+                  </figure>
+               </ref>
+            </ab>
          </div>
          <div type="notesinprogress">
-         <p><ref type="note" target="#n2">[Needles] are made of steel, bone, ivory, or wood, and you
-            purchase such sizes as agrees with the work you have to do. In all large trimming
-            stores where this kind of material is kept, they will tell you the best sizes, if you
-            are ignorant yourself</ref></p>
          <p><ref type="note" target="#n3">Four fine needles, nearly 3 skeins of netting silk, and
             one sting of gold beads are required.</ref></p>
          <p><ref type="note" target="#n4">This work will wash and look equal to new, by mixing a
