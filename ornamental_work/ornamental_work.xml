@@ -85,6 +85,68 @@
          </div>
       </front>
       <body>
+         <div type="glossary" xml:id="ExplanationOfTerms">
+            <head type="main" rend="caps">Explanation of Terms Used in Knitting, and Hints on
+               Knitting.</head>
+            <ab type="StitchType" xml:id="CastOn">
+               <term><hi rend="italics">To cast on-</hi></term>
+               <gloss>The first interlacement of the cotton on the needle.</gloss></ab>
+            <ab type="StitchType" xml:id="CastOff">
+               <term><hi rend="italics">To cast off-</hi></term>
+               <gloss>to knit two stitches, and to pass over the second, and so on to the last
+                  stich, which is to be secured by drawing the thread through.</gloss></ab>
+            <ab type="StitchType" xml:id="CastOver">
+               <term><hi rend="italics">To cast over-</hi></term>
+               <gloss>to bring the cotton forward round the needle.</gloss></ab>
+            <ab type="StitchType" xml:id="Narrow">
+               <term><hi rend="italics">To Narrow-</hi></term>
+               <gloss>to lessen by bringing two stitches together.</gloss></ab>
+            <ab type="StitchType" xml:id="Seam">
+               <term><hi rend="italics">To seam-</hi></term>
+               <gloss>to knit a stitch with the cotton before the needle.</gloss></ab>
+            <ab type="StitchType" xml:id="Widen">
+               <term><hi rend="italics">To widen-</hi></term>
+               <gloss>to increase by making a stitch, bringing the cotton round the needle, and
+                  knitting the same when it occurs.</gloss></ab>
+            <ab type="StitchType" xml:id="ATurn">
+               <term><hi rend="italics">A turn-</hi></term>
+               <gloss>two rows in the same stitch, backwards and forwards.</gloss></ab>
+            <ab type="StitchType" xml:id="ToTurn">
+               <term><hi rend="italics">To turn-</hi></term>
+               <gloss>to change the stitch.</gloss></ab>
+            <ab type="StitchType" xml:id="Row">
+               <term><hi rend="italics">A row-</hi></term>
+               <gloss>the stitches from one end of the needle to the other.</gloss></ab>
+            <ab type="StitchType" xml:id="Round">
+               <term><hi rend="italics">A round-</hi></term>
+               <gloss>a row when the stitches are on two, three, or more needles.</gloss></ab>
+            <ab type="StitchType" xml:id="PlainRow">
+               <term><hi rend="italics">A plain row-</hi></term>
+               <gloss>that composed of simple knitting.</gloss></ab>
+            <ab type="StitchType" xml:id="PearlARow">
+               <term><hi rend="italics">To pearl a row-</hi></term>
+               <gloss>to knit with the cotton before the needle.</gloss></ab>
+            <ab type="StitchType" xml:id="Rib">
+               <term><hi rend="italics">To rib-</hi></term>
+               <gloss>to work alternate rows of plain and pearl knitting.</gloss></ab>
+            <ab type="StitchType" xml:id="BringTheThreadForward">
+               <term><hi rend="italics">To bring the thread forward-</hi></term>
+               <gloss>to bring the cotton forward so as to make an open stitch.</gloss></ab>
+            <ab type="StitchType" xml:id="LoopStitch">
+               <term><hi rend="italics">A loop stitch-</hi></term>
+               <gloss>made by bringing the cotton before the needle, which in knitting the
+                  succeeding stitch, will again take its own place.</gloss></ab>
+            <ab type="StitchType" xml:id="SlipOrPassAStitch">
+               <term><hi rend="italics">To slip or pass a stitch-</hi></term>
+               <gloss>to change it from one needle to the other without knitting it.</gloss></ab>
+            <ab type="StitchType" xml:id="FastenOn">
+               <term><hi rend="italics">To fasten on-</hi></term>
+               <gloss>the best way is to place the ends contrariwise, and knit a few stitches with both together.</gloss></ab>
+            <ab type="StitchType" xml:id="TakeUnder">
+               <term><hi rend="italics">To take under-</hi></term>
+               <gloss>to pass the cotton from one needle to the other without changing its position.</gloss></ab>
+         </div>
+         <div type="notesinprogress">
          <p><ref type="note" target="#n1">To cast on–The first interlacement of the cotton on the
             needle.</ref></p>
          <p><ref type="note" target="#n2">[Needles] are made of steel, bone, ivory, or wood, and you
@@ -98,6 +160,7 @@
             spreading it out to dry, and turning it frequently.</ref></p>
          <p><ref type="note" target="#n5">Then, with shaded wool, work a row of double L stitches
             all round.</ref></p>
+         </div>
       </body>
       <back>
          <div type="endnotes">
