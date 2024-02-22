@@ -145,15 +145,14 @@
             <ab type="StitchType" xml:id="TakeUnder">
                <term><hi rend="italics">To take under-</hi></term>
                <gloss>to pass the cotton from one needle to the other without changing its position.</gloss></ab>
-            <ab type="InstructionProse"><hi rend="italics"><ref type="StitchType"
-               target="#PearlARow">Pearl</ref>, <ref type="StitchType" target="#Seam"
-                  >seam</ref>,</hi> and <hi rend="italics"><ref type="StitchType" target="#Rib"
+            <ab type="InstructionProse"><hi rend="italics"><ref target="#PearlARow">Pearl</ref>, <ref target="#Seam"
+                  >seam</ref>,</hi> and <hi rend="italics"><ref target="#Rib"
                      >rib-stitch</ref></hi> are the same.</ab>
             <ab type="InstructionProse">Be careful in knitting to have the cotton or wool of a
                moderate tension-not too lose, nor too tight.</ab>
             <ab type="InstructionProse">When it is requisite to <ref type="StitchType"
                target="#CastOff">cast off</ref>, and continue a row on a separate needle, run a
-               coarse thread through the <ref type="StitchType" target="#CastOff">cast off</ref>
+               coarse thread through the <ref target="#CastOff">cast off</ref>
                stitches, as they are easily taken up when required.</ab>
             <ab type="InstructionProse">It is a good plan to have children taught to knit, boys as
                well as girls, and to have them learn to knit without looking at their work. Old
