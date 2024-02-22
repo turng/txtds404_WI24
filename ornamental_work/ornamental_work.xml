@@ -192,7 +192,7 @@
       </body>
       <back>
          <div type="endnotes">
-            <note xml:id="n1"><ref type="biblio" target="#HowToCastOn">A current, common way for
+            <note xml:id="n1" source="#HowToCastOn">A current, common way for
                beginners to cast on uses the thumb method. Knitters start by creating a loop out
                of a single thread and pulling the loose end of the yarn through the loop to
                create a slip knot. Then, the slip knot is placed onto the needle and the loose
@@ -200,17 +200,17 @@
                Holding the needle with the left hand, the right hand holds the yarn attached to
                the yarn ball, wraps it around the needle and pulls down, slides the loop on the
                left thumb over and onto the needle, and the yarn tail is pulled down to create
-               the first stitch.</ref></note>
-            <note xml:id="n2"><ref type="biblio" target="#NeedleSizes">Yarn weight must also be
+               the first stitch.</note>
+            <note xml:id="n2" source="#NeedleSizes">Yarn weight must also be
                taken into account when choosing a needle. The finer/thinner the yarn being used,
                the smaller the needle should be. In the common range today, a very thin 2-ply
                yarn should be paired with a US size 0-2 needle, a medium-thick 8-ply yarn should
                be paired with a US size 3-6, and the thickest 14-ply yarn should be paired with a
-               US size 11-17 needle.</ref></note>
-            <note xml:id="n3"><ref type="biblio" target="#SkeinDefinition">A common term utilized by
+               US size 11-17 needle.</note>
+            <note xml:id="n3" source="#SkeinDefinition">A common term utilized by
                those who practice knitting, a skein is a loosely coiled length of length of yarn,
-               thread, or other material wound onto a reel.</ref></note>
-            <note xml:id="n4"><ref type="biblio" target="#WashingTechnique">Often, hand knitted
+               thread, or other material wound onto a reel.</note>
+            <note xml:id="n4" source="#WashingTechnique">Often, hand knitted
                works require a special washing practice. Contemporary washing practices require
                you to look at the yarn label for any specific instructions pertaining to washing.
                Usually, you use a mild detergent mixed with warm water in a basin or sink,
@@ -218,33 +218,33 @@
                rinsing thoroughly to remove any soapy residue, gently squeezing the item to
                remove excess water, and laying it on a clean towel or drying rack to air dry. You
                can block the yarn to shape it and even out any inconsistencies in texture or
-               gauge during the drying step.</ref></note>
-            <note xml:id="n5"><ref type="biblio" target="ShadedWoolDefinition">Shaded wool refers to
+               gauge during the drying step.</note>
+            <note xml:id="n5" source="#ShadedWoolDefinition">Shaded wool refers to
                yarn that has been dyed in multiple colors creating a gradient or variegated
-               effect giving your work a visually appealing color variation.</ref></note>
+               effect giving your work a visually appealing color variation.</note>
          </div>
          <div type="bibliography">
             <listBibl>
                <bibl xml:id="ShadedWoolDefinition" type="webpage"><title>"Berlin Wool: Fine Fiber
-                  from an Innovative Age</title>.<publisher><hi rend="italics"
-                     >PieceWork</hi></publisher>,<ref
+                  from an Innovative Age."</title><publisher><hi rend="italics"
+                     > PieceWork</hi></publisher>, <ref
                         target="https://pieceworkmagazine.com/berlin-wool-fine-fiber-from-an-innovative-age/"
                         >https://pieceworkmagazine.com/berlin-wool-fine-fiber-from-an-innovative-age/</ref>.</bibl>
                <bibl xml:id="HowToCastOn" type="webpage"><title>"How To Cast On for Total
-                  Beginners</title>.<publisher><hi rend="italics">Sheep and
-                     Stitch</hi></publisher>,<date>17 Dec 2018</date>,<ref
+                  Beginners."</title><publisher><hi rend="italics"> Sheep and
+                     Stitch</hi></publisher>, <date>17 Dec 2018</date>, <ref
                         target="sheepandstitch.com/library/long-tail-cast-on-for-beginners/"
                         >sheepandstitch.com/library/long-tail-cast-on-for-beginners/</ref>.</bibl>
                <bibl xml:id="WashingTechnique" type="webpage"><title>"How To Wash Hand-Knitted
-                  Items</title>.<publisher><hi rend="italics">In The
-                     Wash</hi></publisher>,<date>08 June 2023</date>,<ref target="https://inthewash.co.uk/laundry-and-ironing/how-to-wash-hand-knitted-items/#:~:text=Hand-Washing%20Knitwear%20Step-By-Step%201%20Step%201%3A%20Fill%20a,...%206%20Step%206%3A%20Remove%20excess%20water%20">https://inthewash.co.uk/laundry-and-ironing/how-to-wash-hand-knitted-items/#:~:text=Hand-Washing%20Knitwear%20Step-By-Step%201%20Step%201%3A%20Fill%20a,...%206%20Step%206%3A%20Remove%20excess%20water%20</ref>.</bibl>
+                  Items."</title><publisher><hi rend="italics"> In The
+                     Wash</hi></publisher>, <date>08 June 2023</date>, <ref target="https://inthewash.co.uk/laundry-and-ironing/how-to-wash-hand-knitted-items/#:~:text=Hand-Washing%20Knitwear%20Step-By-Step%201%20Step%201%3A%20Fill%20a,...%206%20Step%206%3A%20Remove%20excess%20water%20">https://inthewash.co.uk/laundry-and-ironing/how-to-wash-hand-knitted-items/#:~:text=Hand-Washing%20Knitwear%20Step-By-Step%201%20Step%201%3A%20Fill%20a,...%206%20Step%206%3A%20Remove%20excess%20water%20</ref>.</bibl>
                <bibl xml:id="NeedleSizes" type="webpage"><title>"Knitting Needle Sizes for
-                  Yarn"</title>.<publisher><hi rend="italics">Yarn Worx</hi></publisher>,<date>11
-                     June 2021</date>,<ref
+                  Yarn."</title><publisher><hi rend="italics"> Yarn Worx</hi></publisher>, <date>11
+                     June 2021</date>, <ref
                         target="www.yarnworx.com/blogs/yarn-guides/knitting-needle-sizes-for-yarn"
                         >www.yarnworx.com/blogs/yarn-guides/knitting-needle-sizes-for-yarn</ref>.</bibl>
-               <bibl xml:id="SkeinDefinition" type="webpage"><title>"Skein"</title>.<publisher><hi
-                  rend="italics">Merriam-Webster</hi></publisher>,<ref
+               <bibl xml:id="SkeinDefinition" type="webpage"><title>"Skein."</title><publisher><hi
+                  rend="italics"> Merriam-Webster</hi></publisher>, <ref
                      target="https://www.merriam-webster.com/dictionary/skein"
                      >https://www.merriam-webster.com/dictionary/skein</ref>.</bibl>
             </listBibl>
