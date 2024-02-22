@@ -56,7 +56,7 @@
          </editorialDecl>
       </encodingDesc>
    </teiHeader>
-   <text>
+   <text xml:lang="en">
       <front>
          <div type="editorial_intro">
             <p>Published in 1859 by John E. Potter &amp; Company, The Ladies’ Handbook of Fancy and
