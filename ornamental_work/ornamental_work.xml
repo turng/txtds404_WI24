@@ -6,20 +6,250 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>hi</title>
+            <title>The Ladies' Handbook of Fancy and Ornamental Work</title>
+            <author>Miss Florence Hartley</author>
+            <editor>Riley Hull</editor>
+            <editor>Tara Boyd</editor>
+            <editor>Trisha Binwade</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>This text in particular is interesting because of the connectivity it fosters between
+               the past and the present, specifically in regards to the subject of “fancy and
+               ornamental” work. In that sense, our edition hopes to offer a text that highlights
+               various methods of ornamental work that were utilized in the past, thus allowing us
+               to preserve these traditional practices, introduce a new audience of people to them,
+               and invite comparison between the methods of the past and those of the present day.
+               Within our class at the University of Washington, we first chose a specific section
+               of the text to focus on, ultimately ending up choosing the knitting section because
+               its relatively concise nature meant we would be able to complete an entire section.
+               We then transcribed the text into plain text digital files and created a project
+               schema to guide our TEI markup. We plan to encode and markup our text and create some
+               sort of digital edition interface to help facilitate our goals and bring our text to
+               a modern audience.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>hello</p>
+            <p>This text is found in the Costume and Textile Collections within the University of
+               Washington Special Collections Library. It is a medium-sized, hard-bound text in a
+               dark brown binding. <bibl>
+                  <title>The Ladies' Handbook of Fancy and Ornamental Work</title>
+                  <author>Miss Florence Hartley</author>
+                  <publisher>John E. Potter &amp; Company</publisher>
+                  <pubPlace>617 Samson Street, Philadelphia PA</pubPlace>
+                  <date>1859</date>
+                  <idno type="callNumber">TT 750 H37</idno>
+               </bibl>
+            </p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <normalization>
+               <p>There were very minimal spelling modernizations, as most of the text consisted of
+                  words that fit in with modern vernacular and would be understandable to a modern
+                  audience.</p>
+            </normalization>
+            <correction>
+               <p>There were very minimal grammar and spelling errors, which were ultimately
+                  adjusted by the editors based on the text’s established patterns and grammatical
+                  structure.</p>
+            </correction>
+         </editorialDecl>
+      </encodingDesc>
    </teiHeader>
-   <text>
+   <text xml:lang="en" rend="roman">
+      <front>
+         <div type="editorial_intro">
+            <p>Published in 1859 by John E. Potter &amp; Company, The Ladies’ Handbook of Fancy and
+               Ornamental Work is an instructional text written by Miss Florence Hartley, who
+               ensures her readers that the material within her pages was “compiled from the best
+               authorities.” This historical handbook is centered around traditionally-feminine
+               crafts and skills, such as sewing, baking, crocheting, embroidery, and – as this
+               editorial edition specifically focuses on – knitting. Given that these types of texts
+               are not as commonplace in today’s society or literary sphere, Hartley’s text provides
+               an interesting look at the culture and practices of the past.</p>
+            <p>Specifically focusing our efforts on Hartley’s instructions for knitting, this
+               specific edition offers an overview of numerous knitting-based crafts exactly as they
+               were done in the late nineteenth century. We hope to bring visibility to these
+               traditional practices by presenting them to a new audience of people, ultimately
+               helping to preserve the knowledge and culture of past generations. For those that
+               have no prior experience with knitting, this text may serve as a captivating
+               introduction to the practice itself, especially in the context of its history. On the
+               other hand, for readers that do have experience with knitting, this edition may
+               provide a basis for intriguing comparisons between the methods of the past and those
+               of the present day.</p>
+            <p>For this edition, there were very minor changes made from the source text,
+               specifically in terms of transcription. While a majority of Hartley’s text is indeed
+               presentable to a modern audience, there were a small number of spelling and grammar
+               alterations made to best ensure that the instructions of this edition were as clear
+               as possible.</p>
+         </div>
+      </front>
       <body>
-         <p>Some text here.</p>
+         <div type="glossary" xml:id="ExplanationOfTerms">
+            <head type="main" rend="caps">Explanation of Terms Used in Knitting, and Hints on
+               Knitting.</head>
+            <ab type="StitchType" xml:id="CastOn">
+               <ref type="note" target="#n1"><term><hi rend="italics">To cast on-</hi></term>
+               <gloss>The first interlacement of the cotton on the needle.</gloss></ref></ab>
+            <ab type="StitchType" xml:id="CastOff">
+               <term><hi rend="italics">To cast off-</hi></term>
+               <gloss>to knit two stitches, and to pass over the second, and so on to the last
+                  stich, which is to be secured by drawing the thread through.</gloss></ab>
+            <ab type="StitchType" xml:id="CastOver">
+               <term><hi rend="italics">To cast over-</hi></term>
+               <gloss>to bring the cotton forward round the needle.</gloss></ab>
+            <ab type="StitchType" xml:id="Narrow">
+               <term><hi rend="italics">To Narrow-</hi></term>
+               <gloss>to lessen by bringing two stitches together.</gloss></ab>
+            <ab type="StitchType" xml:id="Seam">
+               <term><hi rend="italics">To seam-</hi></term>
+               <gloss>to knit a stitch with the cotton before the needle.</gloss></ab>
+            <ab type="StitchType" xml:id="Widen">
+               <term><hi rend="italics">To widen-</hi></term>
+               <gloss>to increase by making a stitch, bringing the cotton round the needle, and
+                  knitting the same when it occurs.</gloss></ab>
+            <ab type="StitchType" xml:id="ATurn">
+               <term><hi rend="italics">A turn-</hi></term>
+               <gloss>two rows in the same stitch, backwards and forwards.</gloss></ab>
+            <ab type="StitchType" xml:id="ToTurn">
+               <term><hi rend="italics">To turn-</hi></term>
+               <gloss>to change the stitch.</gloss></ab>
+            <ab type="StitchType" xml:id="Row">
+               <term><hi rend="italics">A row-</hi></term>
+               <gloss>the stitches from one end of the needle to the other.</gloss></ab>
+            <ab type="StitchType" xml:id="Round">
+               <term><hi rend="italics">A round-</hi></term>
+               <gloss>a row when the stitches are on two, three, or more needles.</gloss></ab>
+            <ab type="StitchType" xml:id="PlainRow">
+               <term><hi rend="italics">A plain row-</hi></term>
+               <gloss>that composed of simple knitting.</gloss></ab>
+            <ab type="StitchType" xml:id="PearlARow">
+               <term><hi rend="italics">To pearl a row-</hi></term>
+               <gloss>to knit with the cotton before the needle.</gloss></ab>
+            <ab type="StitchType" xml:id="Rib">
+               <term><hi rend="italics">To rib-</hi></term>
+               <gloss>to work alternate rows of plain and pearl knitting.</gloss></ab>
+            <ab type="StitchType" xml:id="BringTheThreadForward">
+               <term><hi rend="italics">To bring the thread forward-</hi></term>
+               <gloss>to bring the cotton forward so as to make an open stitch.</gloss></ab>
+            <ab type="StitchType" xml:id="LoopStitch">
+               <term><hi rend="italics">A loop stitch-</hi></term>
+               <gloss>made by bringing the cotton before the needle, which in knitting the
+                  succeeding stitch, will again take its own place.</gloss></ab>
+            <ab type="StitchType" xml:id="SlipOrPassAStitch">
+               <term><hi rend="italics">To slip or pass a stitch-</hi></term>
+               <gloss>to change it from one needle to the other without knitting it.</gloss></ab>
+            <ab type="StitchType" xml:id="FastenOn">
+               <term><hi rend="italics">To fasten on-</hi></term>
+               <gloss>the best way is to place the ends contrariwise, and knit a few stitches with both together.</gloss></ab>
+            <ab type="StitchType" xml:id="TakeUnder">
+               <term><hi rend="italics">To take under-</hi></term>
+               <gloss>to pass the cotton from one needle to the other without changing its position.</gloss></ab>
+            <ab type="InstructionProse"><hi rend="italics"><ref type="StitchType"
+               target="#PearlARow">Pearl</ref>, <ref type="StitchType" target="#Seam"
+                  >seam</ref>,</hi> and <hi rend="italics"><ref type="StitchType" target="#Rib"
+                     >rib-stitch</ref></hi> are the same.</ab>
+            <ab type="InstructionProse">Be careful in knitting to have the cotton or wool of a
+               moderate tension-not too lose, nor too tight.</ab>
+            <ab type="InstructionProse">When it is requisite to <ref type="StitchType"
+               target="#CastOff">cast off</ref>, and continue a row on a separate needle, run a
+               coarse thread through the <ref type="StitchType" target="#CastOff">cast off</ref>
+               stitches, as they are easily taken up when required.</ab>
+            <ab type="InstructionProse">It is a good plan to have children taught to knit, boys as
+               well as girls, and to have them learn to knit without looking at their work. Old
+               ladies who have lost their sight often knit very beautifully, and as a general rule
+               we find that they began very young, and learned to knit without giving their work
+               steady attention. The blind in all Asylums are beautiful knitters, and in case of any
+               accident to the eyesight it would be a great resource, as well as when deprived of
+               sight by old age.</ab>
+            <ab type="InstructionProse"><ref type="note" target="#n2">Knitting needles vary in size
+               and length. For small articles the short ones are most convenient. They are made
+               of steel, bone, ivory, or wood, and you purchase such sizes as agrees with the
+               work you have to do. In all large trimming stores where this kind of material is
+               kept, they will tell you the best sizes, if you are ignorant yourself.</ref></ab>
+            <ab type="InstructionProse">Here is a cut of a gauge for measuring needles for knitting
+               and netting meshes, and for crochet needles.</ab>
+            <ab type="figure">
+               <ref target="ExplanationOfTerms">
+                  <figure type="ToolImage">
+                     <graphic url="WireGauge.jpg"/>
+                     <figDesc>A side-view of a metal gauge tool, resembling a spoked wheel with a
+                        hollow center and several spokes labeled with numbers 1-19.</figDesc>
+                     <p rend="bottom"><hi rend="caps">Wire Gauge</hi></p>
+                  </figure>
+               </ref>
+            </ab>
+         </div>
+         <div type="notesinprogress">
+         <p><ref type="note" target="#n3">Four fine needles, nearly 3 skeins of netting silk, and
+            one sting of gold beads are required.</ref></p>
+         <p><ref type="note" target="#n4">This work will wash and look equal to new, by mixing a
+            little ox-gall with a little curd soap lather, and washing it in the ordinary way,
+            spreading it out to dry, and turning it frequently.</ref></p>
+         <p><ref type="note" target="#n5">Then, with shaded wool, work a row of double L stitches
+            all round.</ref></p>
+         </div>
       </body>
+      <back>
+         <div type="endnotes">
+            <note xml:id="n1"><ref type="biblio" target="#HowToCastOn">A current, common way for
+               beginners to cast on uses the thumb method. Knitters start by creating a loop out
+               of a single thread and pulling the loose end of the yarn through the loop to
+               create a slip knot. Then, the slip knot is placed onto the needle and the loose
+               yarn is brought around the thumb to create a loop that the needle slides through.
+               Holding the needle with the left hand, the right hand holds the yarn attached to
+               the yarn ball, wraps it around the needle and pulls down, slides the loop on the
+               left thumb over and onto the needle, and the yarn tail is pulled down to create
+               the first stitch.</ref></note>
+            <note xml:id="n2"><ref type="biblio" target="#NeedleSizes">Yarn weight must also be
+               taken into account when choosing a needle. The finer/thinner the yarn being used,
+               the smaller the needle should be. In the common range today, a very thin 2-ply
+               yarn should be paired with a US size 0-2 needle, a medium-thick 8-ply yarn should
+               be paired with a US size 3-6, and the thickest 14-ply yarn should be paired with a
+               US size 11-17 needle.</ref></note>
+            <note xml:id="n3"><ref type="biblio" target="#SkeinDefinition">A common term utilized by
+               those who practice knitting, a skein is a loosely coiled length of length of yarn,
+               thread, or other material wound onto a reel.</ref></note>
+            <note xml:id="n4"><ref type="biblio" target="#WashingTechnique">Often, hand knitted
+               works require a special washing practice. Contemporary washing practices require
+               you to look at the yarn label for any specific instructions pertaining to washing.
+               Usually, you use a mild detergent mixed with warm water in a basin or sink,
+               submerge the yarn in the soapy water and agitate it to loosen any dirt or residue,
+               rinsing thoroughly to remove any soapy residue, gently squeezing the item to
+               remove excess water, and laying it on a clean towel or drying rack to air dry. You
+               can block the yarn to shape it and even out any inconsistencies in texture or
+               gauge during the drying step.</ref></note>
+            <note xml:id="n5"><ref type="biblio" target="ShadedWoolDefinition">Shaded wool refers to
+               yarn that has been dyed in multiple colors creating a gradient or variegated
+               effect giving your work a visually appealing color variation.</ref></note>
+         </div>
+         <div type="bibliography">
+            <listBibl>
+               <bibl xml:id="ShadedWoolDefinition" type="webpage"><title>"Berlin Wool: Fine Fiber
+                  from an Innovative Age</title>.<publisher><hi rend="italics"
+                     >PieceWork</hi></publisher>,<ref
+                        target="https://pieceworkmagazine.com/berlin-wool-fine-fiber-from-an-innovative-age/"
+                        >https://pieceworkmagazine.com/berlin-wool-fine-fiber-from-an-innovative-age/</ref>.</bibl>
+               <bibl xml:id="HowToCastOn" type="webpage"><title>"How To Cast On for Total
+                  Beginners</title>.<publisher><hi rend="italics">Sheep and
+                     Stitch</hi></publisher>,<date>17 Dec 2018</date>,<ref
+                        target="sheepandstitch.com/library/long-tail-cast-on-for-beginners/"
+                        >sheepandstitch.com/library/long-tail-cast-on-for-beginners/</ref>.</bibl>
+               <bibl xml:id="WashingTechnique" type="webpage"><title>"How To Wash Hand-Knitted
+                  Items</title>.<publisher><hi rend="italics">In The
+                     Wash</hi></publisher>,<date>08 June 2023</date>,<ref target="https://inthewash.co.uk/laundry-and-ironing/how-to-wash-hand-knitted-items/#:~:text=Hand-Washing%20Knitwear%20Step-By-Step%201%20Step%201%3A%20Fill%20a,...%206%20Step%206%3A%20Remove%20excess%20water%20">https://inthewash.co.uk/laundry-and-ironing/how-to-wash-hand-knitted-items/#:~:text=Hand-Washing%20Knitwear%20Step-By-Step%201%20Step%201%3A%20Fill%20a,...%206%20Step%206%3A%20Remove%20excess%20water%20</ref>.</bibl>
+               <bibl xml:id="NeedleSizes" type="webpage"><title>"Knitting Needle Sizes for
+                  Yarn"</title>.<publisher><hi rend="italics">Yarn Worx</hi></publisher>,<date>11
+                     June 2021</date>,<ref
+                        target="www.yarnworx.com/blogs/yarn-guides/knitting-needle-sizes-for-yarn"
+                        >www.yarnworx.com/blogs/yarn-guides/knitting-needle-sizes-for-yarn</ref>.</bibl>
+               <bibl xml:id="SkeinDefinition" type="webpage"><title>"Skein"</title>.<publisher><hi
+                  rend="italics">Merriam-Webster</hi></publisher>,<ref
+                     target="https://www.merriam-webster.com/dictionary/skein"
+                     >https://www.merriam-webster.com/dictionary/skein</ref>.</bibl>
+            </listBibl>
+         </div>
+      </back>
    </text>
 </TEI>
 
