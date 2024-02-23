@@ -102,8 +102,8 @@
             <item>Peppermint.....<hi rend="italics">Warmth of feeling.</hi></item>
             <!-- GT: I mentioned this in my email, but I wonder if the <ref> should only contain the name of the flower
                if the ref is pointing to a note about the flower? -->
-            <item><ref target="#periwinkle">Periwinkle, Blue.....<hi rend="italics">Early Friendship.</hi></ref></item>
-            <item>Periwinkle, white.....<hi rend="italics">Pleasures of memory.</hi></item>
+            <item><ref target="#periwinkle">Periwinkle, Blue</ref>.....<hi rend="italics">Early Friendship.</hi></item>
+            <item><ref target="#periwinkle">Periwinkle, white</ref>.....<hi rend="italics">Pleasures of memory.</hi></item>
             <item>Persicaria.....<hi rend="italics">Restoration.</hi></item>
             
 <!-- P. 36 (Brianna) -->            
@@ -120,12 +120,12 @@
             <item>Rhododendron (Rosebay).....<hi rend="italics">Danger. Beware.</hi></item>           
             <item>Rhubarb.....<hi rend="italics">Advice.</hi></item>         
             <item>Rocket.....<hi rend="italics">Rivalry.</hi></item>
-           <item><ref target="#rose">Rose.....<hi rend="italics">Love.</hi></ref></item>
+           <item><ref target="#rose">Rose</ref>.....<hi rend="italics">Love.</hi></item>
             <item>Rose, Austrian.....<hi rend="italics">Thou art all that is lovely.</hi></item>          
             <item>Rose, Bridal.....<hi rend="italics">Happy love.</hi></item>   
             <item>Rose, Burgundy.....<hi rend="italics">Unconscious beauty.</hi></item>  
             <item>Rose, Cabbage.....<hi rend="italics">Ambassador of love.</hi></item>   
-            <item>Rose, Campion.....<hi rend="italics">Only deserve my love.</hi></item>
+            <item><ref target="#campion">Rose, Campion</ref>.....<hi rend="italics">Only deserve my love.</hi></item>
            <item> Rose, Carolina.....<hi rend="italics">Love is dangerous.</hi></item>   
             <item>Rose, China.....<hi rend="italics">Beauty always new.</hi></item>    
            <item>Rose, Christmas.....<hi rend="italics">Tranquillize my anxiety.</hi></item> 
@@ -144,12 +144,12 @@
                <item>Faithfulness.......<hi rend="italics">Blue Violet.</hi></item>
                <item>Faithfulness.......<hi rend="italics">Heliotrope.</hi></item>
                <item>Falsehood.......<hi rend="italics">Buglass.</hi></item>
-               <item>Falsehood.......<hi rend="italics">Yellow Lily.</hi></item>
+               <item>Falsehood.......<hi rend="italics"><ref target="#lily">Yellow Lily.</ref></hi></item>
                <item>Falsehood.......<hi rend="italics">Manchineal Tree.</hi></item>
                <item>Fame Tulip.......<hi rend="italics">Trumpet Flower.</hi></item>
                <item>Fame speaks him great and good.......<hi rend="italics">Apple Blossom.</hi></item>
                <item>Fantastic extravagance.......<hi rend="italics">Scarlet Poppy.</hi></item>
-               <item>Farewell.......<hi rend="italics">Michaelmas Daisy.</hi></item>
+               <item>Farewell.......<hi rend="italics"><ref target="#daisy">Michaelmas Daisy.</ref></hi></item>
                <item>Fascination.......<hi rend="italics">Fern.</hi></item>
                <item>Fascination.......<hi rend="italics">Honesty.</hi></item>
                <item>Fashion.......<hi rend="italics">Queen's Rocket.</hi></item>
@@ -180,13 +180,13 @@
                <item>Forsaken.......<hi rend="italics">Garden Anemone.</hi></item>
                <item>Forsaken.......<hi rend="italics">Laburnum.</hi></item>
                <item>Frankness.......<hi rend="italics">Osier.</hi></item>
-               <item>Fraternal love.......<hi rend="italics">Woodbine.</hi></item>
+               <item>Fraternal love.......<hi rend="italics"><ref target="#woodbine">Woodbine.</ref></hi></item>
                <item>Freedom.......<hi rend="italics">Water Willow.</hi></item>
-               <item><ref target="#damask">Freshness.......<hi rend="italics">Damask Rose.</hi></ref></item>
+               <item>Freshness.......<hi rend="italics"><ref target="#damask">Damask Rose.</ref></hi></item>
                <item>Friendship.......<hi rend="italics">Acacia.</hi></item>
-               <item><ref target="#periwinkle">Friendship, early.......<hi rend="italics">Blue Periwinkle.</hi></ref></item>
+               <item>Friendship, early.......<hi rend="italics"><ref target="#periwinkle">Blue Periwinkle.</ref></hi></item>
               <item>Friendship, true.......<hi rend="italics">Oak-leaved Geranium.</hi></item>
-               <item>Friendship, unchanging.......<hi rend="italics">Arbor Vitæ.</hi></item>
+               <item>Friendship, unchanging.......<hi rend="italics">Arbor Vitae.</hi></item>
                <item>Frivolity.......<hi rend="italics">London Pride.</hi></item>
                <item>Frugality.......<hi rend="italics">Chicory. Endive.</hi></item>
                
@@ -197,7 +197,7 @@
 <!-- p. 55 (Brianna) -->
                <item>Ingenuous simplicity.......<hi rend="italics">Mouse-eared Chickweed.</hi></item>
                <item>Ingratitude.......<hi rend="italics">Crowfoot.</hi></item>          
-               <item><ref target="#Drayton">Innocence.......<hi rend="italics">Daisy.</hi></ref></item>
+               <item>Innocence.......<hi rend="italics"><ref target="#daisy">Daisy.</ref></hi></item>
                <item>Insincerity.......<hi rend="italics">Foxglove.</hi></item>
                <item>Insinuation.......<hi rend="italics">Great Bindweed.</hi></item>
                <item>Inspiration.......<hi rend="italics">Angelica.</hi></item>
@@ -206,7 +206,7 @@
                <item>Intoxication.......<hi rend="italics">Vine.</hi></item>
                <item>Irony.......<hi rend="italics">Sardony.</hi></item>
                <item>Jealousy.......<hi rend="italics">French Marigold.</hi></item>
-               <item>Jealousy.......<hi rend="italics">Yellow Rose.</hi></item>
+               <item>Jealousy.......<hi rend="italics"><ref target="#rose">Yellow Rose.</ref></hi></item>
                <item>Jest.......<hi rend="italics">Southernwood.</hi></item>
                <item>Joy.......<hi rend="italics">Wood Sorrel.</hi></item>
                <item>Joys to come.......<hi rend="italics">Lesser Celandine.</hi></item>
@@ -223,16 +223,16 @@
                <item>Life.......<hi rend="italics">Lucerne.</hi></item>
                <item>Lightheartedness.......<hi rend="italics">Shamrock.</hi></item>
                <item>Lightness.......<hi rend="italics">Larkspur.</hi></item>
-               <item>Live for me.......<hi rend="italics">Arbor Vitæ.</hi></item>
+               <item>Live for me.......<hi rend="italics">Arbor Vitae.</hi></item>
                <item><ref target="#rose">Love.......<hi rend="italics">Myrtle.</hi></ref></item>
-               <item><ref target="#rose">Love.......<hi rend="italics">Rose.</hi></ref></item>
+               <item>Love.......<hi rend="italics"><ref target="#rose">Rose.</ref></hi></item>
                <item>Love, forsaken.......<hi rend="italics">Creeping Willow.</hi></item>
                <item>Love, returned.......<hi rend="italics">Ambrosia.</hi></item>
-               <item>Love is dangerous.......<hi rend="italics">Carolina Rose.</hi></item>
+               <item>Love is dangerous.......<hi rend="italics"><ref target="#rose">Carolina Rose.</ref></hi></item>
                <item>Lustre.......<hi rend="italics">Aconite-leaved Crowfoot,
                or Fair Maid of France.</hi></item>
                <item>Luxury.......<hi rend="italics">Chesnut Tree.</hi></item>
-               <item>Magnificent beauty.......<hi rend="italics">Calla, Æthiopica.</hi></item>
+               <item>Magnificent beauty.......<hi rend="italics">Calla, AEthiopica.</hi></item>
                <item>Majesty.......<hi rend="italics">Crown Imperial.</hi></item>
                <item>Malevolence.......<hi rend="italics">Lobelia.</hi></item>
                <item>Marriage.......<hi rend="italics">Ivy.</hi></item>
@@ -277,53 +277,53 @@
             <!-- p. 64 (Brianna) -->
             <lg type="poem">
                <head>
-                  <ref target="#Posie"><title>O LOVE WILL VENTURE IN, &amp; c.</title></ref>     
+                  <title><ref target="#posie">O LOVE WILL VENTURE IN, &amp; c.</ref></title>  
                   <bibl>
                      <author>
                         <persName>
-                           <ref target="#Burns"><surname>Burns</surname>
+                           <ref target="#burns"><surname>Burns</surname>
                            <forename>Robert</forename></ref>
                         </persName>
                      </author>
                   </bibl>
                </head>
                <lg type="stanza">
-                  <l>O LOVE will venture in, where it daur na weel be seen,</l>
-                     <l>O love will venture in, where wisdom ance has been;</l>
+                  <l>O <ref target="#rose">LOVE</ref> will venture in, where it daur na weel be seen,</l>
+                     <l>O <ref target="#rose">love</ref> will venture in, where wisdom ance has been;</l>
                      <l>But I will down yon river rove, amang the wood sae green,</l>
                      <l>And a' to pu' a posie to my ain dear May.</l></lg>
                      
-                     <lg type="stanza"><l>The primrose I will pu', the firstling o' the year,</l>
+                     <lg type="stanza"><l>The <ref target="#rose">primrose</ref> I will pu', the firstling o' the year,</l>
                      <l>And I will pu' the pink, the emblem o' my dear,</l>
                      <l>For she's the pink o' womankind, and blooms without a peer;</l>
-                     <l>And a' to be a posie to my ain dear May.</l></lg>
+                     <l>And a' to be a <ref target="#posie">posie</ref> to my ain dear May.</l></lg>
                      
-                     <lg type="stanza"><l>I'll pu' the budding rose, when Phoebus peeps in view,</l>
+                     <lg type="stanza"><l>I'll pu' the budding <ref target="rose">rose</ref>, when Phoebus peeps in view,</l>
                      <l>For it's like a baumy kiss o' her sweet bonnie mou;</l>
                      <l>The hyacinth's for constancy w' its unchanging blue,</l>
-                     <l>And a' to be a posie to my ain dear May.</l></lg>
+                     <l>And a' to be a <ref target="#posie">posie</ref> to my ain dear May.</l></lg>
                      
-                     <lg type="stanza"><l>The lily it is pure, and the lily it is fair.</l>
-                     <l>And in her lovely bosom I'll place the lily there;</l>
-                     <l>The daisy's for simplicity and unaffected air,</l>
-                     <l>And a' to be a posie to my ain dear May.</l></lg>
+                     <lg type="stanza"><l>The <ref target="#lily">lily</ref> it is pure, and the <ref target="#lily">lily</ref> it is fair.</l>
+                     <l>And in her lovely bosom I'll place the <ref target="#lily">lily</ref> there;</l>
+                     <l>The <ref target="#daisy">daisy's</ref> for simplicity and unaffected air,</l>
+                     <l>And a' to be a <ref target="#posie">posie</ref> to my ain dear May.</l></lg>
                      
                      <lg type="stanza"><l>The hawthorn I will pu', wi' its locks o' siller grey,</l>
                      <l>Where, like an aged man, it stands at break o' day,</l>
                      <l>But the songster's nest within the bush I winna tak away;</l>
-                     <l>And a' to be a posie to my ain dear May.</l></lg>
+                     <l>And a' to be a <ref target="#posie">posie</ref> to my ain dear May.</l></lg>
                      
-                     <lg type="stanza"><l>The woodbine I will pu' when the e'ening star is near,</l>
+                     <lg type="stanza"><l>The <ref target="#woodbine">woodbine</ref> I will pu' when the e'ening star is near,</l>
                      <l>And the diamond-drops o' dew shall be her e'en sae clear:</l>
                      <l>The violet's for modesty which weel she fa's to wear,</l>
-                     <l>And a' to be a posie to my ain dear May.</l></lg>
+                     <l>And a' to be a <ref target="#posie">posie</ref> to my ain dear May.</l></lg>
                      
-                     <lg type="staza"><l>I'll tie the posie round w' the silken band o' luve,</l>
+                     <lg type="staza"><l>I'll tie the <ref target="#posie">posie</ref> round w' the silken band o' luve,</l>
                      <l>And I'll place it in her breast, and I'll swear by a' above,</l>
                      <l>That to my latest draught o' life the band shall ne'er remuve.</l>
-                     <l>And this will be a posie to my ain dear May.</l></lg>
+                     <l>And this will be a <ref target="#posie">posie</ref> to my ain dear May.</l></lg>
                      
-               <byline><ref target="#Burns">BURNS.</ref></byline>
+               <byline><ref target="#burns">BURNS.</ref></byline>
                   
                </lg>
 
@@ -332,23 +332,23 @@
             <!-- p. 76 (Brianna) -->
             <lg type="poem">
                <head>
-                  <title>ARRANGEMENT OF A BOUQUET</title>
+                  <title><ref target="#drayton">ARRANGEMENT OF A BOUQUET</ref></title>
                   <bibl>
                      <author>
                         <persName>
-                           <ref target="#Drayton"><surname>Drayton</surname></ref>
+                           <surname><ref target="#drayton">Drayton</ref></surname>
                            <forename>Nicholas</forename>
                         </persName>
                      </author>
                   </bibl>
                </head>
                <lg type="stanza">
-                  <l>HERE damask Roses, white and red,</l>
+                  <l>HERE damask <ref target="#rose">Roses</ref>, white and red,</l>
                   <l>Out of my lap first take I,</l>
                   <l>Which still shall run along the thread,</l>
                   <l>My chiefest flower this make I.</l></lg>
                   
-                  <lg type="stanza"><l>Amongst these Roses in a row,</l>
+                  <lg type="stanza"><l>Amongst these <ref target="#rose">Roses</ref> in a row,</l>
                   <l>Next place I Pinks in plenty,</l>
                   <l>These double Pansies then for show;</l>
                   <l>And will not this be dainty?</l></lg>
@@ -370,7 +370,7 @@
                   
                   <lg type="stanza"><l>A course of Cowslips then I'll stick,</l>
                   <l>And here and there (though sparely)</l>
-                  <l>The pleasant Primrose down I'll prick,</l>
+                  <l>The pleasant <ref target="#rose">Primrose</ref> down I'll prick,</l>
                   <l>Like pearls that will show rarely;</l></lg>
                   
                   <lg type="stanza"><l>Then with these Marigolds I'll make</l>
@@ -378,12 +378,12 @@
                   <l>These Honeysuckles then I'll take,</l>
                   <l>Whose sweets shall help their smelling.</l></lg>
                   
-                  <lg type="stanza"><l>The Lily and the Fleur-de-lis,</l>
+                  <lg type="stanza"><l>The <ref target="#lily">Lily</ref> and the Fleur-de-lis,</l>
                   <l>For colour much contending;</l>
                   <l>For that I them do only prize,</l>
                   <l>They are but poor in scenting.</l></lg>
                   
-                  <lg type="stanza"><l>The Daffodil most dainty is,</l>
+                  <lg type="stanza"><l>The <ref target="#daffodil">Daffodil</ref> most dainty is,</l>
                   <l>To match with these in meetness;</l>
                   <l>The Columbine compared to this,</l>
                   <l>All much alike for sweetness.</l></lg>
@@ -393,12 +393,12 @@
                   <l>Therefore I'll take especial care</l>
                   <l>To place them in their order:</l></lg>
                   
-                  <lg><l>Sweet-williams, Campions, Sops-in-wine,</l>
+                  <lg><l><ref target="#william">Sweet-williams</ref>, <ref target="#rose">Campions</ref>, Sops-in-wine,</l>
                   <l>One by another neatly;</l>
                   <l>Thus have I made this wreath of mine,</l>
                   <l>And finished it featly.</l></lg>
                   
-                  <byline><ref target="#Drayton">NICHOLAS DRAYTON.</ref></byline>  
+                  <byline><ref target="#drayton">NICHOLAS DRAYTON.</ref></byline>  
             </lg>
             
          </div>
