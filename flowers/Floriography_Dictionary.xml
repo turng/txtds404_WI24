@@ -13,12 +13,16 @@
             <editor>Brianna Patane</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Our text is meant to be published as a digital edition for a webpage that an audience can visit to learn more about the language of flowers, their meanings, and how it would have been used in the Victorian era. It was originally created to fulfill
-               course requirements in a textual and digital studies class at University of Washington and was published on a personal website.</p>
+            <p>Our text is meant to be published as a digital edition for a webpage that an audience
+               can visit to learn more about the language of flowers, their meanings, and how it
+               would have been used in the Victorian era. It was originally created to fulfill
+               course requirements in a textual and digital studies class at University of
+               Washington and was published on a personal website.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>The source edition is an early printing of Kate Greenaway's illustrated Language of Flowers. Our source is in University of Washington Libraries' Special Collections and is classified as Historical Children's Literature.
-               <bibl>
+            <p>The source edition is an early printing of Kate Greenaway's illustrated Language of
+               Flowers. Our source is in University of Washington Libraries' Special Collections and
+               is classified as Historical Children's Literature. <bibl>
                   <title>Language of Flowers</title>
                   <author>Kate Greenaway</author>
                   <publisher>Frederick Warne &amp; Co. Ltd.</publisher>
@@ -30,126 +34,238 @@
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Our project is meant to de-mystify modern understanding of the flower communication that British and American peoples in the Victorian era would use with friends, lovers, and family. We hope that this edition provides an education not just on the meaning of flowers, but also how they would have been properly used regardless of what 21st-century Hollywood and Harlequinn claim. By cross-referencing the flowers and their meanings to the poetry at the end of the edition, we hope to broaden our audience's understanding of what it meant to use flowers as a form of communication.</p>
+            <p>Our project is meant to de-mystify modern understanding of the flower communication
+               that British and American peoples in the Victorian era would use with friends,
+               lovers, and family. We hope that this edition provides an education not just on the
+               meaning of flowers, but also how they would have been properly used regardless of
+               what 21st-century Hollywood and Harlequinn claim. By cross-referencing the flowers
+               and their meanings to the poetry at the end of the edition, we hope to broaden our
+               audience's understanding of what it meant to use flowers as a form of
+               communication.</p>
          </projectDesc>
          <samplingDecl>
-            <p>We edited pages from each of the three main sections of our source text. These sections include two lists, one which is centered on flowers and the other which is centered on the meanings, and the third section is one of poetry that relates to flowers or meanings mentioned in the previous lists. This sampling allows us to present an overall understanding of the source itself while still fulfilling the purposes of our specific edition. By choosing some pages that are highlighted in the source text via major illustrations and definitions and poetry that align with those pages, we hope that our audience gains a broader appreciation for the language of flowers.</p>
+            <p>We edited pages from each of the three main sections of our source text. These
+               sections include two lists, one which is centered on flowers and the other which is
+               centered on the meanings, and the third section is one of poetry that relates to
+               flowers or meanings mentioned in the previous lists. This sampling allows us to
+               present an overall understanding of the source itself while still fulfilling the
+               purposes of our specific edition. By choosing some pages that are highlighted in the
+               source text via major illustrations and definitions and poetry that align with those
+               pages, we hope that our audience gains a broader appreciation for the language of
+               flowers.</p>
          </samplingDecl>
          <editorialDecl>
             <normalization>
-               <p>We chose to keep the spelling of the original text while adding an editorial note that includes an updated version. This is only relevant to the poetry section of our text. We chose not to update spelling or puncutation and instead retain these as they appear in the source edition. The two lists don't need updated spelling, but we will include notational definitions where necessary.</p>
+               <p>We chose to keep the spelling of the original text while adding an editorial note
+                  that includes an updated version. This is only relevant to the poetry section of
+                  our text. We chose not to update spelling or puncutation and instead retain these
+                  as they appear in the source edition. The two lists don't need updated spelling,
+                  but we will include notational definitions where necessary.</p>
             </normalization>
             <segmentation>
-               <p>We have segmented the text into three sections: two lists and one section of poetry. While the source text does not explicitly separate these sections, we will have headers that show when a new section begins and ends.</p>
+               <p>We have segmented the text into three sections: two lists and one section of
+                  poetry. While the source text does not explicitly separate these sections, we will
+                  have headers that show when a new section begins and ends.</p>
             </segmentation>
-            <p>Cross references will be provided for the flowers that are emphasized in the text with illustrations and these cross-references will connect to poems that reference these flowers and the list of meanings that has no illustrations. We will also add notes referencing how these flowers would have been used by the average Victorian person, as well as other information that might be useful or interesting to our audience such as where flowers could have been found or when they would have been appropriately used and for what kind of reception.</p>
+            <p>Cross references will be provided for the flowers that are emphasized in the text
+               with illustrations and these cross-references will connect to poems that reference
+               these flowers and the list of meanings that has no illustrations. We will also add
+               notes referencing how these flowers would have been used by the average Victorian
+               person, as well as other information that might be useful or interesting to our
+               audience such as where flowers could have been found or when they would have been
+               appropriately used and for what kind of reception.</p>
          </editorialDecl>
       </encodingDesc>
    </teiHeader>
-  <text>
-     <front>
-        <div type="editorial_intro">
-           <p>The small illustrated book, Language of Flowers (1884) is meant to be read as an illustrated dictionary of meanings for common (northern hemisphere) flowers, reflecting the popularity of floriography in the Victorian era. To enhance the reader’s understanding of the meaning of the flowers, the illustrator Kate Greenaway (attributed as author) drew specific images that reflect on specific flowers and their meanings and included poems that relate or mention certain flowers that are listed in the main portion of the text. While the text was originally published as a children’s educational book, it would also have been useful for new debutantes as they entered society. The illustrations and poetry add a romantic flair, which would have added to the appeal for this group when they began courting.</p>
-       <p>For our edition, we seek to introduce fans of novels from the Victorian and Georgian eras to something that might educate them about the use of flowers, particularly in the Victorian era. The information we provide via annotations is what we believe the original audience would have innately understood. To do this, we provide annotations on how the flowers might have been used, information about the poets cited in the back of the book, and we also provide some background on scholars’ research pertaining to Victorian etiquette and floriography. To connect everything together, we specifically chose to annotate flowers with meanings explicitly illustrated in the original text. We hope our target audience can still enjoy shows such as Bridgerton while bringing a more realistic understanding of real life in the Victorian era to their viewing.</p>
-           <p>One major change we do make is adding in titles to the three different sections of the text. We do this for ease of reading and understanding, but instead of changing the spelling or punctuation of our original source, we simply add annotations to explain the archaic forms. We hope this keeps the romantic flair of the original text without sacrificing the education we wish to provide our readers.</p>
-        </div>
-        <div type="front_pages">
-           <figure><graphic url="Flowers_titled_page.png"/><head>Language of Flowers</head><figDesc>The figure shows a woman in a green dress decorating a straw hat with flowers while sitting in a blue, straight-backed wooden chair.</figDesc></figure>
-           <figure><graphic url="cherub_cornucopia.png"/><figDesc>Two cherbus dressed in white robes are carrying a flower-filled cornucopia tied with blue ribbon through the grass.</figDesc></figure>
-           <figure><graphic url="dancing_cherubs.png"/><figDesc>Three cherubs dressed in white robes are dancing in a circle. All three cherubs are wearing hats, and the cherub on the left is carrying a bow and quiver full of arrows while the cherub on the right is standing in front of a bow placed on the ground. Two cherubs are wearing straw hats with blue ribbons, and the middle cherub is wearing a black top hat.></figDesc></figure>
-           <figure><graphic url="balcony_women.png"/><figDesc>Three women wearing short-sleeved dresses and bonnets on their heads are standing on a green balcony. Two women are looking to the right, and one woman is facing away from the reader looking over the far edge of the balcony. The woman most far-right is holding bunches of flowers in her apron, and the woman next to her is holding a sprig of flowers above their heads with her right hand and hodling a bouquet of flowers at her side in her left hand. The third woman appears to be holding another bouquet of flowers in her right hand as well.</figDesc></figure>
-        </div>
-        <!-- GT: nice job on the title page! -->
-        <titlePage>
-           <docTitle><titlePart><ref target="#Language">Language of Flowers</ref></titlePart></docTitle>
-           <byline>Illustrated by <ref target="#Greenaway">Kate Greenaway</ref></byline>
-           <docImprint>
-              <pubPlace>London</pubPlace>
-              <pubPlace>New York</pubPlace>
-              <publisher>Frederick Warne &amp; Co. Ltd.</publisher>
-           </docImprint>
-           <figure><graphic url="title_page.png"/><figDesc>The title and author information is printed on a sheet tied to two wooden poles rising above either side of the sheet. At the top of each pole are large flowers, and leaves creep down the sides of both poles. Two cherubs on either side work to tie a large blue ribbon from one pole to the other. Above the title information, the ribbon meets to form a huge bow.</figDesc></figure>
-        </titlePage>
-        <figure><graphic url="rose_basket.png"/><figDesc>Two cherubs wearing white robes and straw hats decorated with roses are carrying a large basket filled with cut roses across the grass.</figDesc></figure>
-     </front>
+   <text>
+      <front>
+         <div type="editorial_intro">
+            <p>The small illustrated book, Language of Flowers (1884) is meant to be read as an
+               illustrated dictionary of meanings for common (northern hemisphere) flowers,
+               reflecting the popularity of floriography in the Victorian era. To enhance the
+               reader’s understanding of the meaning of the flowers, the illustrator Kate Greenaway
+               (attributed as author) drew specific images that reflect on specific flowers and
+               their meanings and included poems that relate or mention certain flowers that are
+               listed in the main portion of the text. While the text was originally published as a
+               children’s educational book, it would also have been useful for new debutantes as
+               they entered society. The illustrations and poetry add a romantic flair, which would
+               have added to the appeal for this group when they began courting.</p>
+            <p>For our edition, we seek to introduce fans of novels from the Victorian and Georgian
+               eras to something that might educate them about the use of flowers, particularly in
+               the Victorian era. The information we provide via annotations is what we believe the
+               original audience would have innately understood. To do this, we provide annotations
+               on how the flowers might have been used, information about the poets cited in the
+               back of the book, and we also provide some background on scholars’ research
+               pertaining to Victorian etiquette and floriography. To connect everything together,
+               we specifically chose to annotate flowers with meanings explicitly illustrated in the
+               original text. We hope our target audience can still enjoy shows such as Bridgerton
+               while bringing a more realistic understanding of real life in the Victorian era to
+               their viewing.</p>
+            <p>One major change we do make is adding in titles to the three different sections of
+               the text. We do this for ease of reading and understanding, but instead of changing
+               the spelling or punctuation of our original source, we simply add annotations to
+               explain the archaic forms. We hope this keeps the romantic flair of the original text
+               without sacrificing the education we wish to provide our readers.</p>
+         </div>
+         <div type="front_pages">
+            <figure>
+               <graphic url="Flowers_titled_page.png"/>
+               <head>Language of Flowers</head>
+               <figDesc>The figure shows a woman in a green dress decorating a straw hat with
+                  flowers while sitting in a blue, straight-backed wooden chair.</figDesc>
+            </figure>
+            <figure>
+               <graphic url="cherub_cornucopia.png"/>
+               <figDesc>Two cherbus dressed in white robes are carrying a flower-filled cornucopia
+                  tied with blue ribbon through the grass.</figDesc>
+            </figure>
+            <figure>
+               <graphic url="dancing_cherubs.png"/>
+               <figDesc>Three cherubs dressed in white robes are dancing in a circle. All three
+                  cherubs are wearing hats, and the cherub on the left is carrying a bow and quiver
+                  full of arrows while the cherub on the right is standing in front of a bow placed
+                  on the ground. Two cherubs are wearing straw hats with blue ribbons, and the
+                  middle cherub is wearing a black top hat.></figDesc>
+            </figure>
+            <figure>
+               <graphic url="balcony_women.png"/>
+               <figDesc>Three women wearing short-sleeved dresses and bonnets on their heads are
+                  standing on a green balcony. Two women are looking to the right, and one woman is
+                  facing away from the reader looking over the far edge of the balcony. The woman
+                  most far-right is holding bunches of flowers in her apron, and the woman next to
+                  her is holding a sprig of flowers above their heads with her right hand and
+                  hodling a bouquet of flowers at her side in her left hand. The third woman appears
+                  to be holding another bouquet of flowers in her right hand as well.</figDesc>
+            </figure>
+         </div>
+         <!-- GT: nice job on the title page! -->
+         <titlePage>
+            <docTitle>
+               <titlePart><ref target="#Language">Language of Flowers</ref></titlePart>
+            </docTitle>
+            <byline>Illustrated by <ref target="#Greenaway">Kate Greenaway</ref></byline>
+            <docImprint>
+               <pubPlace>London</pubPlace>
+               <pubPlace>New York</pubPlace>
+               <publisher>Frederick Warne &amp; Co. Ltd.</publisher>
+            </docImprint>
+            <figure>
+               <graphic url="title_page.png"/>
+               <figDesc>The title and author information is printed on a sheet tied to two wooden
+                  poles rising above either side of the sheet. At the top of each pole are large
+                  flowers, and leaves creep down the sides of both poles. Two cherubs on either side
+                  work to tie a large blue ribbon from one pole to the other. Above the title
+                  information, the ribbon meets to form a huge bow.</figDesc>
+            </figure>
+         </titlePage>
+         <figure>
+            <graphic url="rose_basket.png"/>
+            <figDesc>Two cherubs wearing white robes and straw hats decorated with roses are
+               carrying a large basket filled with cut roses across the grass.</figDesc>
+         </figure>
+      </front>
       <body>
          <div type="flowers">
             <head>Flowers</head>
-         <list>
-            
-<!-- p. 16 (Victoria) -->
-            
-<!-- p. 26 (Cari) -->
-            
-<!-- p. 29 (Victoria) -->
-          
-<!-- P. 32 (Brianna) -->
-            <figure><graphic url="periwinkle_friendship.png"/><figDesc>Two young girls stand under a tree sharing secrets. One is dressed in a blue dress and cape with hood, and the other is dressed in a green dress and cape with hood. The girl dressed in blue is carrying a slate, and the girl dressed in green is carrying a lunch sack. Behind the tree is a wall, and to the right of the wall is an overlook of the town skyline.</figDesc></figure>
-            <item>Palm.....<hi rend="italics">Victory.</hi></item>
-            <item>Pansy.....<hi rend="italics">Thoughts.</hi></item>
-            <item>Parsley.....<hi rend="italics">Festivity</hi></item>
-            <item>Pasque Flower.....<hi rend="italics">You have no claims.</hi></item>
-            <item>Passion Flower.....<hi rend="italics">Religious superstition.</hi></item>
-            <item>Patience Dock.....<hi rend="italics">Patience.</hi></item>
-            <item>Pea, Everlasting.....<hi rend="italics">An Appointed Meeting. Lasting Pleasure.</hi></item>
-            <item>Pea, Sweet.....<hi rend="italics">Departure.</hi></item>
-            <item>Peach.....<hi rend="italics">Your qualities, like your charms, are unequalled.</hi></item>
-            <item>Peach Blossom.....<hi rend="italics">I am your captive.</hi></item>
-            <item>Pear.....<hi rend="italics">Affection.</hi></item>
-            <item>Pear Tree.....<hi rend="italics">Comfort.</hi></item>
-            <item>Pennyroyal.....<hi rend="italics">Flee Away.</hi></item>
-            <item>Peony.....<hi rend="italics">Shame. Bashfulness.</hi></item>
-            <item>Peppermint.....<hi rend="italics">Warmth of feeling.</hi></item>
-            <!-- GT: I mentioned this in my email, but I wonder if the <ref> should only contain the name of the flower
-               if the ref is pointing to a note about the flower? -->
-            <item><ref target="#periwinkle">Periwinkle, Blue</ref>.....<hi rend="italics">Early Friendship.</hi></item>
-            <item><ref target="#periwinkle">Periwinkle, white</ref>.....<hi rend="italics">Pleasures of memory.</hi></item>
-            <item>Persicaria.....<hi rend="italics">Restoration.</hi></item>
-            
-<!-- P. 36 (Brianna) -->            
-            <figure><graphic url="flowers_image_2.png"/><figDesc>A woman in a short-sleeved, green dress reclines in a chaise lounge while holding a letter in her right hand. She is wearing a bonnet and gloves, and to the right of the chaise is a side table with two drawers. On top of the table is a white vase filled with pink flowers, and behind the woman is a window with yellow curtains. The curtains are pulled back, and outside the window is a glimpse of green lawn.</figDesc></figure>
-            <item>Ragged Robin.....<hi rend="italics">Wit.</hi></item>     
-            <item>Ranunculus.....<hi rend="italics">You are radiant with charms.</hi></item>
-            <item>Ranunculus, Garden.....<hi rend="italics">You are rich in attractions.</hi></item>
-            <item>Ranunculus, Wild.....<hi rend="italics">Ingratitude.</hi></item>
-            <item>Raspberry.....<hi rend="italics">Remorse.</hi></item>
-            <item>Ray Grass.....<hi rend="italics">Vice.</hi></item>           
-            <item>Red Catchfly.....<hi rend="italics">Youthful lore.</hi></item> 
-            <item>Reed.....<hi rend="italics">Complaisance. Music.</hi></item>           
-            <item>Reed, Split.....<hi rend="italics">Indiscretion.</hi></item>          
-            <item>Rhododendron (Rosebay).....<hi rend="italics">Danger. Beware.</hi></item>           
-            <item>Rhubarb.....<hi rend="italics">Advice.</hi></item>         
-            <item>Rocket.....<hi rend="italics">Rivalry.</hi></item>
-           <item><ref target="#rose">Rose</ref>.....<hi rend="italics">Love.</hi></item>
-            <item>Rose, Austrian.....<hi rend="italics">Thou art all that is lovely.</hi></item>          
-            <item>Rose, Bridal.....<hi rend="italics">Happy love.</hi></item>   
-            <item>Rose, Burgundy.....<hi rend="italics">Unconscious beauty.</hi></item>  
-            <item>Rose, Cabbage.....<hi rend="italics">Ambassador of love.</hi></item>   
-            <item><ref target="#rose">Rose, Campion</ref>.....<hi rend="italics">Only deserve my love.</hi></item>
-           <item> Rose, Carolina.....<hi rend="italics">Love is dangerous.</hi></item>   
-            <item>Rose, China.....<hi rend="italics">Beauty always new.</hi></item>    
-           <item>Rose, Christmas.....<hi rend="italics">Tranquillize my anxiety.</hi></item> 
-            
-<!-- p. 40 (Cari) -->
+            <list>
 
-         </list>
+               <!-- p. 16 (Victoria) -->
+
+               <!-- p. 26 (Cari) -->
+
+               <!-- p. 29 (Victoria) -->
+
+               <!-- P. 32 (Brianna) -->
+               <figure>
+                  <graphic url="periwinkle_friendship.png"/>
+                  <figDesc>Two young girls stand under a tree sharing secrets. One is dressed in a
+                     blue dress and cape with hood, and the other is dressed in a green dress and
+                     cape with hood. The girl dressed in blue is carrying a slate, and the girl
+                     dressed in green is carrying a lunch sack. Behind the tree is a wall, and to
+                     the right of the wall is an overlook of the town skyline.</figDesc>
+               </figure>
+               <item>Palm.....<hi rend="italics">Victory.</hi></item>
+               <item>Pansy.....<hi rend="italics">Thoughts.</hi></item>
+               <item>Parsley.....<hi rend="italics">Festivity</hi></item>
+               <item>Pasque Flower.....<hi rend="italics">You have no claims.</hi></item>
+               <item>Passion Flower.....<hi rend="italics">Religious superstition.</hi></item>
+               <item>Patience Dock.....<hi rend="italics">Patience.</hi></item>
+               <item>Pea, Everlasting.....<hi rend="italics">An Appointed Meeting. Lasting
+                     Pleasure.</hi></item>
+               <item>Pea, Sweet.....<hi rend="italics">Departure.</hi></item>
+               <item>Peach.....<hi rend="italics">Your qualities, like your charms, are
+                     unequalled.</hi></item>
+               <item>Peach Blossom.....<hi rend="italics">I am your captive.</hi></item>
+               <item>Pear.....<hi rend="italics">Affection.</hi></item>
+               <item>Pear Tree.....<hi rend="italics">Comfort.</hi></item>
+               <item>Pennyroyal.....<hi rend="italics">Flee Away.</hi></item>
+               <item>Peony.....<hi rend="italics">Shame. Bashfulness.</hi></item>
+               <item>Peppermint.....<hi rend="italics">Warmth of feeling.</hi></item>
+               <!-- GT: I mentioned this in my email, but I wonder if the <ref> should only contain the name of the flower
+               if the ref is pointing to a note about the flower? -->
+               <item><ref target="#periwinkle">Periwinkle, Blue</ref>.....<hi rend="italics">Early
+                     Friendship.</hi></item>
+               <item><ref target="#periwinkle">Periwinkle, white</ref>.....<hi rend="italics"
+                     >Pleasures of memory.</hi></item>
+               <item>Persicaria.....<hi rend="italics">Restoration.</hi></item>
+
+               <!-- P. 36 (Brianna) -->
+               <figure>
+                  <graphic url="flowers_image_2.png"/>
+                  <figDesc>A woman in a short-sleeved, green dress reclines in a chaise lounge while
+                     holding a letter in her right hand. She is wearing a bonnet and gloves, and to
+                     the right of the chaise is a side table with two drawers. On top of the table
+                     is a white vase filled with pink flowers, and behind the woman is a window with
+                     yellow curtains. The curtains are pulled back, and outside the window is a
+                     glimpse of green lawn.</figDesc>
+               </figure>
+               <item>Ragged Robin.....<hi rend="italics">Wit.</hi></item>
+               <item>Ranunculus.....<hi rend="italics">You are radiant with charms.</hi></item>
+               <item>Ranunculus, Garden.....<hi rend="italics">You are rich in
+                  attractions.</hi></item>
+               <item>Ranunculus, Wild.....<hi rend="italics">Ingratitude.</hi></item>
+               <item>Raspberry.....<hi rend="italics">Remorse.</hi></item>
+               <item>Ray Grass.....<hi rend="italics">Vice.</hi></item>
+               <item>Red Catchfly.....<hi rend="italics">Youthful lore.</hi></item>
+               <item>Reed.....<hi rend="italics">Complaisance. Music.</hi></item>
+               <item>Reed, Split.....<hi rend="italics">Indiscretion.</hi></item>
+               <item>Rhododendron (Rosebay).....<hi rend="italics">Danger. Beware.</hi></item>
+               <item>Rhubarb.....<hi rend="italics">Advice.</hi></item>
+               <item>Rocket.....<hi rend="italics">Rivalry.</hi></item>
+               <item><ref target="#rose">Rose</ref>.....<hi rend="italics">Love.</hi></item>
+               <item>Rose, Austrian.....<hi rend="italics">Thou art all that is lovely.</hi></item>
+               <item>Rose, Bridal.....<hi rend="italics">Happy love.</hi></item>
+               <item>Rose, Burgundy.....<hi rend="italics">Unconscious beauty.</hi></item>
+               <item>Rose, Cabbage.....<hi rend="italics">Ambassador of love.</hi></item>
+               <item><ref target="#rose">Rose, Campion</ref>.....<hi rend="italics">Only deserve my
+                     love.</hi></item>
+               <item> Rose, Carolina.....<hi rend="italics">Love is dangerous.</hi></item>
+               <item>Rose, China.....<hi rend="italics">Beauty always new.</hi></item>
+               <item>Rose, Christmas.....<hi rend="italics">Tranquillize my anxiety.</hi></item>
+
+               <!-- p. 40 (Cari) -->
+
+            </list>
          </div>
          <div type="meanings">
             <head>Meanings</head>
             <list>
-               
-<!-- p. 52 (Brianna) -->   
-              <item> Facility.......<hi rend="italics">Germander Speedwell.</hi></item>
+
+               <!-- p. 52 (Brianna) -->
+               <item> Facility.......<hi rend="italics">Germander Speedwell.</hi></item>
                <item>Fairies' fire.......<hi rend="italics">Pyrus Japonica.</hi></item>
                <item>Faithfulness.......<hi rend="italics">Blue Violet.</hi></item>
                <item>Faithfulness.......<hi rend="italics">Heliotrope.</hi></item>
                <item>Falsehood.......<hi rend="italics">Buglass.</hi></item>
-               <item>Falsehood.......<hi rend="italics"><ref target="#lily">Yellow Lily.</ref></hi></item>
+               <item>Falsehood.......<hi rend="italics"><ref target="#lily">Yellow
+                  Lily.</ref></hi></item>
                <item>Falsehood.......<hi rend="italics">Manchineal Tree.</hi></item>
                <item>Fame Tulip.......<hi rend="italics">Trumpet Flower.</hi></item>
-               <item>Fame speaks him great and good.......<hi rend="italics">Apple Blossom.</hi></item>
+               <item>Fame speaks him great and good.......<hi rend="italics">Apple
+                  Blossom.</hi></item>
                <item>Fantastic extravagance.......<hi rend="italics">Scarlet Poppy.</hi></item>
-               <item>Farewell.......<hi rend="italics"><ref target="#daisy">Michaelmas Daisy.</ref></hi></item>
+               <item>Farewell.......<hi rend="italics"><ref target="#daisy">Michaelmas
+                     Daisy.</ref></hi></item>
                <item>Fascination.......<hi rend="italics">Fern.</hi></item>
                <item>Fascination.......<hi rend="italics">Honesty.</hi></item>
                <item>Fashion.......<hi rend="italics">Queen's Rocket.</hi></item>
@@ -158,46 +274,53 @@
                <item>Female fidelity.......<hi rend="italics">Speedwell.</hi></item>
                <item>Festivity.......<hi rend="italics">Parsley.</hi></item>
                <item>Fickleness.......<hi rend="italics">Abatina.</hi></item>
-               <item>Fickleness.......<hi rend="italics"><ref target="#larkspur">Pink Larkspur.</ref></hi></item>
+               <item>Fickleness.......<hi rend="italics"><ref target="#larkspur">Pink
+                        Larkspur.</ref></hi></item>
                <item>Filial love.......<hi rend="italics">Virgin's bower.</hi></item>
-              <item>Fidelity.......<hi rend="italics">Veronica. Ivy.</hi></item>
+               <item>Fidelity.......<hi rend="italics">Veronica. Ivy.</hi></item>
                <item>Fidelity.......<hi rend="italics">Plum Tree.</hi></item>
                <item>Fidelity in adversity.......<hi rend="italics">Wall-flower.</hi></item>
                <item>Fidelity in love.......<hi rend="italics">Lemon Blossoms.</hi></item>
                <item>Fire.......<hi rend="italics">Fleur-de-Luce.</hi></item>
                <item>First emotions of love.......<hi rend="italics">Purple Lilac.</hi></item>
-              <item> Flame.......<hi rend="italics">Fleur-de-lis. Iris.</hi></item>
+               <item> Flame.......<hi rend="italics">Fleur-de-lis. Iris.</hi></item>
                <item>Flattery.......<hi rend="italics">Venus' Looking-glass.</hi></item>
                <item>Flee away.......<hi rend="italics">Pennyroyal.</hi></item>
-              <item> Fly with me.......<hi rend="italics">Venus' Car.</hi></item>
+               <item> Fly with me.......<hi rend="italics">Venus' Car.</hi></item>
                <item>Folly.......<hi rend="italics">Columbine.</hi></item>
                <item>Foppery.......<hi rend="italics">Cockscomb Amaranth.</hi></item>
                <item>Foolishness.......<hi rend="italics">Pomegranate.</hi></item>
                <item>Foresight.......<hi rend="italics">Holly.</hi></item>
                <item>Forgetfulness.......<hi rend="italics">Moonwort.</hi></item>
                <item>Forget me not.......<hi rend="italics">Forget Me Not.</hi></item>
-               <item>For once may pride befriend me.......<hi rend="italics">Tiger Flower.</hi></item>
+               <item>For once may pride befriend me.......<hi rend="italics">Tiger
+                  Flower.</hi></item>
                <item>Forsaken.......<hi rend="italics">Garden Anemone.</hi></item>
                <item>Forsaken.......<hi rend="italics">Laburnum.</hi></item>
                <item>Frankness.......<hi rend="italics">Osier.</hi></item>
-               <item>Fraternal love.......<hi rend="italics"><ref target="#woodbine">Woodbine.</ref></hi></item>
+               <item>Fraternal love.......<hi rend="italics"><ref target="#woodbine"
+                     >Woodbine.</ref></hi></item>
                <item>Freedom.......<hi rend="italics">Water Willow.</hi></item>
-               <item>Freshness.......<hi rend="italics"><ref target="#rose">Damask Rose.</ref></hi></item>
+               <item>Freshness.......<hi rend="italics"><ref target="#rose">Damask
+                  Rose.</ref></hi></item>
                <item>Friendship.......<hi rend="italics">Acacia.</hi></item>
-               <item>Friendship, early.......<hi rend="italics"><ref target="#periwinkle">Blue Periwinkle.</ref></hi></item>
-              <item>Friendship, true.......<hi rend="italics">Oak-leaved Geranium.</hi></item>
+               <item>Friendship, early.......<hi rend="italics"><ref target="#periwinkle">Blue
+                        Periwinkle.</ref></hi></item>
+               <item>Friendship, true.......<hi rend="italics">Oak-leaved Geranium.</hi></item>
                <item>Friendship, unchanging.......<hi rend="italics">Arbor Vitae.</hi></item>
                <item>Frivolity.......<hi rend="italics">London Pride.</hi></item>
                <item>Frugality.......<hi rend="italics">Chicory. Endive.</hi></item>
-               
-<!-- p. 53 (Cari) --> 
-               
-<!-- p. 54 (Victoria) --> 
-               
-<!-- p. 55 (Brianna) -->
-               <item>Ingenuous simplicity.......<hi rend="italics">Mouse-eared Chickweed.</hi></item>
-               <item>Ingratitude.......<hi rend="italics">Crowfoot.</hi></item>          
-               <item>Innocence.......<hi rend="italics"><ref target="#daisy">Daisy.</ref></hi></item>
+
+               <!-- p. 53 (Cari) -->
+
+               <!-- p. 54 (Victoria) -->
+
+               <!-- p. 55 (Brianna) -->
+               <item>Ingenuous simplicity.......<hi rend="italics">Mouse-eared
+                  Chickweed.</hi></item>
+               <item>Ingratitude.......<hi rend="italics">Crowfoot.</hi></item>
+               <item>Innocence.......<hi rend="italics"><ref target="#daisy"
+                  >Daisy.</ref></hi></item>
                <item>Insincerity.......<hi rend="italics">Foxglove.</hi></item>
                <item>Insinuation.......<hi rend="italics">Great Bindweed.</hi></item>
                <item>Inspiration.......<hi rend="italics">Angelica.</hi></item>
@@ -206,31 +329,36 @@
                <item>Intoxication.......<hi rend="italics">Vine.</hi></item>
                <item>Irony.......<hi rend="italics">Sardony.</hi></item>
                <item>Jealousy.......<hi rend="italics">French Marigold.</hi></item>
-               <item>Jealousy.......<hi rend="italics"><ref target="#rose">Yellow Rose.</ref></hi></item>
+               <item>Jealousy.......<hi rend="italics"><ref target="#rose">Yellow
+                  Rose.</ref></hi></item>
                <item>Jest.......<hi rend="italics">Southernwood.</hi></item>
                <item>Joy.......<hi rend="italics">Wood Sorrel.</hi></item>
                <item>Joys to come.......<hi rend="italics">Lesser Celandine.</hi></item>
                <item>Justice.......<hi rend="italics">Rudbeckia.</hi></item>
                <item>Justice shall be done to you.......<hi rend="italics">Coltsfoot.</hi></item>
-               <item>Justice shall be done to you.......<hi rend="italics">Sweet-scented Tussilage.</hi></item>
+               <item>Justice shall be done to you.......<hi rend="italics">Sweet-scented
+                     Tussilage.</hi></item>
                <item>Knight-errantry.......<hi rend="italics">Helmet Flower (Monkshood).</hi></item>
                <item>Lamentation.......<hi rend="italics">Aspen Tree.</hi></item>
                <item>Lasting beauty.......<hi rend="italics">Stock.</hi></item>
                <item>Lasting pleasures.......<hi rend="italics">Everlasting Pea.</hi></item>
                <item>Let me go.......<hi rend="italics">Butterfly Weed.</hi></item>
-               <item>Levity.......<hi rend="italics"><ref target="#larkspur">Larkspur.</ref></hi></item>
+               <item>Levity.......<hi rend="italics"><ref target="#larkspur"
+                  >Larkspur.</ref></hi></item>
                <item>Liberty.......<hi rend="italics">Live Oak.</hi></item>
                <item>Life.......<hi rend="italics">Lucerne.</hi></item>
                <item>Lightheartedness.......<hi rend="italics">Shamrock.</hi></item>
-               <item>Lightness.......<hi rend="italics"><ref target="#larkspur">Larkspur.</ref></hi></item>
+               <item>Lightness.......<hi rend="italics"><ref target="#larkspur"
+                  >Larkspur.</ref></hi></item>
                <item>Live for me.......<hi rend="italics">Arbor Vitae.</hi></item>
                <item><ref target="#rose">Love.......<hi rend="italics">Myrtle.</hi></ref></item>
                <item>Love.......<hi rend="italics"><ref target="#rose">Rose.</ref></hi></item>
                <item>Love, forsaken.......<hi rend="italics">Creeping Willow.</hi></item>
                <item>Love, returned.......<hi rend="italics">Ambrosia.</hi></item>
-               <item>Love is dangerous.......<hi rend="italics"><ref target="#rose">Carolina Rose.</ref></hi></item>
-               <item>Lustre.......<hi rend="italics">Aconite-leaved Crowfoot,
-               or Fair Maid of France.</hi></item>
+               <item>Love is dangerous.......<hi rend="italics"><ref target="#rose">Carolina
+                        Rose.</ref></hi></item>
+               <item>Lustre.......<hi rend="italics">Aconite-leaved Crowfoot, or Fair Maid of
+                     France.</hi></item>
                <item>Luxury.......<hi rend="italics">Chesnut Tree.</hi></item>
                <item>Magnificent beauty.......<hi rend="italics">Calla, AEthiopica.</hi></item>
                <item>Majesty.......<hi rend="italics">Crown Imperial.</hi></item>
@@ -241,18 +369,18 @@
                <item>Maternal tenderness.......<hi rend="italics">Wood Sorrel.</hi></item>
                <item>Matrimony.......<hi rend="italics">American Linden.</hi></item>
                <item>May you be happy.......<hi rend="italics">Volkamenia.</hi></item>
-               
-               
-               
-<!-- p. 58 (Cari) -->
-               
-<!-- p. 60 (Victoria) -->    
-               
+
+
+
+               <!-- p. 58 (Cari) -->
+
+               <!-- p. 60 (Victoria) -->
+
             </list>
          </div>
          <div type="poetry">
             <head>Poetry</head>
-            
+
             <!-- p. 61 (Cari) 
                
                Here's a template for the poetry! You can copy and paste this, and then just fill in the correct info with your poem(s)!
@@ -272,62 +400,83 @@
                   <l></l>
                </lg>
             </lg>-->
-            
-            
+
+
             <!-- p. 64 (Brianna) -->
             <lg type="poem">
                <head>
-                  <title><ref target="#posie">O LOVE WILL VENTURE IN, &amp; c.</ref></title>  
+                  <title><ref target="#posie">O LOVE WILL VENTURE IN, &amp; c.</ref></title>
                   <bibl>
                      <author>
                         <persName>
                            <ref target="#burns"><surname>Burns</surname>
-                           <forename>Robert</forename></ref>
+                              <forename>Robert</forename></ref>
                         </persName>
                      </author>
                   </bibl>
                </head>
                <lg type="stanza">
-                  <l>O <ref target="#rose">LOVE</ref> will venture in, where it daur na weel be seen,</l>
-                     <l>O <ref target="#rose">love</ref> will venture in, where wisdom ance has been;</l>
-                     <l>But I will down yon river rove, amang the wood sae green,</l>
-                     <l>And a' to pu' a posie to my ain dear May.</l></lg>
-                     
-                     <lg type="stanza"><l>The <ref target="#rose">primrose</ref> I will pu', the firstling o' the year,</l>
-                     <l>And I will pu' the pink, the emblem o' my dear,</l>
-                     <l>For she's the pink o' womankind, and blooms without a peer;</l>
-                     <l>And a' to be a <ref target="#posie">posie</ref> to my ain dear May.</l></lg>
-                     
-                     <lg type="stanza"><l>I'll pu' the budding <ref target="rose">rose</ref>, when Phoebus peeps in view,</l>
-                     <l>For it's like a baumy kiss o' her sweet bonnie mou;</l>
-                     <l>The hyacinth's for constancy w' its unchanging blue,</l>
-                     <l>And a' to be a <ref target="#posie">posie</ref> to my ain dear May.</l></lg>
-                     
-                     <lg type="stanza"><l>The <ref target="#lily">lily</ref> it is pure, and the <ref target="#lily">lily</ref> it is fair.</l>
-                     <l>And in her lovely bosom I'll place the <ref target="#lily">lily</ref> there;</l>
-                     <l>The <ref target="#daisy">daisy's</ref> for simplicity and unaffected air,</l>
-                     <l>And a' to be a <ref target="#posie">posie</ref> to my ain dear May.</l></lg>
-                     
-                     <lg type="stanza"><l>The hawthorn I will pu', wi' its locks o' siller grey,</l>
-                     <l>Where, like an aged man, it stands at break o' day,</l>
-                     <l>But the songster's nest within the bush I winna tak away;</l>
-                     <l>And a' to be a <ref target="#posie">posie</ref> to my ain dear May.</l></lg>
-                     
-                     <lg type="stanza"><l>The <ref target="#woodbine">woodbine</ref> I will pu' when the e'ening star is near,</l>
-                     <l>And the diamond-drops o' dew shall be her e'en sae clear:</l>
-                     <l>The violet's for modesty which weel she fa's to wear,</l>
-                     <l>And a' to be a <ref target="#posie">posie</ref> to my ain dear May.</l></lg>
-                     
-                     <lg type="staza"><l>I'll tie the <ref target="#posie">posie</ref> round w' the silken band o' luve,</l>
-                     <l>And I'll place it in her breast, and I'll swear by a' above,</l>
-                     <l>That to my latest draught o' life the band shall ne'er remuve.</l>
-                     <l>And this will be a <ref target="#posie">posie</ref> to my ain dear May.</l></lg>
-                     
-               <byline><ref target="#burns">BURNS.</ref></byline>
-                  
+                  <l>O <ref target="#rose">LOVE</ref> will venture in, where it daur na weel be
+                     seen,</l>
+                  <l>O <ref target="#rose">love</ref> will venture in, where wisdom ance has
+                     been;</l>
+                  <l>But I will down yon river rove, amang the wood sae green,</l>
+                  <l>And a' to pu' a posie to my ain dear May.</l>
                </lg>
 
-         
+               <lg type="stanza">
+                  <l>The <ref target="#rose">primrose</ref> I will pu', the firstling o' the
+                     year,</l>
+                  <l>And I will pu' the pink, the emblem o' my dear,</l>
+                  <l>For she's the pink o' womankind, and blooms without a peer;</l>
+                  <l>And a' to be a <ref target="#posie">posie</ref> to my ain dear May.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l>I'll pu' the budding <ref target="rose">rose</ref>, when Phoebus peeps in
+                     view,</l>
+                  <l>For it's like a baumy kiss o' her sweet bonnie mou;</l>
+                  <l>The hyacinth's for constancy w' its unchanging blue,</l>
+                  <l>And a' to be a <ref target="#posie">posie</ref> to my ain dear May.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l>The <ref target="#lily">lily</ref> it is pure, and the <ref target="#lily"
+                        >lily</ref> it is fair.</l>
+                  <l>And in her lovely bosom I'll place the <ref target="#lily">lily</ref>
+                     there;</l>
+                  <l>The <ref target="#daisy">daisy's</ref> for simplicity and unaffected air,</l>
+                  <l>And a' to be a <ref target="#posie">posie</ref> to my ain dear May.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l>The hawthorn I will pu', wi' its locks o' siller grey,</l>
+                  <l>Where, like an aged man, it stands at break o' day,</l>
+                  <l>But the songster's nest within the bush I winna tak away;</l>
+                  <l>And a' to be a <ref target="#posie">posie</ref> to my ain dear May.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l>The <ref target="#woodbine">woodbine</ref> I will pu' when the e'ening star is
+                     near,</l>
+                  <l>And the diamond-drops o' dew shall be her e'en sae clear:</l>
+                  <l>The violet's for modesty which weel she fa's to wear,</l>
+                  <l>And a' to be a <ref target="#posie">posie</ref> to my ain dear May.</l>
+               </lg>
+
+               <lg type="staza">
+                  <l>I'll tie the <ref target="#posie">posie</ref> round w' the silken band o'
+                     luve,</l>
+                  <l>And I'll place it in her breast, and I'll swear by a' above,</l>
+                  <l>That to my latest draught o' life the band shall ne'er remuve.</l>
+                  <l>And this will be a <ref target="#posie">posie</ref> to my ain dear May.</l>
+               </lg>
+
+               <byline><ref target="#burns">BURNS.</ref></byline>
+
+            </lg>
+
+
             <!-- p. 71 (Victoria) -->
             <!-- p. 76 (Brianna) -->
             <lg type="poem">
@@ -346,92 +495,142 @@
                   <l>HERE damask <ref target="#rose">Roses</ref>, white and red,</l>
                   <l>Out of my lap first take I,</l>
                   <l>Which still shall run along the thread,</l>
-                  <l>My chiefest flower this make I.</l></lg>
-                  
-                  <lg type="stanza"><l>Amongst these <ref target="#rose">Roses</ref> in a row,</l>
+                  <l>My chiefest flower this make I.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l>Amongst these <ref target="#rose">Roses</ref> in a row,</l>
                   <l>Next place I Pinks in plenty,</l>
                   <l>These double Pansies then for show;</l>
-                  <l>And will not this be dainty?</l></lg>
-                  
-                  <lg type="stanza"><l>The pretty Pansy then I'll tie,</l>
+                  <l>And will not this be dainty?</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l>The pretty Pansy then I'll tie,</l>
                   <l>Like stones some chain inchasing;</l>
                   <l>And next to them, their near ally,</l>
-                  <l>The purple Violet placing.</l></lg>
-                  
-                  <lg type="stanza"><l>The curious choice clove July flower,</l>
+                  <l>The purple Violet placing.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l>The curious choice clove July flower,</l>
                   <l>Whose kind hight the Carnation,</l>
                   <l>or sweetnest of most sovereign power,</l>
-                  <l>Shall help my wreath to fashion;</l></lg>
-                  
-                  <lg type="stanza"><l>Whose sundry colours of one kind,</l>
+                  <l>Shall help my wreath to fashion;</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l>Whose sundry colours of one kind,</l>
                   <l>First from one root derived,</l>
                   <l>Them in their several suits I'll bind:</l>
-                  <l>My garland so contrived.</l></lg>
-                  
-                  <lg type="stanza"><l>A course of Cowslips then I'll stick,</l>
+                  <l>My garland so contrived.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l>A course of Cowslips then I'll stick,</l>
                   <l>And here and there (though sparely)</l>
                   <l>The pleasant <ref target="#rose">Primrose</ref> down I'll prick,</l>
-                  <l>Like pearls that will show rarely;</l></lg>
-                  
-                  <lg type="stanza"><l>Then with these Marigolds I'll make</l>
+                  <l>Like pearls that will show rarely;</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l>Then with these Marigolds I'll make</l>
                   <l>My garland somewhat swelling,</l>
                   <l>These Honeysuckles then I'll take,</l>
-                  <l>Whose sweets shall help their smelling.</l></lg>
-                  
-                  <lg type="stanza"><l>The <ref target="#lily">Lily</ref> and the Fleur-de-lis,</l>
+                  <l>Whose sweets shall help their smelling.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l>The <ref target="#lily">Lily</ref> and the Fleur-de-lis,</l>
                   <l>For colour much contending;</l>
                   <l>For that I them do only prize,</l>
-                  <l>They are but poor in scenting.</l></lg>
-                  
-                  <lg type="stanza"><l>The <ref target="#daffodil">Daffodil</ref> most dainty is,</l>
+                  <l>They are but poor in scenting.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l>The <ref target="#daffodil">Daffodil</ref> most dainty is,</l>
                   <l>To match with these in meetness;</l>
                   <l>The Columbine compared to this,</l>
-                  <l>All much alike for sweetness.</l></lg>
-                  
-                  <lg type="stanza"><l>These in their natures only are</l>
+                  <l>All much alike for sweetness.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l>These in their natures only are</l>
                   <l>Fit to emboss the border.</l>
                   <l>Therefore I'll take especial care</l>
-                  <l>To place them in their order:</l></lg>
-                  
-                  <lg><l><ref target="#william">Sweet-williams</ref>, <ref target="#rose">Campions</ref>, Sops-in-wine,</l>
+                  <l>To place them in their order:</l>
+               </lg>
+
+               <lg>
+                  <l><ref target="#william">Sweet-williams</ref>, <ref target="#rose"
+                     >Campions</ref>, Sops-in-wine,</l>
                   <l>One by another neatly;</l>
                   <l>Thus have I made this wreath of mine,</l>
-                  <l>And finished it featly.</l></lg>
-                  
-                  <byline><ref target="#drayton">NICHOLAS DRAYTON.</ref></byline>  
+                  <l>And finished it featly.</l>
+               </lg>
+
+               <byline><ref target="#drayton">NICHOLAS DRAYTON.</ref></byline>
             </lg>
-            
+
          </div>
-         <div type="end_pages"> <!-- p. 80 (Cari) -->
+         <div type="end_pages">
+            <!-- p. 80 (Cari) -->
             <head><hi rend="italics">ILLUSTRATIONS.</hi></head>
             <list>
-               <item><hi rend="gothic">A</hi> ACACIA.....<hi rend="gothic">Friendship</hi>.....7</item>
-               <item><hi rend="gothic">B</hi> BLADDER NUT TREE.....<hi rend="gothic">Frivolity. Amusement</hi>.....9</item>
-               <item><hi rend="gothic">C</hi> COWSLIP, AMERICAN.....<hi rend="gothic">Divine beauty. You are my divinity.....</hi> 11</item>
-               <item><hi rend="gothic">D</hi> DEAD LEAVES.....<hi rend="gothic">Sadness</hi>.....15</item>
-               <item><hi rend="gothic">E</hi> <ref target="#nightshade">ENCHANTER'S NIGHTSHADE</ref>.....<hi>Witchcraft. Sorcery</hi>.....16</item>
-               <item><hi rend="gothic">F</hi> FIG MARIGOLD.....<hi rend="gothic">Idleness</hi>.....17</item>
-               <item><hi rend="gothic">G</hi> GRAPE, WILD.....<hi rend="gothic">Charity</hi>.....19</item>
-               <item><hi rend="gothic">H</hi> HYACINTH.....<hi rend="gothic">Sport. Game. Play</hi>.....21</item>
-               <item><hi rend="gothic">I</hi> INDIAN JASMINE (IPOMOEA).....<hi rend="gothic">Attachment</hi>.....23</item>
-               <item><hi rend="gothic">J</hi> JACOB'S LADDER.....<hi rend="gothic">Come down</hi>.....24</item>
-               <item><hi rend="gothic">K</hi> KENNEDIA.....<hi rend="gothic">Mental beauty</hi>.....25</item>
-               <item><hi rend="gothic">L</hi>.....<ref target="#larkspur">LARKSPUR, PURPLE</ref> <hi rend="gothic">Haughtiness</hi>.....26</item>
-               <item><hi rend="gothic">M</hi> MOSS.....<hi rend="gothic">Maternal love</hi>.....28</item>
-               <item><hi rend="gothic">N</hi> NETTLE TREE.....<hi rend="gothic">Concert</hi>.....30</item>
-               <item><hi rend="gothic">O</hi> OSMUNDA.....<hi rend="gothic">Dreams</hi>.....31</item>
-               <item><hi rend="gothic">P</hi> <ref target="#periwinkle">PERIWINKLE, BLUE</ref>.....<hi rend="gothic">Early friendship</hi>.....32</item>
-               <item><hi rend="gothic">Q</hi> QUEEN'S ROCKET.....<hi rend="gothic">You are the Queen of Coquettes. Fashion</hi>.....35</item>
-               <item><hi rend="gothic">R</hi> <ref target="#rose">ROSE</ref>.....<hi rend="gothic">Love</hi>.....36</item>
-               <item><hi rend="gothic">S</hi> SOUTHERNWOOD.....<hi rend="gothic">Jest. Bantering</hi>.....38</item>
-               <item><hi rend="gothic">T</hi> <ref target="#thrift">THRIFT</ref>.....<hi rend="gothic">Sympathy</hi>.....40</item>
-               <item><hi rend="gothic">V</hi> VERONICA.....<hi rend="gothic">Fidelity</hi>.....42</item>
-               <item><hi rend="gothic">W</hi> WOOD SORREL.....<hi rend="gothic">Joy. Maternal tenderness</hi>.....43</item>
-               <item><hi rend="gothic">X</hi> XERANTHEMUM.....<hi rend="gothic">Cheerfulness under adversity</hi>.....45</item>
+               <item><hi rend="gothic">A</hi> ACACIA.....<hi rend="gothic"
+                  >Friendship</hi>.....7</item>
+               <item><hi rend="gothic">B</hi> BLADDER NUT TREE.....<hi rend="gothic">Frivolity.
+                     Amusement</hi>.....9</item>
+               <item><hi rend="gothic">C</hi> COWSLIP, AMERICAN.....<hi rend="gothic">Divine beauty.
+                     You are my divinity.....</hi> 11</item>
+               <item><hi rend="gothic">D</hi> DEAD LEAVES.....<hi rend="gothic"
+                  >Sadness</hi>.....15</item>
+               <item><hi rend="gothic">E</hi>
+                  <ref target="#nightshade">ENCHANTER'S NIGHTSHADE</ref>.....<hi>Witchcraft.
+                     Sorcery</hi>.....16</item>
+               <item><hi rend="gothic">F</hi> FIG MARIGOLD.....<hi rend="gothic"
+                  >Idleness</hi>.....17</item>
+               <item><hi rend="gothic">G</hi> GRAPE, WILD.....<hi rend="gothic"
+                  >Charity</hi>.....19</item>
+               <item><hi rend="gothic">H</hi> HYACINTH.....<hi rend="gothic">Sport. Game.
+                  Play</hi>.....21</item>
+               <item><hi rend="gothic">I</hi> INDIAN JASMINE (IPOMOEA).....<hi rend="gothic"
+                     >Attachment</hi>.....23</item>
+               <item><hi rend="gothic">J</hi> JACOB'S LADDER.....<hi rend="gothic">Come
+                  down</hi>.....24</item>
+               <item><hi rend="gothic">K</hi> KENNEDIA.....<hi rend="gothic">Mental
+                  beauty</hi>.....25</item>
+               <item><hi rend="gothic">L</hi>.....<ref target="#larkspur">LARKSPUR, PURPLE</ref>
+                  <hi rend="gothic">Haughtiness</hi>.....26</item>
+               <item><hi rend="gothic">M</hi> MOSS.....<hi rend="gothic">Maternal
+                  love</hi>.....28</item>
+               <item><hi rend="gothic">N</hi> NETTLE TREE.....<hi rend="gothic"
+                  >Concert</hi>.....30</item>
+               <item><hi rend="gothic">O</hi> OSMUNDA.....<hi rend="gothic"
+                  >Dreams</hi>.....31</item>
+               <item><hi rend="gothic">P</hi>
+                  <ref target="#periwinkle">PERIWINKLE, BLUE</ref>.....<hi rend="gothic">Early
+                     friendship</hi>.....32</item>
+               <item><hi rend="gothic">Q</hi> QUEEN'S ROCKET.....<hi rend="gothic">You are the Queen
+                     of Coquettes. Fashion</hi>.....35</item>
+               <item><hi rend="gothic">R</hi>
+                  <ref target="#rose">ROSE</ref>.....<hi rend="gothic">Love</hi>.....36</item>
+               <item><hi rend="gothic">S</hi> SOUTHERNWOOD.....<hi rend="gothic">Jest.
+                     Bantering</hi>.....38</item>
+               <item><hi rend="gothic">T</hi>
+                  <ref target="#thrift">THRIFT</ref>.....<hi rend="gothic"
+                  >Sympathy</hi>.....40</item>
+               <item><hi rend="gothic">V</hi> VERONICA.....<hi rend="gothic"
+                  >Fidelity</hi>.....42</item>
+               <item><hi rend="gothic">W</hi> WOOD SORREL.....<hi rend="gothic">Joy. Maternal
+                     tenderness</hi>.....43</item>
+               <item><hi rend="gothic">X</hi> XERANTHEMUM.....<hi rend="gothic">Cheerfulness under
+                     adversity</hi>.....45</item>
                <item><hi rend="gothic">Y</hi> YEW.....<hi rend="gothic">Sorrow</hi>.....46</item>
-               <item><hi rend="gothic">Z</hi> ZEPHYR FLOWER.....<hi rend="gothic">Expectation</hi>.....47</item>             
+               <item><hi rend="gothic">Z</hi> ZEPHYR FLOWER.....<hi rend="gothic"
+                  >Expectation</hi>.....47</item>
             </list>
          </div>
       </body>
-  </text>
+   </text>
 </TEI>
