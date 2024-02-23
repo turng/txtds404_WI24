@@ -21,38 +21,36 @@
          <p>Some text here.</p>
       </body>
       <back>
-            <listBibl>
-               <biblStruct>
-                  <monogr>
-                     <imprint>
-                        <pubPlace/>
-                        <publisher/>
-                        <date/>
-                     </imprint>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-            <listObject type="flowers">
-               <object>
-                  <objectIdentifier>
-                     <objectName/>
-                  </objectIdentifier>
-               </object>
-            </listObject>
-            <listPerson>
-               <person>
-                  <persName>
-                     <surname/>
-                     <forename/>
-                  </persName>
-               </person>
-            </listPerson>
-           <div type="notes"><noteGrp type="editorial">
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <pubPlace/>
+                     <publisher/>
+                     <date/>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+         <listPerson>
+            <person>
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+            </person>
+         </listPerson>
+         <div type="notes">
+            <noteGrp type="flowers">
+               <note>The rose is associated with romantic love. </note>
+            </noteGrp>
+            <noteGrp type="editorial">
                <note/>
             </noteGrp>
             <noteGrp type="informational">
                <note/>
-            </noteGrp></div>
+            </noteGrp>
+         </div>
       </back>
    </text>
 </TEI>
