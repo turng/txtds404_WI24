@@ -125,7 +125,7 @@
             <item>Rose, Bridal.....<hi rend="italics">Happy love.</hi></item>   
             <item>Rose, Burgundy.....<hi rend="italics">Unconscious beauty.</hi></item>  
             <item>Rose, Cabbage.....<hi rend="italics">Ambassador of love.</hi></item>   
-            <item><ref target="#campion">Rose, Campion</ref>.....<hi rend="italics">Only deserve my love.</hi></item>
+            <item><ref target="#rose">Rose, Campion</ref>.....<hi rend="italics">Only deserve my love.</hi></item>
            <item> Rose, Carolina.....<hi rend="italics">Love is dangerous.</hi></item>   
             <item>Rose, China.....<hi rend="italics">Beauty always new.</hi></item>    
            <item>Rose, Christmas.....<hi rend="italics">Tranquillize my anxiety.</hi></item> 
@@ -158,7 +158,7 @@
                <item>Female fidelity.......<hi rend="italics">Speedwell.</hi></item>
                <item>Festivity.......<hi rend="italics">Parsley.</hi></item>
                <item>Fickleness.......<hi rend="italics">Abatina.</hi></item>
-               <item>Fickleness.......<hi rend="italics">Pink Larkspur.</hi></item>
+               <item>Fickleness.......<hi rend="italics"><ref target="#larkspur">Pink Larkspur.</ref></hi></item>
                <item>Filial love.......<hi rend="italics">Virgin's bower.</hi></item>
               <item>Fidelity.......<hi rend="italics">Veronica. Ivy.</hi></item>
                <item>Fidelity.......<hi rend="italics">Plum Tree.</hi></item>
@@ -182,7 +182,7 @@
                <item>Frankness.......<hi rend="italics">Osier.</hi></item>
                <item>Fraternal love.......<hi rend="italics"><ref target="#woodbine">Woodbine.</ref></hi></item>
                <item>Freedom.......<hi rend="italics">Water Willow.</hi></item>
-               <item>Freshness.......<hi rend="italics"><ref target="#damask">Damask Rose.</ref></hi></item>
+               <item>Freshness.......<hi rend="italics"><ref target="#rose">Damask Rose.</ref></hi></item>
                <item>Friendship.......<hi rend="italics">Acacia.</hi></item>
                <item>Friendship, early.......<hi rend="italics"><ref target="#periwinkle">Blue Periwinkle.</ref></hi></item>
               <item>Friendship, true.......<hi rend="italics">Oak-leaved Geranium.</hi></item>
@@ -218,11 +218,11 @@
                <item>Lasting beauty.......<hi rend="italics">Stock.</hi></item>
                <item>Lasting pleasures.......<hi rend="italics">Everlasting Pea.</hi></item>
                <item>Let me go.......<hi rend="italics">Butterfly Weed.</hi></item>
-               <item>Levity.......<hi rend="italics">Larkspur.</hi></item>
+               <item>Levity.......<hi rend="italics"><ref target="#larkspur">Larkspur.</ref></hi></item>
                <item>Liberty.......<hi rend="italics">Live Oak.</hi></item>
                <item>Life.......<hi rend="italics">Lucerne.</hi></item>
                <item>Lightheartedness.......<hi rend="italics">Shamrock.</hi></item>
-               <item>Lightness.......<hi rend="italics">Larkspur.</hi></item>
+               <item>Lightness.......<hi rend="italics"><ref target="#larkspur">Larkspur.</ref></hi></item>
                <item>Live for me.......<hi rend="italics">Arbor Vitae.</hi></item>
                <item><ref target="#rose">Love.......<hi rend="italics">Myrtle.</hi></ref></item>
                <item>Love.......<hi rend="italics"><ref target="#rose">Rose.</ref></hi></item>
@@ -405,7 +405,31 @@
          <div type="end_pages"> <!-- p. 80 (Cari) -->
             <head><hi rend="italics">ILLUSTRATIONS.</hi></head>
             <list>
-               <item>LIST OF ILLUSTRATIONS</item>
+               <item><hi rend="gothic">A</hi> ACACIA.....<hi rend="gothic">Friendship</hi>.....7</item>
+               <item><hi rend="gothic">B</hi> BLADDER NUT TREE.....<hi rend="gothic">Frivolity. Amusement</hi>.....9</item>
+               <item><hi rend="gothic">C</hi> COWSLIP, AMERICAN.....<hi rend="gothic">Divine beauty. You are my divinity.....</hi> 11</item>
+               <item><hi rend="gothic">D</hi> DEAD LEAVES.....<hi rend="gothic">Sadness</hi>.....15</item>
+               <item><hi rend="gothic">E</hi> <ref target="#nightshade">ENCHANTER'S NIGHTSHADE</ref>.....<hi>Witchcraft. Sorcery</hi>.....16</item>
+               <item><hi rend="gothic">F</hi> FIG MARIGOLD.....<hi rend="gothic">Idleness</hi>.....17</item>
+               <item><hi rend="gothic">G</hi> GRAPE, WILD.....<hi rend="gothic">Charity</hi>.....19</item>
+               <item><hi rend="gothic">H</hi> HYACINTH.....<hi rend="gothic">Sport. Game. Play</hi>.....21</item>
+               <item><hi rend="gothic">I</hi> INDIAN JASMINE (IPOMOEA).....<hi rend="gothic">Attachment</hi>.....23</item>
+               <item><hi rend="gothic">J</hi> JACOB'S LADDER.....<hi rend="gothic">Come down</hi>.....24</item>
+               <item><hi rend="gothic">K</hi> KENNEDIA.....<hi rend="gothic">Mental beauty</hi>.....25</item>
+               <item><hi rend="gothic">L</hi>.....<ref target="#larkspur">LARKSPUR, PURPLE</ref> <hi rend="gothic">Haughtiness</hi>.....26</item>
+               <item><hi rend="gothic">M</hi> MOSS.....<hi rend="gothic">Maternal love</hi>.....28</item>
+               <item><hi rend="gothic">N</hi> NETTLE TREE.....<hi rend="gothic">Concert</hi>.....30</item>
+               <item><hi rend="gothic">O</hi> OSMUNDA.....<hi rend="gothic">Dreams</hi>.....31</item>
+               <item><hi rend="gothic">P</hi> <ref target="#periwinkle">PERIWINKLE, BLUE</ref>.....<hi rend="gothic">Early friendship</hi>.....32</item>
+               <item><hi rend="gothic">Q</hi> QUEEN'S ROCKET.....<hi rend="gothic">You are the Queen of Coquettes. Fashion</hi>.....35</item>
+               <item><hi rend="gothic">R</hi> <ref target="#rose">ROSE</ref>.....<hi rend="gothic">Love</hi>.....36</item>
+               <item><hi rend="gothic">S</hi> SOUTHERNWOOD.....<hi rend="gothic">Jest. Bantering</hi>.....38</item>
+               <item><hi rend="gothic">T</hi> <ref target="#thrift">THRIFT</ref>.....<hi rend="gothic">Sympathy</hi>.....40</item>
+               <item><hi rend="gothic">V</hi> VERONICA.....<hi rend="gothic">Fidelity</hi>.....42</item>
+               <item><hi rend="gothic">W</hi> WOOD SORREL.....<hi rend="gothic">Joy. Maternal tenderness</hi>.....43</item>
+               <item><hi rend="gothic">X</hi> XERANTHEMUM.....<hi rend="gothic">Cheerfulness under adversity</hi>.....45</item>
+               <item><hi rend="gothic">Y</hi> YEW.....<hi rend="gothic">Sorrow</hi>.....46</item>
+               <item><hi rend="gothic">Z</hi> ZEPHYR FLOWER.....<hi rend="gothic">Expectation</hi>.....47</item>             
             </list>
          </div>
       </body>

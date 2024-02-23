@@ -42,7 +42,19 @@
          </listPerson>
          <div type="notes">
             <noteGrp type="flowers">
-               <note>The rose is associated with romantic love. </note>
+               <note xml:id="daffodil"></note>
+               <note xml:id="daisy"></note>
+               <note xml:id="nightshade"></note>
+               <note xml:id="larkspur"></note>
+               <note xml:id="lily"></note>
+               <note xml:id="bride"></note>
+               <note xml:id="mulberry"></note>
+               <note xml:id="periwinkle"></note>
+               <note xml:id="posie"></note>
+               <note xml:id="rose"></note>
+               <note xml:id="william"></note>
+               <note xml:id="thrift"></note>
+               <note xml:id="woodbine"></note>
             </noteGrp>
             <noteGrp type="editorial">
                <note/>
