@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+      <back>
+         <listBibl>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <pubPlace/>
+                     <publisher/>
+                     <date/>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+         <listPerson>
+            <person>
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+            </person>
+         </listPerson>
+         <div type="notes">
+            <noteGrp type="flowers">
+               <note xml:id="daffodil"></note>
+               <note xml:id="daisy"></note>
+               <note xml:id="nightshade"></note>
+               <note xml:id="larkspur"></note>
+               <note xml:id="lily"></note>
+               <note xml:id="bride"></note>
+               <note xml:id="mulberry"></note>
+               <note xml:id="periwinkle"></note>
+               <note xml:id="posie"></note>
+               <note xml:id="rose"></note>
+               <note xml:id="william"></note>
+               <note xml:id="thrift"></note>
+               <note xml:id="woodbine"></note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note/>
+            </noteGrp>
+            <noteGrp type="informational">
+               <note/>
+            </noteGrp>
+         </div>
+      </back>
+   </text>
+</TEI>
