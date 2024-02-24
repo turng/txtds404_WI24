@@ -1048,5 +1048,271 @@
             </list>
          </div>
       </body>
+      
+      <back>
+         <listBibl>
+            <biblStruct>
+               <monogr xml:id="elliot" n="1">
+                  <author>
+                     <persName>
+                        <surname>Elliot</surname>
+                        <forename>Brent</forename>
+                     </persName>
+                  </author>
+                  <title level="j">The Victorian Language of Flowers</title>
+                  <ref>target="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.rhs.org.uk/about-us/pdfs/publications/lindley-library-occasional-papers/volume-ten.pdf"</ref>
+                  <imprint>
+                     <pubPlace>Dorset UK</pubPlace>
+                     <publisher>Occasional Papers from the RHS Lindley Library</publisher>
+                     <date when="2013">April 2013</date>
+                  </imprint>
+                  <biblScope> unit="volume">10</biblScope>
+                  <biblScope unit="issue">1</biblScope>
+                  <biblScope from="3" to="94">3-94 </biblScope>
+               </monogr>
+               <monogr xml:id="daiches" n="2">
+                  <author>
+                     <persName>
+                        <surname>Daiches</surname>
+                        <forename>David</forename>
+                     </persName>
+                  </author>
+                  <title level="j">"Robert Burns"</title>
+                  <ref>target="https://www.britannica.com/biography/Robert-Burns."</ref>
+                  <imprint>
+                     <pubPlace>Encyclopedia Britannica Online</pubPlace>
+                     <publisher>Encyclopedia Britannica</publisher>
+                     <date when="2024">21 Jan. 2024</date>
+                  </imprint>
+               </monogr>
+               <monogr xml:id="engelhardt" n="3">
+                  <author>
+                     <persName>
+                        <surname>Engelhardt</surname>
+                        <forename>Molly</forename>
+                     </persName>
+                  </author>
+                  <title level="j">The Language of Flowers in the Victorian Knowledge Age</title>
+                  <ref>target="https://doi.org/10.3366/vic.2013.0129"</ref>
+                  <imprint>
+                     <pubPlace>Victoriographies online</pubPlace>
+                     <publisher>Edinburgh University Press</publisher>
+                     <date when="2013">November 2013</date>
+                  </imprint>
+                  <biblScope> unit="volume">3</biblScope>
+                  <biblScope unit="issue">2</biblScope>
+                  <biblScope from="136" to="160">136-160 </biblScope>
+               </monogr>
+               <monogr xml:id="examples" n="4">
+                  <author>
+                     <persName>
+                        <surname>Greenaway</surname>
+                        <forename>Kate</forename>
+                     </persName>
+                  </author>
+                  <title level="m">Kate Greenaway: 16 Examples in Colour of the Artist's
+                     Work</title>
+                  <imprint>
+                     <pubPlace>England</pubPlace>
+                     <publisher>A. &amp; C. Black</publisher>
+                     <date when="1910">1910</date>
+                  </imprint>
+               </monogr>
+               <monogr xml:id="language" n="5">
+                  <author>
+                     <persName>
+                        <surname>Greenaway</surname>
+                        <forename>Kate</forename>
+                     </persName>
+                  </author>
+                  <title level="m">Language of Flowers</title>
+                  <imprint>
+                     <pubPlace>London and New York</pubPlace>
+                     <publisher>Frederick Warne &amp; Co.</publisher>
+                     <date when="1884">1884</date>
+                  </imprint>
+               </monogr>
+               <monogr xml:id="jflectcher" n="6">
+                  <author>Editors of Encyclopedia Britannica</author>
+                  <title level="j">"John Fletcher"</title>
+                  <ref>target="https://www.britannica.com/biography/John-Fletcher"</ref>
+                  <imprint>
+                     <pubPlace>Encyclopedia Britannica Online</pubPlace>
+                     <publisher>Encyclopedia Britannica</publisher>
+                     <date when="2023">25 August 2023</date>
+                  </imprint>
+               </monogr>
+               <monogr xml:id="mdrayton" n="7">
+                  <author>Editors of Encyclopedia Britannica </author>
+                  <title level="j">"Michael Drayton</title>
+                  <ref>target="https://www.britannica.com/biography/Michael-Drayton"</ref>
+                  <imprint>
+                     <pubPlace>Encyclopedia Britannica Online</pubPlace>
+                     <publisher>Encyclopedia Britannica</publisher>
+                     <date when="2024">1 January 2024</date>
+                  </imprint>
+               </monogr>
+               <monogr xml:id="neal" n="8">
+                  <author>
+                     <persName>
+                        <surname>Neal</surname>
+                        <forename>Tom</forename>
+                     </persName>
+                  </author>
+                  <title level="m">Kate Greenaway: An Appreciation of a Portraitist</title>
+                  <imprint>
+                     <pubPlace>California</pubPlace>
+                     <publisher>Dawson's Book Shop</publisher>
+                     <date when="1945">1945</date>
+                  </imprint>
+               </monogr>
+               <monogr xml:id="parrish" n="9">
+                  <author>
+                     <persName>
+                        <surname>Parrish</surname>
+                        <forename>Stephen</forename>
+                     </persName>
+                  </author>
+                  <title level="j">William Wordsworth</title>
+                  <ref>target="https://www.britannica.com/biography/William-Wordsworth"</ref>
+                  <imprint>
+                     <pubPlace>Encyclopedia Britannica Online</pubPlace>
+                     <publisher>Encyclopedia Britannica</publisher>
+                     <date when="2023">7 November 2023</date>
+                  </imprint>
+               </monogr>
+               <monogr xml:id="weller" n="10">
+                  <author>
+                     <persName>
+                        <surname>Weller</surname>
+                        <forename>Toni</forename>
+                     </persName>
+                  </author>
+                  <title level="j">The Puffery and Practicality of Etiquette Books: A New Take on
+                     Victorian Information Culture</title>
+                  <ref>target="https://doi.org/10.1353/lib.2014.0011"</ref>
+                  <imprint>
+                     <pubPlace>Library Trends</pubPlace>
+                     <publisher>Project Muse</publisher>
+                     <date when="2014">2014</date>
+                  </imprint>
+                  <biblScope unit="volume">62</biblScope>
+                  <biblScope unit="issue">3</biblScope>
+                  <biblScope from="663" to="680">663-680</biblScope>
+               </monogr>
+            </biblStruct>
+            <biblStruct>
+               <monogr xml:id="wilkinson" n="11">
+                  <author>
+                     <persName>
+                        <surname>Wilkinson</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </author>
+                  <title level="m">The Flower Encyclopedia and Gardener's Guide</title>
+                  <imprint>
+                     <pubPlace>New York</pubPlace>
+                     <publisher>Garden City Publishing Co.</publisher>
+                     <date when="1943">1943</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+         <listPerson>
+            <person xml:id="greenaway" role="illustrator" n="1">
+               <persName><surname>Greenaway</surname>
+                  <forename>Kate</forename></persName>
+               <birth>17 March 1846 </birth>
+               <death>6 November 1901</death>
+               <note><ref target="#neal">Kate Greenaway</ref> was born the same year the first
+                  Christmas card came out, and she even inspired Robert Louis
+                  Stevenson! While she is most well-known for her illustrations of
+                  children's books, she was also prolific in designing Christmas cards and
+                  watercolor portraits. The Language of Flowers is perhaps the most well-known of
+                  all her works, but to study more of her work, see <ref target="#examples">"Kate
+                     Greenaway: 16 Examples in Colour of the Artist's Work."</ref></note>
+            </person>
+            <person xml:id="burns" role="poet" n="2">
+               <persName>
+                  <surname>Burns</surname>
+                  <forename>Robert</forename>
+               </persName>
+               <birth> 25 January 1759 </birth>
+               <death>21 July 1796</death>
+               <note><ref target="daiches">Burns</ref> was a Scottish poet and tenant farmer. He
+                  struggled through much of his life, but when he published his book of poems,
+                  he was almost instantly heralded as a great writer. Many of his poems were
+                  written to popular folk tunes that he was familiar with, which is why "O
+                  Luve Will Venture In" has the byline for the tune of "The
+                  Posie."</note>
+            </person>
+            <person xml:id="drayton" role="poet" n="3">
+               <persName>
+                  <surname>Drayton</surname>
+                  <forename>Nicholas</forename>
+               </persName>
+               <birth>1563</birth>
+               <death>1631</death>
+               <note>While "Arrangement of a Bouquet" is attributed to
+                  Nicholas Drayton, we believe that this references <ref target="#mdrayton">Michael Drayton</ref>, an early
+                  17th century poet and playwright. This poem is found in Drayton's larger
+                  work "The Muses Elysium," which confirms our understanding of this artist.
+                  He lived and worked in England, spending most of his time in London, but he
+                  never achieved great reknown.</note>
+            </person>
+            <person xml:id="fletcher" role="poet" n="4">
+               <persName>
+                  <surname>Fletcher</surname>
+                  <forename>Samuel</forename>
+               </persName>
+               <birth>December 1579</birth>
+               <death>29 August 1625</death>
+               <note>This poem is mistakenly attributed to Samuel
+                  Fletcher when the playwright who composed it was named <ref target="#jfletcher">John Fletcher</ref>. This
+                  poem is found in the work composed by John Fletcher and Francis Beaumont
+                  titled "The Maides Tragedy." John Fletcher became the chief playwright of
+                  the King's Men for the Globe Theater after Shakespeare's retirement around
+                  1613!</note>
+            </person>
+            <person xml:id="wordsworth" role="poet" n="5">
+               <persName>
+                  <surname>Wordsworth</surname>
+                  <forename>William</forename>
+               </persName>
+               <birth>7 April 1770</birth>
+               <death>23 April 1850</death>
+               <note><ref target="parrish">William Wordsworth</ref> launched the Romantic movement with
+                  help from Samuel Taylor Coleridge. Most of our modern understanding of
+                  poetry, what it is and why it exists, has its roots in the work that
+                  Wordsworth did over his career and life.</note>
+            </person>
+         </listPerson>
+         <noteGrp type="flowers">
+            <note xml:id="daffodil" n="1">In our source text, daffodils are associated with regard and with <ref target="#wordsworth">Wordsworth's</ref> poem of the same title. It is also known as the narcissus <ref target="#wilkinson">(Wilkinson 197)</ref>, and they can be white, yellow, or orange. They grow from bulbs and have been worked on extensively in Holland as well as England <ref target="#wilkinson">(157).</ref> They grow best in sandy loam or heavy soil (201), and they fail in very hot climates <ref target="#wilkinson">(209).</ref> Because they are bulb flowers, they must be <ref target="#wilkinson">"well rooted" (206)</ref> before they can be grown in a greenhouse or before blooms can be expected.Once they have bloomed, the tall flowers make for striking boutquets, and they may have been used in courting to alert a woman to possible interest without being a full declaration of love.</note>
+            <note xml:id="daisy" n="2">Daisies are associated with innocence, understanding, beauty, and parting according to <ref target="#greenaway">Kate Greenaway</ref>, but <ref target="#burns">Robert Burns</ref> associates the daisy with "simplicity and unaffected air" in his poem <ref target="#posie">The Posie." </ref> </note>
+            <note xml:id="nightshade" n="3"/>
+            <note xml:id="larkspur" n="4"/>
+            <note xml:id="lily" n="5"/>
+            <note xml:id="bride" n="6"/>
+            <note xml:id="mulberry" n="7"/>
+            <note xml:id="periwinkle" n="8"/>
+            <note xml:id="posie" n="9"/>
+            <note xml:id="rose" n="10"/>
+            <note xml:id="william" n="11"/>
+            <note xml:id="thrift" n="12"/>
+            <note xml:id="woodbine" n="13"/>
+         </noteGrp>
+         <noteGrp type="editorial">
+            <note xml:id="headings">While the original text does not include headings for each section, we added them for ease of reading. "Flowers" indicates the section that lists the flowers first, and then their meanings; "Meanings" indicates the section that lists the meanings first, and then the flowers; and "Poetry" indicates the section of poems that relate to the flowers in the text as well as some flowers or meanings that are not included in our excerpts here.</note>
+            <note xml:id="ash">Whenever there is an ash phonetic symbol in the text, we changed it to a standard type "a" and "e" for ease of reading.</note>
+            <note xml:id="spelling">In the original, this "love" is spelled "luve," so we changed it to avoid confusion for our readers, both human and machine.</note>
+         </noteGrp>
+         <noteGrp type="context">
+            <note xml:id="context"><p>Floriography was a popular study in the Victorian age, in part due to the Victorians’ obsession with reference manuals, classification, and dictionaries <ref target="#engelhardt">(Engelhardt 137)</ref>. In this period, however, floriography moved from a pastime for just women to a wider project of social service and science by a growing field of amateur botanists. This study became assumed common knowledge, as Engelhardt notes that “Victorian writers expected a certain degree of floral literacy from their readers and used floral codes strategically in their fiction as subtexts for practitioners of the language of flowers” <ref target="#engelhardt">(136)</ref>. These readers and writers would pull on information put out by amateur botanists in this fledgling scientific field through their reference manuals codifying flowers and their meanings so that both writers and readers  could “extend the parameters of courtship and imaginative play” <ref target="#engelhardt">(156)</ref>.</p> 
+               <p>This knowledge, along with the proliferation of other Victorian manuals on etiquette and other subjects, reflects a growing middle class and the emergence of new forms of marketing towards that middle class. These etiquette guides, while serving other social purposes, also show new desires and demands for commodities and material goods in the Victorian age <ref target="#weller">(Weller)</ref>.</p> 
+               <p>From this information, we can conclude that this booklet was one kind of informational booklet that would have been purchased for children, debutantes, and anyone else who was interested in the study of floriography, even if they were not part of the upper echelons of London society during this time. </p>
+            </note>
+         </noteGrp>
+      </back>
    </text>
 </TEI>
