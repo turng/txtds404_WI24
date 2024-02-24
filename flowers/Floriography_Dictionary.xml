@@ -139,7 +139,6 @@
                   to be holding another bouquet of flowers in her right hand as well.</figDesc>
             </figure>
          </div>
-         <!-- GT: nice job on the title page! -->
          <titlePage>
             <docTitle>
                <titlePart><ref target="#Language">Language of Flowers</ref></titlePart>
@@ -173,6 +172,36 @@
                <!-- p. 16 (Victoria) -->
 
                <!-- p. 26 (Cari) -->
+               <figure>
+                  <graphic url="LarkspurPurpleHaughtiness.png"/>
+                  <figDesc>Two plainly dressed girls lean against a brick wall watching a finely
+                     dressed woman walk by. The finely dressed woman has a hat with a featehr, a
+                     skirt with a bustle and she holds a fan. She looks forward with a haughty
+                     expression.</figDesc>
+               </figure>
+               <item>Laburnum.....<hi rend="italics">Forsaken. Pensive Beauty.</hi></item>
+               <item>Lady's Slipper.....<hi rend="italics">Capricious Beauty. Win me and wear
+                     me.</hi></item>
+               <item>Lagerstræmia, Indian.....<hi rend="italics">Eloquence.</hi></item>
+               <item>Lantana.....<hi rend="italics">Rigour.</hi></item>
+               <item>Larch.....<hi rend="italics">Audacity. Boldness.</hi></item>
+               <item>Larkspur.....<hi rend="italics">Lightness. Levity.</hi></item>
+               <item>Larkspur, Pink.....<hi rend="italics">Fickleness.</hi></item>
+               <item><ref target="#larkspur_purple">Larkspur, Purple</ref>.....<hi rend="italics"
+                     >Haughtiness.</hi></item>
+               <item>Laurel.....<hi rend="italics">Glory.</hi></item>
+               <item>Laurel, Common, in flower.....<hi rend="italics">Perfidy.</hi></item>
+               <item>Laurel, Ground.....<hi rend="italics">Perseverance.</hi></item>
+               <item>Laurel, Mountain.....<hi rend="italics">Ambition.</hi></item>
+               <item>Laurel-leaved Magnolia.....<hi rend="italics">Dignity.</hi></item>
+               <item>Laurestina.....<hi rend="italics">A token. I die if neglected.</hi></item>
+               <item>Lavender.....<hi rend="italics">Distrust.</hi></item>
+               <item>Leaves (dead).....<hi rend="italics">Melancholy.</hi></item>
+               <item>Lemon.....<hi rend="italics">Zest.</hi></item>
+               <item>Lemon Blossoms.....<hi rend="italics">Fidelity in love.</hi></item>
+               <item>Lettuce.....<hi rend="italics">Cold-heartedness.</hi></item>
+               <item>Lichen.....<hi rend="italics">Dejection. Solitude.</hi></item>
+
 
                <!-- p. 29 (Victoria) -->
 
@@ -245,7 +274,30 @@
                <item>Rose, Christmas.....<hi rend="italics">Tranquillize my anxiety.</hi></item>
 
                <!-- p. 40 (Cari) -->
+               <figure>
+                  <graphic url="thrift_sympathy.png"/>
+                  <figDesc>A woman in a hat, shawl and gloves stand behind a woman in a simple
+                     yellow dress who had buried her face in a handkerchief, crying. The crying
+                     woman has her back to her friend, who holds her hand to comfort her. An open
+                     letter lies on the floor and an empty chair sets behind them.</figDesc>
+               </figure>
 
+               <item>Tamarisk.....<hi rend="italics">Crime.</hi></item>
+               <item>Tansy (Wild).....<hi rend="italics">I declare war against you.</hi></item>
+               <item>Teasel.....<hi rend="italics">Misanthropy.</hi></item>
+               <item>Tendrils of Climbing Plants.....<hi rend="italics">Ties.</hi></item>
+               <item>Thistle, Common.....<hi rend="italics">Austerity.</hi></item>
+               <item>Thistle, Fuller's.....<hi rend="italics">Misanthropy.</hi></item>
+               <item>Thistle, Scotch.....<hi rend="italics">Retaliation.</hi></item>
+               <item>Thorn Apple.....<hi rend="italics">Deceitful charms.</hi></item>
+               <item>Thorn, Branch of.....<hi rend="italics">Severity.</hi></item>
+               <item>Thrift.....<hi rend="italics">Beauty always new.</hi></item>
+               <item><ref target="#thrift">Thrift</ref>.....<hi rend="italics">Sympathy.</hi></item>
+               <item>Throatwort.....<hi rend="italics">Neglected beauty.</hi></item>
+               <item>Tiger Flower.....<hi rend="italics">For once may pride befriend me.</hi></item>
+               <item>Traveller's Joy.....<hi rend="italics">Safety.</hi></item>
+               <item>Tree of Life.....<hi rend="italics">Old age.</hi></item>
+               <item>Trefoil.....<hi rend="italics">Revenge.</hi></item>
             </list>
          </div>
          <div type="meanings">
@@ -313,6 +365,51 @@
                <item>Frugality.......<hi rend="italics">Chicory. Endive.</hi></item>
 
                <!-- p. 53 (Cari) -->
+               <item>Gaiety.......<hi rend="italics">Butterfly Orchis.</hi></item>
+               <item>Gaiety.......<hi rend="italics">Blue Violet.</hi></item>
+               <item>Gallantry.......<hi rend="italics">Sweet William.</hi></item>
+               <item>Generosity.......<hi rend="italics">Orange Tree.</hi></item>
+               <item>Generous and devoted affection.......<hi rend="italics">French
+                     Honeysuckle.</hi></item>
+               <item>Genius.......<hi rend="italics">Plane Tree.</hi></item>
+               <item>Gentility.......<hi rend="italics">Corn Cockle.</hi></item>
+               <item>Girlhood.......<hi rend="italics">White Rosebud.</hi></item>
+               <item>Gladness.......<hi rend="italics">Myrrh.</hi></item>
+               <item>Glory.......<hi rend="italics">Bay Tree.</hi></item>
+               <item>Glory.......<hi rend="italics">Laurel.</hi></item>
+               <item>Glorious beauty.......<hi rend="italics">Glory Flower.</hi></item>
+               <item>Goodness.......<hi rend="italics">Bonus Henricus.</hi></item>
+               <item>Goodness.......<hi rend="italics">Mercury.</hi></item>
+               <item>Good education.......<hi rend="italics">Cherry Tree.</hi></item>
+               <item>Good wishes.......<hi rend="italics">Sweet Basil.</hi></item>
+               <item>Good nature.......<hi rend="italics">White Mullein.</hi></item>
+               <item>Gossip.......<hi rend="italics">Cobæa.</hi></item>
+               <item>Grace.......<hi rend="italics">Multiflora Rose.</hi></item>
+               <item>Grace and elegance.......<hi rend="italics">Yellow Jasmine.</hi></item>
+               <item>Grandeur.......<hi rend="italics">Ash Tree.</hi></item>
+               <item>Gratitude.......<hi rend="italics">Small White Bell-flower.</hi></item>
+               <item>Grief.......<hi rend="italics">Harebell.</hi></item>
+               <item>Grief.......<hi rend="italics">Marigold.</hi></item>
+               <item>Happy love.......<hi rend="italics">Bridal Rose.</hi></item>
+               <item>Hatred.......<hi rend="italics">Basil.</hi></item>
+               <item>Haughtiness.......<hi rend="italics"><ref target="#larkspur_purple">Purple
+                        Larkspur.</ref></hi></item>
+               <item>Haughtiness.......<hi rend="italics">Tall Sunflower.</hi></item>
+               <item>Health.......<hi rend="italics">Iceland Moss.</hi></item>
+               <item>Hermitage.......<hi rend="italics">Milkwort.</hi></item>
+               <item>Hidden Worth.......<hi rend="italics">Coriander.</hi></item>
+               <item>Honesty........<hi rend="italics">Honesty.</hi></item>
+               <item>Hope.......<hi rend="italics">Flowering Almond.</hi></item>
+               <item>Hope.......<hi rend="italics">Hawthorn.</hi></item>
+               <item>Hope.......<hi rend="italics">Snowdrop.</hi></item>
+               <item>Hope in adversity.......<hi rend="italics">Spruce Pine.</hi></item>
+               <item>Hopeless love.......<hi rend="italics">Yellow Tulip.</hi></item>
+               <item>Hopeless, not heartless.......<hi rend="italics">Love Lies
+                  Bleating.</hi></item>
+               <item>Horror.......<hi rend="italics">Mandrake.</hi></item>
+               <item>Horror.......<hi rend="italics">Dragonswort.</hi></item>
+               <item>Horror.......<hi rend="italics">Snakesfoot.</hi></item>
+
 
                <!-- p. 54 (Victoria) -->
 
@@ -372,8 +469,56 @@
                <item>May you be happy.......<hi rend="italics">Volkamenia.</hi></item>
 
 
-
                <!-- p. 58 (Cari) -->
+               <item>Reward of merit.......<hi rend="italics">Bay Wreath.</hi></item>
+               <item>Reward of virtue.......<hi rend="italics">Garland of Roses.</hi></item>
+               <item>Riches.......<hi rend="italics">Corn.</hi></item>
+               <item>Rigour.......<hi rend="italics">Lantana.</hi></item>
+               <item>Rivalry.......<hi rend="italics">Rocket.</hi></item>
+               <item>Rudeness.......<hi rend="italics">Clotbur.</hi></item>
+               <item>Rudeness.......<hi rend="italics">Xanthium.</hi></item>
+               <item>Rural happiness.......<hi rend="italics">Yellow Violet.</hi></item>
+               <item>Rustic beauty.......<hi rend="italics">French Honeysuckle.</hi></item>
+               <item>Rustic oracle.......<hi rend="italics">Dandelion.</hi></item>
+               <item>Sadness.......<hi rend="italics">Dead Leaves.</hi></item>
+               <item>Safety.......<hi rend="italics">Traveller's Joy.</hi></item>
+               <item>Satire.......<hi rend="italics">Prickly Pear.</hi></item>
+               <item>Sculpture.......<hi rend="italics">Hoya.</hi></item>
+               <item>Secret Love.......<hi rend="italics">Yellow Acacia.</hi></item>
+               <item>Semblance.......<hi rend="italics">Spiked Speedwell.</hi></item>
+               <item>Sensitiveness.......<hi rend="italics">Mimosa.</hi></item>
+               <item>Sensuality.......<hi rend="italics">Spanish Jasmine.</hi></item>
+               <item>Separation.......<hi rend="italics">Carolina Jasmine.</hi></item>
+               <item>Severity.......<hi rend="italics">Branch of Thorns.</hi></item>
+               <item>Shame.......<hi rend="italics">Peony.</hi></item>
+               <item>Sharpness.......<hi rend="italics">Barberry Tree.</hi></item>
+               <item>Sickness.......<hi rend="italics">Anemone (Zephyr Flower).</hi></item>
+               <item>Silliness.......<hi rend="italics">Fool's Parsley.</hi></item>
+               <item>Simplicity.......<hi rend="italics">American Sweetbrier.</hi></item>
+               <item>Sincerity.......<hi rend="italics">Garden Chervil.</hi></item>
+               <item>Slighted love.......<hi rend="italics">Yellow Chrysanthemum.</hi></item>
+               <item>Snare.......<hi rend="italics">Catchfly. Dragon Plant.</hi></item>
+               <item>Solitude.......<hi rend="italics">Heath.</hi></item>
+               <item>Sorrow.......<hi rend="italics">Yew.</hi></item>
+               <item>Spell.......<hi rend="italics">Circæa.</hi></item>
+               <item>Spleen.......<hi rend="italics">Fumitory.</hi></item>
+               <item>Splendid beauty.......<hi rend="italics">Amaryllis.</hi></item>
+               <item>Splendour.......<hi rend="italics">Austurtium.</hi></item>
+               <item>Sporting.......<hi rend="italics">Fox-tail Grass.</hi></item>
+               <item>Stedfast Piety.......<hi rend="italics">Wild Geranium.</hi></item>
+               <item>Stoicism.......<hi rend="italics">Box Tree.</hi></item>
+               <item>Strength.......<hi rend="italics">Cedar. Fennel.</hi></item>
+               <item>Submission.......<hi rend="italics">Grass.</hi></item>
+               <item>Submission.......<hi rend="italics">Harebell.</hi></item>
+               <item>Success crown your wishes.......<hi rend="italics">Coronella.</hi></item>
+               <item>Succour.......<hi rend="italics">Juniper.</hi></item>
+               <item>Sunbeaming eyes.......<hi rend="italics">Scarlet Lychnis.</hi></item>
+               <item>Surprise.......<hi rend="italics">Truffle.</hi></item>
+               <item>Susceptibility.......<hi rend="italics">Wax Plant.</hi></item>
+               <item>Suspicion.......<hi rend="italics">Champignon.</hi></item>
+               <item>Sympathy.......<hi rend="italics">Balm.</hi></item>
+               <item>Sympathy.......<hi rend="italics"><ref target="#thrift"
+                  >Thrift.</ref></hi></item>
 
                <!-- p. 60 (Victoria) -->
 
@@ -382,26 +527,55 @@
          <div type="poetry">
             <head>Poetry</head>
 
-            <!-- p. 61 (Cari) 
-               
-               Here's a template for the poetry! You can copy and paste this, and then just fill in the correct info with your poem(s)!
+            <!-- p. 61 (Cari) -->
+
+
             <lg type="poem">
                <head>
-                  <title></title>
+                  <title>DAFFODILS</title>
                   <bibl>
                      <author>
                         <persName>
-                           <surname></surname>
-                           <forename></forename>
+                           <surname>Wordsworth</surname>
+                           <forename>William</forename>
                         </persName>
                      </author>
                   </bibl>
                </head>
                <lg type="stanza">
-                  <l></l>
+                  <l>I WANDERED lonely as a cloud</l>
+                  <l>That floats on high o'er vales and hills,</l>
+                  <l>When all at once I saw a crowd,</l>
+                  <l>A host of golden Daffodils;</l>
+                  <l>Beside the lake, beneath the trees,</l>
+                  <l>Fluttering and dancing in the breeze.</l>
                </lg>
-            </lg>-->
-
+               <lg type="stanza">
+                  <l>Continuous as the stars that shine</l>
+                  <l>And twinkle in the milky way,</l>
+                  <l>They stretched in never-ending line</l>
+                  <l>Along the margin of a bay:</l>
+                  <l>Ten thousand saw I at a glance,</l>
+                  <l>Tossing their heads in sprightly dance.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>The waves beside them danced; but they</l>
+                  <l>Outdid the sparkling waves in glee;</l>
+                  <l>A poet could not but be gay,</l>
+                  <l>In such a jocund company;</l>
+                  <l>I gazed and gazed, but little thought</l>
+                  <l>What wealth the show to me had brought!</l>
+               </lg>
+               <lg type="stanza">
+                  <l>For oft when on my couch I lie,</l>
+                  <l>In vacant or in pensive mood,</l>
+                  <l>They flash upon that inward eye</l>
+                  <l>Which is the bliss of solitude;</l>
+                  <l>And then my heart with pleasure fills,</l>
+                  <l>And dances with the Daffodils.</l>
+               </lg>
+               <byline><ref target="#burns">BURNS.</ref></byline>
+            </lg>
 
             <!-- p. 64 (Brianna) -->
             <lg type="poem">
@@ -479,6 +653,7 @@
 
 
             <!-- p. 71 (Victoria) -->
+
             <!-- p. 76 (Brianna) -->
             <lg type="poem">
                <head>
