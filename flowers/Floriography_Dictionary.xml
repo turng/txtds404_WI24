@@ -47,7 +47,7 @@
          <samplingDecl>
             <p>We edited pages from each of the three main sections of our source text. These
                sections include two lists, one which is centered on flowers and the other which is
-               centered on the meanings, and the third section is one of poetry that relates to
+               centered on their meanings, and the third section is one of poetry that relates to
                flowers or meanings mentioned in the previous lists. This sampling allows us to
                present an overall understanding of the source itself while still fulfilling the
                purposes of our specific edition. By choosing some pages that are highlighted in the
@@ -81,37 +81,39 @@
    <text>
       <front>
          <div type="editorial_intro">
-            <p>The small illustrated book, Language of Flowers (1884) is meant to be read as an
-               illustrated dictionary of meanings for common (northern hemisphere) flowers,
-               reflecting the popularity of floriography in the Victorian era. To enhance the
-               reader’s understanding of the meaning of the flowers, the illustrator Kate Greenaway
-               (attributed as author) drew specific images that reflect on specific flowers and
-               their meanings and included poems that relate or mention certain flowers that are
-               listed in the main portion of the text. While the text was originally published as a
-               children’s educational book, it would also have been useful for new debutantes as
-               they entered society. The illustrations and poetry add a romantic flair, which would
+            <p>The small illustrated book, <ref target="#language">Language of Flowers (1884)</ref>
+               is meant to be read as an illustrated <ref target="#context">dictionary of meanings</ref> for common northern
+               hemisphere flowers, reflecting the popularity of floriography in the Victorian era.
+               To enhance the reader’s understanding of the meaning of the flowers, the illustrator
+                  <ref target="#greenaway">Kate Greenaway</ref>, who is attributed as author drew
+               specific images that reflect on specific flowers and their meanings and included
+               poems that relate or mention certain flowers that are listed in the main portion of
+               the text. While the text was originally published as a children’s educational book,
+               it would also have been useful for new debutantes as they entered society as eligible
+               persons for marriage. The illustrations and poetry add a romantic flair, which would
                have added to the appeal for this group when they began courting.</p>
             <p>For our edition, we seek to introduce fans of novels from the Victorian and Georgian
                eras to something that might educate them about the use of flowers, particularly in
-               the Victorian era. The information we provide via annotations is what we believe the
-               original audience would have innately understood. To do this, we provide annotations
-               on how the flowers might have been used, information about the poets cited in the
-               back of the book, and we also provide some background on scholars’ research
-               pertaining to Victorian etiquette and floriography. To connect everything together,
-               we specifically chose to annotate flowers with meanings explicitly illustrated in the
-               original text. We hope our target audience can still enjoy shows such as Bridgerton
-               while bringing a more realistic understanding of real life in the Victorian era to
-               their viewing.</p>
+                  <ref target="#context">the Victorian era</ref>. The information we provide via
+               annotations is what we believe the original audience would have innately understood.
+               To do this, we provide annotations on how the flowers might have been used,
+               information about the poets cited in the back of the book, and we also provide some
+               background on scholars’ research pertaining to Victorian etiquette and floriography.
+               To connect everything together, we specifically chose to annotate flowers with
+               meanings explicitly illustrated in the original text. We hope our target audience can
+               still enjoy shows such as Bridgerton while bringing a more realistic understanding of
+               real life in the Victorian era to their viewing.</p>
             <p>One major change we do make is adding in titles to the three different sections of
                the text. We do this for ease of reading and understanding, but instead of changing
-               the spelling or punctuation of our original source, we simply add annotations to
-               explain the archaic forms. We hope this keeps the romantic flair of the original text
-               without sacrificing the education we wish to provide our readers.</p>
+               the spelling or punctuation of our original source, we simply add annotations with
+               references to modernized versions of the poems. We hope this keeps the romantic flair
+               of the original text without sacrificing the <ref target="#context">education</ref>
+               we wish to provide our readers.</p>
          </div>
          <div type="front_pages">
             <figure>
                <graphic url="Flowers_titled_page.png"/>
-               <head>Language of Flowers</head>
+               <head><ref target="#context">Language of Flowers</ref></head>
                <figDesc>The figure shows a woman in a green dress decorating a straw hat with
                   flowers while sitting in a blue, straight-backed wooden chair.</figDesc>
             </figure>
@@ -141,9 +143,9 @@
          </div>
          <titlePage>
             <docTitle>
-               <titlePart><ref target="#Language">Language of Flowers</ref></titlePart>
+               <titlePart><ref target="#language">Language of Flowers</ref></titlePart>
             </docTitle>
-            <byline>Illustrated by <ref target="#Greenaway">Kate Greenaway</ref></byline>
+            <byline>Illustrated by <ref target="#greenaway">Kate Greenaway</ref></byline>
             <docImprint>
                <pubPlace>London</pubPlace>
                <pubPlace>New York</pubPlace>
@@ -166,16 +168,23 @@
       </front>
       <body>
          <div type="flowers">
-            <head>Flowers</head>
+            <head><ref target="#headers">Flowers</ref></head>
             <list>
 
-              <!-- p. 16 (Victoria) -->
-	<figure><graphic url="nightshade_witchcraft.png"/><figDesc>Three women, one in blue, one in yellow, one in a brown hooded cloak in front of the woods. Woman in brown hooded cloak is reading the palm of the woman in the yellow dress while woman in blue observes.</figDesc></figure>
-	        <item>Ebony Tree.....<hi rend="italics">Blackness.</hi></item>
-               <item>Eglantine (Sweetbrier).....<hi rend="italics">Poetry.I wound to heal.</hi></item>
+               <!-- p. 16 (Victoria) -->
+               <figure>
+                  <graphic url="nightshade_witchcraft.png"/>
+                  <figDesc>Three women, one in blue, one in yellow, one in a brown hooded cloak in
+                     front of the woods. Woman in brown hooded cloak is reading the palm of the
+                     woman in the yellow dress while woman in blue observes.</figDesc>
+               </figure>
+               <item>Ebony Tree.....<hi rend="italics">Blackness.</hi></item>
+               <item>Eglantine (Sweetbrier).....<hi rend="italics">Poetry.I wound to
+                  heal.</hi></item>
                <item>Elder.....<hi rend="italics">Zealousness.</hi></item>
                <item>Elm.....<hi rend="italics">Dignity.</hi></item>
-               <item><ref target="#nightshade">Enchanter's Nightshade</ref>......<hi rend="italics">Witchcraft. Sorcery.</hi></item>
+               <item><ref target="#nightshade">Enchanter's Nightshade</ref>......<hi rend="italics"
+                     >Witchcraft. Sorcery.</hi></item>
                <item>Endive.....<hi rend="italics">Frugality.</hi></item>
                <item>Eupatorium.....<hi rend="italics">.....Delay.</hi></item>
                <item>Everflowering Candytuft.....<hi rend="italics">Indifference.</hi></item>
@@ -198,8 +207,10 @@
                <item>Lagerstræmia, Indian.....<hi rend="italics">Eloquence.</hi></item>
                <item>Lantana.....<hi rend="italics">Rigour.</hi></item>
                <item>Larch.....<hi rend="italics">Audacity. Boldness.</hi></item>
-               <item>Larkspur.....<hi rend="italics">Lightness. Levity.</hi></item>
-               <item><ref target="#larkspur">Larkspur, Pink</ref>.....<hi rend="italics">Fickleness.</hi></item>
+               <item><ref target="#larkspur">Larkspur</ref>.....<hi rend="italics">Lightness.
+                     Levity.</hi></item>
+               <item><ref target="#larkspur">Larkspur, Pink</ref>.....<hi rend="italics"
+                     >Fickleness.</hi></item>
                <item><ref target="#larkspur">Larkspur, Purple</ref>.....<hi rend="italics"
                      >Haughtiness.</hi></item>
                <item>Laurel.....<hi rend="italics">Glory.</hi></item>
@@ -217,44 +228,50 @@
 
 
                <!-- p. 29 (Victoria) -->
-               <item>Meadow Lychnis.....<hi rend="italics">Wit.</hi></item>     
+               <item>Meadow Lychnis.....<hi rend="italics">Wit.</hi></item>
                <item>Meadow Saffron.....<hi rend="italics">My fast days are fast.</hi></item>
                <item>Meadowsweet.....<hi rend="italics">Uselessness.</hi></item>
                <item>Mercury.....<hi rend="italics">Goodness.</hi></item>
                <item>Mesembryanthemum.....<hi rend="italics">Idleness.</hi></item>
-               <item>Mezeron.....<hi rend="italics">Desire to please.</hi></item>         
-               <item>Michaelmas Daisy.....<hi rend="italics">Afterthought.</hi></item> 
-               <item>Mignionette.....<hi rend="italics">Your qualities surpass your charms.</hi></item>           
-               <item>Milfoil.....<hi rend="italics">War.</hi></item>          
+               <item>Mezeron.....<hi rend="italics">Desire to please.</hi></item>
+               <item><ref target="#daisy">Michaelmas Daisy</ref>.....<hi rend="italics"
+                     >Afterthought.</hi></item>
+               <item>Mignionette.....<hi rend="italics">Your qualities surpass your
+                  charms.</hi></item>
+               <item>Milfoil.....<hi rend="italics">War.</hi></item>
                <item>Milkvetch.....<hi rend="italics">Your presence softens my pains.</hi></item>
-               <item>Milkwort.....<hi rend="italics">Hermitage.</hi></item>         
+               <item>Milkwort.....<hi rend="italics">Hermitage.</hi></item>
                <item>Mimosa (Sensitive Plant).....<hi rend="italics">Sensitiveness.</hi></item>
                <item>Mint.....<hi rend="italics">Virtue.</hi></item>
-               <item>Mistletoe<hi rend="italics">I surmount difficulties.</hi></item>          
-               <item>Mock Orange<hi rend="italics">Counterfiet.</hi></item>   
-               <item>Monkshood (Helmet Flower).....<hi rend="italics">Chivalry. Knight-errantry.</hi></item>  
-               <item>Moonwort.....<hi rend="italics">Forgetfulness.</hi></item>   
+               <item>Mistletoe<hi rend="italics">I surmount difficulties.</hi></item>
+               <item>Mock Orange<hi rend="italics">Counterfiet.</hi></item>
+               <item>Monkshood (Helmet Flower).....<hi rend="italics">Chivalry.
+                     Knight-errantry.</hi></item>
+               <item>Moonwort.....<hi rend="italics">Forgetfulness.</hi></item>
                <item>Morning Glory.....<hi rend="italics">Affectation.</hi></item>
-               <item> Moschatel.....<hi rend="italics">Weakness.</hi></item>   
-               <item>Moss.....<hi rend="italics">Maternal love.</hi></item>    
+               <item> Moschatel.....<hi rend="italics">Weakness.</hi></item>
+               <item>Moss.....<hi rend="italics">Maternal love.</hi></item>
                <item>Mosses.....<hi rend="italics">Ennui.</hi></item>
-               <item>Mossy Saxifrage.....<hi rend="italics">Affection.</hi></item>     
+               <item>Mossy Saxifrage.....<hi rend="italics">Affection.</hi></item>
                <item>Motherwort.....<hi rend="italics">Concealed love.</hi></item>
                <item>Mountain Ash....<hi rend="italics">Prudence.</hi></item>
-               <item><ref target="#bride">Mourning Bride<ref>.....<hi rend="italics">Unfortunate attachment. I have lost all.</hi></item>
+               <item><ref target="#bride">Mourning Bride</ref>.....<hi rend="italics">Unfortunate
+                     attachment. I have lost all.</hi></item>
                <item>Mouse-eared Chickweed.....<hi rend="italics">Ingenuous simplicity.</hi></item>
-               <item>Mouse-eared Scorpion Grass.....<hi rend="italics">Forget me not.</hi></item>         
-               <item>Moving Plant.....<hi rend="italics">Agitation.</hi></item> 
-               <item>Mudwort.....<hi rend="italics">Tranquillity.</hi></item>           
-               <item>Mugwort.....<hi rend="italics">Happiness.</hi></item>  
-               <item><ref target="#mulberry">Mulberry Tree (Black)</ref>.....<hi rend="italics">I shall not survive you.</hi></item>
-               <item>Mulberry Tree (White).....<hi rend="italics">Wisdom.</hi></item>         
+               <item>Mouse-eared Scorpion Grass.....<hi rend="italics">Forget me not.</hi></item>
+               <item>Moving Plant.....<hi rend="italics">Agitation.</hi></item>
+               <item>Mudwort.....<hi rend="italics">Tranquillity.</hi></item>
+               <item>Mugwort.....<hi rend="italics">Happiness.</hi></item>
+               <item><ref target="#mulberry">Mulberry Tree (Black)</ref>.....<hi rend="italics">I
+                     shall not survive you.</hi></item>
+               <item><ref target="#mulberry">Mulberry Tree (White)</ref>.....<hi rend="italics"
+                     >Wisdom.</hi></item>
                <item>Mushroom.....<hi rend="italics">Suspicion.</hi></item>
                <item>Musk Plant.....<hi rend="italics">Weakness.</hi></item>
-               <item>Mustard Seed<hi rend="italics">Indifference.</hi></item>          
+               <item>Mustard Seed<hi rend="italics">Indifference.</hi></item>
                <item>Myrobalan<hi rend="italics">Privation.</hi></item>
-               <item>Myrrh<hi rend="italics">Gladness.</hi></item>          
-               <item>Myrtle<hi rend="italics">Love.</hi></item>   
+               <item>Myrrh<hi rend="italics">Gladness.</hi></item>
+               <item>Myrtle<hi rend="italics">Love.</hi></item>
 
                <!-- P. 32 (Brianna) -->
                <figure>
@@ -320,7 +337,9 @@
                <item>Rose, Cabbage.....<hi rend="italics">Ambassador of love.</hi></item>
                <item><ref target="#rose">Rose, Campion</ref>.....<hi rend="italics">Only deserve my
                      love.</hi></item>
-               <item> Rose, Carolina.....<hi rend="italics">Love is dangerous.</hi></item>
+               <item>
+                  <ref target="#rose">Rose, Carolina</ref>.....<hi rend="italics">Love is
+                     dangerous.</hi></item>
                <item>Rose, China.....<hi rend="italics">Beauty always new.</hi></item>
                <item>Rose, Christmas.....<hi rend="italics">Tranquillize my anxiety.</hi></item>
 
@@ -342,7 +361,8 @@
                <item>Thistle, Scotch.....<hi rend="italics">Retaliation.</hi></item>
                <item>Thorn Apple.....<hi rend="italics">Deceitful charms.</hi></item>
                <item>Thorn, Branch of.....<hi rend="italics">Severity.</hi></item>
-               <item>Thrift.....<hi rend="italics">Beauty always new.</hi></item>
+               <item><ref target="#thrift">Thrift</ref>.....<hi rend="italics">Beauty always
+                     new.</hi></item>
                <item><ref target="#thrift">Thrift</ref>.....<hi rend="italics">Sympathy.</hi></item>
                <item>Throatwort.....<hi rend="italics">Neglected beauty.</hi></item>
                <item>Tiger Flower.....<hi rend="italics">For once may pride befriend me.</hi></item>
@@ -351,8 +371,9 @@
                <item>Trefoil.....<hi rend="italics">Revenge.</hi></item>
             </list>
          </div>
+
          <div type="meanings">
-            <head>Meanings</head>
+            <head><ref target="#headers">Meanings</ref></head>
             <list>
 
                <!-- p. 52 (Brianna) -->
@@ -411,14 +432,16 @@
                <item>Friendship, early.......<hi rend="italics"><ref target="#periwinkle">Blue
                         Periwinkle.</ref></hi></item>
                <item>Friendship, true.......<hi rend="italics">Oak-leaved Geranium.</hi></item>
-               <item>Friendship, unchanging.......<hi rend="italics">Arbor Vitae.</hi></item>
+               <item>Friendship, unchanging.......<hi rend="italics">Arbor
+                        <ref target="#ash">Vitae.</ref></hi></item>
                <item>Frivolity.......<hi rend="italics">London Pride.</hi></item>
                <item>Frugality.......<hi rend="italics">Chicory. Endive.</hi></item>
 
                <!-- p. 53 (Cari) -->
                <item>Gaiety.......<hi rend="italics">Butterfly Orchis.</hi></item>
                <item>Gaiety.......<hi rend="italics">Blue Violet.</hi></item>
-               <item>Gallantry.......<hi rend="italics"><ref target="#william">Sweet William.</ref></hi></item>
+               <item>Gallantry.......<hi rend="italics"><ref target="#william">Sweet
+                     William.</ref></hi></item>
                <item>Generosity.......<hi rend="italics">Orange Tree.</hi></item>
                <item>Generous and devoted affection.......<hi rend="italics">French
                      Honeysuckle.</hi></item>
@@ -434,14 +457,16 @@
                <item>Good education.......<hi rend="italics">Cherry Tree.</hi></item>
                <item>Good wishes.......<hi rend="italics">Sweet Basil.</hi></item>
                <item>Good nature.......<hi rend="italics">White Mullein.</hi></item>
-               <item>Gossip.......<hi rend="italics">Cobaea.</hi></item>
-               <item>Grace.......<hi rend="italics"><ref target="#rose">Multiflora Rose.</ref></hi></item>
+               <item>Gossip.......<hi rend="italics"><ref target="#ash">Cobaea.</ref></hi></item>
+               <item>Grace.......<hi rend="italics"><ref target="#rose">Multiflora
+                  Rose.</ref></hi></item>
                <item>Grace and elegance.......<hi rend="italics">Yellow Jasmine.</hi></item>
                <item>Grandeur.......<hi rend="italics">Ash Tree.</hi></item>
                <item>Gratitude.......<hi rend="italics">Small White Bell-flower.</hi></item>
                <item>Grief.......<hi rend="italics">Harebell.</hi></item>
                <item>Grief.......<hi rend="italics">Marigold.</hi></item>
-               <item>Happy love.......<hi rend="italics"><ref target="#rose">Bridal Rose.</ref></hi></item>
+               <item>Happy love.......<hi rend="italics"><ref target="#rose">Bridal
+                  Rose.</ref></hi></item>
                <item>Hatred.......<hi rend="italics">Basil.</hi></item>
                <item>Haughtiness.......<hi rend="italics"><ref target="#larkspur">Purple
                         Larkspur.</ref></hi></item>
@@ -463,54 +488,60 @@
 
 
                <!-- p. 54 (Victoria) -->
-		   <item>Hospitality.......<hi rend="italics">Oak Tree.</hi></item>
+               <item>Hospitality.......<hi rend="italics">Oak Tree.</hi></item>
                <item>Humility.......<hi rend="italics">Broom.</hi></item>
-               <item>Humility.......<hi rend="italics"></hi>Small Bindweed</item>
+               <item>Humility.......<hi rend="italics"/>Small Bindweed</item>
                <item>Humility.......<hi rend="italics">Field Lilac.</hi></item>
                <item>I am too happy.......<hi rend="italics">Cape Jasmine.</hi></item>
                <item>I am your captive.......<hi rend="italics">Peach Blossom.</hi></item>
-               <item>I am worthy you.......<hi rend="italics">White Rose.</hi></item>
+               <item>I am worthy of you.......<hi rend="italics"><ref target="#rose">White
+                        Rose.</ref></hi></item>
                <item>I change but in death.......<hi rend="italics">Bay Leaf.</hi></item>
                <item>I declare against you.......<hi rend="italics">Belvedere.</hi></item>
                <item>I declare against you.......<hi rend="italics">.</hi>Liquorice.</item>
                <item>I declare war against you.......<hi rend="italics">Wild Tansy.</hi></item>
-               <item>I die if neglacted.......<hi rend="italics">Laurestina.</hi></item>     
+               <item>I die if neglacted.......<hi rend="italics">Laurestina.</hi></item>
                <item>I desire a return of affection.......<hi rend="italics">Jonquil.</hi></item>
                <item>I feel my obligations.......<hi rend="italics">Lint.</hi></item>
                <item>I feel your kindess.......<hi rend="italics">Flax.</hi></item>
-               <item>I have lost it all.......<hi rend="italics"><ref target="#bride">Mourning Bride.</ref></hi></item>
-               <item>I live for thee.......<hi rend="italics">Cedar Leaf.</hi></item>         
-               <item>I love.......<hi rend="italics">Red Chrysanthemum.</hi></item> 
-               <item>I partake of your sentiments.......<hi rend="italics">Double China Aster.</hi></item>           
-               <item>I partake your sentiments.......<hi rend="italics">Garden Daisy.</hi></item>          
+               <item>I have lost it all.......<hi rend="italics"><ref target="#bride">Mourning
+                        Bride.</ref></hi></item>
+               <item>I live for thee.......<hi rend="italics">Cedar Leaf.</hi></item>
+               <item>I love.......<hi rend="italics">Red Chrysanthemum.</hi></item>
+               <item>I partake of your sentiments.......<hi rend="italics">Double China
+                  Aster.</hi></item>
+               <item>I partake your sentiments.......<hi rend="italics">Garden Daisy.</hi></item>
                <item>I shall die to-morrow.......<hi rend="italics">Gum Cistus.</hi></item>
-               <item>I shall not survive you.......<hi rend="italics"><ref target="#mulberry">Black Mulberry.</ref></hi></item>         
+               <item>I shall not survive you.......<hi rend="italics"><ref target="#mulberry">Black
+                        Mulberry.</ref></hi></item>
                <item>I surmount difficulties.......<hi rend="italics">Mistletoe.</hi></item>
                <item>I will think of it.......<hi rend="italics">Single China Aster.</hi></item>
-               <item>I will think of it.......<hi rend="italics">Wild Daisy.</hi></item>          
-               <item>I wound to heal.......<hi rend="italics">Eglantine (Sweetbrier).</hi></item>   
-               <item>If you love me, you will find it out.......<hi rend="italics">Maiden Blush Rose.</hi></item>  
-               <item>Idleness.......<hi rend="italics">Mesembryanthemum.</hi></item>   
+               <item>I will think of it.......<hi rend="italics"><ref target="#daisy">Wild
+                        Daisy.</ref></hi></item>
+               <item>I wound to heal.......<hi rend="italics">Eglantine (Sweetbrier).</hi></item>
+               <item>If you love me, you will find it out.......<hi rend="italics">Maiden Blush
+                     <ref target="#rose">Rose.</ref></hi></item>
+               <item>Idleness.......<hi rend="italics">Mesembryanthemum.</hi></item>
                <item>Ill-natured beauty.......<hi rend="italics">Citron.</hi></item>
-               <item>Imagination.......<hi rend="italics">Lupine.</hi></item>   
-               <item>Immortality.......<hi rend="italics">Amaranth (Globe).</hi></item>    
+               <item>Imagination.......<hi rend="italics">Lupine.</hi></item>
+               <item>Immortality.......<hi rend="italics">Amaranth (Globe).</hi></item>
                <item>Impatience.......<hi rend="italics">Yellow Balsm.</hi></item>
-               <item>Impatient of absence.......<hi rend="italics">Corchorus.</hi></item>     
+               <item>Impatient of absence.......<hi rend="italics">Corchorus.</hi></item>
                <item>Impatient resolves.......<hi rend="italics">Red Balsam.</hi></item>
                <item>Imperfection.......<hi rend="italics">Henbane.</hi></item>
                <item>Importunity.......<hi rend="italics">Burdock.</hi></item>
                <item>Inconstancy.......<hi rend="italics">Evening Primrose.</hi></item>
-               <item>Incorruptible.......<hi rend="italics">Cedar of Lebanon.</hi></item>         
-               <item>Independence.......<hi rend="italics">Wild Plum Tree.</hi></item> 
-               <item>Independence.......<hi rend="italics">White Oak.</hi></item>           
-               <item>Indifference.......<hi rend="italics">Everflowering Candytuft.</hi></item>          
+               <item>Incorruptible.......<hi rend="italics">Cedar of Lebanon.</hi></item>
+               <item>Independence.......<hi rend="italics">Wild Plum Tree.</hi></item>
+               <item>Independence.......<hi rend="italics">White Oak.</hi></item>
+               <item>Indifference.......<hi rend="italics">Everflowering Candytuft.</hi></item>
                <item>Indifference.......<hi rend="italics">Mustard Seed.</hi></item>
-               <item>Indifference.......<hi rend="italics">Senvy.</hi></item>         
+               <item>Indifference.......<hi rend="italics">Senvy.</hi></item>
                <item>Indiscretion.......<hi rend="italics">Split Reed.</hi></item>
                <item>Industry.......<hi rend="italics">Red Clover.</hi></item>
-               <item>Industry, Domestic<hi rend="italics">Flax.</hi></item>          
+               <item>Industry, Domestic<hi rend="italics">Flax.</hi></item>
                <item>Ingenuousness<hi rend="italics">White Pink.</hi></item>
-               <item>Ingenuity<hi rend="italics">Pencilled Geranium.</hi></item> 
+               <item>Ingenuity<hi rend="italics">Pencilled Geranium.</hi></item>
 
                <!-- p. 55 (Brianna) -->
                <item>Ingenuous simplicity.......<hi rend="italics">Mouse-eared
@@ -547,7 +578,8 @@
                <item>Lightheartedness.......<hi rend="italics">Shamrock.</hi></item>
                <item>Lightness.......<hi rend="italics"><ref target="#larkspur"
                   >Larkspur.</ref></hi></item>
-               <item>Live for me.......<hi rend="italics">Arbor Vitae.</hi></item>
+               <item>Live for me.......<hi rend="italics">Arbor
+                        <ref target="#ash">Vitae.</ref></hi></item>
                <item><ref target="#rose">Love.......<hi rend="italics">Myrtle.</hi></ref></item>
                <item>Love.......<hi rend="italics"><ref target="#rose">Rose.</ref></hi></item>
                <item>Love, forsaken.......<hi rend="italics">Creeping Willow.</hi></item>
@@ -557,7 +589,8 @@
                <item>Lustre.......<hi rend="italics">Aconite-leaved Crowfoot, or Fair Maid of
                      France.</hi></item>
                <item>Luxury.......<hi rend="italics">Chesnut Tree.</hi></item>
-               <item>Magnificent beauty.......<hi rend="italics">Calla, AEthiopica.</hi></item>
+               <item>Magnificent beauty.......<hi rend="italics">Calla, <ref target="#ash"
+                        >AEthiopica.</ref></hi></item>
                <item>Majesty.......<hi rend="italics">Crown Imperial.</hi></item>
                <item>Malevolence.......<hi rend="italics">Lobelia.</hi></item>
                <item>Marriage.......<hi rend="italics">Ivy.</hi></item>
@@ -570,7 +603,8 @@
 
                <!-- p. 58 (Cari) -->
                <item>Reward of merit.......<hi rend="italics">Bay Wreath.</hi></item>
-               <item>Reward of virtue.......<hi rend="italics"><ref target="#rose">Garland of Roses.</ref></hi></item>
+               <item>Reward of virtue.......<hi rend="italics"><ref target="#rose">Garland of
+                        Roses.</ref></hi></item>
                <item>Riches.......<hi rend="italics">Corn.</hi></item>
                <item>Rigour.......<hi rend="italics">Lantana.</hi></item>
                <item>Rivalry.......<hi rend="italics">Rocket.</hi></item>
@@ -599,7 +633,8 @@
                <item>Snare.......<hi rend="italics">Catchfly. Dragon Plant.</hi></item>
                <item>Solitude.......<hi rend="italics">Heath.</hi></item>
                <item>Sorrow.......<hi rend="italics">Yew.</hi></item>
-               <item>Spell.......<hi rend="italics">Circaea.</hi></item>
+               <item>Spell.......<hi rend="italics"><ref target="#ash"
+                  >Circaea.</ref></hi></item>
                <item>Spleen.......<hi rend="italics">Fumitory.</hi></item>
                <item>Splendid beauty.......<hi rend="italics">Amaryllis.</hi></item>
                <item>Splendour.......<hi rend="italics">Austurtium.</hi></item>
@@ -620,11 +655,12 @@
                   >Thrift.</ref></hi></item>
 
                <!-- p. 60 (Victoria) -->
-		 <item>Virtue, Domestic.......<hi rend="italics">Sage.</hi></item>
+               <item>Virtue, Domestic.......<hi rend="italics">Sage.</hi></item>
                <item>Volubility.......<hi rend="italics">Abecedary.</hi></item>
-               <item>Voraciousness.......<hi rend="italics"></hi>Lupine</item>
+               <item>Voraciousness.......<hi rend="italics"/>Lupine</item>
                <item>Vulgar Minds.......<hi rend="italics">African Marigold.</hi></item>
-               <item>War.......<hi rend="italics">York and Lancaster Rose.</hi></item>
+               <item>War.......<hi rend="italics"><ref target="#rose">York and Lancaster
+                     Rose.</ref></hi></item>
                <item>War.......<hi rend="italics">Achillea Millefolia.</hi></item>
                <item>Warmth of feeling.......<hi rend="italics">Peppermint.</hi></item>
                <item>Watchfulness.......<hi rend="italics">Dame Violet.</hi></item>
@@ -632,39 +668,47 @@
                <item>Weakness.......<hi rend="italics">Musk Plant.</hi></item>
                <item>Welcome to a stranger.......<hi rend="italics">.</hi>American Starwort.</item>
                <item>Widowhood.......<hi rend="italics">Sweet Scabious.</hi></item>
-               <item>Win me and wear me.......<hi rend="italics">Lady's Slipper.</hi></item>     
+               <item>Win me and wear me.......<hi rend="italics">Lady's Slipper.</hi></item>
                <item>Winning grace.......<hi rend="italics">Cowslip.</hi></item>
                <item>Winter.......<hi rend="italics">Guelder Rose.</hi></item>
                <item>Wit.......<hi rend="italics">Meadow Lychnis.</hi></item>
-               <item>Witchcraft.......<hi rend="italics"><ref target="#nightshade"><Enchanter's Nightshade.</ref></hi></item>
-               <item>Worth beyond beauty.......<hi rend="italics">Sweet Alyssum.</hi></item>         
-               <item>Worth sustained by judicious and tender affection.......<hi rend="italics">Pink Convolvulus.</hi></item> 
-               <item>Worthy all praise.......<hi rend="italics">Fennel.</hi></item>           
-               <item>You are cold.......<hi rend="italics">Hortensia.</hi></item>          
+               <item>Witchcraft.......<hi rend="italics"><ref target="#nightshade">Enchanter's
+                        Nightshade.</ref></hi></item>
+               <item>Worth beyond beauty.......<hi rend="italics">Sweet Alyssum.</hi></item>
+               <item>Worth sustained by judicious and tender affection.......<hi rend="italics">Pink
+                     Convolvulus.</hi></item>
+               <item>Worthy all praise.......<hi rend="italics">Fennel.</hi></item>
+               <item>You are cold.......<hi rend="italics">Hortensia.</hi></item>
                <item>You are my divinity.......<hi rend="italics">American Cowslip.</hi></item>
-               <item>You are perfect.......<hi rend="italics">Pine Apple.</hi></item>         
+               <item>You are perfect.......<hi rend="italics">Pine Apple.</hi></item>
                <item>You are radiant with charms.......<hi rend="italics">Ranunculus.</hi></item>
-               <item>You are rich in attractions.......<hi rend="italics">Garden Ranunculus.</hi></item>
-               <item>You are the queen of coquettes.......<hi rend="italics">Queen's Rocket.</hi></item>          
-               <item>You have no claims.......<hi rend="italics">Pasque Flower.</hi></item>   
-               <item>You please me all.......<hi rend="italics">Branch of Currants.</hi></item>  
-               <item>You will be my death.......<hi rend="italics">Hemlock.</hi></item>   
-               <item>Your charms are engraven on my heart.......<hi rend="italics">Spindle Tree.</hi></item>
-               <item>You freeze me.......<hi rend="italics">Ice Plant.</hi></item>   
-               <item>Your presence softens my pains.......<hi rend="italics">Milkvetch.</hi></item>    
-               <item>Your qualities, like your charms, are unequalled.......<hi rend="italics">Peach.</hi></item>
-               <item>You qualities surpass your charms.......<hi rend="italics">Mignionette.</hi></item>     
+               <item>You are rich in attractions.......<hi rend="italics">Garden
+                  Ranunculus.</hi></item>
+               <item>You are the queen of coquettes.......<hi rend="italics">Queen's
+                  Rocket.</hi></item>
+               <item>You have no claims.......<hi rend="italics">Pasque Flower.</hi></item>
+               <item>You please me all.......<hi rend="italics">Branch of Currants.</hi></item>
+               <item>You will be my death.......<hi rend="italics">Hemlock.</hi></item>
+               <item>Your charms are engraven on my heart.......<hi rend="italics">Spindle
+                     Tree.</hi></item>
+               <item>You freeze me.......<hi rend="italics">Ice Plant.</hi></item>
+               <item>Your presence softens my pains.......<hi rend="italics">Milkvetch.</hi></item>
+               <item>Your qualities, like your charms, are unequalled.......<hi rend="italics"
+                     >Peach.</hi></item>
+               <item>You qualities surpass your charms.......<hi rend="italics"
+                  >Mignionette.</hi></item>
                <item>Youthful innocence.......<hi rend="italics">White Lilac.</hi></item>
                <item>Youthful love.......<hi rend="italics">Red Catchfly.</hi></item>
                <item>Zealousness.......<hi rend="italics">Elder.</hi></item>
-               <item>Zest.......<hi rend="italics">Lemon.</hi></item>    
+               <item>Zest.......<hi rend="italics">Lemon.</hi></item>
 
             </list>
          </div>
          <div type="poetry">
-            <head>Poetry</head>
+            <head><ref target="#headings">Poetry</ref></head>
 
             <!-- p. 61 (Cari) -->
+
             <lg type="poem">
                <head>
                   <title><ref target="#daffodil">DAFFODILS</ref></title>
@@ -715,7 +759,7 @@
             <!-- p. 64 (Brianna) -->
             <lg type="poem">
                <head>
-                  <title><ref target="#posie">O LOVE WILL VENTURE IN, &amp; c.</ref></title>
+                  <title><ref target="#posie">O <ref target="#spelling">LOVE</ref> WILL VENTURE IN, &amp; c.</ref></title>
                   <bibl>
                      <author>
                         <persName>
@@ -726,16 +770,16 @@
                   </bibl>
                </head>
                <lg type="stanza">
-                  <l>O <ref target="#rose">LOVE</ref> will venture in, where it daur na weel be
+                  <l>O <ref target="#rose"><ref target="#spelling">LOVE</ref></ref> will venture in, where it daur na weel be
                      seen,</l>
-                  <l>O <ref target="#rose">love</ref> will venture in, where wisdom ance has
+                  <l>O <ref target="#rose"><ref target="#spelling">love</ref></ref> will venture in, where wisdom ance has
                      been;</l>
                   <l>But I will down yon river rove, amang the wood sae green,</l>
-                  <l>And a' to pu' a posie to my ain dear May.</l>
+                  <l>And a' to pu' a <ref target="#posie">posie</ref> to my ain dear May.</l>
                </lg>
 
                <lg type="stanza">
-                  <l>The <ref target="#rose">primrose</ref> I will pu', the firstling o' the
+                  <l>The primrose I will pu', the firstling o' the
                      year,</l>
                   <l>And I will pu' the pink, the emblem o' my dear,</l>
                   <l>For she's the pink o' womankind, and blooms without a peer;</l>
@@ -786,9 +830,9 @@
 
             </lg>
 
-
             <!-- p. 71 (Victoria) -->
-	  <lg type="poem">
+
+            <lg type="poem">
                <head>
                   <title><ref target="#flecther">CONSTANCY</ref></title>
                   <bibl>
@@ -801,167 +845,169 @@
                   </bibl>
                </head>
                <lg type="stanza">
-                  <1>LAY a garland on my hearse</1>
-                  <1>Of the dismal yew;</1>
-                  <1>Maidens willow branches bear;</1>
-                  <1>Say, I died true.</1>
-                  <1>My love was false, but I was firm</1>
-                  <1>From my hour of birth.</1>
-                  <1>Upon my buried body lie</1>
-                  <1>Lightly, gentle earth!</1>
-                  <byline><ref target="#Flecther">SAMUEL FLECTHER.</ref></byline>  
-               </lg>
-               
-               lg type="poem">
-               <head>
-                  <title><ref target="#burns"></ref></title>
-                  <bibl>
-                     <author>
-                        <persName>
-                           <surname><ref target="#burns">Burns</ref></surname>
-                           <forename></forename>
-                        </persName>
-                     </author>
-                  </bibl>
-               </head>
-               <lg type="stanza">
-                  <1>MOURN, ilka grove the cushat kens!</1>
-                  <l>Ye haz'lly shaws and briery dens!</l>
-                  <l>Ye burnies, wimplin down your glens,</l>
-                  <l>Wi' toddlin din,</l>
-                  <l>Or foaming strang, wi' hasty stens,</l>
-                  <l>Frae lin to lin.</l>
-               </lg>
-               <lg type="stanza">      
-                  <1>Mourn little harebells o'er the lee;</1>
-                  <l>Ye stately foxgloves fair to see;</l>
-                  <l>Ye woodbines hanging bonnilie,</l>
-                  <l>In scented bow'rs;</l>
-                  <l>Ye roses on your thorny tree,</l>
-                  <l>The first o' flow'rs.</l>
-               </lg>
-               <lg type="stanza">
-                  <l>At dawn, when ev'ry grassy blade</l>
-                  <l>Droops with a diamond at his head,</l>
-                  <l>At ev'n, when beans their fragrance shed,</l>
-                  <l>I' th' rustling gale,</l>
-                  <l>Ye maukins whiddin thro' the glade,</l>
-                  <l>Come join my wail.</l>
-               </lg>      
-               <lg type="stanza">      
-                  <l>Mourn, spring, thou darling of the year;</l>
-                  <l>Ilk cowslip cup shall kep a tear;</l>
-                  <l>Thou, simmer, while each corny spear</l>
-                  <l>Shoots up its head,</l>
-                  <l>Thy gay, green, flow'ry tresses shear,</l>
-                  <l>For him that's dead!</l>
-               </lg>
-               <lg type="stanza">
-                  <l>Thou, autumn, wi' thy yellow hair,</l>
-                  <l>In grief thy sallow mantle tear!</l>
-                  <l>Thou, winter, hurling thro' the air</l>
-                  <l>The roaring blast,</l>
-                  <l>Wide o'er the naked world declare</l>
-                  <l>The worth we've lost!</l>
-               </lg>
-                  <byline><ref target="#Burns">BURNS.</ref></byline>  
+                  <l>LAY a garland on my hearse</l>
+                  <l>Of the dismal yew;</l>
+                  <l>Maidens willow branches bear;</l>
+                  <l>Say, I died true.</l>
+                  <l>My <ref target="#rose">love</ref> was false, but I was firm</l>
+                  <l>From my hour of birth.</l>
+                  <l>Upon my buried body lie</l>
+                  <l>Lightly, gentle earth!</l>
+                  <byline><ref target="#flecther">SAMUEL FLECTHER.</ref></byline>
                </lg>
 
-            <!-- p. 76 (Brianna) -->
-            <lg type="poem">
-               <head>
-                  <title><ref target="#drayton">ARRANGEMENT OF A BOUQUET</ref></title>
-                  <bibl>
-                     <author>
-                        <persName>
-                           <surname><ref target="#drayton">Drayton</ref></surname>
-                           <forename>Nicholas</forename>
-                        </persName>
-                     </author>
-                  </bibl>
-               </head>
-               <lg type="stanza">
-                  <l>HERE damask <ref target="#rose">Roses</ref>, white and red,</l>
-                  <l>Out of my lap first take I,</l>
-                  <l>Which still shall run along the thread,</l>
-                  <l>My chiefest flower this make I.</l>
+               <lg type="poem">
+                  <head>
+                     <title><ref target="#burns"><ref target="#editorial">Elegy on Captain Matthew
+                              Henderson</ref></ref></title>
+                     <bibl>
+                        <author>
+                           <persName>
+                              <surname><ref target="#burns">Burns</ref></surname>
+                              <forename>Robert</forename>
+                           </persName>
+                        </author>
+                     </bibl>
+                  </head>
+                  <lg type="stanza">
+                     <l>MOURN, ilka grove the cushat kens!</l>
+                     <l>Ye haz'lly shaws and briery dens!</l>
+                     <l>Ye burnies, wimplin down your glens,</l>
+                     <l>Wi' toddlin din,</l>
+                     <l>Or foaming strang, wi' hasty stens,</l>
+                     <l>Frae lin to lin.</l>
+                  </lg>
+                  <lg type="stanza">
+                     <l>Mourn little harebells o'er the lee;</l>
+                     <l>Ye stately foxgloves fair to see;</l>
+                     <l>Ye <ref target="#woodbine">woodbines</ref> hanging bonnilie,</l>
+                     <l>In scented bow'rs;</l>
+                     <l>Ye <ref target="#rose">roses</ref> on your thorny tree,</l>
+                     <l>The first o' flow'rs.</l>
+                  </lg>
+                  <lg type="stanza">
+                     <l>At dawn, when ev'ry grassy blade</l>
+                     <l>Droops with a diamond at his head,</l>
+                     <l>At ev'n, when beans their fragrance shed,</l>
+                     <l>I' th' rustling gale,</l>
+                     <l>Ye maukins whiddin thro' the glade,</l>
+                     <l>Come join my wail.</l>
+                  </lg>
+                  <lg type="stanza">
+                     <l>Mourn, spring, thou darling of the year;</l>
+                     <l>Ilk cowslip cup shall kep a tear;</l>
+                     <l>Thou, simmer, while each corny spear</l>
+                     <l>Shoots up its head,</l>
+                     <l>Thy gay, green, flow'ry tresses shear,</l>
+                     <l>For him that's dead!</l>
+                  </lg>
+                  <lg type="stanza">
+                     <l>Thou, autumn, wi' thy yellow hair,</l>
+                     <l>In grief thy sallow mantle tear!</l>
+                     <l>Thou, winter, hurling thro' the air</l>
+                     <l>The roaring blast,</l>
+                     <l>Wide o'er the naked world declare</l>
+                     <l>The worth we've lost!</l>
+                  </lg>
+                  <byline><ref target="#Burns">BURNS.</ref></byline>
                </lg>
 
-               <lg type="stanza">
-                  <l>Amongst these <ref target="#rose">Roses</ref> in a row,</l>
-                  <l>Next place I Pinks in plenty,</l>
-                  <l>These double Pansies then for show;</l>
-                  <l>And will not this be dainty?</l>
-               </lg>
+               <!-- p. 76 (Brianna) -->
+               <lg type="poem">
+                  <head>
+                     <title><ref target="#drayton">ARRANGEMENT OF A BOUQUET</ref></title>
+                     <bibl>
+                        <author>
+                           <persName>
+                              <surname><ref target="#drayton">Drayton</ref></surname>
+                              <forename>Nicholas</forename>
+                           </persName>
+                        </author>
+                     </bibl>
+                  </head>
+                  <lg type="stanza">
+                     <l>HERE damask <ref target="#rose">Roses</ref>, white and red,</l>
+                     <l>Out of my lap first take I,</l>
+                     <l>Which still shall run along the thread,</l>
+                     <l>My chiefest flower this make I.</l>
+                  </lg>
 
-               <lg type="stanza">
-                  <l>The pretty Pansy then I'll tie,</l>
-                  <l>Like stones some chain inchasing;</l>
-                  <l>And next to them, their near ally,</l>
-                  <l>The purple Violet placing.</l>
-               </lg>
+                  <lg type="stanza">
+                     <l>Amongst these <ref target="#rose">Roses</ref> in a row,</l>
+                     <l>Next place I Pinks in plenty,</l>
+                     <l>These double Pansies then for show;</l>
+                     <l>And will not this be dainty?</l>
+                  </lg>
 
-               <lg type="stanza">
-                  <l>The curious choice clove July flower,</l>
-                  <l>Whose kind hight the Carnation,</l>
-                  <l>or sweetnest of most sovereign power,</l>
-                  <l>Shall help my wreath to fashion;</l>
-               </lg>
+                  <lg type="stanza">
+                     <l>The pretty Pansy then I'll tie,</l>
+                     <l>Like stones some chain inchasing;</l>
+                     <l>And next to them, their near ally,</l>
+                     <l>The purple Violet placing.</l>
+                  </lg>
 
-               <lg type="stanza">
-                  <l>Whose sundry colours of one kind,</l>
-                  <l>First from one root derived,</l>
-                  <l>Them in their several suits I'll bind:</l>
-                  <l>My garland so contrived.</l>
-               </lg>
+                  <lg type="stanza">
+                     <l>The curious choice clove July flower,</l>
+                     <l>Whose kind hight the Carnation,</l>
+                     <l>or sweetnest of most sovereign power,</l>
+                     <l>Shall help my wreath to fashion;</l>
+                  </lg>
 
-               <lg type="stanza">
-                  <l>A course of Cowslips then I'll stick,</l>
-                  <l>And here and there (though sparely)</l>
-                  <l>The pleasant <ref target="#rose">Primrose</ref> down I'll prick,</l>
-                  <l>Like pearls that will show rarely;</l>
-               </lg>
+                  <lg type="stanza">
+                     <l>Whose sundry colours of one kind,</l>
+                     <l>First from one root derived,</l>
+                     <l>Them in their several suits I'll bind:</l>
+                     <l>My garland so contrived.</l>
+                  </lg>
 
-               <lg type="stanza">
-                  <l>Then with these Marigolds I'll make</l>
-                  <l>My garland somewhat swelling,</l>
-                  <l>These Honeysuckles then I'll take,</l>
-                  <l>Whose sweets shall help their smelling.</l>
-               </lg>
+                  <lg type="stanza">
+                     <l>A course of Cowslips then I'll stick,</l>
+                     <l>And here and there (though sparely)</l>
+                     <l>The pleasant <ref target="#rose">Primrose</ref> down I'll prick,</l>
+                     <l>Like pearls that will show rarely;</l>
+                  </lg>
 
-               <lg type="stanza">
-                  <l>The <ref target="#lily">Lily</ref> and the Fleur-de-lis,</l>
-                  <l>For colour much contending;</l>
-                  <l>For that I them do only prize,</l>
-                  <l>They are but poor in scenting.</l>
-               </lg>
+                  <lg type="stanza">
+                     <l>Then with these Marigolds I'll make</l>
+                     <l>My garland somewhat swelling,</l>
+                     <l>These Honeysuckles then I'll take,</l>
+                     <l>Whose sweets shall help their smelling.</l>
+                  </lg>
 
-               <lg type="stanza">
-                  <l>The <ref target="#daffodil">Daffodil</ref> most dainty is,</l>
-                  <l>To match with these in meetness;</l>
-                  <l>The Columbine compared to this,</l>
-                  <l>All much alike for sweetness.</l>
-               </lg>
+                  <lg type="stanza">
+                     <l>The <ref target="#lily">Lily</ref> and the Fleur-de-lis,</l>
+                     <l>For colour much contending;</l>
+                     <l>For that I them do only prize,</l>
+                     <l>They are but poor in scenting.</l>
+                  </lg>
 
-               <lg type="stanza">
-                  <l>These in their natures only are</l>
-                  <l>Fit to emboss the border.</l>
-                  <l>Therefore I'll take especial care</l>
-                  <l>To place them in their order:</l>
-               </lg>
+                  <lg type="stanza">
+                     <l>The <ref target="#daffodil">Daffodil</ref> most dainty is,</l>
+                     <l>To match with these in meetness;</l>
+                     <l>The Columbine compared to this,</l>
+                     <l>All much alike for sweetness.</l>
+                  </lg>
 
-               <lg>
-                  <l><ref target="#william">Sweet-williams</ref>, <ref target="#rose"
-                     >Campions</ref>, Sops-in-wine,</l>
-                  <l>One by another neatly;</l>
-                  <l>Thus have I made this wreath of mine,</l>
-                  <l>And finished it featly.</l>
-               </lg>
+                  <lg type="stanza">
+                     <l>These in their natures only are</l>
+                     <l>Fit to emboss the border.</l>
+                     <l>Therefore I'll take especial care</l>
+                     <l>To place them in their order:</l>
+                  </lg>
 
-               <byline><ref target="#drayton">NICHOLAS DRAYTON.</ref></byline>
+                  <lg>
+                     <l><ref target="#william">Sweet-williams</ref>, <ref target="#rose"
+                           >Campions</ref>, Sops-in-wine,</l>
+                     <l>One by another neatly;</l>
+                     <l>Thus have I made this wreath of mine,</l>
+                     <l>And finished it featly.</l>
+                  </lg>
+
+                  <byline><ref target="#drayton">NICHOLAS DRAYTON.</ref></byline>
+               </lg>
             </lg>
-
          </div>
+
          <div type="end_pages">
             <!-- p. 80 (Brianna) -->
             <head><hi rend="italics">ILLUSTRATIONS.</hi></head>
@@ -1021,5 +1067,271 @@
             </list>
          </div>
       </body>
+      
+      <back>
+         <listBibl>
+            <biblStruct>
+               <monogr xml:id="elliot" n="1">
+                  <author>
+                     <persName>
+                        <surname>Elliot</surname>
+                        <forename>Brent</forename>
+                     </persName>
+                  </author>
+                  <title level="j">The Victorian Language of Flowers</title>
+                  <ref>target="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.rhs.org.uk/about-us/pdfs/publications/lindley-library-occasional-papers/volume-ten.pdf"</ref>
+                  <imprint>
+                     <pubPlace>Dorset UK</pubPlace>
+                     <publisher>Occasional Papers from the RHS Lindley Library</publisher>
+                     <date when="2013">April 2013</date>
+                  </imprint>
+                  <biblScope> unit="volume">10</biblScope>
+                  <biblScope unit="issue">1</biblScope>
+                  <biblScope from="3" to="94">3-94 </biblScope>
+               </monogr>
+               <monogr xml:id="daiches" n="2">
+                  <author>
+                     <persName>
+                        <surname>Daiches</surname>
+                        <forename>David</forename>
+                     </persName>
+                  </author>
+                  <title level="j">"Robert Burns"</title>
+                  <ref>target="https://www.britannica.com/biography/Robert-Burns."</ref>
+                  <imprint>
+                     <pubPlace>Encyclopedia Britannica Online</pubPlace>
+                     <publisher>Encyclopedia Britannica</publisher>
+                     <date when="2024">21 Jan. 2024</date>
+                  </imprint>
+               </monogr>
+               <monogr xml:id="engelhardt" n="3">
+                  <author>
+                     <persName>
+                        <surname>Engelhardt</surname>
+                        <forename>Molly</forename>
+                     </persName>
+                  </author>
+                  <title level="j">The Language of Flowers in the Victorian Knowledge Age</title>
+                  <ref>target="https://doi.org/10.3366/vic.2013.0129"</ref>
+                  <imprint>
+                     <pubPlace>Victoriographies online</pubPlace>
+                     <publisher>Edinburgh University Press</publisher>
+                     <date when="2013">November 2013</date>
+                  </imprint>
+                  <biblScope> unit="volume">3</biblScope>
+                  <biblScope unit="issue">2</biblScope>
+                  <biblScope from="136" to="160">136-160 </biblScope>
+               </monogr>
+               <monogr xml:id="examples" n="4">
+                  <author>
+                     <persName>
+                        <surname>Greenaway</surname>
+                        <forename>Kate</forename>
+                     </persName>
+                  </author>
+                  <title level="m">Kate Greenaway: 16 Examples in Colour of the Artist's
+                     Work</title>
+                  <imprint>
+                     <pubPlace>England</pubPlace>
+                     <publisher>A. &amp; C. Black</publisher>
+                     <date when="1910">1910</date>
+                  </imprint>
+               </monogr>
+               <monogr xml:id="language" n="5">
+                  <author>
+                     <persName>
+                        <surname>Greenaway</surname>
+                        <forename>Kate</forename>
+                     </persName>
+                  </author>
+                  <title level="m">Language of Flowers</title>
+                  <imprint>
+                     <pubPlace>London and New York</pubPlace>
+                     <publisher>Frederick Warne &amp; Co.</publisher>
+                     <date when="1884">1884</date>
+                  </imprint>
+               </monogr>
+               <monogr xml:id="jflectcher" n="6">
+                  <author>Editors of Encyclopedia Britannica</author>
+                  <title level="j">"John Fletcher"</title>
+                  <ref>target="https://www.britannica.com/biography/John-Fletcher"</ref>
+                  <imprint>
+                     <pubPlace>Encyclopedia Britannica Online</pubPlace>
+                     <publisher>Encyclopedia Britannica</publisher>
+                     <date when="2023">25 August 2023</date>
+                  </imprint>
+               </monogr>
+               <monogr xml:id="mdrayton" n="7">
+                  <author>Editors of Encyclopedia Britannica </author>
+                  <title level="j">"Michael Drayton</title>
+                  <ref>target="https://www.britannica.com/biography/Michael-Drayton"</ref>
+                  <imprint>
+                     <pubPlace>Encyclopedia Britannica Online</pubPlace>
+                     <publisher>Encyclopedia Britannica</publisher>
+                     <date when="2024">1 January 2024</date>
+                  </imprint>
+               </monogr>
+               <monogr xml:id="neal" n="8">
+                  <author>
+                     <persName>
+                        <surname>Neal</surname>
+                        <forename>Tom</forename>
+                     </persName>
+                  </author>
+                  <title level="m">Kate Greenaway: An Appreciation of a Portraitist</title>
+                  <imprint>
+                     <pubPlace>California</pubPlace>
+                     <publisher>Dawson's Book Shop</publisher>
+                     <date when="1945">1945</date>
+                  </imprint>
+               </monogr>
+               <monogr xml:id="parrish" n="9">
+                  <author>
+                     <persName>
+                        <surname>Parrish</surname>
+                        <forename>Stephen</forename>
+                     </persName>
+                  </author>
+                  <title level="j">William Wordsworth</title>
+                  <ref>target="https://www.britannica.com/biography/William-Wordsworth"</ref>
+                  <imprint>
+                     <pubPlace>Encyclopedia Britannica Online</pubPlace>
+                     <publisher>Encyclopedia Britannica</publisher>
+                     <date when="2023">7 November 2023</date>
+                  </imprint>
+               </monogr>
+               <monogr xml:id="weller" n="10">
+                  <author>
+                     <persName>
+                        <surname>Weller</surname>
+                        <forename>Toni</forename>
+                     </persName>
+                  </author>
+                  <title level="j">The Puffery and Practicality of Etiquette Books: A New Take on
+                     Victorian Information Culture</title>
+                  <ref>target="https://doi.org/10.1353/lib.2014.0011"</ref>
+                  <imprint>
+                     <pubPlace>Library Trends</pubPlace>
+                     <publisher>Project Muse</publisher>
+                     <date when="2014">2014</date>
+                  </imprint>
+                  <biblScope unit="volume">62</biblScope>
+                  <biblScope unit="issue">3</biblScope>
+                  <biblScope from="663" to="680">663-680</biblScope>
+               </monogr>
+            </biblStruct>
+            <biblStruct>
+               <monogr xml:id="wilkinson" n="11">
+                  <author>
+                     <persName>
+                        <surname>Wilkinson</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </author>
+                  <title level="m">The Flower Encyclopedia and Gardener's Guide</title>
+                  <imprint>
+                     <pubPlace>New York</pubPlace>
+                     <publisher>Garden City Publishing Co.</publisher>
+                     <date when="1943">1943</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+         <listPerson>
+            <person xml:id="greenaway" role="illustrator" n="1">
+               <persName><surname>Greenaway</surname>
+                  <forename>Kate</forename></persName>
+               <birth>17 March 1846 </birth>
+               <death>6 November 1901</death>
+               <note><ref target="#neal">Kate Greenaway</ref> was born the same year the first
+                  Christmas card came out, and she even inspired Robert Louis
+                  Stevenson! While she is most well-known for her illustrations of
+                  children's books, she was also prolific in designing Christmas cards and
+                  watercolor portraits. The Language of Flowers is perhaps the most well-known of
+                  all her works, but to study more of her work, see <ref target="#examples">"Kate
+                     Greenaway: 16 Examples in Colour of the Artist's Work."</ref></note>
+            </person>
+            <person xml:id="burns" role="poet" n="2">
+               <persName>
+                  <surname>Burns</surname>
+                  <forename>Robert</forename>
+               </persName>
+               <birth> 25 January 1759 </birth>
+               <death>21 July 1796</death>
+               <note><ref target="daiches">Burns</ref> was a Scottish poet and tenant farmer. He
+                  struggled through much of his life, but when he published his book of poems,
+                  he was almost instantly heralded as a great writer. Many of his poems were
+                  written to popular folk tunes that he was familiar with, which is why "O
+                  Luve Will Venture In" has the byline for the tune of "The
+                  Posie."</note>
+            </person>
+            <person xml:id="drayton" role="poet" n="3">
+               <persName>
+                  <surname>Drayton</surname>
+                  <forename>Nicholas</forename>
+               </persName>
+               <birth>1563</birth>
+               <death>1631</death>
+               <note>While "Arrangement of a Bouquet" is attributed to
+                  Nicholas Drayton, we believe that this references <ref target="#mdrayton">Michael Drayton</ref>, an early
+                  17th century poet and playwright. This poem is found in Drayton's larger
+                  work "The Muses Elysium," which confirms our understanding of this artist.
+                  He lived and worked in England, spending most of his time in London, but he
+                  never achieved great reknown.</note>
+            </person>
+            <person xml:id="fletcher" role="poet" n="4">
+               <persName>
+                  <surname>Fletcher</surname>
+                  <forename>Samuel</forename>
+               </persName>
+               <birth>December 1579</birth>
+               <death>29 August 1625</death>
+               <note>This poem is mistakenly attributed to Samuel
+                  Fletcher when the playwright who composed it was named <ref target="#jfletcher">John Fletcher</ref>. This
+                  poem is found in the work composed by John Fletcher and Francis Beaumont
+                  titled "The Maides Tragedy." John Fletcher became the chief playwright of
+                  the King's Men for the Globe Theater after Shakespeare's retirement around
+                  1613!</note>
+            </person>
+            <person xml:id="wordsworth" role="poet" n="5">
+               <persName>
+                  <surname>Wordsworth</surname>
+                  <forename>William</forename>
+               </persName>
+               <birth>7 April 1770</birth>
+               <death>23 April 1850</death>
+               <note><ref target="parrish">William Wordsworth</ref> launched the Romantic movement with
+                  help from Samuel Taylor Coleridge. Most of our modern understanding of
+                  poetry, what it is and why it exists, has its roots in the work that
+                  Wordsworth did over his career and life.</note>
+            </person>
+         </listPerson>
+         <noteGrp type="flowers">
+            <note xml:id="daffodil" n="1">In our source text, daffodils are associated with regard and with <ref target="#wordsworth">Wordsworth's</ref> poem of the same title. It is also known as the narcissus <ref target="#wilkinson">(Wilkinson 197)</ref>, and they can be white, yellow, or orange. They grow from bulbs and have been worked on extensively in Holland as well as England <ref target="#wilkinson">(157).</ref> They grow best in sandy loam or heavy soil (201), and they fail in very hot climates <ref target="#wilkinson">(209).</ref> Because they are bulb flowers, they must be <ref target="#wilkinson">"well rooted" (206)</ref> before they can be grown in a greenhouse or before blooms can be expected.Once they have bloomed, the tall flowers make for striking boutquets, and they may have been used in courting to alert a woman to possible interest without being a full declaration of love.</note>
+            <note xml:id="daisy" n="2">Daisies are associated with innocence, understanding, beauty, and parting according to <ref target="#greenaway">Kate Greenaway</ref>, but <ref target="#burns">Robert Burns</ref> associates the daisy with "simplicity and unaffected air" in his poem <ref target="#posie">The Posie." </ref> </note>
+            <note xml:id="nightshade" n="3"/>
+            <note xml:id="larkspur" n="4"/>
+            <note xml:id="lily" n="5"/>
+            <note xml:id="bride" n="6"/>
+            <note xml:id="mulberry" n="7"/>
+            <note xml:id="periwinkle" n="8"/>
+            <note xml:id="posie" n="9"/>
+            <note xml:id="rose" n="10"/>
+            <note xml:id="william" n="11"/>
+            <note xml:id="thrift" n="12"/>
+            <note xml:id="woodbine" n="13"/>
+         </noteGrp>
+         <noteGrp type="editorial">
+            <note xml:id="headings">While the original text does not include headings for each section, we added them for ease of reading. "Flowers" indicates the section that lists the flowers first, and then their meanings; "Meanings" indicates the section that lists the meanings first, and then the flowers; and "Poetry" indicates the section of poems that relate to the flowers in the text as well as some flowers or meanings that are not included in our excerpts here.</note>
+            <note xml:id="ash">Whenever there is an ash phonetic symbol in the text, we changed it to a standard type "a" and "e" for ease of reading.</note>
+            <note xml:id="spelling">In the original, this "love" is spelled "luve," so we changed it to avoid confusion for our readers, both human and machine.</note>
+         </noteGrp>
+         <noteGrp type="context">
+            <note xml:id="context"><p>Floriography was a popular study in the Victorian age, in part due to the Victorians’ obsession with reference manuals, classification, and dictionaries <ref target="#engelhardt">(Engelhardt 137)</ref>. In this period, however, floriography moved from a pastime for just women to a wider project of social service and science by a growing field of amateur botanists. This study became assumed common knowledge, as Engelhardt notes that “Victorian writers expected a certain degree of floral literacy from their readers and used floral codes strategically in their fiction as subtexts for practitioners of the language of flowers” <ref target="#engelhardt">(136)</ref>. These readers and writers would pull on information put out by amateur botanists in this fledgling scientific field through their reference manuals codifying flowers and their meanings so that both writers and readers  could “extend the parameters of courtship and imaginative play” <ref target="#engelhardt">(156)</ref>.</p> 
+               <p>This knowledge, along with the proliferation of other Victorian manuals on etiquette and other subjects, reflects a growing middle class and the emergence of new forms of marketing towards that middle class. These etiquette guides, while serving other social purposes, also show new desires and demands for commodities and material goods in the Victorian age <ref target="#weller">(Weller)</ref>.</p> 
+               <p>From this information, we can conclude that this booklet was one kind of informational booklet that would have been purchased for children, debutantes, and anyone else who was interested in the study of floriography, even if they were not part of the upper echelons of London society during this time. </p>
+            </note>
+         </noteGrp>
+      </back>
    </text>
 </TEI>
