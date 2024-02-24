@@ -186,8 +186,8 @@
                <item>Lantana.....<hi rend="italics">Rigour.</hi></item>
                <item>Larch.....<hi rend="italics">Audacity. Boldness.</hi></item>
                <item>Larkspur.....<hi rend="italics">Lightness. Levity.</hi></item>
-               <item>Larkspur, Pink.....<hi rend="italics">Fickleness.</hi></item>
-               <item><ref target="#larkspur_purple">Larkspur, Purple</ref>.....<hi rend="italics"
+               <item><ref target="#larkspur">Larkspur, Pink</ref>.....<hi rend="italics">Fickleness.</hi></item>
+               <item><ref target="#larkspur">Larkspur, Purple</ref>.....<hi rend="italics"
                      >Haughtiness.</hi></item>
                <item>Laurel.....<hi rend="italics">Glory.</hi></item>
                <item>Laurel, Common, in flower.....<hi rend="italics">Perfidy.</hi></item>
@@ -367,7 +367,7 @@
                <!-- p. 53 (Cari) -->
                <item>Gaiety.......<hi rend="italics">Butterfly Orchis.</hi></item>
                <item>Gaiety.......<hi rend="italics">Blue Violet.</hi></item>
-               <item>Gallantry.......<hi rend="italics">Sweet William.</hi></item>
+               <item>Gallantry.......<hi rend="italics"><ref target="#william">Sweet William.</ref></hi></item>
                <item>Generosity.......<hi rend="italics">Orange Tree.</hi></item>
                <item>Generous and devoted affection.......<hi rend="italics">French
                      Honeysuckle.</hi></item>
@@ -383,16 +383,16 @@
                <item>Good education.......<hi rend="italics">Cherry Tree.</hi></item>
                <item>Good wishes.......<hi rend="italics">Sweet Basil.</hi></item>
                <item>Good nature.......<hi rend="italics">White Mullein.</hi></item>
-               <item>Gossip.......<hi rend="italics">Cobæa.</hi></item>
-               <item>Grace.......<hi rend="italics">Multiflora Rose.</hi></item>
+               <item>Gossip.......<hi rend="italics">Cobaea.</hi></item>
+               <item>Grace.......<hi rend="italics"><ref target="#rose">Multiflora Rose.</ref></hi></item>
                <item>Grace and elegance.......<hi rend="italics">Yellow Jasmine.</hi></item>
                <item>Grandeur.......<hi rend="italics">Ash Tree.</hi></item>
                <item>Gratitude.......<hi rend="italics">Small White Bell-flower.</hi></item>
                <item>Grief.......<hi rend="italics">Harebell.</hi></item>
                <item>Grief.......<hi rend="italics">Marigold.</hi></item>
-               <item>Happy love.......<hi rend="italics">Bridal Rose.</hi></item>
+               <item>Happy love.......<hi rend="italics"><ref target="#rose">Bridal Rose.</ref></hi></item>
                <item>Hatred.......<hi rend="italics">Basil.</hi></item>
-               <item>Haughtiness.......<hi rend="italics"><ref target="#larkspur_purple">Purple
+               <item>Haughtiness.......<hi rend="italics"><ref target="#larkspur">Purple
                         Larkspur.</ref></hi></item>
                <item>Haughtiness.......<hi rend="italics">Tall Sunflower.</hi></item>
                <item>Health.......<hi rend="italics">Iceland Moss.</hi></item>
@@ -471,7 +471,7 @@
 
                <!-- p. 58 (Cari) -->
                <item>Reward of merit.......<hi rend="italics">Bay Wreath.</hi></item>
-               <item>Reward of virtue.......<hi rend="italics">Garland of Roses.</hi></item>
+               <item>Reward of virtue.......<hi rend="italics"><ref target="#rose">Garland of Roses.</ref></hi></item>
                <item>Riches.......<hi rend="italics">Corn.</hi></item>
                <item>Rigour.......<hi rend="italics">Lantana.</hi></item>
                <item>Rivalry.......<hi rend="italics">Rocket.</hi></item>
@@ -500,7 +500,7 @@
                <item>Snare.......<hi rend="italics">Catchfly. Dragon Plant.</hi></item>
                <item>Solitude.......<hi rend="italics">Heath.</hi></item>
                <item>Sorrow.......<hi rend="italics">Yew.</hi></item>
-               <item>Spell.......<hi rend="italics">Circæa.</hi></item>
+               <item>Spell.......<hi rend="italics">Circaea.</hi></item>
                <item>Spleen.......<hi rend="italics">Fumitory.</hi></item>
                <item>Splendid beauty.......<hi rend="italics">Amaryllis.</hi></item>
                <item>Splendour.......<hi rend="italics">Austurtium.</hi></item>
@@ -530,11 +530,11 @@
             <!-- p. 61 (Cari) -->
             <lg type="poem">
                <head>
-                  <title>DAFFODILS</title>
+                  <title><ref target="#daffodil">DAFFODILS</ref></title>
                   <bibl>
                      <author>
                         <persName>
-                           <surname>Wordsworth</surname>
+                           <surname><ref target="#wordsworth">Wordsworth</ref></surname>
                            <forename>William</forename>
                         </persName>
                      </author>
@@ -544,7 +544,7 @@
                   <l>I WANDERED lonely as a cloud</l>
                   <l>That floats on high o'er vales and hills,</l>
                   <l>When all at once I saw a crowd,</l>
-                  <l>A host of golden Daffodils;</l>
+                  <l>A host of golden <ref target="#daffodil">Daffodils</ref>;</l>
                   <l>Beside the lake, beneath the trees,</l>
                   <l>Fluttering and dancing in the breeze.</l>
                </lg>
@@ -570,9 +570,9 @@
                   <l>They flash upon that inward eye</l>
                   <l>Which is the bliss of solitude;</l>
                   <l>And then my heart with pleasure fills,</l>
-                  <l>And dances with the Daffodils.</l>
+                  <l>And dances with the <ref target="#daffodil">Daffodils</ref>.</l>
                </lg>
-               <byline>WORDSWORTH.</byline>
+               <byline><ref target="wordsworth">WORDSWORTH.</ref></byline>
             </lg>
 
             <!-- p. 64 (Brianna) -->
