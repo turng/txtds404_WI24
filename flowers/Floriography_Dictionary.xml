@@ -169,7 +169,20 @@
             <head>Flowers</head>
             <list>
 
-               <!-- p. 16 (Victoria) -->
+              <!-- p. 16 (Victoria) -->
+<figure><graphic url="nightshade_witchcraft.png"/><figDesc>Three women, one in blue, one in yellow, one in a brown hooded cloak in front of the woods. Woman in brown hooded cloak is reading the palm of the woman in the yellow dress while woman in blue observes.</figDesc></figure>
+               <item>Ebony Tree.....<hi rend="italics">Blackness.</hi></item>
+               <item>Eglantine (Sweetbrier).....<hi rend="italics">Poetry.I wound to heal.</hi></item>
+               <item>Elder.....<hi rend="italics">Zealousness.</hi></item>
+               <item>Elm.....<hi rend="italics">Dignity.</hi></item>
+               <item><ref target="#nightshade">Enchanter's Nightshade</ref>......<hi rend="italics">Witchcraft. Sorcery.</hi></item>
+               <item>Endive.....<hi rend="italics">Frugality.</hi></item>
+               <item>Eupatorium.....<hi rend="italics">.....Delay.</hi></item>
+               <item>Everflowering Candytuft.....<hi rend="italics">Indifference.</hi></item>
+               <item>Evergreen Clematis.....<hi rend="italics">Poverty.</hi></item>
+               <item>Evergreen Thorn.....<hi rend="italics">Solace in adversity.</hi></item>
+               <item>Everlasting.....<hi rend="italics">Never-ceasing remembrance.</hi></item>
+               <item>Everlasting Pea.....<hi rend="italics">Lasting pleasure.</hi></item>
 
                <!-- p. 26 (Cari) -->
                <figure>
@@ -228,13 +241,13 @@
                <item>Mossy Saxifrage.....<hi rend="italics">Affection.</hi></item>     
                <item>Motherwort.....<hi rend="italics">Concealed love.</hi></item>
                <item>Mountain Ash....<hi rend="italics">Prudence.</hi></item>
-               <item>Mourning Bride.....<hi rend="italics">Unfortunate attachment. I have lost all.</hi></item>
+               <item><ref target="#bride">Mourning Bride<ref>.....<hi rend="italics">Unfortunate attachment. I have lost all.</hi></item>
                <item>Mouse-eared Chickweed.....<hi rend="italics">Ingenuous simplicity.</hi></item>
                <item>Mouse-eared Scorpion Grass.....<hi rend="italics">Forget me not.</hi></item>         
                <item>Moving Plant.....<hi rend="italics">Agitation.</hi></item> 
                <item>Mudwort.....<hi rend="italics">Tranquillity.</hi></item>           
                <item>Mugwort.....<hi rend="italics">Happiness.</hi></item>  
-               <item>Mulberry Tree (Black).....<hi rend="italics">I shall not survive you.</hi></item>
+               <item><ref target="#mulberry">Mulberry Tree (Black)</ref>.....<hi rend="italics">I shall not survive you.</hi></item>
                <item>Mulberry Tree (White).....<hi rend="italics">Wisdom.</hi></item>         
                <item>Mushroom.....<hi rend="italics">Suspicion.</hi></item>
                <item>Musk Plant.....<hi rend="italics">Weakness.</hi></item>
@@ -450,6 +463,54 @@
 
 
                <!-- p. 54 (Victoria) -->
+		   <item>Hospitality.......<hi rend="italics">Oak Tree.</hi></item>
+               <item>Humility.......<hi rend="italics">Broom.</hi></item>
+               <item>Humility.......<hi rend="italics"></hi>Small Bindweed</item>
+               <item>Humility.......<hi rend="italics">Field Lilac.</hi></item>
+               <item>I am too happy.......<hi rend="italics">Cape Jasmine.</hi></item>
+               <item>I am your captive.......<hi rend="italics">Peach Blossom.</hi></item>
+               <item>I am worthy you.......<hi rend="italics">White Rose.</hi></item>
+               <item>I change but in death.......<hi rend="italics">Bay Leaf.</hi></item>
+               <item>I declare against you.......<hi rend="italics">Belvedere.</hi></item>
+               <item>I declare against you.......<hi rend="italics">.</hi>Liquorice.</item>
+               <item>I declare war against you.......<hi rend="italics">Wild Tansy.</hi></item>
+               <item>I die if neglacted.......<hi rend="italics">Laurestina.</hi></item>     
+               <item>I desire a return of affection.......<hi rend="italics">Jonquil.</hi></item>
+               <item>I feel my obligations.......<hi rend="italics">Lint.</hi></item>
+               <item>I feel your kindess.......<hi rend="italics">Flax.</hi></item>
+               <item>I have lost it all.......<hi rend="italics"><ref target="#bride">Mourning Bride.</ref></hi></item>
+               <item>I live for thee.......<hi rend="italics">Cedar Leaf.</hi></item>         
+               <item>I love.......<hi rend="italics">Red Chrysanthemum.</hi></item> 
+               <item>I partake of your sentiments.......<hi rend="italics">Double China Aster.</hi></item>           
+               <item>I partake your sentiments.......<hi rend="italics">Garden Daisy.</hi></item>          
+               <item>I shall die to-morrow.......<hi rend="italics">Gum Cistus.</hi></item>
+               <item>I shall not survive you.......<hi rend="italics"><ref target="#mulberry">Black Mulberry.</ref></hi></item>         
+               <item>I surmount difficulties.......<hi rend="italics">Mistletoe.</hi></item>
+               <item>I will think of it.......<hi rend="italics">Single China Aster.</hi></item>
+               <item>I will think of it.......<hi rend="italics">Wild Daisy.</hi></item>          
+               <item>I wound to heal.......<hi rend="italics">Eglantine (Sweetbrier).</hi></item>   
+               <item>If you love me, you will find it out.......<hi rend="italics">Maiden Blush Rose.</hi></item>  
+               <item>Idleness.......<hi rend="italics">Mesembryanthemum.</hi></item>   
+               <item>Ill-natured beauty.......<hi rend="italics">Citron.</hi></item>
+               <item>Imagination.......<hi rend="italics">Lupine.</hi></item>   
+               <item>Immortality.......<hi rend="italics">Amaranth (Globe).</hi></item>    
+               <item>Impatience.......<hi rend="italics">Yellow Balsm.</hi></item>
+               <item>Impatient of absence.......<hi rend="italics">Corchorus.</hi></item>     
+               <item>Impatient resolves.......<hi rend="italics">Red Balsam.</hi></item>
+               <item>Imperfection.......<hi rend="italics">Henbane.</hi></item>
+               <item>Importunity.......<hi rend="italics">Burdock.</hi></item>
+               <item>Inconstancy.......<hi rend="italics">Evening Primrose.</hi></item>
+               <item>Incorruptible.......<hi rend="italics">Cedar of Lebanon.</hi></item>         
+               <item>Independence.......<hi rend="italics">Wild Plum Tree.</hi></item> 
+               <item>Independence.......<hi rend="italics">White Oak.</hi></item>           
+               <item>Indifference.......<hi rend="italics">Everflowering Candytuft.</hi></item>          
+               <item>Indifference.......<hi rend="italics">Mustard Seed.</hi></item>
+               <item>Indifference.......<hi rend="italics">Senvy.</hi></item>         
+               <item>Indiscretion.......<hi rend="italics">Split Reed.</hi></item>
+               <item>Industry.......<hi rend="italics">Red Clover.</hi></item>
+               <item>Industry, Domestic<hi rend="italics">Flax.</hi></item>          
+               <item>Ingenuousness<hi rend="italics">White Pink.</hi></item>
+               <item>Ingenuity<hi rend="italics">Pencilled Geranium.</hi></item> 
 
                <!-- p. 55 (Brianna) -->
                <item>Ingenuous simplicity.......<hi rend="italics">Mouse-eared
@@ -559,6 +620,44 @@
                   >Thrift.</ref></hi></item>
 
                <!-- p. 60 (Victoria) -->
+		 <item>Virtue, Domestic.......<hi rend="italics">Sage.</hi></item>
+               <item>Volubility.......<hi rend="italics">Abecedary.</hi></item>
+               <item>Voraciousness.......<hi rend="italics"></hi>Lupine</item>
+               <item>Vulgar Minds.......<hi rend="italics">African Marigold.</hi></item>
+               <item>War.......<hi rend="italics">York and Lancaster Rose.</hi></item>
+               <item>War.......<hi rend="italics">Achillea Millefolia.</hi></item>
+               <item>Warmth of feeling.......<hi rend="italics">Peppermint.</hi></item>
+               <item>Watchfulness.......<hi rend="italics">Dame Violet.</hi></item>
+               <item>Weakness.......<hi rend="italics">Moschatel.</hi></item>
+               <item>Weakness.......<hi rend="italics">Musk Plant.</hi></item>
+               <item>Welcome to a stranger.......<hi rend="italics">.</hi>American Starwort.</item>
+               <item>Widowhood.......<hi rend="italics">Sweet Scabious.</hi></item>
+               <item>Win me and wear me.......<hi rend="italics">Lady's Slipper.</hi></item>     
+               <item>Winning grace.......<hi rend="italics">Cowslip.</hi></item>
+               <item>Winter.......<hi rend="italics">Guelder Rose.</hi></item>
+               <item>Wit.......<hi rend="italics">Meadow Lychnis.</hi></item>
+               <item>Witchcraft.......<hi rend="italics"><ref target="#nightshade"><Enchanter's Nightshade.</ref></hi></item>
+               <item>Worth beyond beauty.......<hi rend="italics">Sweet Alyssum.</hi></item>         
+               <item>Worth sustained by judicious and tender affection.......<hi rend="italics">Pink Convolvulus.</hi></item> 
+               <item>Worthy all praise.......<hi rend="italics">Fennel.</hi></item>           
+               <item>You are cold.......<hi rend="italics">Hortensia.</hi></item>          
+               <item>You are my divinity.......<hi rend="italics">American Cowslip.</hi></item>
+               <item>You are perfect.......<hi rend="italics">Pine Apple.</hi></item>         
+               <item>You are radiant with charms.......<hi rend="italics">Ranunculus.</hi></item>
+               <item>You are rich in attractions.......<hi rend="italics">Garden Ranunculus.</hi></item>
+               <item>You are the queen of coquettes.......<hi rend="italics">Queen's Rocket.</hi></item>          
+               <item>You have no claims.......<hi rend="italics">Pasque Flower.</hi></item>   
+               <item>You please me all.......<hi rend="italics">Branch of Currants.</hi></item>  
+               <item>You will be my death.......<hi rend="italics">Hemlock.</hi></item>   
+               <item>Your charms are engraven on my heart.......<hi rend="italics">Spindle Tree.</hi></item>
+               <item>You freeze me.......<hi rend="italics">Ice Plant.</hi></item>   
+               <item>Your presence softens my pains.......<hi rend="italics">Milkvetch.</hi></item>    
+               <item>Your qualities, like your charms, are unequalled.......<hi rend="italics">Peach.</hi></item>
+               <item>You qualities surpass your charms.......<hi rend="italics">Mignionette.</hi></item>     
+               <item>Youthful innocence.......<hi rend="italics">White Lilac.</hi></item>
+               <item>Youthful love.......<hi rend="italics">Red Catchfly.</hi></item>
+               <item>Zealousness.......<hi rend="italics">Elder.</hi></item>
+               <item>Zest.......<hi rend="italics">Lemon.</hi></item>    
 
             </list>
          </div>
@@ -689,6 +788,84 @@
 
 
             <!-- p. 71 (Victoria) -->
+	  <lg type="poem">
+               <head>
+                  <title><ref target="#flecther">CONSTANCY</ref></title>
+                  <bibl>
+                     <author>
+                        <persName>
+                           <surname><ref target="#flecther">Flecther</ref></surname>
+                           <forename>Samuel</forename>
+                        </persName>
+                     </author>
+                  </bibl>
+               </head>
+               <lg type="stanza">
+                  <1>LAY a garland on my hearse</1>
+                  <1>Of the dismal yew;</1>
+                  <1>Maidens willow branches bear;</1>
+                  <1>Say, I died true.</1>
+                  <1>My love was false, but I was firm</1>
+                  <1>From my hour of birth.</1>
+                  <1>Upon my buried body lie</1>
+                  <1>Lightly, gentle earth!</1>
+                  <byline><ref target="#Flecther">SAMUEL FLECTHER.</ref></byline>  
+               </lg>
+               
+               lg type="poem">
+               <head>
+                  <title><ref target="#burns"></ref></title>
+                  <bibl>
+                     <author>
+                        <persName>
+                           <surname><ref target="#burns">Burns</ref></surname>
+                           <forename></forename>
+                        </persName>
+                     </author>
+                  </bibl>
+               </head>
+               <lg type="stanza">
+                  <1>MOURN, ilka grove the cushat kens!</1>
+                  <l>Ye haz'lly shaws and briery dens!</l>
+                  <l>Ye burnies, wimplin down your glens,</l>
+                  <l>Wi' toddlin din,</l>
+                  <l>Or foaming strang, wi' hasty stens,</l>
+                  <l>Frae lin to lin.</l>
+               </lg>
+               <lg type="stanza">      
+                  <1>Mourn little harebells o'er the lee;</1>
+                  <l>Ye stately foxgloves fair to see;</l>
+                  <l>Ye woodbines hanging bonnilie,</l>
+                  <l>In scented bow'rs;</l>
+                  <l>Ye roses on your thorny tree,</l>
+                  <l>The first o' flow'rs.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>At dawn, when ev'ry grassy blade</l>
+                  <l>Droops with a diamond at his head,</l>
+                  <l>At ev'n, when beans their fragrance shed,</l>
+                  <l>I' th' rustling gale,</l>
+                  <l>Ye maukins whiddin thro' the glade,</l>
+                  <l>Come join my wail.</l>
+               </lg>      
+               <lg type="stanza">      
+                  <l>Mourn, spring, thou darling of the year;</l>
+                  <l>Ilk cowslip cup shall kep a tear;</l>
+                  <l>Thou, simmer, while each corny spear</l>
+                  <l>Shoots up its head,</l>
+                  <l>Thy gay, green, flow'ry tresses shear,</l>
+                  <l>For him that's dead!</l>
+               </lg>
+               <lg type="stanza">
+                  <l>Thou, autumn, wi' thy yellow hair,</l>
+                  <l>In grief thy sallow mantle tear!</l>
+                  <l>Thou, winter, hurling thro' the air</l>
+                  <l>The roaring blast,</l>
+                  <l>Wide o'er the naked world declare</l>
+                  <l>The worth we've lost!</l>
+               </lg>
+                  <byline><ref target="#Burns">BURNS.</ref></byline>  
+               </lg>
 
             <!-- p. 76 (Brianna) -->
             <lg type="poem">
