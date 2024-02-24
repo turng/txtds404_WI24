@@ -1,2 +1,31 @@
 /* Place project-specific CSS here */
-
+<style>
+    div {
+        width: 700px;
+        margin: auto;
+        font-family: garamond;
+      }
+    body {
+        background-color:antiquewhite;
+        }
+    title {
+        color:goldenrod;
+        font-size: 37pt; 
+        font-family: garamond;
+        text-align: center; 
+        font-family: garamond;
+        }
+    h2 {
+        text-align: center; 
+        font-family: garamond;
+        }
+    #highlight {
+        border:5px solid goldenrod;
+        }
+    p {
+        text-align: center;     
+        color:darkolivegreen; 
+        font-family: garamond; 
+        font-size: 18pt;
+        }
+ </style>
