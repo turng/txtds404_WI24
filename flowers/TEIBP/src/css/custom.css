@@ -4,6 +4,8 @@
         background-color:antiquewhite;
         }
 
+figure {width: 1500px;
+        margin: auto;}
     title {
         color:goldenrod;
         font-size: 14pt; 
