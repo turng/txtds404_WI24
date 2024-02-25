@@ -1,6 +1,6 @@
 /* imports */
 /* @import url("shell.css"); */
-@import url('http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic|Gentium+Book+Basic:400,400italic,700,700italic');
+
 /* namespaces */
 /* @namespace "http://www.tei-c.org/ns/1.0"; */
 /* @namespace with prefix, as below, throws and error in less. */
@@ -1843,7 +1843,6 @@ html {
   font-size: 14pt;
   background-color: #EBEBEB;
   color: #292929;
-  width: 33em;
 }
 img {
   border: 1px solid #AAA;
@@ -1859,7 +1858,7 @@ a:visited,
 a:active {
   color: #5f0000;
   text-decoration: none;
-}
+}s
 a:hover {
   color: #5f0000;
   text-decoration: underline;
