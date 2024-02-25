@@ -7,23 +7,22 @@
 /* @namespace html "http://www.w3.org/1999/xhtml"; */
 /* Less variables */
 .note-like {
-  display: inline-block;
-  margin: 0;
+  display: block;
+  margin: 0em 0em;
   padding: 0em 0em 0em 0em;
-  border: 0px solid black;
-  border-radius: 0px;
+  border: 10px solid black;
+  border-radius: 10px;
   width: auto;
   position: relative;
-  border: 0px solid #AAA;
+  border: 10px solid #AAA;
   background: #FAFAFA;
   /* reset text-indent for note with <l> ancestors. */
   text-indent: 0;
   font-size: 85%;
   text-align: center;
-  -webkit-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
-  -moz-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
-  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
-  box-sizing: border-box;
+  -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
 }
 /* US Style Quotes */
 .quotesUS {
@@ -38,8 +37,8 @@
 }
 .block-margins {
   display: block;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 /* teibp classes */
 .-teibp-thumbnail {
@@ -50,7 +49,7 @@
   width: 100%;
   text-align: right;
   color: gray;
-  margin: 0;
+  margin: 2em 0 2em 0;
   font-size: 11pt;
 }
 .resizable {
@@ -58,18 +57,18 @@
 }
 @keyframes block-in {
   from {
-    background-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.5);
   }
   to {
-    background-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.8);
   }
 }
 @-webkit-keyframes block-in {
   from {
-    background-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.5);
   }
   to {
-    background-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.8);
   }
 }
 .blocker {
@@ -81,12 +80,12 @@
   right: 0;
   animation: block-in 1s 1;
   -webkit-animation: block-in 1s 1;
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.8);
 }
 .box-shadow {
-  -webkit-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
-  -moz-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
-  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+  -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
 }
 .hide {
   display: none;
@@ -95,19 +94,19 @@
   font-family: Courier,monospace;
 }
 .page-setup {
-  margin-left: 0;
-  margin-right: 0;
-  padding: 0;
+  margin-left: 2em;
+  margin-right: 4em;
+  padding: 2.5em;
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
   background-color: #EBEBEB;
   color: #292929;
-  width: auto;
+  width: 33em;
 }
 .table-border {
   /*
-border-left: 0px solid @border-color;
-border-top:0px solid @border-color;
+border-left: 2px solid @border-color;
+border-top:2px solid @border-color;
 */
   border: 1px dotted #AAA;
 }
@@ -131,8 +130,8 @@ choice reg + orig:after {
 /* A */
 ab {
   display: block;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 accMat {
   display: block;
@@ -295,8 +294,8 @@ bibl {
 bibl[rend~="block"],
 bibl[rendition~="#block"] {
   display: block;
-  padding-left: 0em;
-  text-indent: 5em;
+  padding-left: 2em;
+  text-indent: -2em;
 }
 biblFull {
   display: block;
@@ -363,8 +362,8 @@ camera {
 }
 caption {
   display: block;
-  margin-top: 0em;
-  margin-bottom: 0em;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 case[value]:before {
   font-weight: bold;
@@ -372,8 +371,8 @@ case[value]:before {
 }
 castGroup {
   display: block;
-  margin-top: 0em;
-  margin-bottom: 0em;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 castItem {
   display: list-item;
@@ -381,9 +380,9 @@ castItem {
 }
 castList {
   display: block;
-  margin-top: 0em;
-  margin-bottom: 0em;
-  margin-left: 0em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 2em;
 }
 catDesc {
   /* Empty Rule Set */
@@ -404,12 +403,12 @@ cb:before {
 }
 cell {
   display: table-cell;
-  padding: 0em 0em 0em 0em;
+  padding: 1em 1.5em 1em 1em;
   /*
-border-left: 0px solid @border-color;
-border-top:0px solid @border-color;
+border-left: 2px solid @border-color;
+border-top:2px solid @border-color;
 */
-  border: 0px dotted #AAA;
+  border: 1px dotted #AAA;
   width: 100%;
 }
 /* for cell or row with @role = label */
@@ -574,11 +573,11 @@ egXML {
   font-size: 80%;
   margin-left: 1em;
   padding-left: 1em;
-  border-left: 0px solid #AAA;
-  margin-top: 0em;
-  margin-bottom: 0em;
-  padding-top: 0em;
-  padding-bottom: 0em;
+  border-left: 1px solid #AAA;
+  margin-top: .75em;
+  margin-bottom: .75em;
+  padding-top: .75em;
+  padding-bottom: .75em;
   font-family: monospace;
   white-space: pre;
 }
