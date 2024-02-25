@@ -8,7 +8,7 @@
     body {
         background-color:antiquewhite;
         font-family: garamond; 
-        font-size: 18pt;
+        font-size: 14pt;
         }
     title {
         color:goldenrod;
@@ -28,7 +28,7 @@
         text-align: center;     
         color:darkolivegreen; 
         font-family: garamond; 
-        font-size: 18pt;
+        font-size: 14pt;
         }
     #borderimg {
   border-image-source: url(daffodil.jpg);
