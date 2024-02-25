@@ -7,6 +7,8 @@
       }
     body {
         background-color:antiquewhite;
+        font-family: garamond; 
+        font-size: 18pt;
         }
     title {
         color:goldenrod;
