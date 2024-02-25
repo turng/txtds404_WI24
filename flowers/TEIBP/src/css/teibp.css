@@ -58,18 +58,18 @@
 }
 @keyframes block-in {
   from {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0);
   }
   to {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0);
   }
 }
 @-webkit-keyframes block-in {
   from {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0);
   }
   to {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0);
   }
 }
 .blocker {
@@ -81,12 +81,12 @@
   right: 0;
   animation: block-in 1s 1;
   -webkit-animation: block-in 1s 1;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0);
 }
 .box-shadow {
-  -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
-  -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
-  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  -webkit-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+  -moz-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
 }
 .hide {
   display: none;
@@ -102,12 +102,12 @@
   font-size: 14pt;
   background-color: #EBEBEB;
   color: #292929;
-  width: 33em;
+  width: auto;
 }
 .table-border {
   /*
-border-left: 2px solid @border-color;
-border-top:2px solid @border-color;
+border-left: 0px solid @border-color;
+border-top:0px solid @border-color;
 */
   border: 1px dotted #AAA;
 }
@@ -295,8 +295,8 @@ bibl {
 bibl[rend~="block"],
 bibl[rendition~="#block"] {
   display: block;
-  padding-left: 2em;
-  text-indent: -2em;
+  padding-left: 0em;
+  text-indent: 5em;
 }
 biblFull {
   display: block;
@@ -363,8 +363,8 @@ camera {
 }
 caption {
   display: block;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 0em;
+  margin-bottom: 0em;
 }
 case[value]:before {
   font-weight: bold;
@@ -372,8 +372,8 @@ case[value]:before {
 }
 castGroup {
   display: block;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 0em;
+  margin-bottom: 0em;
 }
 castItem {
   display: list-item;
@@ -381,9 +381,9 @@ castItem {
 }
 castList {
   display: block;
-  margin-top: 1em;
-  margin-bottom: 1em;
-  margin-left: 2em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  margin-left: 0em;
 }
 catDesc {
   /* Empty Rule Set */
@@ -404,12 +404,12 @@ cb:before {
 }
 cell {
   display: table-cell;
-  padding: 1em 1.5em 1em 1em;
+  padding: 0em 0em 0em 0em;
   /*
-border-left: 2px solid @border-color;
-border-top:2px solid @border-color;
+border-left: 0px solid @border-color;
+border-top:0px solid @border-color;
 */
-  border: 1px dotted #AAA;
+  border: 0px dotted #AAA;
   width: 100%;
 }
 /* for cell or row with @role = label */
@@ -574,11 +574,11 @@ egXML {
   font-size: 80%;
   margin-left: 1em;
   padding-left: 1em;
-  border-left: 1px solid #AAA;
-  margin-top: .75em;
-  margin-bottom: .75em;
-  padding-top: .75em;
-  padding-bottom: .75em;
+  border-left: 0px solid #AAA;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  padding-top: 0em;
+  padding-bottom: 0em;
   font-family: monospace;
   white-space: pre;
 }
