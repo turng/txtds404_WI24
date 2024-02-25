@@ -1815,9 +1815,9 @@ html > body {
 html {
   margin: 0;
   padding: 0;
-  margin-left: 2em;
-  margin-right: 4em;
-  padding: 2.5em;
+  margin-left: 1em;
+  margin-right: 1em;
+  padding: 1em;
   /*font-family: "Gentium Book Basic", Cochin, Georgia, Serif;*/
   font-family: georgia;
   font-size: 14pt;
