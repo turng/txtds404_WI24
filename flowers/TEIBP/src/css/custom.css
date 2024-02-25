@@ -1,36 +1,47 @@
 /* Place project-specific CSS here */
 
-    div {
-        width: 1500px;
-        margin: auto;
-        font-family: garamond;
-      }
-    body {
-        background-color:antiquewhite;
-        font-family: garamond; 
-        font-size: 14pt;
-        }
-    title {
-        color:goldenrod;
-        font-size: 14pt; 
-        font-family: garamond;
-        text-align: center; 
-        font-family: garamond;
-        }
-    h2 {
-        text-align: center; 
-        font-family: garamond;
-        }
-    #highlight {
-        border:5px solid goldenrod;
-        }
-    p {
-        text-align: center;     
-        color:darkolivegreen; 
-        font-family: garamond; 
-        font-size: 14pt;
-        }
-    #borderimg {
-  border-image-source: url(daffodil.jpg);
+div {
+    width: 1500px;
+    margin: auto;
+    font-family: garamond;
+}
+body {
+    background-color: antiquewhite;
+    font-family: garamond;
+    font-size: 14pt;
+}
+title {
+    color: goldenrod;
+    font-size: 14pt;
+    font-family: garamond;
+    text-align: center;
+    font-family: garamond;
+}
+h2 {
+    text-align: center;
+    font-family: garamond;
+}
+#highlight {
+    border: 5px solid goldenrod;
+}
+p {
+    text-align: center;
+    color: darkolivegreen;
+    font-family: garamond;
+    font-size: 14pt;
+}
+#borderimg {
+    border-image-source: url(daffodil.jpg);
 }
 
+listbibl {
+    text-align: center;
+    color: darkolivegreen;
+    font-family: garamond;
+    font-size: 14pt;
+}
+
+author:after {
+    content: "\a";
+    white-space: pre;
+}
