@@ -52,16 +52,7 @@ div[type=“end_pages”]{text-align: center;
         font-size: 18pt;
         }
         
-listbibl {text-align: left;     
-        color:darkolivegreen; 
-        font-family: garamond; 
-        font-size: 18pt;
-        }
-        
-noteGrp {text-align: center;     
-        color:darkolivegreen; 
-        font-family: garamond; 
-        font-size: 14pt}
+
        
 author:after {
     content:"\a";
