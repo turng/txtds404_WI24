@@ -28,14 +28,31 @@ figure {width: 500px;
         font-family: garamond; 
         font-size: 18pt;
         }
-        
-list {text-align: center;     
+div[type=“flowers”]{text-align: left;     
         color:darkolivegreen; 
         font-family: garamond; 
         font-size: 18pt;
         }
 
-listbibl {text-align: center;     
+div[type=“meanings”]{text-align: right;     
+        color:darkolivegreen; 
+        font-family: garamond; 
+        font-size: 18pt;
+        }
+        
+div[type=“poetry”]{text-align: center;     
+        color:darkolivegreen; 
+        font-family: garamond; 
+        font-size: 18pt;
+        }
+        
+div[type=“end_pages”]{text-align: center;     
+        color:darkolivegreen; 
+        font-family: garamond; 
+        font-size: 18pt;
+        }
+        
+listbibl {text-align: left;     
         color:darkolivegreen; 
         font-family: garamond; 
         font-size: 18pt;
