@@ -8,7 +8,7 @@ figure {width: 500px;
         margin: auto;}
     title {
         color:goldenrod;
-        font-size: 14pt; 
+        font-size: 18pt; 
         font-family: garamond;
         text-align: center; 
         font-family: garamond;
@@ -16,7 +16,7 @@ figure {width: 500px;
     titleStmt {text-align: center;     
         color:darkolivegreen; 
         font-family: garamond; 
-        font-size: 24pt;
+        font-size: 32pt;
         }
  
     #highlight {
@@ -26,13 +26,13 @@ figure {width: 500px;
         text-align: center;     
         color:darkolivegreen; 
         font-family: garamond; 
-        font-size: 14pt;
+        font-size: 18pt;
         }
 
 listbibl {text-align: center;     
         color:darkolivegreen; 
         font-family: garamond; 
-        font-size: 14pt;
+        font-size: 18pt;
         }
         
 noteGrp {text-align: center;     
