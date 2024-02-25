@@ -30,15 +30,17 @@
         font-family: garamond; 
         font-size: 14pt;
         }
-    #borderimg {
-  border-image-source: url(daffodil.jpg);
-}
 
 listbibl {text-align: center;     
         color:darkolivegreen; 
         font-family: garamond; 
         font-size: 14pt;
         }
+        
+noteGrp {text-align: center;     
+        color:darkolivegreen; 
+        font-family: garamond; 
+        font-size: 14pt}
        
 author:after {
     content:"\a";
