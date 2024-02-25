@@ -1,61 +1,74 @@
 /* Place project-specific CSS here */
 
-    body {
-        background-color:antiquewhite;
-        }
+head {
+    width: auto;
+    margin: auto;
+    padding: 0px;
+    border: 0px;
+}
 
-figure {width: auto;
-        margin: auto;}
-    title {
-        color:goldenrod;
-        font-size: 18pt; 
-        font-family: garamond;
-        text-align: center; 
-        font-family: garamond;
-        }
-    titleStmt {text-align: center;     
-        color:darkolivegreen; 
-        font-family: garamond; 
-        font-size: 32pt;
-        }
- 
-    #highlight {
-        border:5px solid goldenrod;
-        }
-    p {
-        text-align: center;     
-        color:darkolivegreen; 
-        font-family: garamond; 
-        font-size: 18pt;
-        }
-div[type=“flowers”]{text-align: center;     
-        color:darkolivegreen; 
-        font-family: garamond; 
-        font-size: 18pt;
-        }
+body {
+    background-color: antiquewhite;
+}
 
-div[type=“meanings”]{text-align: center;     
-        color:darkolivegreen; 
-        font-family: garamond; 
-        font-size: 18pt;
-        }
-        
-div[type=“poetry”]{text-align: center;     
-        color:darkolivegreen; 
-        font-family: garamond; 
-        font-size: 18pt;
-        }
-        
-div[type=“end_pages”]{text-align: center;     
-        color:darkolivegreen; 
-        font-family: garamond; 
-        font-size: 18pt;
-        }
-        
+figure {
+    width: auto;
+    margin: auto;
+}
+title {
+    color: goldenrod;
+    font-size: 18pt;
+    font-family: garamond;
+    text-align: center;
+    font-family: garamond;
+}
+titleStmt {
+    text-align: center;
+    color: darkolivegreen;
+    font-family: garamond;
+    font-size: 32pt;
+}
 
-       
+#highlight {
+    border: 5px solid goldenrod;
+}
+p {
+    text-align: center;
+    color: darkolivegreen;
+    font-family: garamond;
+    font-size: 18pt;
+}
+div[type = “flowers”] {
+    text-align: center;
+    color: darkolivegreen;
+    font-family: garamond;
+    font-size: 18pt;
+}
+
+div[type = “meanings”] {
+    text-align: center;
+    color: darkolivegreen;
+    font-family: garamond;
+    font-size: 18pt;
+}
+
+div[type = “poetry”] {
+    text-align: center;
+    color: darkolivegreen;
+    font-family: garamond;
+    font-size: 18pt;
+}
+
+div[type = “end_pages”] {
+    text-align: center;
+    color: darkolivegreen;
+    font-family: garamond;
+    font-size: 18pt;
+}
+
+
+
 author:after {
-    content:"\a";
+    content: "\a";
     white-space: pre;
-    }
-
+}
