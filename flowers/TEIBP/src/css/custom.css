@@ -1,7 +1,7 @@
 /* Place project-specific CSS here */
 
     div {
-        width: 700px;
+        width: 1500px;
         margin: auto;
         font-family: garamond;
       }
@@ -28,4 +28,7 @@
         font-family: garamond; 
         font-size: 18pt;
         }
+    #borderimg {
+  border-image-source: url(daffodil.jpg);
+}
 
