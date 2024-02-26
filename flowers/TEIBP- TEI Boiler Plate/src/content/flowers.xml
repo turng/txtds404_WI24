@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Floriography Dictionary</title>
+            <author>Kate Greenaway</author>
+            <editor>Victoria Rincon</editor>
+            <editor>Cari Coe</editor>
+            <editor>Brianna Patane</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Our text is meant to be published as a digital edition for a webpage that an audience can visit to learn more about the language of flowers, their meanings, and how it would have been used in the Victorian era. It was originally created to fulfill
+course requirements in a textual and digital studies class at University of Washington and was published on a personal website.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The source edition is an early printing of Kate Greenaway's illustrated Language of Flowers. Our source is in University of Washington Libraries' Special Collections and is classified as Historical Children's Literature.
+               <bibl>
+                  <title>Language of Flowers</title>
+                  <author>Kate Greenaway</author>
+                  <publisher>Frederick Warne &amp; Co. Ltd.</publisher>
+                  <date>1884</date>
+                  <idno type="call-no">741.642 G82L</idno>
+               </bibl>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Our project is meant to de-mystify modern understanding of the flower communication that British and American peoples in the Victorian era would use with friends, lovers, and family. We hope that this edition provides an education not just on the meaning of flowers, but also how they would have been properly used regardless of what 21st-century Hollywood and Harlequinn claim. By cross-referencing the flowers and their meanings to the poetry at the end of the edition, we hope to broaden our audience's understanding of what it meant to use flowers as a form of communication.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>We edited pages from each of the three main sections of our source text. These sections include two lists, one which is centered on flowers and the other which is centered on the meanings, and the third section is one of poetry that relates to flowers or meanings mentioned in the previous lists. This sampling allows us to present an overall understanding of the source itself while still fulfilling the purposes of our specific edition. By choosing some pages that are highlighted in the source text via major illustrations and definitions and poetry that align with those pages, we hope that our audience gains a broader appreciation for the language of flowers.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <normalization>
+               <p>We chose to keep the spelling of the original text while adding an editorial note that includes an updated version. This is only relevant to the poetry section of our text. We chose not to update spelling or puncutation and instead retain these as they appear in the source edition. The two lists don't need updated spelling, but we will include notational definitions where necessary.</p>
+            </normalization>
+            <segmentation>
+               <p>We have segmented the text into three sections: two lists and one section of poetry. While the source text does not explicitly separate these sections, we will have headers that show when a new section begins and ends.</p>
+            </segmentation>
+            <p>Cross references will be provided for the flowers that are emphasized in the text with illustrations and these cross-references will connect to poems that reference these flowers and the list of meanings that has no illustrations. We will also add notes referencing how these flowers would have been used by the average Victorian person, as well as other information that might be useful or interesting to our audience such as where flowers could have been found or when they would have been appropriately used and for what kind of reception.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>This is where the main portion of our text will go.</p>
+      </body>
+   </text>
+</TEI>

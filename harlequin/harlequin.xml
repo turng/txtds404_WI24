@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Harlequin and Friar Bacon</title>
+            <title>Harlequin and friar Bacon</title>
             <author>Francesco Frost</author>
          </titleStmt>
          <publicationStmt>
@@ -54,11 +54,14 @@
 	 <p>Our edition features a transcription which is intended to maintain as much of the original content as possible, including preserving the British spellings for words as opposed to Americanizing them. Racial slurs have been redacted and given note in the end notes if relevant to understanding the passage. Any italics and bold are preserved as they are displayed in the original play. In the original print, advertisements line the jacket and are interspersed throughout the text, which have not been preserved in this digital edition because it is not intended for viewing by audiences but by actors.</p>
          <div type='editorial'>
             <listPerson>
-               
+               <!-- GT: good! Is this a cast list? You could also use the TEI element <castList>: https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-castList.html
+                  The other thing I'd suggest is giving more evocative xml:id's. Eg. for the first one: @xml:id="goodfellows" , etc. 
+                  The notes are terrific. Nice job. -->
                <person xml:id="char1" role="fictional">
                   <persName>
                      <surname>Goodfellows</surname>
                      <forename>Robin</forename>
+                     <!-- GT: here you don't need <choice>. You only use <choice> when you present 2 options. Here there's just one -->
                      <choice>
                         <orig>The Puck</orig>
                      </choice>
@@ -110,7 +113,10 @@
             
             <bibl n="1">
                <title>Puck (folklore)</title>
+               <!-- GT: use the @when attribute with <date> -->
                <date>This page was last edited on 26 January 2024, at 15:00 (UTC).</date>
+               <!-- GT: And use <ptr/> if there's no content:
+                  <ptr target="URL"/> -->
                <ref target="https://en.wikipedia.org/wiki/Puck_(folklore)"/>
             </bibl>
             
@@ -147,7 +153,7 @@
 		<title>A Complete Guide to Pantomime</title>
 		<date>03 June 2022</date>
 		<ref target="https://www.blackpoolgrand.co.uk/complete-guide-to-pantomime"/>
-         </div>
+         </div><!-- GT: I think you're missing a closing </bibl> here... -->
       </body>
    </text>
 </TEI>

@@ -6,20 +6,727 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>hi</title>
+            <title>The Ladies' Handbook of Fancy and Ornamental Work</title>
+            <author>Miss Florence Hartley</author>
+            <editor>Riley Hull</editor>
+            <editor>Tara Boyd</editor>
+            <editor>Trisha Binwade</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>This text in particular is interesting because of the connectivity it fosters between
+               the past and the present, specifically in regards to the subject of “fancy and
+               ornamental” work. In that sense, our edition hopes to offer a text that highlights
+               various methods of ornamental work that were utilized in the past, thus allowing us
+               to preserve these traditional practices, introduce a new audience of people to them,
+               and invite comparison between the methods of the past and those of the present day.
+               Within our class at the University of Washington, we first chose a specific section
+               of the text to focus on, ultimately ending up choosing the knitting section because
+               its relatively concise nature meant we would be able to complete an entire section.
+               We then transcribed the text into plain text digital files and created a project
+               schema to guide our TEI markup. We plan to encode and markup our text and create some
+               sort of digital edition interface to help facilitate our goals and bring our text to
+               a modern audience.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>hello</p>
+            <p>This text is found in the Costume and Textile Collections within the University of
+               Washington Special Collections Library. It is a medium-sized, hard-bound text in a
+               dark brown binding. <bibl>
+                  <title>The Ladies' Handbook of Fancy and Ornamental Work</title>
+                  <author>Miss Florence Hartley</author>
+                  <publisher>John E. Potter &amp; Company</publisher>
+                  <pubPlace>617 Samson Street, Philadelphia PA</pubPlace>
+                  <date>1859</date>
+                  <idno type="callNumber">TT 750 H37</idno>
+               </bibl>
+            </p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <normalization>
+               <p>There were very minimal spelling modernizations, as most of the text consisted of
+                  words that fit in with modern vernacular and would be understandable to a modern
+                  audience.</p>
+            </normalization>
+            <correction>
+               <p>There were very minimal grammar and spelling errors, which were ultimately
+                  adjusted by the editors based on the text’s established patterns and grammatical
+                  structure.</p>
+            </correction>
+         </editorialDecl>
+      </encodingDesc>
    </teiHeader>
-   <text>
+   <text xml:lang="en" rend="roman">
+      <front>
+         <div type="editorial_intro">
+            <p>Published in 1859 by John E. Potter &amp; Company, The Ladies’ Handbook of Fancy and
+               Ornamental Work is an instructional text written by Miss Florence Hartley, who
+               ensures her readers that the material within her pages was “compiled from the best
+               authorities.” This historical handbook is centered around traditionally-feminine
+               crafts and skills, such as sewing, baking, crocheting, embroidery, and – as this
+               editorial edition specifically focuses on – knitting. Given that these types of texts
+               are not as commonplace in today’s society or literary sphere, Hartley’s text provides
+               an interesting look at the culture and practices of the past.</p>
+            <p>Specifically focusing our efforts on Hartley’s instructions for knitting, this
+               specific edition offers an overview of numerous knitting-based crafts exactly as they
+               were done in the late nineteenth century. We hope to bring visibility to these
+               traditional practices by presenting them to a new audience of people, ultimately
+               helping to preserve the knowledge and culture of past generations. For those that
+               have no prior experience with knitting, this text may serve as a captivating
+               introduction to the practice itself, especially in the context of its history. On the
+               other hand, for readers that do have experience with knitting, this edition may
+               provide a basis for intriguing comparisons between the methods of the past and those
+               of the present day.</p>
+            <p>For this edition, there were very minor changes made from the source text,
+               specifically in terms of transcription. While a majority of Hartley’s text is indeed
+               presentable to a modern audience, there were a small number of spelling and grammar
+               alterations made to best ensure that the instructions of this edition were as clear
+               as possible.</p>
+         </div>
+      </front>
       <body>
-         <p>Some text here.</p>
+         <div type="glossary" xml:id="ExplanationOfTerms">
+            <head type="main" rend="caps">Explanation of Terms Used in Knitting, and Hints on
+               Knitting.</head>
+            <ab type="StitchType" xml:id="CastOn">
+               <ref type="note" target="#n1"><term><hi rend="italics">To cast on-</hi></term>
+                  <gloss>The first interlacement of the cotton on the needle.</gloss></ref></ab>
+            <ab type="StitchType" xml:id="CastOff">
+               <term><hi rend="italics">To cast off-</hi></term>
+               <gloss>to knit two stitches, and to pass over the second, and so on to the last
+                  stich, which is to be secured by drawing the thread through.</gloss></ab>
+            <ab type="StitchType" xml:id="CastOver">
+               <term><hi rend="italics">To cast over-</hi></term>
+               <gloss>to bring the cotton forward round the needle.</gloss></ab>
+            <ab type="StitchType" xml:id="Narrow">
+               <term><hi rend="italics">To Narrow-</hi></term>
+               <gloss>to lessen by bringing two stitches together.</gloss></ab>
+            <ab type="StitchType" xml:id="Seam">
+               <term><hi rend="italics">To seam-</hi></term>
+               <gloss>to knit a stitch with the cotton before the needle.</gloss></ab>
+            <ab type="StitchType" xml:id="Widen">
+               <term><hi rend="italics">To widen-</hi></term>
+               <gloss>to increase by making a stitch, bringing the cotton round the needle, and
+                  knitting the same when it occurs.</gloss></ab>
+            <ab type="StitchType" xml:id="ATurn">
+               <term><hi rend="italics">A turn-</hi></term>
+               <gloss>two rows in the same stitch, backwards and forwards.</gloss></ab>
+            <ab type="StitchType" xml:id="ToTurn">
+               <term><hi rend="italics">To turn-</hi></term>
+               <gloss>to change the stitch.</gloss></ab>
+            <ab type="StitchType" xml:id="Row">
+               <term><hi rend="italics">A row-</hi></term>
+               <gloss>the stitches from one end of the needle to the other.</gloss></ab>
+            <ab type="StitchType" xml:id="Round">
+               <term><hi rend="italics">A round-</hi></term>
+               <gloss>a row when the stitches are on two, three, or more needles.</gloss></ab>
+            <ab type="StitchType" xml:id="PlainRow">
+               <term><hi rend="italics">A plain row-</hi></term>
+               <gloss>that composed of simple knitting.</gloss></ab>
+            <ab type="StitchType" xml:id="PearlARow">
+               <term><hi rend="italics">To pearl a row-</hi></term>
+               <gloss>to knit with the cotton before the needle.</gloss></ab>
+            <ab type="StitchType" xml:id="Rib">
+               <term><hi rend="italics">To rib-</hi></term>
+               <gloss>to work alternate rows of plain and pearl knitting.</gloss></ab>
+            <ab type="StitchType" xml:id="BringTheThreadForward">
+               <term><hi rend="italics">To bring the thread forward-</hi></term>
+               <gloss>to bring the cotton forward so as to make an open stitch.</gloss></ab>
+            <ab type="StitchType" xml:id="LoopStitch">
+               <term><hi rend="italics">A loop stitch-</hi></term>
+               <gloss>made by bringing the cotton before the needle, which in knitting the
+                  succeeding stitch, will again take its own place.</gloss></ab>
+            <ab type="StitchType" xml:id="SlipOrPassAStitch">
+               <term><hi rend="italics">To slip or pass a stitch-</hi></term>
+               <gloss>to change it from one needle to the other without knitting it.</gloss></ab>
+            <ab type="StitchType" xml:id="FastenOn">
+               <term><hi rend="italics">To fasten on-</hi></term>
+               <gloss>the best way is to place the ends contrariwise, and knit a few stitches with
+                  both together.</gloss></ab>
+            <ab type="StitchType" xml:id="TakeUnder">
+               <term><hi rend="italics">To take under-</hi></term>
+               <gloss>to pass the cotton from one needle to the other without changing its
+                  position.</gloss></ab>
+            <ab type="InstructionProse"><hi rend="italics"><ref target="#PearlARow">Pearl</ref>,
+                     <ref target="#Seam">seam</ref>,</hi> and <hi rend="italics"><ref target="#Rib"
+                     >rib-stitch</ref></hi> are the same.</ab>
+            <ab type="InstructionProse">Be careful in knitting to have the cotton or wool of a
+               moderate tension-not too lose, nor too tight.</ab>
+            <ab type="InstructionProse">When it is requisite to <ref type="StitchType"
+                  target="#CastOff">cast off</ref>, and continue a row on a separate needle, run a
+               coarse thread through the <ref target="#CastOff">cast off</ref> stitches, as they are
+               easily taken up when required.</ab>
+            <ab type="InstructionProse">It is a good plan to have children taught to knit, boys as
+               well as girls, and to have them learn to knit without looking at their work. Old
+               ladies who have lost their sight often knit very beautifully, and as a general rule
+               we find that they began very young, and learned to knit without giving their work
+               steady attention. The blind in all Asylums are beautiful knitters, and in case of any
+               accident to the eyesight it would be a great resource, as well as when deprived of
+               sight by old age.</ab>
+            <ab type="InstructionProse"><ref type="note" target="#n2">Knitting needles vary in size
+                  and length. For small articles the short ones are most convenient. They are made
+                  of steel, bone, ivory, or wood, and you purchase such sizes as agrees with the
+                  work you have to do. In all large trimming stores where this kind of material is
+                  kept, they will tell you the best sizes, if you are ignorant yourself.</ref></ab>
+            <ab type="InstructionProse">Here is a cut of a gauge for measuring needles for knitting
+               and netting meshes, and for crochet needles.</ab>
+            <ab type="figure">
+               <ref target="ExplanationOfTerms">
+                  <figure type="ToolImage">
+                     <graphic url="WireGauge.jpg"/>
+                     <figDesc>A side-view of a metal gauge tool, resembling a spoked wheel with a
+                        hollow center and several spokes labeled with numbers 1-19.</figDesc>
+                     <p rend="bottom"><hi rend="caps">Wire Gauge</hi></p>
+                  </figure>
+               </ref>
+            </ab>
+         </div>
+         <div type="section" xml:id="OperaCap">
+            <head type="main" rend="caps">Opera Cap</head>
+            <ab type="InstructionProse">These caps look the prettiest when of two colors. The
+               material is single Berlin wool. Scarlet and white contrast extremely well. To
+               commence, <ref target="#CastOn">cast on</ref> seventy-two loops on the smallest sized
+               ivory needles, with the scarlet wool; knit and purl until you have five <ref
+                  target="#Row">rows</ref> knitted on the right side; this forms one stripe. Take
+               the white wool and repeat this, only reversing the stripe, continue this process
+               until you have nine stripes, purled and knitted alternately; five of the scarlet,
+               four of the white. Before <ref target="#CastOff">casting off</ref> prepare as
+               follows: take the first loop upon your needle, drop the second, take the third, and
+               so on to the end of the row, taking care to avoid any mistake, which would be the
+               ruin of the whole. The first and last loops must of course be preserved. You will now
+               have just half the original number of loops upon your needle. <ref target="#CastOff"
+                  >Cast off</ref>, leaving the wool very loose. Afterwards assit the dropped loops
+               to run down. This makes a very simple but very pretty stitch in knitting.</ab>
+            <ab type="InstructionProse">The fringe is now to be added, which is done by <ref
+                  target="#LoopStitch">looping</ref> lengths of wool through the stitches just <ref
+                  target="#CastOff">cast off</ref>, and slipping the ends through the loop, so as to
+               form a knot.</ab>
+            <ab type="InstructionProse">The ends of the knitted pieces are now to be gathered up
+               with a needle, the ribbon string attached, a pretty rosette of the same sewed on over
+               the gathering up, and this useful little article is completed.</ab>
+         </div>
+         <div type="section" xml:id="FourBeautifulPatterns">
+            <head type="main" rend="caps">Four Beautiful Patterns</head>
+            <head type="sub" rend="italics">Of Lace Edgings, for Collars, Dresses, &amp;c.</head>
+            <ab type="InstructionProse">By means of the following directions, every lady can provide
+               herself with lace edgings of the most durable kinds, and without either much expense
+               or trouble. These laces, when knit with fine thread and small needles, are
+               exceedingly pretty. When they are intended for common wear, or to trim the bottom of
+               petticoats, they should be knit with needles of the ordinary size, and coarse cotton.
+               They wash well, and wear a long time. After a little practice, a great facility in
+               knitting them is acquired, and the work progresses with a rapidity which young
+               beginners are apt to despair of obtaining.</ab>
+            <ab type="InstructionList">
+               <ab><ref target="#CastOn">Cast on</ref> 8 stitches.-1st <ref target="#Row"
+                  >row</ref>,-take off the first stitch without knitting it, knit <ref
+                     target="#Plain">plain</ref> the 2 next, lap in the thread once, take off 1
+                  stitch, knit 1, <ref target="#SlipOrPassAStitch">slip and bind</ref>, knit 1, lap
+                  in the thread twice, knit 1, lap in the thread twice, knit 1.</ab>
+               <ab>2nd <ref target="#Row">row</ref>,-knit <ref target="#Plain">plain</ref> 2
+                  stitches, <ref target="#Seam">seam</ref> 1, and put back your thread, knit 2, seam
+                  1, and put back your thread, knit 2, seam 1, and put back your thread, knit
+                  3.</ab>
+               <ab>3rd <ref target="#Row">row</ref>,-take off the first stitch, knit 2, lap in the
+                  thread, take off 1, knit 1, <ref target="#SlipOrPassAStitch">slip and bind</ref>,
+                  knit the rest.</ab>
+               <ab>4th <ref target="#Row">row</ref>,-knit the two first, <ref
+                  target="#SlipOrPassAStitch">slip and bind</ref>, knit, and <ref
+                     target="#SlipOrPassAStitch">slip and bind</ref>, until only 7 stitches are on
+                  the left hand needle, and one on the other, knit 3, <ref target="#Seam">seam</ref>
+                  1, and put back your thread, knit the rest.</ab>
+            </ab>
+            <ab type="InstructionList">
+               <ab><ref target="#CastOn">Cast on</ref> 11 stitches.-1st <ref target="#Row"
+                  >row</ref>,-take off the first stitch, knit 2, lap in the thread, take off 1, knit
+                  1, <ref target="#SlipOrPassAStitch">slip and bind</ref>, knit 1, lap in the thread
+                  twice, knit 1.</ab>
+               <ab>2nd <ref target="#Row">row</ref>,-knit 2, <ref target="#Seam">seam</ref> 1, and
+                  put back your thread, knit 2, <ref target="#Seam">seam</ref> 1, and put back your
+                  thread, knit 2, <ref target="#Seam">seam</ref> 1, and put back your thread, knit
+                  2, <ref target="#Seam">seam</ref> 1, and put back your thread, knit 3.</ab>
+               <ab>3rd <ref target="#Row">row</ref>,-take off 1, knit 2, lap in the thread, take off
+                  1, knit 1, <ref target="#SlipOrPassAStitch">slip and bind</ref>, knit 1, lap in
+                  the thread, take off 1, knit 1, <ref target="#SlipOrPassAStitch">slip and
+                     bind</ref>, knit the rest.</ab>
+               <ab>4th <ref target="#Row">row</ref>,-knit 2, <ref target="#SlipOrPassAStitch">slip
+                  and bind</ref>, knit, and <ref target="#SlipOrPassAStitch">slip and bind</ref>,
+                  until only 10 stitches are on the left hand needle, and one on the other, knit 3,
+                  <ref target="#Seam">seam</ref> 1, and put back your thread, knit 2, <ref
+                     target="#Seam">seam</ref> 1, and put back your thread, knit the rest.</ab>
+            </ab>
+            <ab type="InstructionList">
+               <ab><ref target="#CastOn">Cast on</ref> 11 stitches.-1st <ref target="#Row"
+                  >row</ref>,-knit 3, make 1, <ref target="#Narrow">narrow</ref> 1, knit 1, make 1,
+                  <ref target="#Narrow">narrow</ref> 1, make 2, <ref target="#Narrow"
+                     >narrow</ref> 1, knit 1.</ab>
+               <ab>2nd <ref target="#Row">row</ref>,-knit 3, <ref target="#Seam">seam</ref> 1, and
+                  put back your thread, knit 2, make 1, <ref target="#Narrow">narrow</ref> 1, knit
+                  1, make 1, <ref target="#Narrow">narrow</ref> 1, knit 1.</ab>
+               <ab>3rd <ref target="#Row">row</ref>,-knit 3, make 1, <ref target="#Narrow"
+                  >narrow</ref> 1, knit 1, make 1, <ref target="#Narrow">narrow</ref> 1, knit
+                  4.</ab>
+               <ab>4th <ref target="#Row">row</ref>,-knit 2, <ref target="#SlipOrPassAStitch">slip
+                  and bind</ref>, knit 4, make 1, <ref target="#Narrow">narrow</ref> 1, knit 1,
+                  make 1, <ref target="#Narrow">narrow</ref> 1, knit 1.</ab>
+            </ab>
+            <ab type="InstructionList">
+               <ab><ref target="#CastOn">Cast on</ref> 7 stitches.-1st <ref target="#Row"
+                  >row</ref>,-take off 1 stitch, knit 2, lap in the thread once, <ref
+                     target="#Narrow">narrow</ref> 1, lap in the thread twice, <ref target="#Narrow"
+                        >narrow</ref> 1.</ab>
+               <ab>2nd <ref target="#Row">row</ref>,-make 1 stitch, knit 2, <ref target="#Seam"
+                  >seam</ref> 1, put back your thread, knit 1, lap in the thread once, <ref
+                     target="#Narrow">narrow</ref> 1, knit 2.</ab>
+               <ab>3rd <ref target="#Row">row</ref>,-take off 1, knit 2, lap in the thread once,
+                  <ref target="#Narrow">narrow</ref> 1, lap in the thread twice, <ref
+                     target="#Narrow">narrow</ref> 1, lap in the thread twice, <ref target="#Narrow"
+                        >narrow</ref> 1.</ab>
+               <ab>4th <ref target="#Row">row</ref>,-make 1, knit 2, <ref target="#Seam">seam</ref>
+                  1, and put back your thread, knit 2, <ref target="#Seam">seam</ref> 1, and put
+                  back your thread, knit 1, lap in the thread once, <ref target="#Narrow"
+                     >narrow</ref> 1, knit 2.</ab>
+               <ab>5th <ref target="#Row">row</ref>,-take off 1, knit 2, lap in the thread once,
+                  <ref target="#Narrow">narrow</ref> 1, knit 7.</ab>
+               <ab>6th <ref target="#Row">row</ref>,-knit 8, lap in the thread once, <ref
+                  target="#Narrow">narrow</ref> 1, knit 2.</ab>
+               <ab>7th <ref target="#Row">row</ref>,-take off 1, knit 2, lap in the thread once,
+                  <ref target="#Narrow">narrow</ref> 1, lap in the thread twice, <ref
+                     target="#Narrow">narrow</ref> 1, lap in the thread twice, <ref target="#Narrow"
+                        >narrow</ref>, lap in the thread twice, <ref target="#Narrow">narrow</ref> 1,
+                  knit 1.</ab>
+               <ab>8th <ref target="#Row">row</ref>,-knit 3, <ref target="#Seam">seam</ref> 1, and
+                  put back your thread, knit 2, <ref target="#Seam">seam</ref> 1, and put back your
+                  thread, knit 2, <ref target="#Seam">seam</ref> 1, and put back your thread, knit
+                  1, lap in the thread once, <ref target="#Narrow">narrow</ref> 1, knit 2.</ab>
+               <ab>9th <ref target="#Row">row</ref>,-take off 1, knit 2, lap in the thread once,
+                  <ref target="#Narrow">narrow</ref> 1, knit 10.</ab>
+               <ab>10th <ref target="#Row">row</ref>,-knit, and <ref target="#SlipOrPassAStitch"
+                  >slip and bind</ref> 8, leaving 6 on the other needle, then knit 2, lap in the
+                  thread once, <ref target="#Narrow">narrow</ref> 1, knit 2.</ab>
+            </ab>
+         </div>
+         <div type="section" xml:id="ABabysSock">
+            <head type="main" rend="caps">A Baby's Sock</head>
+            <head type="sub" rend="italics">With 2 colors done in stripes, and double German
+               lamb's-wool.</head>
+            <ab type="InstructionProse"><ref type="#CastOn">Cast on</ref> 26 stitches, knit a <ref
+               target="#PlainRow">plain <ref target="#Row">row</ref></ref> with the first color,
+               <ref target="#FastenOn">fasten on</ref> the second, knit a <ref target="#Row"
+                  >row</ref>, adding a stitch at the end for the heel, and back again; then take the
+               first color, knit a <ref target="#Row">row</ref>, adding another stitch, and back
+               again; continue the same, alternately, but without adding any more stitches for the
+               heel, until there are 6 ridges of each color; then with the first, knit a <ref
+                  target="#Row">row</ref>, and in coming back, <ref target="#CastOff">cast off</ref>
+               15 stitches, beginning from the end at which you added two sticthes, knit the 13 that
+               are left; with the second color, knit a <ref target="#Row">row</ref> and back again,
+               then knit a <ref target="#Row">row</ref> and back again with the first, and continue
+               the same until you have four ridges of the second, and three of the first color: then
+               with the first color knit the 13 stitches, add 15, and knit back again. Finish this
+               side like the other, only decreasing for the heel. It is then sewed up in the shape
+               of a shoe. Take four needles, pick up the 36 stitches round the instep, putting 12 on
+               each of three needles, and knit two <ref target="#Round">rounds</ref>
+               <ref target="#PlainRow">plain</ref>, then pass the lamb's-wool forward, so as to form
+               a stitch, <ref target="#SlipOrPassAStitch">slip</ref> a stitch, and knit two <ref
+                  target="#PlainRow">plain</ref>, then pull the <ref target="#SlipOrPassAStitch"
+                     >slipped</ref> stitch over the 2 knitted ones, <ref target="#SlipOrPassAStitch"
+                        >pass</ref> the lamb's-wool forward, and repeat this for one <ref target="#Round"
+                           >round</ref>, continue <ref target="#PlainRow">plain</ref> knitting for an inch;
+               after that, <ref target="#Rib">rib</ref> 4 <ref target="#Row">rows</ref>, knit 4,
+               <ref target="#Rib">rib</ref> 4, knit 2, and <ref target="#CastOff">cast
+                  off</ref>.</ab>
+         </div>
+         <div type="section" xml:id="BabysSocks1stSize">
+            <head type="main" rend="caps">Baby's Socks. 1st Size.</head>
+            <head type="sub" rend="italics">Two ivory needles, No. 12, and 3-ply fleecy are
+               required.</head>
+            <ab type="InstructionProse"><ref target="#CastOn">Cast on</ref> 24 stitches; knit two
+               <ref target="#PlainRow">plain</ref>
+               <ref target="#Row">rows</ref>, add one stitch; knit 2 more <ref target="#Row"
+                  >rows</ref> and add another stitch which forms the heel; then continue knitting
+               until you can count 10 ridges; <ref target="#CastOff">cast off</ref> 14 stitches,
+               beginning from where you added on for the heel: knit 6 more ridges, add on 14
+               stitches, and make this side to match with the other, decreasing for the heel. Pick
+               up the 14 <ref target="#LoopStitch">loops</ref> on each side, with the 6 in the
+               middle, and put them all on one needle: knit a <ref target="#PlainRow">plain</ref>
+               <ref target="#Row">row</ref>, then a <ref target="#Row">row</ref> of holes for the
+               ribbon to pass through, which is done in this manner:-begin with the lamb's-wool <ref
+                  target="#BringTheThreadForward">forward</ref>, <ref target="#SlipOrPassAStitch"
+                     >slip</ref> a stitch, knit the next, and <ref target="#SlipOrPassAStitch">pass the
+                        slipped</ref> stitch over the knitted one; after this <ref target="#Row">row</ref>
+               is finished, knit 8 ridges.</ab>
+         </div>
+         <div type="section" xml:id="Fringe1">
+            <head type="main" rend="caps">Fringe. No. 1.</head>
+            <ab type="InstructionProse">A skein of knitting cotton must be cut into 8 lengths for
+               the fringe; or, if you wish your fringe to be very deep, cut your skein into 4 or 6.
+               The most convenient way, is to divide these lengths into sets containing 3 threads in
+               each, and lay them before you, then with a ball of the same cotton, and two steel
+               needles, which should be rather coarse, <ref target="#CastOn">cast on</ref> 8
+               stitches, and knit 1 <ref target="#Row">row</ref>
+               <ref target="#PlainRow">plain</ref>; begin the next <ref target="#Row">row</ref> by
+               knitting the first 2 stitches <ref target="#PlainRow">plain</ref>, bring the cotton
+               <ref target="#BringTheThreadForward">forward</ref>, knit 2 stitches taken
+               together, by this means you make a <ref target="#LoopStitch">loop</ref> stitch; take
+               1 of the sets of cotton, put the ends even, double it in half, and <ref
+                  target="#LoopStitch">loop</ref> it over the needle you are knitting with, <ref
+                     target="#BringTheThreadForward">forward</ref>; knit 1 stitch, <ref
+                        target="#SlipOrPassAStitch">pass</ref> the set back between the needles, knit 2
+               stitches, bring the set <ref target="#BringTheThreadForward">forward</ref> again, and
+               knit the last stitch. The back <ref target="#Row">rows</ref> are <ref
+                  target="#PlainRow">plain</ref> knitting; you must be careful to take the whole
+               head of the set with the 4th stitch, which leaves 4 to be knitted <ref
+                  target="#PlainRow">plain</ref>, and you have 8 as at the beginning; after
+               finishing this <ref target="#Row">row</ref>, give the set or tuft a pull down, which
+               puts it in its right place, before beginning another.</ab>
+         </div>
+         <div type="section" xml:id="Fringe2">
+            <head type="main" rend="caps">Fringe. No.2. </head>
+            <ab><ref target="#CastOn">Cast on</ref> 9 stitches. <ref target="#SlipOrPassAStitch"
+               >Slip</ref> the 1st stitch, knit the 2nd and 3rd, <ref
+                  target="#BringTheThreadForward">bring the thread forward</ref>, knit 2 together,
+               knit 1, <ref target="#BringTheThreadForward">turn the thread forward</ref>, knit 2
+               together, knit the last. When you have the length you want, <ref target="#CastOff"
+                  >cast off</ref> 5 stitches, and unravel the 4 others, which form the fringe.</ab>
+            <ab>This fringe may be made wider, by <ref target="#CastOn">casting on</ref> 12 or 15
+               stitches.</ab>
+         </div>
+         <div type="section" xml:id="HerringBonePurse">
+            <head type="main"><hi rend="caps">Herring-Bone Purse.</hi></head>
+            <ab type="materials"><hi rend="italics">Two needles only are required for this
+               knitting.</hi></ab>
+            <ab type="InstructionProse"><ref target="#CastOn">Cast on</ref> 88 stitches, begin with
+               the silk forward, <ref target="#SlipOrPassAStitch">slip a stitch</ref>, knit a
+               stitch, pass the 1st over the 2nd, knit a stitch, <ref target="BringTheThreadForward"
+                  >bring the silk forward</ref>, and <ref target="#Rib">rib</ref> the next. When
+               this is done, the silk will be forward; begin again.</ab>
+            <ab type="InstructionProse">If the purse is required to be longer, <ref target="#castOn"
+               >cast on</ref> as many stitches as are necessary, observing that it must be a
+               number which can be divided by four.</ab>
+         </div>
+         <div type="section" xml:id="StrongPurse">
+            <head type="main"><hi rend="caps">A Strong Purse.</hi></head>
+            <ab type="InstructionProse">With 2 steel needles and coarse netting silk, <ref
+               target="#CastOn">cast on</ref> 60 stitches, knit the first, <ref
+                  target="BringTheThreadForward">bring the silk forward</ref>, <ref
+                     target="#SlipOrPassAStitch">slip a stitch</ref>, knit the next, and pull the
+               slipped stitch over the knitted one, bring the silk forward and begin again. The
+               second row is <ref target="PlainRow">simple knitting</ref>.</ab>
+         </div>
+         <div type="section" xml:id="PorcupineKnittingForAPurse">
+            <head type="main"><hi rend="caps">Porcupine Knitting For A Purse.</hi></head>
+            <ab type="materials"><hi rend="italics">Four fine needles, nearly 3 skeins of netting
+               silk, and one string of gold beads are required. Thread some of the beads on the
+               silk, before you begin.</hi></ab>
+            <ab type="InstructionProse"><ref target="CastOn">Cast</ref> 36 stitches on each of 3
+               needles, knit a <ref target="PlainRow">plain</ref>
+               <ref target="Round">round</ref>; knit 4 stitches, <ref target="BringTheThreadForward"
+                  >bring the silk forward</ref>, knit a stitch—this is the centre stitch of the
+               pattern—<ref target="BringTheThreadForward">bring the silk forward</ref>, knit 4
+               stitches, <ref target="SlipOrPassAStitch">slip a stitch</ref>, <ref
+                  target="TakeUnder">taking it under</ref>, knit 2 taken together, pull the slipped
+               stitch over it, then begin knitting the 4 stitches, etc.; it is better at the end of
+               each needle to knit a stitch of the next one, as it prepares for the next <ref
+                  target="Round">round</ref>. Continue thus for 6 <ref target="Round">rounds</ref>,
+               increasing before and after every centre stitch, and knitting till within 1 of where
+               you decreased, which <ref target="SlipOrPassAStitch">stitch slip</ref>, knit the next
+               2 together, and pull the <ref target="SlipOrPassAStitch">slipped stitch</ref> over
+               it. Knit a <ref target="PlainRow">plain</ref>
+               <ref target="Round">round</ref>. Knit another <ref target="Round">round</ref>
+               <ref target="Plain Row">plain</ref>, excepting over the centre stitches, where you
+               are to knit a bead, bringing it through the stitch. Knit a <ref target="PlainRow"
+                  >plain</ref>
+               <ref target="Round">round</ref>, keeping the beads on the outside of the purse. (This
+               purse is knitted wrong side outwards.) Knit to within one stitch of the bead stitch,
+               which <ref target="SlipOrPassAStitch">slip</ref>; knit 2 together: these 6 <ref
+                  target="Round">rounds</ref> increase each side of the stitch you decreased with
+               the last pattern, which makes that the centre stitch for the bead.</ab>
+            <ab type="InstructionProse">It is easy to count the number of <ref target="Round"
+               >rounds</ref> you have done, at the place where you decreased.</ab>
+            <ab type="InstructionProse">This pattern is very pretty for a boa, knitted with German
+               lamb's wool, and needles No.15.</ab>
+         </div>
+         <div type="section" xml:id="SpottedPurse">
+            <head type="main"><hi rend="caps">Spotted Purse.</hi></head>
+            <ab type="InstructionProse"><ref target="CastOn">Cast on</ref> 69 stitches; take off the
+               first stitch, <ref target="BringTheThreadForward">bring the silk forward</ref>, <ref
+                  target="SlipOrPassAStitch">slip a stitch</ref>, knit 2, pass the slipped stitch
+               over the 2 last, repeat this to the end of the <ref target="Row">row</ref>. The back
+               <ref target="Row">rows</ref> are <ref target="Rib">ribbed</ref>.</ab>
+            <ab type="InstructionalProse">This pattern is very pretty in two colors, changing them
+               every 2 <ref target="Row">rows</ref>.</ab>
+         </div>
+         <div type="section" xml:id="AnotherPurse">
+            <head type="main"><hi rend="caps">Another Purse.</hi></head>
+            <ab type="InstructionProse">First <ref target="Row">row</ref>: <ref
+               target="SlipOrPassAStitch">slip a stitch</ref>, knit a stitch, <ref
+                  target="SlipOrPassAStitch">pass the first stitch</ref> over the second; repeat
+               this to the end of the <ref target="Row">row</ref>. Second <ref target="Row"
+                  >row</ref>: <ref target="BringTheThreadForward">bring the silk forward</ref> every
+               time.</ab>
+            <ab type="InstructionProse">This is a very pretty stitch for doyleys, with a plain
+               border. Any even number of stitches may be set up.</ab>
+         </div>
+         <div type="section" xml:id="ANetPurseInPoints">
+            <head type="main"><hi rend="caps">A Net Purse In Points.</hi></head>
+            <ab type="InstructionProse">Fifty stitches long, and 80 <ref target="Row">rows</ref>
+               wide, of a middle-sized silk and mesh. Net 31 stitches, with one color, and back
+               again; then 28, 25, 22, 19, and back again to each; then with the other color, begin
+               at the distance of 19 stitches, and net until you meet the side already done: pass
+               the needle through the stitch to connect them. Half a point is now done, you reverse
+               the number of stitches to complete it.</ab>
+            <ab type="InstructionProse">It is also very pretty if the points are made longer, say 45
+               stitches, decreasing by four stitches every other <ref target="Row">row</ref>, until
+               you leave only 5 for the other point.</ab>
+         </div>
+         <div type="section" xml:id="CorkscrewNettingForAPurse">
+            <head type="main"><hi rend="caps">Corkscrew Netting For A Purse.</hi></head>
+            <ab type="materials"><hi rend="italics">Two different colored silks are required, for
+               instance, brown and blue; 1 mesh, and 2 needles; thread each of the needles with
+               one color. A round foundation, consisting of 60 stitches, should be
+               used.</hi></ab>
+            <ab type="InstructionProse">Join both needles on together, net with the brown 30
+               stitches, then begin with the blue and net the other 30 stitches; net the blue silk
+               back, and continue it over 6 stitches of the brown; now take the needle with brown,
+               pass it through the blue stitch, and net till you meet the needle with blue, <ref
+                  target="ToTurn">turn</ref> back (still with the brown silk) and net round till you
+               have gone over 6 blue stitches; net with blue again, passing the needle through the
+               brown stitch; continue thus advancing each color 6 stitches at one side, and receding
+               at the other, till the purse is one-third long enough, then begin the opening, which
+               is made by omitting to pass the silk through the stitch at one place; the pattern you
+               must carry on as before, for which you will be obliged to fasten on your silk to fill
+               up where you recede.</ab>
+         </div>
+         <div type="section" xml:id="Doyleys">
+            <head type="main"><hi rend="caps">Doyleys.</hi></head>
+            <ab type="materials"><hi rend="italics">Two needles are required.</hi></ab>
+            <ab type="InstructionProse"><ref target="CastOn">Cast on</ref> 86 stitches, knit <ref
+               target="PlainRow">a row of two stitches plain</ref>, and two <ref target="Rib"
+                  >ribbed</ref>. In the 2nd <ref target="Row">row</ref>, <ref target="Rib">rib</ref>
+               the stitches that were <ref target="PlainRow">plain</ref> in the first <ref
+                  target="Row">row</ref>, and knit <ref target="PlainRow">plain</ref> those that
+               were <ref target="Rib">ribbed</ref>. In the 3rd <ref target="Row">row</ref>, <ref
+                  target="Rib">rib</ref> the stitches that were <ref target="Rib">ribbed</ref> in
+               the last <ref target="Row">row</ref>, and knit <ref target="PlainRow">plain</ref>
+               those that were knitted <ref target="PlainRow">plain</ref>. 4th <ref target="Row"
+                  >row</ref>, <ref target="Rib">rib</ref> the <ref target="PlainRow">plain</ref>
+               stitches and knit the <ref target="Rib">ribbed</ref> ones. Repeat these four <ref
+                  target="Row">rows</ref> five times.</ab>
+            <ab type="InstructionProse">2nd pattern in the doyley, continue the first pattern for 10
+               stitches, then knit, putting the cotton twice round the needle, every stitch, until
+               you have only 10 left on the needle, knit them like the 10 first; these 10 stitches
+               on each side form the border, and are always the same pattern; knit the next three
+               <ref target="PlainRow">rows plain</ref>, except the border; then repeat the first
+               <ref target="Row">row</ref> of this pattern; knit 3 <ref target="Row">rows</ref>;
+               the border as before. 3rd <ref target="Row">row</ref>, begin with the cotton forward,
+               knit two in one, <ref target="BringTheThreadForward">bring the cotton forward</ref>,
+               etc., until you come to the border again; knit 3 <ref target="PlainRow">plain
+                  rows</ref>, repeat those 4 <ref target="Row">rows</ref> 3 times, and begin the 2nd
+               pattern again; continue these two patterns alternatively, until the doyley is nearly
+               square, then finish with the same width of border as at the top.</ab>
+            <ab type="materials">For this knitting, your cotton and needles should be rather
+               fine.</ab>
+            <ab type="InstructionProse">N.B. Many of the patterns given as purse stitches are very
+               pretty for doyleys, with a border either of <ref target="PlainRow">plain</ref> or
+               fancy knitting.</ab>
+         </div>
+         <div type="section" xml:id="SaveAllBag">
+            <head type="main"><hi rend="caps">Save All Bag.</hi></head>
+            <ab type="materials"><hi rend="italics">Four coarse needles are required. This bag is so
+               called, because it may be made with odds and ends of netting silk, or all of one
+               color, at pleasure.</hi></ab>
+            <ab type="InstructionProse"><ref target="CastOn">Cast</ref> 40 stitches on each of 3
+               needles; knit one <ref target="PlainRow">plain</ref>
+               <ref target="Round">round</ref>; then knit one stitch, <ref
+                  target="BringTheThreadForward">bring the silk forward</ref>, knit a stitch, thus
+               forming a <ref target="LoopStitch">loop-stitch</ref> in addition to the original
+               number, knit a stitch, <ref target="BringTheThreadForward">bring the silk
+                  forward</ref>, and continue as before for the whole <ref target="Round"
+                     >round</ref>. Next <ref target="Round">round</ref>, knit a stitch, <ref
+                        target="BringTheThreadForward">bring the silk forward</ref>, knit two stitches
+               (the loop and that next it) together; knit a stitch, <ref
+                  target="BringTheThreadForward">bring the silk forward</ref>, and knit two
+               together, until the bag is long enough.</ab>
+            <ab type="InstructionProse">This bag looks well with a clasp, and a tassel at the
+               bottom.</ab>
+         </div>
+         <div type="section" xml:id="MossStitch">
+            <head type="main"><hi rend="caps">Moss Stitch, To Make A Thick Bag.</hi></head>
+            <ab type="materials"><hi rend="italics">Two needles are required.</hi></ab>
+            <ab type="InstructionProse">Moss-stitch can be done with any even number of stitches.
+               Take off the first stitch, pass the cotton forward, <ref target="Rib">rib</ref> a
+               stitch, pass the cotton back, and knit one <ref target="PlainRow">plain</ref>, pass
+               it forward, <ref target="Rib">rib</ref> a stitch, pass it back, and so on to the end
+               of the <ref target="Row">row</ref>. In the second <ref target="Row">row</ref>, <ref
+                  target="Rib">rib</ref> and knit alternate stitches. It may be knitted either with
+               four or two needles.</ab>
+         </div>
+         <div type="section" xml:id="DoubleKnitting">
+            <head type="main"><hi rend="caps">Double Knitting.</hi></head>
+            <ab type="InstructionProse">For doubling knitting, you may <ref target="CastOn">cast
+               on</ref> any even number of stitches; <ref target="BringTheThreadForward">bring
+                  the thread forward</ref>, <ref target="SlipOrPassAStitch">slip a stitch</ref>,
+               pass the thread back, knit a stitch, putting the thread twice round the needle. This
+               repeated, forms the pattern.</ab>
+            <ab type="InstructionProse">You will find, in the next row, you take off the knitted
+               stitch. Should you prefer beginning with a knitted stitch, pass the thread but once
+               round the needle in every first stitch, as this will form a firmer edge.</ab>
+         </div>
+         <div type="section" xml:id="DoubleBlanket">
+            <head type="main"><hi rend="caps">Double Blanket.</hi></head>
+            <ab type="materials"><hi rend="italics">This blanket is very light and warm. Two large
+               wooden pins are required. It takes 2 pounds and a half of lamb's-wool to make one
+               4 feet wide and 5 long.</hi></ab>
+            <ab type="InstructionProse">Put on 250 stitches, knit 10 <ref target="PlainRow">simple
+               rows</ref>; then begin and end each <ref target="Row">row</ref> with 6 stitches in
+               <ref target="PlainRow">plain knitting</ref>; the rest of the <ref target="Row"
+                  >row</ref> is double knitting, putting the wool twice round the pin. The border is
+               frequently made of a different color from the middle; in this case, the two balls of
+               wool are passed once round each other, so as to loop the wool every time.</ab>
+         </div>
+         <div type="section" xml:id="AGentlemansComforter">
+            <head type="main"><hi rend="caps">A Gentleman's Comforter.</hi></head>
+            <head type="sub"><hi rend="caps">Double Knitting</hi></head>
+            <ab type="materials"><hi rend="italics">Two coarse steel needles are necessary, and 5
+               skeins of fine knitting yarn.</hi></ab>
+            <ab type="InstructionProse"><ref target="CastOn">Cast on</ref> 72 stitches; knit the
+               first stitch, putting the yarn only once round your needle, <ref
+                  target="BringTheThreadForward">bring the yarn forward</ref>, <ref
+                     target="SlipOrPassAStitch">slip a stitch</ref>, pass the yarn back again, knit a
+               stitch, passing the yarn twice round the needle; continue knitting in double knitting
+               with the yarn twice round the needle, until the comforter is long enough. In the last
+               <ref target="Row">row</ref>, before you <ref target="CastOff">cast off</ref>, the
+               yarn should be passed round the needle only once. Small comforters, to cover the
+               chest in riding, are made in the same way.</ab>
+         </div>
+         <div type="section" xml:id="AComfortableComforter">
+            <head type="main"><hi rend="caps">A Comfortable Comforter.</hi></head>
+            <ab type="InstructionProse"><ref target="CastOn">Cast on</ref> 50 stitches; knit 44
+               turns <ref target="PlainRow">plain knitting</ref>, decrease one stitch in five, until
+               you have only 40 in the <ref target="Row">row</ref>; knit 6 <ref target="ATurn"
+                  >turns</ref>, then decrease again 10 stitches in the <ref target="Row">row</ref>;
+               knit 18 <ref target="ATurn">turns</ref>, increase 10 stitches in the <ref
+                  target="Row">row</ref>; knit 6 <ref target="ATurn">turns</ref>, increase 10
+               stitches in the <ref target="Row">row</ref>; knit 44 <ref target="ATurn">turns</ref>,
+               and <ref target="CastOff">cast off</ref>.</ab>
+         </div>
+         <div type="section" xml:id="DoubleKnittedShawl">
+            <head type="main"><hi rend="caps">Double Knitted Shawl.</hi></head>
+            <ab type="InstructionProse">Begin with one stitch; increase a stitch every other <ref
+               target="Row">row</ref>, which will make one side slant; knit <ref
+                  target="PlainRow">plain knitting</ref> until you have 9 stitches, 7 of which are
+               for the border; these are knitted in <ref target="PlainRow">plain knitting</ref>
+               throughout; with the other stitches begin double knitting, as before. When your shawl
+               is nearly large enough, knit a few <ref target="Row">rows</ref> of <ref
+                  target="PlainRow">plain knitting</ref>, to correspond with the border on the other
+               side.</ab>
+         </div>
+         <div type="section" xml:id="DoubleKnittedShawlWithColoredBorder">
+            <head type="main"><hi rend="caps">Double Knitted Shawl, With Colored Border.</hi></head>
+            <ab type="InstructionProse">This shawl is knitted in precisely the same way as the one
+               above, except that you begin with the color you mean to have for the border: when you
+               have 7 stitches, you must <ref target="SlipOrPassAStitch">pass</ref> the white round
+               it and knit in the end. Every time you come to the border, you <ref
+                  target="SlipOrPassAStitch">pass</ref> the colored and white lamb's-wool round each
+               other, thus looping them together.</ab>
+         </div>
+         <div type="section" xml:id="PincushionCoverLeafPattern">
+            <head type="main"><hi rend="caps">Pincushion Cover.</hi></head>
+            <head type="sub"><hi rend="caps">Leaf Pattern</hi></head>
+            <ab type="materials">This pattern is knitted with 4 needles, No. 18.</ab>
+            <ab type="InstructionProse"><ref target="CastOn">Cast</ref> 45 stitches on each of 3
+               needles (15 being required for each stripe). First <ref target="Round">round</ref>,
+               begin with the cotton forward, purl 2 stitches, pass the cotton back, knit one,
+               taking it at the back, purl 2, pass the cotton back, <ref target="SlipOrPassAStitch"
+                  >slip one stitch</ref>, knit one, pull the slipped stitch over the knitted one;
+               knit 6, <ref target="BringTheThreadForward">bring the cotton forward</ref>, knit one,
+               this increases two <ref target="LoopStitch">loop-stitches</ref>; repeat this all
+               around. You will find you have increased 1 stitch in every 15.</ab>
+            <ab type="InstructionProse">2nd round; begin with the cotton forward, purl 2 stitches,
+               knit one, taking it at the back, purl 2, <ref target="SlipOrPassAStitch">slip</ref>
+               one, knit one, pull the slipped stitch over the knitted one, <ref target="PlainRow"
+                  >knit plain</ref> until you come to the next purl stitches, and continue as
+               before. In this, and every alternate round, no <ref target="LoopStitch"
+                  >loop-stitches</ref> are to be made, but the purled stripes and the decrease to be
+               done as before, which will reduce the stitches to the original number.</ab>
+            <ab type="InstructionProse">Knit these <ref target="Round">rounds</ref> alternately,
+               making the 2 holes (which occur in every alternate <ref target="Round">round</ref>)
+               one stitch sooner each time, i.e., knitting 5, then 4, then 3, then 2, then 1,
+               instead of six stitches, as mentioned in the first <ref target="Round">round</ref>.
+               You will then have six <ref target="Row">rows</ref> of holes, which completes the
+               leaf, and you will find the holes brought to the side of the stripe opposite to that
+               on which they began; you must then begin again as at first.</ab>
+            <ab type="InstructionProse">Nine <ref target="Round">rounds</ref> of leaves complete a
+               pincushion.</ab>
+         </div>
+         
+         <div type="notesinprogress">
+            <p><ref type="note" target="#n3">Four fine needles, nearly 3 skeins of netting silk, and
+                  one sting of gold beads are required.</ref></p>
+            <p><ref type="note" target="#n4">This work will wash and look equal to new, by mixing a
+                  little ox-gall with a little curd soap lather, and washing it in the ordinary way,
+                  spreading it out to dry, and turning it frequently.</ref></p>
+            <p><ref type="note" target="#n5">Then, with shaded wool, work a row of double L stitches
+                  all round.</ref></p>
+         </div>
       </body>
+      <back>
+         <div type="endnotes">
+            <note xml:id="n1" source="#HowToCastOn">A current, common way for beginners to cast on
+               uses the thumb method. Knitters start by creating a loop out of a single thread and
+               pulling the loose end of the yarn through the loop to create a slip knot. Then, the
+               slip knot is placed onto the needle and the loose yarn is brought around the thumb to
+               create a loop that the needle slides through. Holding the needle with the left hand,
+               the right hand holds the yarn attached to the yarn ball, wraps it around the needle
+               and pulls down, slides the loop on the left thumb over and onto the needle, and the
+               yarn tail is pulled down to create the first stitch.</note>
+            <note xml:id="n2" source="#NeedleSizes">Yarn weight must also be taken into account when
+               choosing a needle. The finer/thinner the yarn being used, the smaller the needle
+               should be. In the common range today, a very thin 2-ply yarn should be paired with a
+               US size 0-2 needle, a medium-thick 8-ply yarn should be paired with a US size 3-6,
+               and the thickest 14-ply yarn should be paired with a US size 11-17 needle.</note>
+            <note xml:id="n3" source="#SkeinDefinition">A common term utilized by those who practice
+               knitting, a skein is a loosely coiled length of length of yarn, thread, or other
+               material wound onto a reel.</note>
+            <note xml:id="n4" source="#WashingTechnique">Often, hand knitted works require a special
+               washing practice. Contemporary washing practices require you to look at the yarn
+               label for any specific instructions pertaining to washing. Usually, you use a mild
+               detergent mixed with warm water in a basin or sink, submerge the yarn in the soapy
+               water and agitate it to loosen any dirt or residue, rinsing thoroughly to remove any
+               soapy residue, gently squeezing the item to remove excess water, and laying it on a
+               clean towel or drying rack to air dry. You can block the yarn to shape it and even
+               out any inconsistencies in texture or gauge during the drying step.</note>
+            <note xml:id="n5" source="#ShadedWoolDefinition">Shaded wool refers to yarn that has
+               been dyed in multiple colors creating a gradient or variegated effect giving your
+               work a visually appealing color variation.</note>
+         </div>
+         <div type="bibliography">
+            <listBibl>
+               <bibl xml:id="ShadedWoolDefinition" type="webpage"><title>"Berlin Wool: Fine Fiber
+                     from an Innovative Age."</title><publisher><hi rend="italics">
+                     PieceWork</hi></publisher>, <ref
+                     target="https://pieceworkmagazine.com/berlin-wool-fine-fiber-from-an-innovative-age/"
+                     >https://pieceworkmagazine.com/berlin-wool-fine-fiber-from-an-innovative-age/</ref>.</bibl>
+               <bibl xml:id="HowToCastOn" type="webpage"><title>"How To Cast On for Total
+                     Beginners."</title><publisher><hi rend="italics"> Sheep and
+                     Stitch</hi></publisher>, <date>17 Dec 2018</date>, <ref
+                     target="sheepandstitch.com/library/long-tail-cast-on-for-beginners/"
+                     >sheepandstitch.com/library/long-tail-cast-on-for-beginners/</ref>.</bibl>
+               <bibl xml:id="WashingTechnique" type="webpage"><title>"How To Wash Hand-Knitted
+                     Items."</title><publisher><hi rend="italics"> In The Wash</hi></publisher>,
+                     <date>08 June 2023</date>, <ref
+                     target="https://inthewash.co.uk/laundry-and-ironing/how-to-wash-hand-knitted-items/#:~:text=Hand-Washing%20Knitwear%20Step-By-Step%201%20Step%201%3A%20Fill%20a,...%206%20Step%206%3A%20Remove%20excess%20water%20"
+                     >https://inthewash.co.uk/laundry-and-ironing/how-to-wash-hand-knitted-items/#:~:text=Hand-Washing%20Knitwear%20Step-By-Step%201%20Step%201%3A%20Fill%20a,...%206%20Step%206%3A%20Remove%20excess%20water%20</ref>.</bibl>
+               <bibl xml:id="NeedleSizes" type="webpage"><title>"Knitting Needle Sizes for
+                     Yarn."</title><publisher><hi rend="italics"> Yarn Worx</hi></publisher>,
+                     <date>11 June 2021</date>, <ref
+                     target="www.yarnworx.com/blogs/yarn-guides/knitting-needle-sizes-for-yarn"
+                     >www.yarnworx.com/blogs/yarn-guides/knitting-needle-sizes-for-yarn</ref>.</bibl>
+               <bibl xml:id="SkeinDefinition" type="webpage"><title>"Skein."</title><publisher><hi
+                        rend="italics"> Merriam-Webster</hi></publisher>, <ref
+                     target="https://www.merriam-webster.com/dictionary/skein"
+                     >https://www.merriam-webster.com/dictionary/skein</ref>.</bibl>
+            </listBibl>
+         </div>
+      </back>
    </text>
 </TEI>
-
