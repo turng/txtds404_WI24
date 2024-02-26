@@ -1,0 +1,15 @@
+div.name {
+    text-align: right;
+
+     /*  why isnt this working :( */
+}
+
+.maintitle {
+    text-align: center;
+    font-family: 'Courier New', monospace;
+}
+
+div.note {
+    font-style: italic;
+    font-size:smaller;
+}
