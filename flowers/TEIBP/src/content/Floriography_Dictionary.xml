@@ -9,7 +9,9 @@
          <titleStmt>
             <title>A Floriography Dictionary</title>
             <author>Kate Greenaway</author>
-            <editor>Cari Coe, Brianna Patane, and Victoria Rincon</editor>
+            <editor>Victoria Rincon</editor>
+            <editor>Cari Coe</editor>
+            <editor>Brianna Patane</editor>
          </titleStmt>
          <publicationStmt>
             <p>Our text is meant to be published as a digital edition for a webpage that an audience
@@ -100,7 +102,7 @@
          </div>
          <div type="front_pages">
             <figure>
-               <graphic url="flowers_title_page.png"/>
+               <graphic url="Flowers_titled_page.png"/>
                <head><ref target="#context">Language of Flowers</ref></head>
                <figDesc>The figure shows a woman in a green dress decorating a straw hat with
                   flowers while sitting in a blue, straight-backed wooden chair.</figDesc>
@@ -831,7 +833,7 @@
 
                <lg type="poem">
                   <head>
-                     <title><ref target="#burns"><ref target="#headings">Elegy on Captain Matthew Henderson</ref></ref></title>
+                     <title><ref target="#burns"><ref target="#insert">Elegy on Captain Matthew Henderson</ref></ref></title>
                      <bibl>
                         <author>
                            <persName>
@@ -1308,8 +1310,7 @@
                   struggled through much of his life, but when he published his book of poems,
                   he was almost instantly heralded as a great writer. Many of his poems were
                   written to popular folk tunes that he was familiar with, which is why "O
-                  Luve Will Venture In" has the byline for the tune of "The
-                  Posie."</note>
+                  Luve Will Venture In" is attached to the tune of "The Posie." To see a modernized version of this poem, visit this site:  <ref>target="http://www.robertburnsfederation.com/poems/translations/504.htm"</ref> and to see a complete and modernized version of the Elegy on Captain Matthew Henderson, visit this site: <ref>target="http://www.robertburnsfederation.com/poems/translations/elegy_on_captain_mathew_henderson.htm"</ref>. These both come from the Robert Burns Federation online, a website dedicated to Robert Burns and his poetry.</note>
             </person>
             <person xml:id="drayton" role="poet" n="3">
                <persName>
@@ -1367,9 +1368,10 @@
             <note xml:id="thrift" n="12">Thrift is associated with sympathy. These might have been sent when someone died or when a young lover was jilted. The colors of the flowers can vary in any shade of white, yellow, blue, lilac, or red, and the perennial nature guarantees blooming for at least three years <ref target="#wilkinson">(Wilkinson 312)</ref>. Even though they are associated with sympathy, their pom-pom style blossoms add cheerfulness to any nosegay.</note>
          </noteGrp>
          <noteGrp type="editorial">
-            <note xml:id="headings">While the original text does not include headings for each section, we added them for ease of reading. "Flowers" indicates the section that lists the flowers first, and then their meanings; "Meanings" indicates the section that lists the meanings first, and then the flowers; and "Poetry" indicates the section of poems that relate to the flowers in the text as well as some flowers or meanings that are not included in our excerpts here. The poem "Elegy on Captain Matthew Henderson" is incomplete in our source text and does not have a title, so we added the title here to make it easier for those who are interested to find the full poem.</note>
+            <note xml:id="headings">While the original text does not include headings for each section, we added them for ease of reading. "Flowers" indicates the section that lists the flowers first, and then their meanings; "Meanings" indicates the section that lists the meanings first, and then the flowers; and "Poetry" indicates the section of poems that relate to the flowers in the text as well as some flowers or meanings that are not included in our excerpts here.</note>
             <note xml:id="ash">Whenever there is an ash phonetic symbol in the text, we changed it to a standard type "a" and "e" for ease of reading.</note>
             <note xml:id="spelling">In the original text, several "o's" are typed as "u", so we adjusted these letters for ease of reading and understanding.</note>
+            <note xml:id="insert">In the source text, this poem does not have a title and is not complete. We included the title of the poem to help those who wanted to read the whole thing find it more easily. There is a reference to the complete poem as well as a modernized version in the biography section for <ref target="#burns">Burns.</ref></note>
          </noteGrp>
          <noteGrp type="context">
             <note xml:id="context"><p>Floriography was a popular study in the Victorian age, in part due to the Victorians’ obsession with reference manuals, classification, and dictionaries <ref target="#engelhardt">(Engelhardt 137)</ref>. In this period, however, floriography moved from a pastime for just women to a wider project of social service and science by a growing field of amateur botanists. This study became assumed common knowledge, as Engelhardt notes that “Victorian writers expected a certain degree of floral literacy from their readers and used floral codes strategically in their fiction as subtexts for practitioners of the language of flowers” <ref target="#engelhardt">(136)</ref>. These readers and writers would pull on information put out by amateur botanists in this fledgling scientific field through their reference manuals codifying flowers and their meanings so that both writers and readers  could “extend the parameters of courtship and imaginative play” <ref target="#engelhardt">(156)</ref>.</p> 
