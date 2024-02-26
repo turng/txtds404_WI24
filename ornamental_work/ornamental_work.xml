@@ -307,8 +307,8 @@
          </div>
          <div type="section" xml:id="ABabysSock">
             <head type="main" rend="caps">A Baby's Sock</head>
-            <head type="sub" rend="italics">With 2 colors done in stripes, and double German
-               lamb's-wool.</head>
+            <ab type="materials" rend="italics">With 2 colors done in stripes, and double German
+               lamb's-wool.</ab>
             <ab type="InstructionProse"><ref type="#CastOn">Cast on</ref> 26 stitches, knit a <ref
                   target="#PlainRow">plain <ref target="#Row">row</ref></ref> with the first color,
                   <ref target="#FastenOn">fasten on</ref> the second, knit a <ref target="#Row"
@@ -337,8 +337,8 @@
          </div>
          <div type="section" xml:id="BabysSocks1stSize">
             <head type="main" rend="caps">Baby's Socks. 1st Size.</head>
-            <head type="sub" rend="italics">Two ivory needles, No. 12, and 3-ply fleecy are
-               required.</head>
+            <ab type="materials" rend="italics">Two ivory needles, No. 12, and 3-ply fleecy are
+               required.</ab>
             <ab type="InstructionProse"><ref target="#CastOn">Cast on</ref> 24 stitches; knit two
                   <ref target="#PlainRow">plain</ref>
                <ref target="#Row">rows</ref>, add one stitch; knit 2 more <ref target="#Row"
