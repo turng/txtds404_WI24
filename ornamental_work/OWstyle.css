@@ -1,0 +1,43 @@
+h1 {
+    color: #660066;
+    background-color: #e2e2d0;
+    padding: 20px;
+    text-align: center;
+    margin: 0 170px 20px 170px;
+}
+.editorial_intro {
+    background-color: #ffece5;
+    padding: 10px;
+    text-align: center;
+    margin: 20px 50px 20px 50px;
+}
+
+h2 {
+    background-color: #bbbb90;
+    padding: 5px;
+}
+
+h3 {
+    line-height: 40%;
+    font-size: 100%;
+}
+
+.term {
+    background-color: #e2e2d0;
+    line-height: 150%;
+}
+
+.section {
+    background-color: #Fff4f0;
+}
+
+.italics {
+    font-style: italic;
+}
+
+img {
+    display: block;
+    background-color: #660066;
+    width: 200px;
+    padding: 6px;
+}

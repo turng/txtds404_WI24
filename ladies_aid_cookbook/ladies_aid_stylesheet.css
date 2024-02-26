@@ -1,0 +1,25 @@
+div.name {
+    text-align: right;
+
+    /*  why isnt this working :( */
+}
+
+.maintitle {
+    text-align: center;
+    font-family: 'Courier New', monospace;
+}
+
+div.note {
+    font-style: italic;
+    font-size: smaller;
+}
+
+body.booklet {
+    color: #000000;
+    background-color: AntiqueWhite;
+    width: 67%;
+    margin: auto;
+    font-size: 14pt;
+    font-family: arial;
+    padding: 30px;
+}

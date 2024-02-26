@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="book">Hypontism and Hypnotic Suggestion</title>
+            <respStmt>
+               <resp>Transcribed by</resp>
+               <name type="person" xml:id="JS">Jake Short</name>
+               <name type="person" xml:id="LD">Lilly Durham</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name type="person" ref="#JS">Jake Short</name>
+               <name type="person" ref="#LD">Lilly Durham</name>
+            </authority>
+            <pubPlace><placeName><settlement>Seattle</settlement>,
+               <region>WA</region></placeName></pubPlace>
+            <date when="2024-02-12">2024-02​-12</date>
+            <availability>
+               <p>Available for purposes of academic research and teaching only.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <bibl>
+                  <title type="main">HYPNOTISM AND HYPNOTIC SUGGESTION</title>
+                  <title type="subordinate">A SCIENTIFIC TREATISE OF THE USES AND POSSIBILITIES OF
+                     HYPNOTISM, SUGGESTION AND ALLIED PHENOMENA.</title>
+                  <editor>
+                     <name type="person">E. VIRGIL NEAL, A. M., LL. D.</name>
+                     <name type="person">CHARLES S. CLARK, M.A.</name>
+                  </editor>
+                  <publisher>New York State Publishing Company</publisher>
+                  <pubPlace>Rochester, NY</pubPlace>
+                  <idno type="lc">BD 1121 H6 1900 pt.1. pt.4</idno>
+               </bibl>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <normalization>
+               <p>Original punctuation conventions have been retained.</p>
+            </normalization>
+            <hyphenation eol="none">
+               <p>Hyphenated words that appear at the end of the line have been reformed.</p>
+            </hyphenation>
+            <interpretation>
+               <p>Emphasis throughout text, including titles and headings, has been recorded and
+                  retained.</p>
+            </interpretation>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="editorial_intro">
+         <p>At the turn of the twentieth century, the concept of hypnotism experienced a surge in
+            public interest and experimentation from areas such as scientific inquiry,
+            entertainment, and therapeutic applications (LoC). The lead editor of this text, E.
+            Virgil Neal, capitalized on this cultural fascination towards hypnosis as another of his
+            various entrepreneurial endeavors; he began giving hypnosis demonstrations in the
+            mid-1890s (Conroy, 70), and in 1897, he wrote a book titled Hypnotism As It Is, which
+            set the stage for Hypnotism and Hypnotic Suggestion (Conroy, 35). Hypnotism and Hypnotic
+            Suggestion covers various uses of hypnosis, from the medical to religious, but Neal and
+            Clark personally contributed work which emphasized the more practical and business
+            related uses of hypnosis (Conroy, 41). The other 28 authors of Hypnotism and Hypnotic
+            Suggestion were considered specialists in the field, coming from universities such as
+            Harvard and Yale (Conroy, 41).</p>
+
+         <p>Hypnotism and Hypnotic Suggestion was intended to be instructional, aimed towards
+            students of Neal, Clark, and their other colleagues in the New York Institute of
+            Science, namely Thomas Adkin (Conroy, 70). The New York Institute of Science, which was
+            a mail-order company selling fraudulent degrees and courses relating to hypnotism and
+            personal magnetism, only operated from 1899 until 1912, because it was shut down by the
+            U.S. government (New York Tribune, pages 18 &amp; 11). According to the 1913 indictment,
+            the co-editors and Adkin had collaborated in a fraudulent hypnotic suggestion mail-order
+            scheme, of which this text was a part (New York Tribune, pages 18 &amp; 11). Given this,
+            we hope readers can read this edition for entertainment purposes, but not for
+            educational purposes. With its fraudulent nature, this edition can be used by students
+            to learn more about a "scam" during this time period, or to use the activities in the
+            text for fun.</p>
+
+         <p>When transcribing and editing this text, we chose to keep the text as close to the
+            original as possible, except for some visual aspects that don’t affect the reading of
+            the text (such as omitting specific line breaks and page breaks). We did not update
+            spellings, vocabulary, or other textual parts of the book.</p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <head>
+               <!-- GT: technically, these <emph>s should be <hi>s. <emph> refers to rhetorical emphasis.
+                  But here, you're talking about typographic emphasis: using bold face to draw attention to content. Not something emphatic -->
+               <hi rend="bold"><title type="book">SUGGESTIONS AND DIRECTIONS FOR THE STUDY OF
+                     PERSONAL MAGNETISM AND HYPNOTISM.</title></hi>
+               <note n="1" type="editorial">"Personal Magnetism" is in reference to a speaking style
+                  more common during this time, used by people such as politicians for influence
+                     <ref target="#young">(Young)</ref>.</note> By <name type="person">X. LA MOTTE
+                  SAGE, A. M., Ph. D., LL. D.</name>, formerly Professor in <name type="place"
+                  >Pieree College</name>, <placeName><settlement>Philadelphia</settlement>,
+                     <region>Pa</region></placeName>. <note n="2" type="editorial">"X. La Motte
+                  Sage" is an alias used by Neal <ref target="#conroy">(Conroy)</ref>.</note>
+            </head>
+            <div type="section">
+               <head><hi rend="bold">READ THE INSTRUCTIONS VERY CAREFULLY.</hi></head>
+               <p>Be sure that you thoroughly understand just what to do before attempting to
+                  hypnotize anyone.</p>
+               <p>If you stop and hesitate and wonder what to do next, you will never influence
+                  anybody. Go about your work in a business-like way and show people by your actions
+                  that you thoroughly understand what you are doing.</p>
+               <p>You must not expect to hypnotize everybody you try. Remember all successful
+                  operators and noted hypnotists came to be such only by long practical
+                  experience.</p>
+            </div>
+            <div type="section">
+               <head><hi rend="bold">PERSEVERANCE.</hi></head>
+               <p>If you do not succeed with the first five or ten that you try, do not give up, but
+                  continue trying. Try twenty or thirty different persons, or more if necessary, and
+                  just as sure as the sun shines you will find someone whom you can hypnotize. You
+                  cannot fail if you persevere and read our instructions carefully. After you
+                  hypnotize one or two, it will be easy, and soon you can affect the majority of
+                  those whom you try; and with still more practice will be able readily to hypnotize
+                  70 or 90 per cent.</p>
+               <p>Determine to succeed and you will succeed. If you undertake this study in a
+                  half-hearted way, if you go about it in a perfunctory sort of manner it were
+                  better a thousand times over that you never undertook it. The greater your
+                  deficiencies in personal magnetism the more difficult will it be for you to master
+                  these sciences, and the more evident your need of further knowledge of this
+                  mysterious power. Bear in mind that perseverance is the price of success;
+                  knowledge does not come unsought.</p>
+            </div>
+            <div type="section">
+               <head><hi rend="bold">THE STUMBLING BLOCK</hi></head>
+               <p>is hypnotizing the first one. <note n="3" type="editorial">The beginning of this
+                     sentence is a direct transcription, not an error (including the
+                     capitalization). It may be a continuation of the title (though no other
+                     sections do this).</note> Then remember that a good hypnotist might possibly
+                  try ten people and not hypnotize any of them, because they resist. They may say
+                  they do not, though they do. With different people the whole ten might be
+                  affected. You should make due allowance for this. Should you not meet with the
+                  success you anticipate, it will probably be because you do not follow our
+                  directions. Many think they are doing just as the instructions direct, when in
+                  reality they are doing nothing of the kind. Read the instructions carefully and
+                  slowly a number of times and study them well until you know each step as well as
+                  you know your A, B, C's, and if you have any determination or perseverance
+                  whatever, you cannot possibly make a failure. You are as certain to succeed as one
+                  and one are two. After the ice is broken, that is, after you have hypnotized the
+                  first one or two, you will have confidence, and you yourself will be surprised and
+                  mystified at your work.</p>
+            </div>
+            <div type="section">
+               <head><hi rend="bold">SUGGESTIONS.</hi></head>
+               <p>You must be sure to give all your suggestions in a very positive tone. A feeble,
+                  whining way of speaking never accomplishes anything. Be a person of some force of
+                  character. Speak positively and directly to your subject, and influence is
+                  certain. Do not give up until you have tried at least fifty persons between the
+                  ages of 15 and 30, and be sure while trying each one that you do just as the
+                  instructions direct. We ask you to do this because we know positively that after
+                  you hypnotize one, the work will be very easy and you can influence a large
+                  percentage. There is a certain knack required, and while nearly all persons get
+                  this knack very readily from our instructions and can soon hypnotize, still there
+                  is occasionally a person who has to try over and over before he acquires just the
+                  proper method of procedure. Many, however, who find the work a little difficult at
+                  first, make the finest hypnotists.</p>
+            </div>
+            <div type="section">
+               <head><hi rend="bold">CONFIDENCE.</hi></head>
+               <p>To be successful in influencing people one must have confidence and perseverance.
+                  A weak, vacillating <note n="4" type="editorial">(always changing)</note>
+                  disposition never accomplishes anything. People will influence you or you will
+                  influence them; it is for you to decide whether you will direct or be directed,
+                  whether you will be a master or a servant. Self-esteem, stubbornness, and an
+                  arrogant, haughty disposition are not the necessary elements with which to control
+                  people.</p>
+            </div>
+            <div type="section">
+               <head><hi rend="bold">INBORN POWER.</hi></head>
+               <p>There is a subtle, unseen force by which people are influenced, and the minds of
+                  the multitude swayed. This secret power may be acquired by everyone who is willing
+                  to take the time and trouble to develop it. An all-wise Creator has not given it
+                  to the few, it is inborn in every person, and it is only necessary for one to put
+                  forth a proper effort to achieve the success which God intended.</p>
+            </div>
+            <div type="section">
+               <head><hi rend="bold">PERSONAL INFLUENCE.</hi></head>
+               <p>In taking up the study of these subjects you are entering a new field of science,
+                  a new sphere of life, you are taking a very important step; your success in these
+                  studies means much to you; in fact, it determines the position in life which you
+                  will hereafter occupy; it matters not what your other capabilities or intellectual
+                  attainments are, if you lack the power and ability to influence people you will
+                  never achieve your full measure of success.</p>
+               <p>If you master the sciences of personal magnetism and hypnotism you will have a
+                  thorough knowledge of the philosophy of personal influence, of the laws by which
+                  the human mind is molded and swayed, of that intangible and subtle power which
+                  controls where bayonets fail.</p>
+            </div>
+            <div type="section">
+               <head><hi rend="bold">IMPORTANT TRIFLES.</hi></head>
+               <p>It matters not how unimportant the instructions may seem to you, or how simple
+                  they are, make up your mind to follow them in every detail; do not pass judgment
+                  upon anything until you have given it a fair trial; remember the greatest things
+                  in life are often the simplest. It may seem to you that the instructions are too
+                  simple to produce the astounding results which are claimed for them, but, if you
+                  will master them, if you will only give them a thorough trial, you will be more
+                  enthusiastic in their praises than the authors of this course. </p>
+            </div>
+         <div type="section">
+            <head><hi rend="bold">TACT.</hi></head>
+            <p>If you wish to exert a lasting influence over a person, you must influence him
+               in such a manner that he does not dream that you are affecting him. He must think
+               that he is performing every act of his own free will and accord. In controlling 
+               people use tact and judgment; study human nature. No two persons are exactly alike;
+               what will influence one person will not always influence another, but all persons 
+               may be influenced. We do not hope to teach' you in a few days how to influence 
+               every person with whom you come in contact, but if you follow the instructions 
+               implicitly we shall develop in you a strong personality, and we shall increase 
+               to a marvelous extent your present ability to influence people,-in fact, the 
+               instructions will positively enable you to influence to a greater or less 
+               degree 90 per cent. of those with whom you come in contact. The longer you 
+               practice the more proficient you will become, and the greater the influence you 
+               will be able to exert.</p>
+         </div>
+         <div type="section">
+            <head><hi rend="bold">SIMPLE TESTS.</hi></head>
+            <p>For the purpose of developing the power of personal magnetism we have devised 
+               some very simple tests. If you can succeed with these little things, you can 
+               succeed with greater things. If you can successfully perform the first four tests 
+               given on pages 12 to 22 your success with personal magnetism and hypnotism is 
+               assured and your complete mastery of these sciences is only a question of a very 
+               short time.</p>
+         </div>
+         <div type="section">
+            <head><hi rend="bold"> METHOD OF STUDY.</hi></head>
+            <p>Take the tests in order and study each one thoroughly. Do not read the last part 
+               of the instructions until you have learned the first part. It is time worse than 
+               wasted to study the lessons in the back part of an arithmetic before you have 
+               mastered those in the front part. You cannot learn cube root before you learn 
+               addition; you cannot learn mensuration before division. For this reason the 
+               fundamental principles of personal magnetism and hypnotism have been purposely 
+               placed in the first part of the course, and the instructions relating to the 
+               practical application of these sciences have been placed in the other parts. 
+               Without a thorough knowledge of the fundamental principles of any science, higher 
+               instruction is useless.</p>
+         </div>
+         <div type="section">
+            <head><hi rend="bold">PREPARATORY.</hi></head>
+            <p>The, first part of the course is the notation, numeration, addition and subtraction 
+               of personal magnetism, hypnotism, suggestive therapeutics and magnetic healing. It is
+               the key, without which you can do absolutely nothing. Master it well and your complete
+               success is certain.</p>
+         </div>
+         <div type="section">
+            <head><hi rend="bold">PLAN OF TEACHING.</hi></head>
+            <p>The majority of those who teach hypnotism instruct you to put the subject asleep first,
+               but such a method is generally impracticable. Most people who are unacquainted with 
+               hypnotism dread going into an unconscious condition. By the methods which I employ, 
+               you commence with the subjects on tests in which they are not hypnotized. Then you 
+               produce light hyp- notic effects and lead them from these slight effects into the 
+               deeper stages of hypnosis.</p>
+            <p>It is entirely unnecessary to put one asleep to fasten his hands together, although
+               this is the instruction which most teachers give. It is contrary to reason to undertake
+               to throw the majority of people into an unconscious condition upon the first trial, 
+               because they naturally resist such a mode of procedure. By such methods it is entirely 
+               impossible to go into a promiscuous audience and give uniformly successful hypnotic 
+               demonstrations without subjects whom you have previously hypnotized.</p>
+            <p>I have given a large number of demonstrations before colleges and universities. 
+               I made it a point to use as subjects none but students. I have also given a large 
+               number of demonstrations before clubs, using in every case for my experiments, members 
+               of the clubs. I have never made a failure in a single instance. I attribute this to my 
+               method of hypnotizing in the waking state which is explained on page 12.</p>
+            <p>Again, by using the physical tests first, you give the subject confidence in your 
+               ability and gain corresponding confidence in yourself. These are also the tests with 
+               which you develop the real power of personal magnetism-you learn how to influenoe people
+               without putting them to sleep.</p>
+         </div>
+         <div type="section">
+            <head><hi rend="bold">OCCULT SCIENCES.</hi></head>
+            <p>The science of hypnotism unfolds the secret law. of all personal influence. A man who sways
+               multitudes by the charm of his voice uses no less of hypnotism than he who fastens another's
+               hands together and makes his arm stiff and rigid so that he cannot bend it. Both act under 
+               the same law. It is merely a difference.in the application of that law. Hypnotism is the 
+               foundation of personal magnetism. It bears the same relation to personal magnetism that 
+               grammar does to language. There is no better way of developing the higher power of personal 
+               magnetism than by practicing simple hypnotic tests.</p>
+         </div>
+         <div type="section">
+            <head><hi rend="bold">TO BE A GOOD HYPNOTIST.</hi></head>
+            <p>you must be positive, you must persevere. Persevere and you will learn how to be positive;
+               hence, the only essential conditions are perseverance and a desire to learn. A man who gives
+               up simply because lie does not succeed upon the first few trials, Will never be brilliantly 
+               successful at anything. There are many persons of this kind in the world. Such persons will 
+               never learn how to use personal magnetism; they will never occupy positions of trust and 
+               responsibility unless they first acquire that necessary prerequisite, perseverance.</p>
+         </div>
+        </div>     
+
+         <div type="part">
+            <head><hi rend="bold">HOW TO HYPNOTIZE</hi> By <name type="person">L. E.
+                  KASSEALL.</name></head>
+            <note n="5" type="editorial">At the time of publishing, Lulu Elizabeth Kasseall was the 
+               treasurer of the American College of Sciences<ref target="#dem_chronicle">(Democrat and Chronicle)</ref>.</note>
+            <p>In this article I shall give the student my three favorite methods of producing
+               hypnosis, and in doing so I shall endeavor to explain the methods so that the student
+               may learn just how to hypnotize and mesmerize.</p>
+            <div type="section">
+               <head><hi rend="bold">METHOD NO. 1.</hi></head>
+               <p>Have the subject seated in a comfortable chair or lying on a bed or couch. Place
+                  the thumb of the subject’s left hand against your left thumb, with the inside of
+                  the thumbs together.</p>
+               <p><hi rend="bold">METHOD NO. 1.</hi></p>
+               <p> Then grasp, with the fingers of the left hand, the base of the subject’s left
+                  thumb, between the thumb and the first finger. The pressure should be firm without
+                  hurting the subject. The thumbs should be in a perpendicular position. With your
+                  right hand press the subject’s fingers over the back of your thumb and tell him to
+                  grasp it firmly, to close his eyes and intently concentrate his mind on the
+                  following suggestions: “I am so sleepy—so tired and sleepy—I cannot think of
+                  anything but sleep.” After you tell the subject to think of these suggestions,
+                  place the three fingers of your right hand, spread apart, on the top of the
+                  subject’s head, a little toward the front, with the thumb of the right hand
+                  resting on the bridge of the nose, or between the eyebrows. You should exert an
+                  inward and downward pressure, being careful not to hurt the subject. Then suggest
+                  to the subject in a slow, positive, monotonous tone, “You are becoming
+                  drowsy—everything is getting dark to you—you are so tired and sleepy—you cannot
+                  hear any sound but my voice—when I count ten you will be sound asleep.
+                  One-two-three-four-five-six-seven-eight-nine-ten.” You should count slowly and
+                  distinctly. As you finish counting ten, continue to suggest, “You are so
+                  sleepy—you are breathing deeper—you are breathing heavier—you cannot hear any
+                  sound but my voice—if anyone should call you, you will not answer. You cannot hear
+                  anything but my voice.” These suggestions should be repeated until the subject is
+                  fast asleep. If you do not get the subject to sleep the first time you try him,
+                  arrange a sitting for another day. He should be treated daily, giving him at least
+                  a half hour’s trial at each sitting.</p>
+            </div>
+            <div type="section">
+               <head><hi rend="bold">METHOD NO. 2.</hi></head>
+               <p>Have the subject seated in a common kitchen chair, so that the shoulders are above
+                  the back of the chair. Tell the subject to sit with his feet flat on the floor, to
+                  rest, hands on knees, to relax all of his muscles, to close his eyes and intently
+                  think of sleep. Stand on the subject’s right side, place the thumb of the right
+                  hand on the subject’s right temple, and the first three fingers of the right hand
+                  on the subject’s left temple; the pressure should be light. With the left hand
+                  grasp the subject at the back of the neck, the idea being to prevent the
+                  circulation of blood in the head as much as possible. Do not grasp the neck so as
+                  to hurt the subject, though the pressure should be firm. Take as much of the neck
+                  in your hand as possible, then tell the subject to relax his muscles, especially
+                  those of the neck. Then roll the subject’s head to the right, making as large a
+                  circle as possible; the movement should be slow. All the time you are doing this,
+                  suggest to</p>
+               <p><hi rend="bold">METHOD NO. 2.</hi></p>
+               <p>the subject the same sleep formulas give in Method No. 1. After you have rolled
+                  the head for five or ten minutes, gradually make the circle less until it stops
+                  altogether. Keep the left hand in the original position, but drop the right hand
+                  to the subject’s breast and as he exhales his breath, press inward; as he inhales
+                  relax the pressure, and at the same time suggest, “You are breathing deeper—you
+                  are breathing heavier—you are breathing deeper—you are breathing heavier.” These
+                  suggestions should be repeated for two or three minutes, then the subject is
+                  prepared to receive the suggestions you wish to give him. The head should be
+                  rolled in the direction the hands of a clock move, if placed face upward on the
+                  top of the subject’s head. I have found this method superior to any other which I
+                  have tried, altogether others will often produce the effect when this one will
+                  not, and vice versa.</p>
+            </div>
+            <div type="section">
+               <head><hi rend="bold">METHOD NO. 3.</hi></head>
+               <p><hi rend="bold">METHOD NO. 3.</hi></p>
+               <p>Have the subject lie down on a couch or bed <note n="6" type="editorial">From the
+                     picture, they should lie down face-up.</note>, tell him to close his eyes,
+                  think of sleep and relax all of his muscles. Tell him to try to give up the
+                  suggestions which you are about to make. Have the arms lying straight down from
+                  the sides. You should place the three fingers of both hands in the center of the
+                  forehead, making a pass with both hands at the same time from the forehead down
+                  over the temples to and off the cheek bones to the shoulders, then on down over
+                  the arms, and off the tips of the subject's fingers. The pressure should be very
+                  light. This pass should be made slowly, and at the same time, you should suggest,
+                  "You are becoming drowsy—everything is getting dark to you—you are so tired and
+                  sleepy—you cannot hear sound but my voice—when I count ten you will be sound
+                  asleep. One-two-three-four-five-six-seven-eight-nine-ten."</p>
+               <p>The passes should be made for fifteen or twenty minutes. The subject is then ready
+                  to receive the suggestions you wish to give him. At the end of each pass, your
+                  hands should close, coming back in a circle, and the fingers should not open until
+                  ready to be placed upon the forehead the next time. This is an excellent method to
+                  use upon sick persons or those who are lying down. In many cases the student will
+                  place the subject under hypnosis at the first sitting, but sometimes it is
+                  necessary to continue these sittings for a long time. It depends entirely upon the
+                  subject; if he is amenable to your suggestions the effects are quickly produced.
+                  After you succeed in getting the subject hypnotized once, it is much easier to do
+                  so the second time, and you can make the subject act out any scene as described by
+                  another author under the head of "How To Give Hypnotic Entertainments." After you
+                  put on a few mental scenes, (or scenes where the subject is unconscious), it is
+                  not necessary to re-hypnotize the subject to put on the next scene. Simply tell
+                  him to close his eyes, place the fingers of your left hand on top of his head with
+                  the thumb resting on the bridge of the subject's nose, between the eyebrows, and
+                  say to him, "Now, when you open your eyes you will see so-and-so." For instance,
+                  if you were going to make the subject believe he is fishing, you would say to him,
+                  "Now, when you open your eyes you will see a beautiful stream of water. You are
+                  sitting upon the bank of this stream and you want to fish. I will give you a
+                  fishing-rod, you can bait your hook and have a splendid time." Then say to the
+                  subject, "Open your eyes." Just the moment his eyes open, your right hand should
+                  be ready to direct his gaze to the stream of water and at the same time say, "Do
+                  you see that stream of water?" making a gesture toward the stream with your right
+                  hand. If he says no, make the gesture over and over again, until he sees it. It
+                  does not, as a rule, take more than four or five of these passes to make the
+                  subject see the water, then you can give him the other suggestions, relative to
+                  the fishing-rod, etc</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="bibliography">
+            <listBibl>
+               <bibl xml:id="neal_clark">
+                  <title type="book">HYPNOTISM AND HYPNOTIC SUGGESTION</title>
+                  <title type="subordinate">A SCIENTIFIC TREATISE OF THE USES AND POSSIBILITIES OF
+                     HYPNOTISM, SUGGESTION AND ALLIED PHENOMENA.</title>
+                  <editor>
+                     <name>E. VIRGIL NEAL, A. M., LL. D.</name>
+                     <name>CHARLES S. CLARK, M.A.</name>
+                  </editor>
+                  <publisher>New York State Publishing Company</publisher>
+                  <pubPlace>Rochester, NY</pubPlace>
+                  <idno type="lc">BD 1121 H6 1900 pt.1. pt.4</idno>
+               </bibl>
+
+               <bibl xml:id="loc_hypnotism">
+                  <title type="main">Hypnotism: Topics in Chronicling America</title>
+                  <publisher>Library of Congress (LoC)</publisher>
+                  <ref>https://guides.loc.gov/chronicling-america-hypnotism</ref>
+               </bibl>
+
+               <bibl xml:id="kook">
+                  <title>New York Institute of Science</title>
+                  <publisher>Kook Science</publisher>
+                  <ref>https://hatch.kookscience.com/wiki/New_York_Institute_of_Science</ref>
+               </bibl>
+
+               <bibl xml:id="loc_nytribune">
+                  <title>New York Tribune</title>
+                  <date when="1918-06-23">1918-06-23</date>
+                  <pubPlace>New York, N.Y.</pubPlace>
+                  <publisher>Library of Congress</publisher>
+                  <publisher>Chronicling America: Historic American Newspapers</publisher>
+                  <ref>https://chroniclingamerica.loc.gov/lccn/sn83030214/1918-06-23/ed-1/seq-18/</ref>
+                  <ref>https://chroniclingamerica.loc.gov/lccn/sn83030214/1918-06-23/ed-1/seq-11/</ref>
+               </bibl>
+
+               <bibl xml:id="conroy">
+                  <title type="book">The cosmetics baron you've never heard of: E. Virgil Neal and
+                     Tokalon</title>
+                  <date when="1937">1937</date>
+                  <edition>Third Edition</edition>
+                  <author>
+                     <name type="person">Mary Schaeffer Conroy</name>
+                  </author>
+                  <ref>https://archive.org/details/cosmeticsbaronyo0000conr</ref>
+               </bibl>
+               
+               <bibl xml:id="dem_chronicle">
+                  <title>Democrat and Chronicle</title>
+                  <date when="1900-09-01">1900-09-01</date>
+                  <pubPlace>Rochester, N.Y.</pubPlace>
+                  <publisher>Democrat and Chronicle</publisher>
+                  <ref>https://www.newspapers.com/article/democrat-and-chronicle/141734229/</ref>
+                  <ref>https://img.newspapers.com/img/img?clippingId=141734229</ref>
+               </bibl>
+               
+               <bibl xml:id="young">
+                  <title>Guest Post: Jeremy C. Young, “James Rush and the Invention of Personal
+                     Magnetism”</title>
+                  <date when="2017-01-16">2017-01-16</date>
+                  <author>
+                     <name type="person">Jeremy C. Young</name>
+                  </author>
+                  <publisher>The Junto</publisher>
+                  <ref>https://earlyamericanists.com/2017/01/16/guest-post-jeremy-c-young-james-rush-and-the-invention-of-personal-magnetism/</ref>
+               </bibl>
+            </listBibl>
+         </div>
+      </back>
+   </text>
+</TEI>
