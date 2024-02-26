@@ -1,0 +1,28 @@
+/* <link rel="stylesheet" type="text/css" href="hypnotism.css" /> */
+
+html {
+    background: rgb(220, 220, 220);
+}
+
+.simple {
+    width: 60%;
+    margin: auto;
+    padding: 2.5rem;
+    font-family: Verdana, sans-serif;
+    background: white;
+}
+
+.tei_front {
+    border: dashed 2px black;
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+
+.tei_front p {
+    padding: 0;
+    margin: 0;
+}
+
+.tei_front p:not(:first-child) {
+    margin: 1rem 0 0 0;
+}
