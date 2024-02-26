@@ -145,14 +145,16 @@
             </bibl>
 		 
 	    <bibl n="6">
-		<title>19th century acting editions collection, 1762-1946</title>
-		<date>Historical note and collection information added 2017</date>
-		<ref target="https://archiveswest.orbiscascade.org/ark:80444/xv656279"/>
+    		<title>19th century acting editions collection, 1762-1946</title>
+    		<date>Historical note and collection information added 2017</date>
+    		<ref target="https://archiveswest.orbiscascade.org/ark:80444/xv656279"/>
+	    </bibl>
 
 	    <bibl n="7">
-		<title>A Complete Guide to Pantomime</title>
-		<date>03 June 2022</date>
-		<ref target="https://www.blackpoolgrand.co.uk/complete-guide-to-pantomime"/>
+   		<title>A Complete Guide to Pantomime</title>
+   		<date>03 June 2022</date>
+   		<ref target="https://www.blackpoolgrand.co.uk/complete-guide-to-pantomime"/>
+	    </bibl>
          </div><!-- GT: I think you're missing a closing </bibl> here... -->
       </body>
    </text>
