@@ -1111,7 +1111,10 @@ offset {
   /* Empty Rule Set */
 }
 opener {
-  /* Empty Rule Set */
+   display: block;
+   margin-top: 2em;
+   margin-bottom: 2em;
+   border-top: 1px solid #999;
 }
 org {
   /* Empty Rule Set */
@@ -1863,7 +1866,7 @@ a:hover {
   color: #5f0000;
   text-decoration: underline;
 }
-/* #teibpToolbox {
+ #teibpToolbox {
   left: 56em;
   top: 25px;
   position: fixed;
@@ -1886,7 +1889,7 @@ a:hover {
   margin-top: 0;
   margin-bottom: .5em;
   border-bottom: 1px solid #AAA;
-}*/
+}
 /* xml-serialization */
 .eg-element {
   color: #0165c8;
