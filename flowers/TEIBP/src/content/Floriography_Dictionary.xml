@@ -74,7 +74,14 @@
    <text>
       <front>
          <div type="editorial_intro">
-            <p>The small illustrated book, <ref target="#context">Language of Flowers</ref> (1884) is meant to be read as an
+            <p>
+               <figure>
+                  <graphic url="flowers_title_page.png"/>
+                  <head><ref target="#context">Language of Flowers</ref></head>
+                  <figDesc>The figure shows a woman in a green dress decorating a straw hat with
+                     flowers while sitting in a blue, straight-backed wooden chair.</figDesc>
+               </figure>
+               The small illustrated book, <ref target="#context">Language of Flowers</ref> (1884) is meant to be read as an
                illustrated dictionary of meanings for common northern hemisphere flowers,
                reflecting the popularity of floriography in the Victorian era. To enhance the
                reader’s understanding of the meaning of the flowers, the illustrator Kate Greenaway
@@ -84,7 +91,13 @@
                children’s educational book, it would also have been useful for new debutantes as
                they entered society. The illustrations and poetry add a romantic flair, which would
                have added to the appeal for this group when they began courting.</p>
-            <p>For our edition, we seek to introduce fans of novels from the Victorian and Georgian
+            <p>
+               <figure>
+                  <graphic url="cherub_cornucopia.png"/>
+                  <figDesc>Two cherbus dressed in white robes are carrying a flower-filled cornucopia
+                     tied with blue ribbon through the grass.</figDesc>
+               </figure>
+               For our edition, we seek to introduce fans of novels from the Victorian and Georgian
                eras to something that might educate them about the use of flowers, particularly in
                the Victorian era. The information we provide via annotations is what we believe the
                original audience would have innately understood. To do this, we provide annotations
@@ -95,29 +108,19 @@
                original text. We hope our target audience can still enjoy shows such as Bridgerton
                while bringing a more realistic understanding of real life in the Victorian era to
                their viewing.</p>
-            <p>One major change we do make is adding in titles to the three different sections of
+            <p>
+               <figure>
+                  <graphic url="dancing_cherubs.png"/>
+                  <figDesc>Three cherubs dressed in white robes are dancing in a circle. All three
+                     cherubs are wearing hats, and the cherub on the left is carrying a bow and quiver
+                     full of arrows while the cherub on the right is standing in front of a bow placed
+                     on the ground. Two cherubs are wearing straw hats with blue ribbons, and the
+                     middle cherub is wearing a black top hat.></figDesc>
+               </figure>
+               One major change we do make is adding in titles to the three different sections of
                the text. We do this for ease of reading and understanding, but we also hope to keep the romantic flair of the original by not updating the language of the poems at the end of the book. We do make minor spelling changes as noted in the text, but we do not feel this sacrifices any part of the original or our intent to educate our audience on floriography.</p>
          </div>
          <div type="front_pages">
-            <figure>
-               <graphic url="flowers_title_page.png"/>
-               <head><ref target="#context">Language of Flowers</ref></head>
-               <figDesc>The figure shows a woman in a green dress decorating a straw hat with
-                  flowers while sitting in a blue, straight-backed wooden chair.</figDesc>
-            </figure>
-            <figure>
-               <graphic url="cherub_cornucopia.png"/>
-               <figDesc>Two cherbus dressed in white robes are carrying a flower-filled cornucopia
-                  tied with blue ribbon through the grass.</figDesc>
-            </figure>
-            <figure>
-               <graphic url="dancing_cherubs.png"/>
-               <figDesc>Three cherubs dressed in white robes are dancing in a circle. All three
-                  cherubs are wearing hats, and the cherub on the left is carrying a bow and quiver
-                  full of arrows while the cherub on the right is standing in front of a bow placed
-                  on the ground. Two cherubs are wearing straw hats with blue ribbons, and the
-                  middle cherub is wearing a black top hat.></figDesc>
-            </figure>
             <figure>
                <graphic url="balcony_women.png"/>
                <figDesc>Three women wearing short-sleeved dresses and bonnets on their heads are

@@ -599,6 +599,7 @@ figure {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+
 }
 /* g */
 g {
@@ -677,7 +678,7 @@ handShift {
 /* Need head with TEI parent to distinguish from HTML head */
 TEI head {
   display: block;
-  font-family: Arvo, sans-serif;
+  font-family: Garamond;
   font-weight: normal;
 }
 body > head {
@@ -1045,7 +1046,6 @@ note {
   padding: .5em 1.5em 1.5em 1.5em;
   border: 1px solid black;
   border-radius: 15px;
-  width: 325px;
   position: relative;
   border: 1px solid #AAA;
   background: #FAFAFA;
@@ -1822,7 +1822,7 @@ html {
   margin-right: 0em;
   padding: 1em;
   /*font-family: "Gentium Book Basic", Cochin, Georgia, Serif;*/
-  font-family: georgia;
+  font-family: Garamond;
   font-size: 14pt;
   color: #292929;
   width: 1500px;
