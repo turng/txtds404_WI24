@@ -1,7 +1,5 @@
 div.name {
     text-align: right;
-
-    /*  why isnt this working :( */
 }
 
 .maintitle {
@@ -33,7 +31,7 @@ img {
 }
 
 .toc-list {
-  padding-inline-start: 2ch;
-  font-family: 'Courier New', monospace;
-  /* i would really like bullet points but its not working :( */
+    padding-inline-start: 2ch;
+    font-family: 'Courier New', monospace;
+    /* you dont know how happy i am that the list works */
 }
