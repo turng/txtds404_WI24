@@ -1,1 +1,27 @@
-
+body {
+background-color: #F8EDE1;
+background-image: url(https://media.istockphoto.com/id/1299389385/photo/vintage-white-paper-texture.jpg?s=612x612&w=0&k=20&c=S85UZFYGC8iYqFBnB2G5dJjuTUdFNujuDNcCKlbLExo=);
+font-size: 14pt;
+font-family: didot;
+color: #3D3935;
+text-align: center;
+margin: auto;
+width: 1200px;
+     }
+tei-title {
+display: block;
+font-size: 32pt;
+font-weight: bold;
+text-transform: uppercase;
+}
+head {
+font-size: 32pt;
+text-transform: uppercase;
+}
+note {
+font-size: 12pt;
+position: relative;
+border: 1px solid #AAA;
+background: #FAFAFA;
+text-align: justify
+}
