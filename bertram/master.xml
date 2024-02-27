@@ -2,8 +2,8 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
    <!--Use this as the master doc for our final portfolio-->
    <teiHeader>
       <fileDesc>
@@ -88,7 +88,7 @@
          <text>
             <body>
                <opener>
-                  <orgName rend="caps">J B. CRALLE &amp; CO.</orgName>
+                  <orgName rend="caps" ref="#Cralle">J B. CRALLE &amp; CO.</orgName>
                   <dateline><date when="1907-04-30"><emph rend="caps">APR</emph> 30
                      1907</date></dateline>
                   <stamp rend="caps">ATTY'S.</stamp>
@@ -101,21 +101,22 @@
                   and<lb/> paid them by the Government upon the allowance of claims, but this
                   <lb/>practice in reagrd to fees as follows:<lb/></p>
 
-               <p>"<emph rend="caps">PROVIDED</emph>, That in the settlement of claims of
-                  officers,<lb/> soldiers, sailors, and marines, of their repreentatives,<lb/> and
-                  all other claims for pay and allowances within the jurisdiction<lb/> of the
-                  Auditor for the <lb/>War Department or the Auditor for the Navy Department,
-                  presented and filed hereafter in which it is<lb/> the present practice to make
-                  deductions of attorneys' fees from<lb/> the amound found due, no deductions of
-                  fees for attorneys or <lb/>agents shall hereafter be made, but the draft, check or
+               <p>"<hi rend="caps">PROVIDED</hi>, That in the settlement of claims of officers,<lb/>
+                  soldiers, sailors, and marines, of their repreentatives,<lb/> and all other claims
+                  for pay and allowances within the jurisdiction<lb/> of the Auditor for the
+                  <lb/>War Department or the Auditor for the Navy Department, presented and filed
+                  hereafter in which it is<lb/> the present practice to make deductions of
+                  attorneys' fees from<lb/> the amound found due, no deductions of fees for
+                  attorneys or <lb/>agents shall hereafter be made, but the draft, check or
                   warrant<lb/> for the full amount found due shall be delivered the payee<lb/> in
                   person or sent to his bona fide post office adress (residence <lb/>of place of
                   business.)"<lb/></p>
 
                <p>Under this act fees are held to be a matter of adjust-<lb/>ment between claimants
-                  and attorneys, and the Government <emph rend="caps">DOES NOT <lb/>NOW DEDUCT AND
-                     PAY FEES TO ATTORNEYS AS FORMERLY</emph> in any of the above <lb/>described
-                  claims filed since the Act of Congress approved June 6,<lb/> 1900.<lb/></p>
+                  and attorneys, and the Government <hi rend="caps">DOES NOT <lb/>NOW DEDUCT AND PAY
+                     FEES TO ATTORNEYS AS FORMERLY</hi> in any of the above <lb/>described claims
+                  filed since the Act of Congress approved <date when="1900-06-06">June 6,<lb/>
+                     1900</date>.<lb/></p>
 
                <p>The former practice of the Government in deducting and <lb/>paying the attorney
                   fees upon settlement with the claimants was <lb/>greatly preferred by us, but the
@@ -130,58 +131,91 @@
 
                <closer>
                   <salute>Very truly yours,</salute>
-                  <signed>J. B Cralle &amp; Co</signed>
+                  <signed><orgName ref="#Cralle">J. B Cralle &amp; Co</orgName></signed>
                </closer>
             </body>
+            <back>
+               <div type="endnotes">
+                  <note>
+                     <note xml:id="Cralle">JB Cralle &amp; Co were claim and pension attorneys.
+                        Their firm was located in Washington DC.<ref type="biblio" target="#source6"
+                        />See source 6</note>
+                  </note>
+               </div>
+            </back>
          </text>
          <text>
             <body>
-               <opener>
+               <opener rend="cursive">
                   <placeName>B Green KY</placeName>
-                  <dateline rend="cursive"><date when="1903-10-18">Oct 18th 03</date>
+                  <dateline><date when="1903-10-18">Oct 18th 03</date>
                   </dateline>
-                  <persName>J. N</persName> &amp; <persName>Marry Bertram</persName>
-                  <salute rend="indent">Dear brother &amp; Sister</salute>
+                  <persName ref="#JN_Bertram">J. N</persName> &amp; <persName ref="#Mary_Bertram"
+                     >Marry Bertram</persName>
+                  <salute>Dear brother &amp; Sister</salute>
                </opener>
                <div rend="cursive">
-                  <p>After waiting a long time we received your nice letter and was so
-                     proud of it, yes I tried to have the family reunion at any of our houses but failed
-                     hence the disapointment to all</p>
-                  <p>No <persName>John Green</persName> has never been for the medisan that
-                     you left for him his only child is it The faint of death if not dead So I guess he
-                     won't want it</p>
-                  <p>I have never seen your discharge you must to have lost them before you
-                     came here</p>
-                  <p>We shall be so proud if you</p>
-                  <p>will stop with us on your way to <placeName>Washington</placeName> we
-                     shall expect it and write us at once or as Soon as your can aseertain the facts </p>
-                  <p><persName>Mary</persName> we have got to be (^ one) of the uppertens since you was here
-                     Street cars are running out by our house you can get on, at the depo and get off at
-                     our gate the cars run to the cemetry boatlanding &amp; fairground</p>
-                  <p>We are getting along the best kind we have a change of diet every day
-                     bread and meat one day &amp; meat and bread the next so when you come you Shall Share
+                     <p>After waiting a long time we received your nice letter and was so proud of
+                        it, yes I tried to have the family reunion at any of our houses but failed
+                        hence the disapointment to all</p>
+                     <p>No <persName>John Green</persName> has never been for the medisan that you
+                        left for him his only child is it The faint of death if not dead So I guess
+                        he won't want it</p>
+                     <p>I have never seen your discharge you must to have lost them before you came
+                        here</p>
+                     <p>We shall be so proud if you</p>
+                  <p>will stop with us on your way to <placeName type="state">Washington</placeName>
+                     we shall expect it and write us at once or as Soon as your can aseertain the
+                     facts </p>
+                  <p><persName ref="#Mary_Bertram">Mary</persName> we have got to be <add
+                        place="above">^one</add> of the uppertens since you was here Street cars are
+                     running out by our house you can get on, at the depo and get off at our gate
+                     the cars run to the cemetry boatlanding &amp; fairground</p>
+                  <p>We are getting along the best kind we have a change of diet every day bread and
+                     meat one day &amp; meat and bread the next so when you come you Shall Share
                      with us</p>
-                  <p>We are having Scarlett feaver &amp; diptheria have had several
-                     deths</p>
-                  <p>have had Several deths we have a very Serious case close to us it
-                     <persName>J. H. Hollands</persName> his 12 year (^old) boy but is on the rode to
-                     helth again</p>
-                  <p>no new calls that I know of brother Sister be shure to spend a while
-                     with us us you (^go) North or Northwest feeal that that will be our last meeting and
-                     parting without Sum unexcpected change ___ <persName>Omar</persName> is at
-                     <placeName>Birm-ingham</placeName>
+                  <p>We are having Scarlett feaver &amp; diptheria have had several deths</p>
+                  <p>have had Several deths we have a very Serious case close to us it <persName>J.
+                        H. Hollands</persName> his 12 year <add place="below">^old </add>boy but is
+                     on the rode to helth again</p>
+                  <p>no new calls that I know of brother Sister be shure to spend a while with us us
+                     you <add place="below">^go</add> North or Northwest feeal that that will be our
+                     last meeting and parting without Sum unexcpected change ___
+                        <persName>Omar</persName> is at <placeName>Birm-ingham</placeName>
                      <persName>Ala Bruce</persName> at <placeName>Indiana-polis</placeName>
                      <persName>Hial</persName> excpects to go to <persName>Omar</persName> &amp;
-                     <persName>Carol</persName> is getting a long as usual has two pet Squieruls and a
-                     fish his little gray man got her high braK(unintelligible scribble and struckout) the
-                     <date when="1903-07-01">first of July</date> and hasent used her any Since but
-                     think he can use her in a few days now write us as soon as you can</p>
+                        <persName>Carol</persName> is getting a long as usual has two pet Squieruls
+                     and a fish his little gray man got her high braK(unintelligible scribble and
+                     struckout) the <date when="1903-07-01">first of July</date> and hasent used her
+                     any Since but think he can use her in a few days now write us as soon as you
+                     can</p>
                </div>
                <closer>
                   <salute>as ever your Brother</salute>
                   <signed>DH Bertram</signed>
                </closer>
             </body>
+            <back>
+               <div type="endnotes">
+                  <note xml:id="JN_Bertram">"Jasper N. Bertram (1840-1928) was born in Wayne,
+                     Kentucky. He enlisted in the Civil War with the Kentucky Volunteers, 9th
+                     Regiment, 3rd Division, 1862-1864. He married Mary Ann Garrett on January 1,
+                     1866, in Overton, Tennessee and they had five children. He was listed as a
+                     school teacher in Kentucky in 1873 and a Republican Party worker in 1882 in the
+                     3rd Congressional District. After his first wife died in 1888, he moved to
+                     Seattle where he was district manager and salesman. He married Mary Huselby in
+                     1896. He died on July 1, 1928 in Seattle, Washington." <ref type="biblio"
+                        target="#source1">See source 1</ref>.</note>
+                  <note xml:id="Mary_Bertram"/>
+                  <note xml:id="Diptheria">Diphtheria is a bacterial respiratory illness that
+                     primarily affects children under 5. The disease was considered highly
+                     contagious and deadly during its height, at the end of the 19th and beginning
+                     of the 20th century. Before the first vaccine was created in the 1890s, 1 out
+                     of 10 children infected by the disease died. Although, the vaccine was not
+                     widely distributed until the 1920s. <ref type="biblio" target="#source5">See
+                        source 5</ref></note>
+               </div>
+            </back>
          </text>
       </group>
       <back>
@@ -200,14 +234,7 @@
                   target="#source3">See source 3</ref></note>
             <note xml:id="n4">Lakeside an unincorporated community located in Chelan County <ref
                   type="biblio" target="#source4">See source 3</ref></note>
-            <note xml:id="n5">Diphtheria is a bacterial respiratory illness that primarily affects
-               children under 5. The disease was considered highly contagious and deadly during its
-               height, at the end of the 19th and beginning of the 20th century. Before the first
-               vaccine was created in the 1890s, 1 out of 10 children infected by the disease died.
-               Although, the vaccine was not widely distributed until the 1920s. <ref type="biblio"
-                  target="#source5">See source 5</ref></note>
-            <note xml:id="n6">JB Cralle &amp; Co were claim and pension attorneys. Their firm was
-               located in Washington DC.<ref type="biblio" target="#source6"/>See source 6</note>
+
          </div>
          <div type="bibliography">
             <listBibl>

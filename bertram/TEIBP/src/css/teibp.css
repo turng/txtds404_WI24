@@ -266,7 +266,7 @@ author {
 }
 titleStmt > author {
   display: block;
-  font-family: Arvo, sans-serif;
+  font-family: 'Courier New';
   font-weight: normal;
   margin-bottom: 1em;
 }
@@ -1724,7 +1724,7 @@ title[level=m] {
 /* as a hack to solve a JavaScript/jQuery issue. */
 titleStmt > tei-title {
   display: block;
-  font-family: Arvo, sans-serif;
+  font-family: 'Courier New';
   font-weight: normal;
   font-weight: bold !important;
   font-size: 150%;
@@ -1841,6 +1841,7 @@ html {
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
   background-color: #EBEBEB;
+  background-image: url("BGTexture.jpg");
   color: #292929;
   width: 33em;
 }
