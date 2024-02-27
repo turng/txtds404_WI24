@@ -23,3 +23,7 @@ body.booklet {
     font-family: arial;
     padding: 30px;
 }
+figure {
+                float: right;
+                max-width: 30%;  /* set this as a relative size too and the image will also resize */
+            }
