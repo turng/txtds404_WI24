@@ -1139,6 +1139,7 @@ p {
   margin-top: 1em;
   margin-bottom: 1em;
   text-align: justify;
+  font-family: 'Times New Roman', Times, serif;
 }
 *[rendition~="#center"] p {
   text-align: center;
