@@ -135,7 +135,7 @@
        <xsl:template match="@rend">
 	 <xsl:choose>
 	   <xsl:when test="$inlineCSS = true()">
-	     <xsl:attribute name="style">
+	     <xsl:attribute name="class">
 	       <xsl:value-of select="."/>
 	     </xsl:attribute>
 	   </xsl:when>
