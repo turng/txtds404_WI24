@@ -1702,7 +1702,10 @@ textDesc {
 /* title */
 /* Need TEI ancestor to distinguish TEI title from HTML title */
 TEI title {
-  display: inline;
+    display: block;
+    font-family: 'Courier New';
+    font-weight: bold !important;
+    font-size: 130%;
 }
 TEI title[level=a] {
   quotes: "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d";
@@ -1843,7 +1846,7 @@ html {
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
   background-color: #EBEBEB;
-  background-image: url("BGTexture.jpg");
+  background-image: url("BG.jpg");
   color: #292929;
   width: 33em;
 }
