@@ -399,7 +399,7 @@
                stitch, pass the 1st over the 2nd, knit a stitch, <ref target="#BringTheThreadForward"
                   >bring the silk forward</ref>, and <ref target="#Rib">rib</ref> the next. When
                this is done, the silk will be forward; begin again.</ab>
-            <ab type="InstructionProse">If the purse is required to be longer, <ref target="#castOn"
+            <ab type="InstructionProse">If the purse is required to be longer, <ref target="#CastOn"
                   >cast on</ref> as many stitches as are necessary, observing that it must be a
                number which can be divided by four.</ab>
          </div>
@@ -410,7 +410,7 @@
                   target="#BringTheThreadForward">bring the silk forward</ref>, <ref
                   target="#SlipOrPassAStitch">slip a stitch</ref>, knit the next, and pull the
                slipped stitch over the knitted one, bring the silk forward and begin again. The
-               second row is <ref target="PlainRow">simple knitting</ref>.</ab>
+               second row is <ref target="#PlainRow">simple knitting</ref>.</ab>
          </div>
          <div type="section" xml:id="PorcupineKnittingForAPurse">
             <head type="main"><hi rend="caps">Porcupine Knitting For A Purse.</hi></head>
@@ -468,7 +468,7 @@
          </div>
          <div type="section" xml:id="ANetPurseInPoints">
             <head type="main"><hi rend="caps">A Net Purse In Points.</hi></head>
-            <ab type="InstructionProse">Fifty stitches long, and 80 <ref target="Row">rows</ref>
+            <ab type="InstructionProse">Fifty stitches long, and 80 <ref target="#Row">rows</ref>
                wide, of a middle-sized silk and mesh. Net 31 stitches, with one color, and back
                again; then 28, 25, 22, 19, and back again to each; then with the other color, begin
                at the distance of 19 stitches, and net until you meet the side already done: pass
