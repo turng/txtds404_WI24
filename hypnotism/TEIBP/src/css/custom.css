@@ -8,6 +8,10 @@ html {
   background: rgb(200, 200, 200);
 }
 
+.bold {
+  font-weight: bold;
+}
+
 #tei_wrapper {
   width: 65%;
   margin: auto;
@@ -34,4 +38,16 @@ back {
   border: dashed 2px black;
   padding: 1em;
   margin: 3em 0 0 0;
+}
+
+figure {
+  width: 90%;
+}
+
+figure img {
+  width: 100%;
+}
+
+figure p {
+  text-align: center;
 }
