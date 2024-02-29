@@ -570,7 +570,7 @@ date[when]:empty:before {
 /* e */
 egXML {
   display: block;
-  font-size: 80%;
+  -size: 80%;
   margin-left: 1em;
   padding-left: 1em;
   border-left: 1px solid #AAA;
@@ -1838,7 +1838,7 @@ html {
   margin-left: 2em;
   margin-right: 4em;
   padding: 2.5em;
-  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
+  font-family: Apple Chancery, cursive;
   font-size: 14pt;
   background-color: #EBEBEB;
   color: #292929;
