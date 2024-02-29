@@ -8,11 +8,15 @@ text-align: center;
 margin: auto;
 width: 1200px;
      }
-tei-title {
+titleStmt > tei-title {
 display: block;
-font-size: 32pt;
+font-size: 48pt;
 font-weight: bold;
 text-transform: uppercase;
+}
+titleStmt > author {
+font-size: 32pt;
+font-weight: bold
 }
 head {
 font-size: 32pt;
@@ -24,4 +28,7 @@ position: relative;
 border: 1px solid #AAA;
 background: #FAFAFA;
 text-align: justify
+}
+#teibpToolbox {
+display: none
 }
