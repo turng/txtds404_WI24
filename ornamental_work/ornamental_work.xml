@@ -240,9 +240,9 @@
                   <ref target="#Row">row</ref>,-knit <ref target="#Plain">plain</ref>
                   <num type="StitchCount" value="2">2</num> stitches, <ref target="#Seam">seam</ref>
                   <num type="StitchCount" value="1">1</num>, and put back your thread, knit <num
-                     type="StitchCount" value="2">2</num>, seam <num type="StitchCount" value="1"
+                     type="StitchCount" value="2">2</num>, <ref target="#Seam">seam</ref> <num type="StitchCount" value="1"
                      >1</num>, and put back your thread, knit <num type="StitchCount" value="2"
-                     >2</num>, seam <num type="StitchCount" value="1">1</num>, and put back your
+                     >2</num>, <ref target="#Seam">seam</ref> <num type="StitchCount" value="1">1</num>, and put back your
                   thread, knit <num type="StitchCount" value="3">3</num>.</ab>
                <ab><num type="RowNumber" value="3">3rd</num>
                   <ref target="#Row">row</ref>,-take off the first stitch, knit <num
