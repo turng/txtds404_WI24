@@ -89,11 +89,18 @@
             <body>
                <opener>
                   <orgName rend="caps" ref="#Cralle">J B. CRALLE &amp; CO.</orgName>
+		       <!-- GT: technically the <emph> should be <hi> here... <emph> means emphatic. <hi> means the text is graphically distinct -->
+		       <!-- GT: if you have rend="caps", you could also consider transcribing the text in lowercase. Your describing the formatting using XML rather than the transcription itself -->
                   <dateline><date when="1907-04-30"><emph rend="caps">APR</emph> 30
                      1907</date></dateline>
                   <stamp rend="caps">ATTY'S.</stamp>
                   <salute>Dear Sir:</salute></opener>
 
+		    <!-- GT: This is another small detail but potentially a headache down the line. Since you encode the <lb>, you might think about how to deal with
+		    the hyphen. The problem is if you want to output this without the line-break, the hyphen will be there. So you idea would be to 
+		    encode the hyphen as well. Sometimes you see something like: <pc type="EOLhyphen"-</pc>. <pc> = punctuation character. This way,
+		    if you don't output the <lb>, you can also withhold the hyphen from the output -->
+		
                <p>We have recieved and filled your claim with the proper offi-<lb/>cial of the
                   Government, and will prosecute it to a final settlement.<lb/></p>
 
