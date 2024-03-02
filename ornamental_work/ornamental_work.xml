@@ -86,6 +86,8 @@
       </front>
       <body>
          <div type="glossary" xml:id="ExplanationOfTerms">
+		 <!-- GT: This is great. It's a terrific idea to have this glossary at the top. There are more specific tags you could use. There's <entry>, etc. 
+		 You'd find these in the Dictionary module of TEI. But what you've done works. -->
             <head type="main" rend="caps">Explanation of Terms Used in Knitting, and Hints on
                Knitting.</head>
             <ab type="StitchType" xml:id="CastOn">
@@ -862,6 +864,8 @@
          </div>
          <div type="bibliography">
             <listBibl>
+		    <!-- GT: here, I don't think you really need to include the URL as content, using <ref>. It's not like you're transcribing anything in the source.
+		    It's a bit more efficient to use <ptr target="the full url"/>, and just leave it at that. You can alwaus output the URL into a bibliography if you want -->
                <bibl xml:id="ShadedWoolDefinition" type="webpage"><title>"Berlin Wool: Fine Fiber
                      from an Innovative Age."</title><publisher><hi rend="italics">
                      PieceWork</hi></publisher>, <ref
