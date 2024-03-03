@@ -28,21 +28,20 @@
          </div>
       </front>
       <body>
-         <div type="preface">
+         <div type="preface" n="1">
             <p></p>
          </div>
-         <div type="poem">
+         <div type="poem" rhyme="aabccb">
             <head><hi rend="uppercase">Meeting Of My Departed Mother And Husband</hi></head>
-            <!-- Rend as italic or uppercase? -->
-            <lg>
-               <l>Joy for thee, happy friend! thy bark is past</l> <!-- Think of how encode historiated initial, as an image? -->
+            <lg type="stanza">
+               <l>Joy for thee, happy friend! thy bark is past</l> 
                <l>The dangerous sea, and safely moored at last—</l>
                <l>Beyond rough foam.</l>
                <l>Soft gales celestial, in sweet music bore—</l>
                <l>Spirit emancipate for this far shore—</l>
                <l>Thee to thy home.</l>
             </lg>
-            <lg>
+            <lg type="stanza" rhyme="aabccb"><!-- Encode speakers -->
                <l>"You've traveled long, and far from mortal joys,</l>
                <l>To Soul's diviner sense, that spurns such toys,</l>
                <l>Brave wrestler, lone.</l>
@@ -50,7 +49,7 @@
                <l>Man is not mortal, never of the dead:</l>
                <l>The dark unknown.</l>
             </lg>
-            <lg>
+            <lg type="stanza" rhyme="aabccb">
                <l>"When hope soared high, and joy was eagle-plumed,</l>
                <l>Thy pinions drooped; the flesh was weak, and doomed</l>
                <l>To pass away.</l>
@@ -58,7 +57,7 @@
                <l>Majestic forms; and radiant glory sped</l>
                <l>The dawning day.</l>
             </lg>
-            <lg>
+            <lg type="stanza" rhyme="aabccb">
                <l>"Intensely grand and glorious life's sphere,—</l>
                <l>Beyond the shadow, infinite appear</l>
                <l>Life, Love divine,—</l>
@@ -66,15 +65,15 @@
                <l>And home and peace and hearts are found and filled,</l>
                <l>Thine, ever thine.</l>
             </lg>
-            <lg>
+            <lg type="stanza" rhyme="aabccb">
                <l>"Bearest thou no tidings from our loved on earth,</l>
                <l>The toiler tireless for Truth's new birth</l>
                <l>All-unbeguiled?</l>
                <l>Our joy is gathered from her parting sigh:</l>
                <l>This hour looks on her heart with pitying eye,—</l>
-               <l>What of my child?"</l>
+               <l>What of my child?"</l> <!-- Reference pregnancy when first husband died -->
             </lg>
-            <lg>
+            <lg type="stanza" rhyme="aabccb">
                <l>"When, severed by death's dream, I woke to Life,</l>
                <l>She deemed I died, and could not know the strife</l>
                <l>At first to fill</l>
@@ -82,15 +81,15 @@
                <l>To God; a hope that ever upward yearns,</l>
                <l>Bowed to His will.</l>
             </lg>
-            <lg>
-               <l>"Years had passed o'er thy broken household band,</l>
+            <lg type="stanza" rhyme="aabccb">
+               <l>"Years had passed o'er thy broken household band,</l> <!-- Broken household band? -->
                <l>When angels beckoned me to this bright land,</l>
                <l>With thee to meet.</l>
                <l>She that has wept o'er thee, kissed my cold brow,</l>
                <l>Rears the sad marble to our memory now,</l>
                <l>In lone retreat.</l>
             </lg>
-            <lg>
+            <lg type="stanza" rhyme="aabccb">
                <l>"By the remembrance of her loyal life,</l>
                <l>And parting prayer, I only know my wife,</l>
                <l>Thy child, shall come—</l>
@@ -98,7 +97,7 @@
                <l>Hither to reap, with all the crowned and blest,</l>
                <l>Of bliss the sum.</l>
             </lg>
-            <lg>
+            <lg type="stanza" rhyme="aabccb">
                <l>"When Love's rapt sense the heartstrings gently sweep</l>
                <l>With joy divinely fair, the high and deep,</l>
                <l>To call her home,</l>
@@ -107,46 +106,46 @@
                <l>Our spirits' own!"</l>
             </lg>
          </div>
-         <div type="poem">
+         <div type="poem" n="2">
             <head><hi rend="uppercase">I'm Sitting Alone</hi></head>
-            <lg>
-               <l>I'm sitting alone where the shadows fall</l>
+            <lg type="quatrain" rhyme="aabb">
+               <l>I'm sitting alone where the shadows fall</l> <!-- Reference a location where she's sitting -->
                <l>In somber groups at the vesper-call,</l>
                <l>Where tear-dews of night seek the loving rose,</l>
                <l>Her bosom to fill with mortal woes.</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="aabb">
                <l>I'm waiting alone for the bridal hour</l>
                <l>Of nymph and naiad from woodland bower;</l>
                <l>Till vestal pearls that on leaflets lay,</l>
                <l>Ravished with beauty the eye of day.</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="aabb"> 
                <l>I'm watching alone o'er the starlit glow,</l>
                <l>O'er the silv'ry moon and ocean flow;</l>
                <l>And sketching in light the heaven of my youth—</l>
                <l>Its starry hopes and its waves of truth.</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="aabb">
                <l>I'm dreaming alone of its changeful sky—</l>
                <l>What rainbows of rapture floated by!</l>
-               <l>Of a mother's love, that no words could speak</l>
+               <l>Of a mother's love, that no words could speak</l> <!-- Reference the mother -->
                <l>When parting the ringlets to kiss my cheek.</l>
             </lg>
-            <lg>
-               <l>I'm thinking alone of a fair young bride,</l>
+            <lg type="quatrain" rhyme="aabb">
+               <l>I'm thinking alone of a fair young bride,</l> <!-- reference which husband -->
                <l>The light of a home of love and pride;</l>
                <l>How the glance of her husband's watchful eye</l>
                <l>Turned to his star of idolatry.</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="aabb">
                <l>I'm picturing alone a glad young face,</l>
                <l>Upturned to his mother's in playful grace;</l>
                <l>And the unsealed fountains of grief and joy</l>
-               <l>That gushed at the birth of that beautiful boy.</l>
+               <l>That gushed at the birth of that beautiful boy.</l> <!-- Who's the beautiful boy -->
             </lg>
-            <lg>
-               <l>I'm weeping alone that the vision is fled,</l>
+            <lg type="quatrain" rhyme="aabb">
+               <l>I'm weeping alone that the vision is fled,</l> <!-- Reference event for why the vision is fled -->
                <l>The leaves all faded, the fruitage shed,</l>
                <l>And wishing this earth more gifts from above,</l>
                <l>Our reason made right and hearts all love.</l>
@@ -155,9 +154,9 @@
                Lynn, Mass., <hi rend="italic">September 3, 1866.</hi>
             </note>
          </div>
-         <div type="poem">
+         <div type="poem" n="3">
             <head><hi rend="uppercase">The New Century</hi></head>
-            <lg>
+            <lg type="stanza" rhyme="aabbccddee">
                <l>Thou God-crowned, patient century,</l>
                <l>Thine hour hath come! Eternity</l>
                <l>Draws nigh—and, beckoning from above,</l>
@@ -169,38 +168,38 @@
                <l>Away, will enter, when they may,</l>
                <l>And bask in one eternal day.</l>
             </lg>
-            <lg>
+            <lg type="stanza" rhyme="aabbccddee">
                <l>'Tis writ on earth, on leaf and flower:</l>
                <l>Love hath one race, one realm, one power.</l>
                <l>Dear God! how great, how good Thou art</l>
-               <l>To heal humanity's sore heart;</l>
+               <l>To heal humanity's sore heart;</l> <!-- Is this related to teachings? Encode event -->
                <l>To probe the wound, then pour the balm—</l>
                <l>A life perfected, strong and calm.</l>
                <l>The dark domain of pain and sin</l>
                <l>Surrenders—Love doth enter in,</l>
                <l>And peace is won, and lost is vice:</l>
-               <l>Right reigns, and blood was not its price.</l>
+               <l>Right reigns, and blood was not its price.</l> <!-- Encode religious teachings / events -->
             </lg>
             <note place="footnote">
                Pleasant View, Concord, N. H., <hi rend="italic">January, 1901.</hi>
             </note>
          </div>
-         <div type="poem">
+         <div type="poem" n="4">
             <head><hi rend="uppercase">Constancy</hi></head>
-            <lg>     
+            <lg type="quatrain" rhyme="aabb">     
                <l>When starlight blends with morning's hue,</l>
-               <l>I miss thee as the flower the dew!</l>
+               <l>I miss thee as the flower the dew!</l> <!-- Who does she miss -->
                <l>When noonday's length'ning shadows flee,</l>
                <l>I think of thee, I think of thee!</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="aabb">
                <l>With evening, memories reappear—</l>
                <l>I watch thy chair, and wish thee here;</l>
                <l>Till sleep sets drooping fancy free</l>
                <l>To dream of thee, to dream of thee!</l>
             </lg>
-            <lg>
-               <l>Since first we met, in weal or woe</l>
+            <lg type="quatrain" rhyme="aabb">
+               <l>Since first we met, in weal or woe</l> <!-- Guess an age she wrote this -->
                <l>It hath been thus; and must be so</l>
                <l>Till bursting bonds our spirits part</l>
                <l>And Love divine doth fill my heart.</l>
@@ -209,45 +208,45 @@
                Written many years ago.
             </note>
          </div>
-         <div type="poem">
+         <div type="poem" n="5">
             <head><hi rend="uppercase">Autumn</hi></head>
-            <lg>
+            <lg type="quatrain" rhyme="abab">
                <l>Quickly earth's jewels disappear;</l>
                <l>The turf, whereon I tread,</l>
                <l>Ere autumn blanch another year,</l>
                <l>May rest above my head.</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="abab">
                <l>Touched by the finger of decay</l>
                <l>Is every earthly love;</l>
                <l>For joy, to shun my weary way,</l>
                <l>Is registered above.</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="abab">
                <l>The languid brooklets yield their sighs,</l>
                <l>A requiem o'er the tomb</l>
                <l>Of sunny days and cloudless skies,</l>
                <l>Enhancing autumn's gloom. </l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="abab">
                <l>The wild winds mutter, howl, and moan,</l>
-               <l>To scare my woodland walk,</l>
+               <l>To scare my woodland walk,</l> <!-- Encode a place -->
                <l>And frightened fancy flees, to roam</l>
                <l>Where ghosts and goblins stalk.</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="abab">
                <l>The cricket's sharp, discordant scream</l>
                <l>Fills mortal sense with dread;</l>
                <l>More sorrowful it scarce could seem;</l>
                <l>It voices beauty fled.</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="abab">
                <l>Yet here, upon this faded sod,—</l>
                <l>O happy hours and fleet,—</l>
                <l>When songsters' matin hymns to God</l>
                <l>Are poured in strains so sweet,</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="abab">
                <l>My heart unbidden joins rehearse,</l>
                <l>I hope it's better made,</l>
                <l>When mingling with the universe,</l>
@@ -320,53 +319,35 @@
          
       </listBibl>
       <listPerson>
-         <person xml:id="mary_baker">
+         <person xml:id="mary_baker_eddy">
             <persName>
                <forename>Mary</forename>
                <surname>Baker</surname>
-            </persName>
-            <persName>
-               
-            </persName>
-            <age>
-               0-21
-            </age>
-            <residence>Bow</residence>
-            <residence>Sanborton Bridge</residence>
-         </person>
-         <person xml:id="mary_glover">
-            <persName>
-               <forename>Mary</forename>
-               <surname>Glover</surname>
-            </persName>
-            <!-- GT: is this an age range? You could just provide the birth date/year of each person. Use <birth>: https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-birth.html
-            Then, when you have a given date, you can just figure out the age at the time -->
-            <age>
-               22-31
-            </age>
-            <residence>Charleston</residence>
-         </person>
-         <person xml:id="mary_patterson">
-            <persName>
-               <forename>Mary</forename>
-               <surname>Patterson</surname>
-            </persName>
-            <age>
-               32-51
-            </age>
-         </person>
-         <person xml:id="mary_eddy">
-            <persName>
-               <forename>Mary</forename>
                <surname>Eddy</surname>
             </persName>
-            <age>
-               56-89
-            </age>
+            <birth when="1821-07-16"> 16 July 1821 
+               <placeName>
+                  <settlement type="town">Bow</settlement>
+                  <region type="state">New Hampshire</region>
+               </placeName>
+            </birth>
+            <death when="1910-12-03"> 3 December 1910
+               <placeName>
+                  <settlement type="city">Newton</settlement>
+                  <region type="state">Massachusetts</region>
+               </placeName>
+            </death>
+            <note>Went by Mary Baker up until age 21</note>
+            <note>Went by Mary Glover froma ages 22 to 31</note>
+            <note>Went by Mary Patterson from ages 32 to 51</note>
+            <note>Went by Mary Eddy from ages 56 to 89</note>
          </person>
          <!-- Add: Mary's family (father, mother, brother who died); Mary's husbands (George Glover, Daniel Patterson, Asa Eddy); Mary's son (George Glover II); Phineas Quimby) -->
       </listPerson>
       <listPlace>
+         <head>
+            <s>Relevant Places</s>
+         </head>
          <place xml:id="Bow">
             <placeName>
                <settlement type="town">Bow</settlement>
