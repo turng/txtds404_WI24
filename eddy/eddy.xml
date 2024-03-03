@@ -28,21 +28,22 @@
          </div>
       </front>
       <body>
-         <div type="preface">
+         <div type="preface" n="1">
             <p></p>
          </div>
-         <div type="poem">
+         <div type="poem" rhyme="aabccb">
             <head><hi rend="uppercase">Meeting Of My Departed Mother And Husband</hi></head>
-            <!-- Rend as italic or uppercase? -->
-            <lg>
-               <l>Joy for thee, happy friend! thy bark is past</l> <!-- Think of how encode historiated initial, as an image? -->
+            <lg type="stanza">
+		 <!-- GT: is it both in the source? You can include two values here: rend="italics caps". Or you can combine into one value that will
+		 mean italics and caps: rend="caps_ital" , or something similar -->
+               <l>Joy for thee, happy friend! thy bark is past</l>
                <l>The dangerous sea, and safely moored at last—</l>
                <l>Beyond rough foam.</l>
                <l>Soft gales celestial, in sweet music bore—</l>
                <l>Spirit emancipate for this far shore—</l>
                <l>Thee to thy home.</l>
             </lg>
-            <lg>
+            <lg type="stanza" rhyme="aabccb"><!-- Encode speakers -->
                <l>"You've traveled long, and far from mortal joys,</l>
                <l>To Soul's diviner sense, that spurns such toys,</l>
                <l>Brave wrestler, lone.</l>
@@ -50,7 +51,7 @@
                <l>Man is not mortal, never of the dead:</l>
                <l>The dark unknown.</l>
             </lg>
-            <lg>
+            <lg type="stanza" rhyme="aabccb">
                <l>"When hope soared high, and joy was eagle-plumed,</l>
                <l>Thy pinions drooped; the flesh was weak, and doomed</l>
                <l>To pass away.</l>
@@ -58,7 +59,7 @@
                <l>Majestic forms; and radiant glory sped</l>
                <l>The dawning day.</l>
             </lg>
-            <lg>
+            <lg type="stanza" rhyme="aabccb">
                <l>"Intensely grand and glorious life's sphere,—</l>
                <l>Beyond the shadow, infinite appear</l>
                <l>Life, Love divine,—</l>
@@ -66,15 +67,15 @@
                <l>And home and peace and hearts are found and filled,</l>
                <l>Thine, ever thine.</l>
             </lg>
-            <lg>
+            <lg type="stanza" rhyme="aabccb">
                <l>"Bearest thou no tidings from our loved on earth,</l>
                <l>The toiler tireless for Truth's new birth</l>
                <l>All-unbeguiled?</l>
                <l>Our joy is gathered from her parting sigh:</l>
                <l>This hour looks on her heart with pitying eye,—</l>
-               <l>What of my child?"</l>
+               <l>What of my child?"</l> <!-- Reference pregnancy when first husband died -->
             </lg>
-            <lg>
+            <lg type="stanza" rhyme="aabccb">
                <l>"When, severed by death's dream, I woke to Life,</l>
                <l>She deemed I died, and could not know the strife</l>
                <l>At first to fill</l>
@@ -82,15 +83,15 @@
                <l>To God; a hope that ever upward yearns,</l>
                <l>Bowed to His will.</l>
             </lg>
-            <lg>
-               <l>"Years had passed o'er thy broken household band,</l>
+            <lg type="stanza" rhyme="aabccb">
+               <l>"Years had passed o'er thy broken household band,</l> <!-- Broken household band? -->
                <l>When angels beckoned me to this bright land,</l>
                <l>With thee to meet.</l>
                <l>She that has wept o'er thee, kissed my cold brow,</l>
                <l>Rears the sad marble to our memory now,</l>
                <l>In lone retreat.</l>
             </lg>
-            <lg>
+            <lg type="stanza" rhyme="aabccb">
                <l>"By the remembrance of her loyal life,</l>
                <l>And parting prayer, I only know my wife,</l>
                <l>Thy child, shall come—</l>
@@ -98,7 +99,7 @@
                <l>Hither to reap, with all the crowned and blest,</l>
                <l>Of bliss the sum.</l>
             </lg>
-            <lg>
+            <lg type="stanza" rhyme="aabccb">
                <l>"When Love's rapt sense the heartstrings gently sweep</l>
                <l>With joy divinely fair, the high and deep,</l>
                <l>To call her home,</l>
@@ -107,46 +108,46 @@
                <l>Our spirits' own!"</l>
             </lg>
          </div>
-         <div type="poem">
+         <div type="poem" n="2">
             <head><hi rend="uppercase">I'm Sitting Alone</hi></head>
-            <lg>
-               <l>I'm sitting alone where the shadows fall</l>
+            <lg type="quatrain" rhyme="aabb">
+               <l>I'm sitting alone where the shadows fall</l> <!-- Reference a location where she's sitting -->
                <l>In somber groups at the vesper-call,</l>
                <l>Where tear-dews of night seek the loving rose,</l>
                <l>Her bosom to fill with mortal woes.</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="aabb">
                <l>I'm waiting alone for the bridal hour</l>
                <l>Of nymph and naiad from woodland bower;</l>
                <l>Till vestal pearls that on leaflets lay,</l>
                <l>Ravished with beauty the eye of day.</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="aabb"> 
                <l>I'm watching alone o'er the starlit glow,</l>
                <l>O'er the silv'ry moon and ocean flow;</l>
                <l>And sketching in light the heaven of my youth—</l>
                <l>Its starry hopes and its waves of truth.</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="aabb">
                <l>I'm dreaming alone of its changeful sky—</l>
                <l>What rainbows of rapture floated by!</l>
-               <l>Of a mother's love, that no words could speak</l>
+               <l>Of a mother's love, that no words could speak</l> <!-- Reference the mother -->
                <l>When parting the ringlets to kiss my cheek.</l>
             </lg>
-            <lg>
-               <l>I'm thinking alone of a fair young bride,</l>
+            <lg type="quatrain" rhyme="aabb">
+               <l>I'm thinking alone of a fair young bride,</l> <!-- reference which husband -->
                <l>The light of a home of love and pride;</l>
                <l>How the glance of her husband's watchful eye</l>
                <l>Turned to his star of idolatry.</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="aabb">
                <l>I'm picturing alone a glad young face,</l>
                <l>Upturned to his mother's in playful grace;</l>
                <l>And the unsealed fountains of grief and joy</l>
-               <l>That gushed at the birth of that beautiful boy.</l>
+               <l>That gushed at the birth of that beautiful boy.</l> <!-- Who's the beautiful boy -->
             </lg>
-            <lg>
-               <l>I'm weeping alone that the vision is fled,</l>
+            <lg type="quatrain" rhyme="aabb">
+               <l>I'm weeping alone that the vision is fled,</l> <!-- Reference event for why the vision is fled -->
                <l>The leaves all faded, the fruitage shed,</l>
                <l>And wishing this earth more gifts from above,</l>
                <l>Our reason made right and hearts all love.</l>
@@ -155,9 +156,9 @@
                Lynn, Mass., <hi rend="italic">September 3, 1866.</hi>
             </note>
          </div>
-         <div type="poem">
+         <div type="poem" n="3">
             <head><hi rend="uppercase">The New Century</hi></head>
-            <lg>
+            <lg type="stanza" rhyme="aabbccddee">
                <l>Thou God-crowned, patient century,</l>
                <l>Thine hour hath come! Eternity</l>
                <l>Draws nigh—and, beckoning from above,</l>
@@ -169,38 +170,38 @@
                <l>Away, will enter, when they may,</l>
                <l>And bask in one eternal day.</l>
             </lg>
-            <lg>
+            <lg type="stanza" rhyme="aabbccddee">
                <l>'Tis writ on earth, on leaf and flower:</l>
                <l>Love hath one race, one realm, one power.</l>
                <l>Dear God! how great, how good Thou art</l>
-               <l>To heal humanity's sore heart;</l>
+               <l>To heal humanity's sore heart;</l> <!-- Is this related to teachings? Encode event -->
                <l>To probe the wound, then pour the balm—</l>
                <l>A life perfected, strong and calm.</l>
                <l>The dark domain of pain and sin</l>
                <l>Surrenders—Love doth enter in,</l>
                <l>And peace is won, and lost is vice:</l>
-               <l>Right reigns, and blood was not its price.</l>
+               <l>Right reigns, and blood was not its price.</l> <!-- Encode religious teachings / events -->
             </lg>
             <note place="footnote">
                Pleasant View, Concord, N. H., <hi rend="italic">January, 1901.</hi>
             </note>
          </div>
-         <div type="poem">
+         <div type="poem" n="4">
             <head><hi rend="uppercase">Constancy</hi></head>
-            <lg>     
+            <lg type="quatrain" rhyme="aabb">     
                <l>When starlight blends with morning's hue,</l>
-               <l>I miss thee as the flower the dew!</l>
+               <l>I miss thee as the flower the dew!</l> <!-- Who does she miss -->
                <l>When noonday's length'ning shadows flee,</l>
                <l>I think of thee, I think of thee!</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="aabb">
                <l>With evening, memories reappear—</l>
                <l>I watch thy chair, and wish thee here;</l>
                <l>Till sleep sets drooping fancy free</l>
                <l>To dream of thee, to dream of thee!</l>
             </lg>
-            <lg>
-               <l>Since first we met, in weal or woe</l>
+            <lg type="quatrain" rhyme="aabb">
+               <l>Since first we met, in weal or woe</l> <!-- Guess an age she wrote this -->
                <l>It hath been thus; and must be so</l>
                <l>Till bursting bonds our spirits part</l>
                <l>And Love divine doth fill my heart.</l>
@@ -209,45 +210,45 @@
                Written many years ago.
             </note>
          </div>
-         <div type="poem">
+         <div type="poem" n="5">
             <head><hi rend="uppercase">Autumn</hi></head>
-            <lg>
+            <lg type="quatrain" rhyme="abab">
                <l>Quickly earth's jewels disappear;</l>
                <l>The turf, whereon I tread,</l>
                <l>Ere autumn blanch another year,</l>
                <l>May rest above my head.</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="abab">
                <l>Touched by the finger of decay</l>
                <l>Is every earthly love;</l>
                <l>For joy, to shun my weary way,</l>
                <l>Is registered above.</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="abab">
                <l>The languid brooklets yield their sighs,</l>
                <l>A requiem o'er the tomb</l>
                <l>Of sunny days and cloudless skies,</l>
                <l>Enhancing autumn's gloom. </l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="abab">
                <l>The wild winds mutter, howl, and moan,</l>
-               <l>To scare my woodland walk,</l>
+               <l>To scare my woodland walk,</l> <!-- Encode a place -->
                <l>And frightened fancy flees, to roam</l>
                <l>Where ghosts and goblins stalk.</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="abab">
                <l>The cricket's sharp, discordant scream</l>
                <l>Fills mortal sense with dread;</l>
                <l>More sorrowful it scarce could seem;</l>
                <l>It voices beauty fled.</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="abab">
                <l>Yet here, upon this faded sod,—</l>
                <l>O happy hours and fleet,—</l>
                <l>When songsters' matin hymns to God</l>
                <l>Are poured in strains so sweet,</l>
             </lg>
-            <lg>
+            <lg type="quatrain" rhyme="abab">
                <l>My heart unbidden joins rehearse,</l>
                <l>I hope it's better made,</l>
                <l>When mingling with the universe,</l>
@@ -292,130 +293,166 @@
             <!-- GT: I'm not sure if this is what you're looking for here, but you can use <ref> or <ptr/> to point to the bilbiographic entries below -->
          </annotation>
       </listAnnotation>
-      <listBibl>
-         <!-- GT: by contrast, it's more conventional to give <bibl> entries more evocative xml:id's. Like using the authors name or a short title:
-            xml:id="chronology_events".-->
-          <bibl type="article" xml:id="source1">
-            “A Chronology of Events Surrounding the Life of Mary Baker Eddy.” The Mary Baker Eddy Library, www.marybakereddylibrary.org/wp-content/uploads/2018/12/Mary_Baker_Eddy_Detailed_Annotated_Chronology_2018-12-10.pdf.  
-         </bibl>
-         <bibl type="website" xml:id="source2">
-            Glatch, Sean. “12 Literary Devices in Poetry: Identifying Poetic Devices.” Writers.Com, 16 June 2023, writers.com/literary-devices-in-poetry. 
-         </bibl>
-         <bibl type="article" xml:id="source3">
-            Gottschalk, Stephen. "Mary Baker Eddy". Encyclopedia Britannica, 29 Nov. 2023, https://www.britannica.com/biography/Mary-Baker-Eddy. Accessed 20 February 2024.
-         </bibl>
-         <bibl type="article" xml:id="source4">
-            “Mary Baker Eddy.” Wikipedia, Wikimedia Foundation,  en.wikipedia.org/wiki/Mary_Baker_Eddy#CITEREFSilberger1980. 
-            <!-- Used for basic information, looking into sources cited through the article -->
-         </bibl>
-         <bibl type="article" xml:id="source5">
-            “Mary Baker Eddy - Deep Read.” Mary Baker Eddy Library, 17 Feb. 2022, www.marybakereddylibrary.org/mary-baker-eddy/mary-baker-eddy-deep-read/. 
-         </bibl>
-         <bibl type="website" xml:id="source6">
-            “The Christian Science Pastor.” Christian Science, www.christianscience.com/the-christian-science-pastor. Accessed 20 Feb. 2024. 
-         </bibl>
-         <!-- Is this the correct place to host bibliographic information, or in body of the text? -->
-         <!-- GT: it validates! Normally you'd put notes and bibliography in the <back> of your <text>, in which case they're considered part of the text.
-            Like endnotes and bibliographies in a printed book you'd buy. <standOff> is a (newer) more database oriented approach, where the notes/bibliographies exist separately: outside and alongside the text. For <listPerson>, <listPlace> and <listEvent>, this is more common. But TEI and digital encoding is a chance to rethink the print models, so if you prefer this organization, that's fine with me. I think it's a terrific experiment with these editorial models. -->
-         
-      </listBibl>
       <listPerson>
-         <person xml:id="mary_baker">
+         <head>
+            <s>Important People</s>
+         </head>
+         <person xml:id="mary_baker_eddy">
             <persName>
                <forename>Mary</forename>
                <surname>Baker</surname>
-            </persName>
-            <persName>
-               
-            </persName>
-            <age>
-               0-21
-            </age>
-            <residence>Bow</residence>
-            <residence>Sanborton Bridge</residence>
-         </person>
-         <person xml:id="mary_glover">
-            <persName>
-               <forename>Mary</forename>
-               <surname>Glover</surname>
-            </persName>
-            <!-- GT: is this an age range? You could just provide the birth date/year of each person. Use <birth>: https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-birth.html
-            Then, when you have a given date, you can just figure out the age at the time -->
-            <age>
-               22-31
-            </age>
-            <residence>Charleston</residence>
-         </person>
-         <person xml:id="mary_patterson">
-            <persName>
-               <forename>Mary</forename>
-               <surname>Patterson</surname>
-            </persName>
-            <age>
-               32-51
-            </age>
-         </person>
-         <person xml:id="mary_eddy">
-            <persName>
-               <forename>Mary</forename>
                <surname>Eddy</surname>
             </persName>
-            <age>
-               56-89
-            </age>
+            <birth when="1821-07-16"> 16 July 1821 
+               <placeName>
+                  <settlement type="town">Bow</settlement>
+                  <region type="state">New Hampshire</region>
+               </placeName>
+            </birth>
+            <death when="1910-12-03"> 3 December 1910
+               <placeName>
+                  <settlement type="city">Newton</settlement>
+                  <region type="state">Massachusetts</region>
+               </placeName>
+            </death>
+            <note>Went by Mary Baker up until age 21</note>
+            <note>Went by Mary Glover froma ages 22 to 31</note>
+            <note>Went by Mary Patterson from ages 32 to 51</note>
+            <note>Went by Mary Eddy from ages 56 to 89</note>
          </person>
-         <!-- Add: Mary's family (father, mother, brother who died); Mary's husbands (George Glover, Daniel Patterson, Asa Eddy); Mary's son (George Glover II); Phineas Quimby) -->
+         <person xml:id="albert_baker">
+            <persName>
+               <forename>Albert</forename>
+               <surname>Baker</surname>
+            </persName>
+            <birth when="1810-02-05"> 5 February 1810 
+               <placeName>
+                  <settlement type="town">Bow</settlement>
+                  <region type="state">New Hampshire</region>
+               </placeName>
+            </birth>
+            <death when="1841-10-17"> 17 October 1841
+               <placeName>
+                  <settlement type="town">Hillsborough</settlement>
+                  <region type="state">New Hampshire</region>
+               </placeName>
+            </death>
+            <note>Credited with teaching and mentoring Mary in youth.</note>
+         </person>
+         <person xml:id="george_washington_glover">
+            <persName>
+               <forename>George</forename>
+               <surname>Washington</surname>
+               <surname>Glover</surname>
+            </persName>
+            <birth when="1811-08-02"> 2 August 1811</birth>
+            <death when="1844-06-27"> 27 June 1844
+               <placeName>
+                  <settlement type="city">Wilmington</settlement>
+                  <region type="state">North Carolina</region>
+               </placeName>
+            </death>
+            <note>Mary's first husband, who died 6 months into their marriage of a fever.</note>
+         </person>
+         <person xml:id="abigail_baker">
+            <persName>
+               <forename>Abigail</forename>
+               <surname>Baker</surname>
+            </persName>
+            <birth when="1784-04-18"> 18 April 1784</birth>
+            <death when="1849-11-21"> 21 November 1849</death>
+         </person>
+         <person xml:id="daniel_patterson">
+            <persName>
+               <forename>Daniel</forename>
+               <surname>Patterson</surname>
+            </persName>
+            <death when="1896-08-14"> 14 August 1896
+               <placeName>
+                  <settlement type="city">Saco</settlement>
+                  <region type="state">Maine</region>
+               </placeName>
+            </death>
+            <note>Mary separated from Patterson in 1866, due to his desertion and adultery. Their divorce was finalized in 1873, 20 years after they married.</note>
+         </person>
+         <person xml:id="asa_gilbert_eddy">
+            <persName>
+               <forename>Asa</forename>
+               <surname>Gilbert</surname>
+               <surname>Eddy</surname>
+            </persName>
+            <birth when="1832"> 1832</birth>
+            <death when="1882-06-02"> 2 June 1882</death>
+            <note>Mary met Asa when he was a student in her class on the teachings of Christian Science. He was her last husband, and they were married until his death.</note>
+         </person>
+         <person xml:id="george_washington_glover_ii">
+            <persName>
+               <forename>George</forename>
+               <surname>Washington</surname>
+               <surname>Glover II</surname>
+            </persName>
+            <birth when="1844-09-12"> 12 September 1844
+               <placeName>
+                  <settlement type="town">Sanbornton</settlement>
+                  <region type="state">New Hampshire</region>
+               </placeName>
+            </birth>
+            <death when="1915-12-26"> 26 December 1915
+               <placeName>
+                  <settlement type="county">Lawrence</settlement>
+                  <region type="state">South Dakota</region>
+               </placeName>
+            </death>
+            <note>Mary and her son were separated from 1856 to 1879, as he was told she had died. He visited her occasionally after reuniting.</note>
+         </person>
+         <person xml:id="phineas_parkhurst_quimby">
+            <persName>
+               <forename>Phineas</forename>
+               <surname>Parkhurst</surname>
+               <surname>Quimby</surname>
+            </persName>
+            <birth when="1802-02-16"> 16 February 1802</birth>
+            <death when="1866-01-16"> 16 January 1866
+               <placeName>
+                  <settlement type="city">Belfast</settlement>
+                  <region type="state">Maine</region>
+               </placeName>
+            </death>
+            <note>Quimby treated Mary of her physical ailments in the 60s, and the two discussed healing practices together.</note>
+         </person>
       </listPerson>
       <listPlace>
+         <head>
+            <s>Important Places</s>
+         </head>
          <place xml:id="Bow">
             <placeName>
                <settlement type="town">Bow</settlement>
                <region type="state">New Hampshire</region>
             </placeName>
+            <note>Where the Baker Home is located, birthplace of Mary and her siblings.</note>
          </place>
          <place xml:id="Sanbornton">
             <placeName>
                <settlement type="town">Sanbornton Bridge</settlement>
                <region type="state">New Hampshire</region>
             </placeName>
-         </place>
-         <place xml:id="Charleston">
-            <placeName>
-               <settlement type="town">Charleston</settlement>
-               <region type="state">South Carolina</region>
-            </placeName>
-         </place>
-         <place xml:id="Portland">
-            <placeName>
-               <settlement type="town">Portland</settlement>
-               <region type="state">Maine</region>
-            </placeName>
+            <note>Where the Baker family moved to during Mary's youth and continued to live throughout her adulthood.</note>
          </place>
          <place xml:id="Lynn">
             <placeName>
                <settlement type="town">Lynn</settlement>
                <region type="state">Massachusetts</region>
             </placeName>
+            <note>Where Mary lived with Daniel Patterson, and established the Christian Science ptactice later in her life.</note>
          </place>
          <place xml:id="Newton">
             <placeName>
                <settlement type="town">Newton</settlement>
                <region type="state">Massachusetts</region>
             </placeName>
+            <note>Where Mary died in 1910.</note>
          </place>
-         <place xml:id="Boston">
-            <placeName>
-               <settlement type="town">Boston</settlement>
-               <region type="state">Massachusetts</region>
-            </placeName>
-         </place>
-         <place xml:id="Concord">
-            <placeName>
-               <settlement type="town">Concord</settlement>
-               <region type="state">New Hampshire</region>
-            </placeName>
-         </place>
-         <!-- Consider more specific information to add to places, such as residences, geographic location -->
       </listPlace>
       <listEvent>
          <event xml:id="birthday" when="1821-07-16">
@@ -423,5 +460,31 @@
          </event>
          <!-- Add more important dates: death of relatives, separation from husbands, birth of her son, foundation of Christian Science, publication of Science and Health, fall on the ice, death -->
       </listEvent>
+      <listBibl>
+         <head>
+            <s>Bibliography of Sources</s>
+         </head>
+         <bibl type="article" xml:id="chronology_of_events_source">
+            “A Chronology of Events Surrounding the Life of Mary Baker Eddy.” The Mary Baker Eddy Library, www.marybakereddylibrary.org/wp-content/uploads/2018/12/Mary_Baker_Eddy_Detailed_Annotated_Chronology_2018-12-10.pdf.  
+         </bibl>
+         <bibl type="website" xml:id="literary_devices_source">
+            Glatch, Sean. “12 Literary Devices in Poetry: Identifying Poetic Devices.” Writers.Com, 16 June 2023, writers.com/literary-devices-in-poetry. 
+         </bibl>
+         <bibl type="article" xml:id="britannica_eddy_source">
+            Gottschalk, Stephen. "Mary Baker Eddy". Encyclopedia Britannica, 29 Nov. 2023, https://www.britannica.com/biography/Mary-Baker-Eddy. Accessed 20 February 2024.
+         </bibl>
+         <bibl type="article" xml:id="wikipedia_eddy_source">
+            “Mary Baker Eddy.” Wikipedia, Wikimedia Foundation,  en.wikipedia.org/wiki/Mary_Baker_Eddy#CITEREFSilberger1980. 
+         </bibl>
+         <bibl type="article" xml:id="mary_baker_eddy_library_source">
+            “Mary Baker Eddy - Deep Read.” Mary Baker Eddy Library, 17 Feb. 2022, www.marybakereddylibrary.org/mary-baker-eddy/mary-baker-eddy-deep-read/. 
+         </bibl>
+         <bibl type="website" xml:id="christian_science_source">
+            “The Christian Science Pastor.” Christian Science, www.christianscience.com/the-christian-science-pastor. Accessed 20 Feb. 2024. 
+         </bibl>
+         <!-- Is this the correct place to host bibliographic information, or in body of the text? -->
+         <!-- GT: it validates! Normally you'd put notes and bibliography in the <back> of your <text>, in which case they're considered part of the text.
+            Like endnotes and bibliographies in a printed book you'd buy. <standOff> is a (newer) more database oriented approach, where the notes/bibliographies exist separately: outside and alongside the text. For <listPerson>, <listPlace> and <listEvent>, this is more common. But TEI and digital encoding is a chance to rethink the print models, so if you prefer this organization, that's fine with me. I think it's a terrific experiment with these editorial models. -->
+      </listBibl>
    </standOff>
 </TEI>

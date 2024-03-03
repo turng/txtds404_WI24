@@ -96,6 +96,7 @@
                   <graphic url="cherub_cornucopia.png"/>
                   <figDesc>Two cherbus dressed in white robes are carrying a flower-filled cornucopia
                      tied with blue ribbon through the grass.</figDesc>
+                  
                </figure>
                For our edition, we seek to introduce fans of novels from the Victorian and Georgian
                eras to something that might educate them about the use of flowers, particularly in
@@ -170,14 +171,14 @@
                      woman in the yellow dress while woman in blue observes.</figDesc>
                </figure>
                <item>Ebony Tree.....<hi rend="italics">Blackness.</hi></item>
-               <item>Eglantine (Sweetbrier).....<hi rend="italics">Poetry.I wound to
+               <item>Eglantine (Sweetbrier).....<hi rend="italics">Poetry. I wound to
                   heal.</hi></item>
                <item>Elder.....<hi rend="italics">Zealousness.</hi></item>
                <item>Elm.....<hi rend="italics">Dignity.</hi></item>
                <item><ref target="#nightshade">Enchanter's Nightshade</ref>......<hi rend="italics"
                      >Witchcraft. Sorcery.</hi></item>
                <item>Endive.....<hi rend="italics">Frugality.</hi></item>
-               <item>Eupatorium.....<hi rend="italics">.....Delay.</hi></item>
+               <item>Eupatorium.....<hi rend="italics">Delay.</hi></item>
                <item>Everflowering Candytuft.....<hi rend="italics">Indifference.</hi></item>
                <item>Evergreen Clematis.....<hi rend="italics">Poverty.</hi></item>
                <item>Evergreen Thorn.....<hi rend="italics">Solace in adversity.</hi></item>
@@ -233,7 +234,7 @@
                <item>Mimosa (Sensitive Plant).....<hi rend="italics">Sensitiveness.</hi></item>
                <item>Mint.....<hi rend="italics">Virtue.</hi></item>
                <item>Mistletoe.....<hi rend="italics">I surmount difficulties.</hi></item>
-               <item>Mock Orange.....<hi rend="italics">Counterfiet.</hi></item>
+               <item>Mock Orange.....<hi rend="italics">Counterfeit.</hi></item>
                <item>Monkshood (Helmet Flower).....<hi rend="italics">Chivalry.
                      Knight-errantry.</hi></item>
                <item>Moonwort.....<hi rend="italics">Forgetfulness.</hi></item>
@@ -243,7 +244,7 @@
                <item>Mosses.....<hi rend="italics">Ennui.</hi></item>
                <item>Mossy Saxifrage.....<hi rend="italics">Affection.</hi></item>
                <item>Motherwort.....<hi rend="italics">Concealed love.</hi></item>
-               <item>Mountain Ash....<hi rend="italics">Prudence.</hi></item>
+               <item>Mountain Ash.....<hi rend="italics">Prudence.</hi></item>
                <item><ref target="#bride">Mourning Bride</ref>.....<hi rend="italics">Unfortunate
                      attachment. I have lost all.</hi></item>
                <item>Mouse-eared Chickweed.....<hi rend="italics">Ingenuous simplicity.</hi></item>
@@ -649,7 +650,7 @@
                <item>Winning grace.......<hi rend="italics">Cowslip.</hi></item>
                <item>Winter.......<hi rend="italics"><ref target="#rose">Guelder Rose.</ref></hi></item>
                <item>Wit.......<hi rend="italics">Meadow Lychnis.</hi></item>
-               <item>Witchcraft.......<hi rend="italics"><ref target="#nightshade">Enchanters
+               <item>Witchcraft.......<hi rend="italics"><ref target="#nightshade">Enchanter's
                         Nightshade.</ref></hi></item>
                <item>Worth beyond beauty.......<hi rend="italics">Sweet Alyssum.</hi></item>
                <item>Worth sustained by judicious and tender affection.......<hi rend="italics">Pink
@@ -991,7 +992,7 @@
                <item><hi rend="gothic">B</hi> BLADDER NUT TREE.....<hi rend="gothic">Frivolity.
                      Amusement</hi>.....9</item>
                <item><hi rend="gothic">C</hi> COWSLIP, AMERICAN.....<hi rend="gothic">Divine beauty.
-                     You are my divinity.....</hi> 11</item>
+                     You are my divinity.....</hi>11</item>
                <item><hi rend="gothic">D</hi> DEAD LEAVES.....<hi rend="gothic"
                   >Sadness</hi>.....15</item>
                <item><hi rend="gothic">E</hi>
@@ -1009,7 +1010,7 @@
                   down</hi>.....24</item>
                <item><hi rend="gothic">K</hi> KENNEDIA.....<hi rend="gothic">Mental
                   beauty</hi>.....25</item>
-               <item><hi rend="gothic">L</hi>.....<ref target="#larkspur">LARKSPUR, PURPLE</ref>
+               <item><hi rend="gothic">L</hi> <ref target="#larkspur">LARKSPUR, PURPLE</ref>
                   <hi rend="gothic">Haughtiness</hi>.....26</item>
                <item><hi rend="gothic">M</hi> MOSS.....<hi rend="gothic">Maternal
                   love</hi>.....28</item>
@@ -1311,7 +1312,7 @@
                   struggled through much of his life, but when he published his book of poems,
                   he was almost instantly heralded as a great writer. Many of his poems were
                   written to popular folk tunes that he was familiar with, which is why "O
-                  Luve Will Venture In" is attached to the tune of "The Posie." To see a modernized version of this poem, visit this site:  <ref>target="http://www.robertburnsfederation.com/poems/translations/504.htm"</ref> and to see a complete and modernized version of the Elegy on Captain Matthew Henderson, visit this site: <ref>target="http://www.robertburnsfederation.com/poems/translations/elegy_on_captain_mathew_henderson.htm"</ref>. These both come from the Robert Burns Federation online, a website dedicated to Robert Burns and his poetry.</note>
+                  Luve Will Venture In" is attached to the tune of "The Posie." To see a modernized version of this poem, visit this site:  <ref>http://www.robertburnsfederation.com/poems/translations/504.htm</ref> and to see a complete and modernized version of the Elegy on Captain Matthew Henderson, visit this site: <ref>http://www.robertburnsfederation.com/poems/translations/elegy_on_captain_mathew_henderson.htm</ref>. These both come from the Robert Burns Federation online, a website dedicated to Robert Burns and his poetry.</note>
             </person>
             <person xml:id="drayton" role="poet" n="3">
                <persName>

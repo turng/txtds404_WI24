@@ -15,7 +15,7 @@
   width: 325px;
   position: relative;
   border: 1px solid #AAA;
-  background: #FAFAFA;
+  background: #d2b48c;
   /* reset text-indent for note with <l> ancestors. */
   text-indent: 0;
   font-size: 85%;
@@ -570,7 +570,7 @@ date[when]:empty:before {
 /* e */
 egXML {
   display: block;
-  font-size: 80%;
+  -size: 80%;
   margin-left: 1em;
   padding-left: 1em;
   border-left: 1px solid #AAA;
@@ -1067,7 +1067,7 @@ note {
   width: 325px;
   position: relative;
   border: 1px solid #AAA;
-  background: #394938;
+  : #FAFAFA;
   /* reset text-indent for note with <l> ancestors. */
   text-indent: 0;
   font-size: 85%;
@@ -1139,7 +1139,6 @@ p {
   margin-top: 1em;
   margin-bottom: 1em;
   text-align: justify;
-  font-family: 'Times New Roman', Times, serif;
 }
 *[rendition~="#center"] p {
   text-align: center;
@@ -1725,7 +1724,7 @@ title[level=m] {
 /* as a hack to solve a JavaScript/jQuery issue. */
 titleStmt > tei-title {
   display: block;
-  font-family: Arvo, sans-serif;
+  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-weight: normal;
   font-weight: bold !important;
   font-size: 150%;
@@ -1839,9 +1838,10 @@ html {
   margin-left: 2em;
   margin-right: 4em;
   padding: 2.5em;
-  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
+  font-family: Bookman, URW Bookman L, serif;
+  word-spacing: -.1em;
   font-size: 14pt;
-  background-color: #EBEBEB;
+  background-color: #d2b48c;
   color: #292929;
   width: 33em;
 }
