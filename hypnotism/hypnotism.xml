@@ -96,6 +96,10 @@
       <body>
          <div type="introduction">
             <head>
+		    <!-- GT: looks great overall. My one general comment is you transcribe a lot of titles with caps.
+		    I think as a general rule, it's better to describe the formatting with XML and transcribe as 
+		    unformatted text. But what you have is fine: you can always transform ths caps back into lowercase
+		    in various ways -->
                <hi rend="bold"><title type="book">SUGGESTIONS AND DIRECTIONS FOR THE STUDY OF
                      PERSONAL MAGNETISM AND HYPNOTISM.</title></hi>
                <note n="1" type="editorial">"Personal Magnetism" is in reference to a speaking style

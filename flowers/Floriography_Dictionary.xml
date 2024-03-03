@@ -167,6 +167,13 @@
                      front of the woods. Woman in brown hooded cloak is reading the palm of the
                      woman in the yellow dress while woman in blue observes.</figDesc>
                </figure>
+
+
+		<!-- GT: I think looking head, you might want to decide whether to keep all those ellipses, or at least maybe to encode them.
+		    You've transcribed it as content of <item> which makes sense as a description of your source. 
+		    The snag is that content will always appear in any output. If you want to replicate the look of the original, that's fine.
+		    But your text lends itself to very different ways of representing the content, and you can imagine a scenario where
+		    you might not want those ellipses. So you want to be able to suppress them -->
                <item>Ebony Tree.....<hi rend="italics">Blackness.</hi></item>
                <item>Eglantine (Sweetbrier).....<hi rend="italics">Poetry.I wound to
                   heal.</hi></item>

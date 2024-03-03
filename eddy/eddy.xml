@@ -34,8 +34,14 @@
          <div type="poem">
             <head><hi rend="uppercase">Meeting Of My Departed Mother And Husband</hi></head>
             <!-- Rend as italic or uppercase? -->
+		 <!-- GT: is it both in the source? You can include two values here: rend="italics caps". Or you can combine into one value that will
+		 mean italics and caps: rend="caps_ital" , or something similar -->
             <lg>
-               <l>Joy for thee, happy friend! thy bark is past</l> <!-- Think of how encode historiated initial, as an image? -->
+               <l>Joy for thee, happy friend! thy bark is past</l> <!-- Think of how encode historiated initial, as an image? --> 
+		    <! -- GT: that's the "J"? You can again just come up with a rend value for that rend="historiated". 
+		    If you want to connect it to the actual image itself, from the source, you can include also a @facs attribute, 
+		    which would link with a jpg image of the initial: <hi rend="historiated" facs="file.jpg'>.
+			It's not necessary, of course! But it's possible! -->
                <l>The dangerous sea, and safely moored at last—</l>
                <l>Beyond rough foam.</l>
                <l>Soft gales celestial, in sweet music bore—</l>
