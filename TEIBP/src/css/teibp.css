@@ -1558,6 +1558,8 @@ spanGrp {
 speaker {
   font-weight: bold;
   margin-right: 0;
+  display: block;
+  text-align: center;
 }
 specDesc {
   /* NOT SURE, look back on */

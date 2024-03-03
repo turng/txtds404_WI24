@@ -34,7 +34,9 @@
          <div type="poem" rhyme="aabccb">
             <head><hi rend="uppercase">Meeting Of My Departed Mother And Husband</hi></head>
             <lg type="stanza">
-               <l>Joy for thee, happy friend! thy bark is past</l> 
+		 <!-- GT: is it both in the source? You can include two values here: rend="italics caps". Or you can combine into one value that will
+		 mean italics and caps: rend="caps_ital" , or something similar -->
+               <l>Joy for thee, happy friend! thy bark is past</l>
                <l>The dangerous sea, and safely moored at last—</l>
                <l>Beyond rough foam.</l>
                <l>Soft gales celestial, in sweet music bore—</l>
@@ -291,34 +293,10 @@
             <!-- GT: I'm not sure if this is what you're looking for here, but you can use <ref> or <ptr/> to point to the bilbiographic entries below -->
          </annotation>
       </listAnnotation>
-      <listBibl>
-         <!-- GT: by contrast, it's more conventional to give <bibl> entries more evocative xml:id's. Like using the authors name or a short title:
-            xml:id="chronology_events".-->
-          <bibl type="article" xml:id="source1">
-            “A Chronology of Events Surrounding the Life of Mary Baker Eddy.” The Mary Baker Eddy Library, www.marybakereddylibrary.org/wp-content/uploads/2018/12/Mary_Baker_Eddy_Detailed_Annotated_Chronology_2018-12-10.pdf.  
-         </bibl>
-         <bibl type="website" xml:id="source2">
-            Glatch, Sean. “12 Literary Devices in Poetry: Identifying Poetic Devices.” Writers.Com, 16 June 2023, writers.com/literary-devices-in-poetry. 
-         </bibl>
-         <bibl type="article" xml:id="source3">
-            Gottschalk, Stephen. "Mary Baker Eddy". Encyclopedia Britannica, 29 Nov. 2023, https://www.britannica.com/biography/Mary-Baker-Eddy. Accessed 20 February 2024.
-         </bibl>
-         <bibl type="article" xml:id="source4">
-            “Mary Baker Eddy.” Wikipedia, Wikimedia Foundation,  en.wikipedia.org/wiki/Mary_Baker_Eddy#CITEREFSilberger1980. 
-            <!-- Used for basic information, looking into sources cited through the article -->
-         </bibl>
-         <bibl type="article" xml:id="source5">
-            “Mary Baker Eddy - Deep Read.” Mary Baker Eddy Library, 17 Feb. 2022, www.marybakereddylibrary.org/mary-baker-eddy/mary-baker-eddy-deep-read/. 
-         </bibl>
-         <bibl type="website" xml:id="source6">
-            “The Christian Science Pastor.” Christian Science, www.christianscience.com/the-christian-science-pastor. Accessed 20 Feb. 2024. 
-         </bibl>
-         <!-- Is this the correct place to host bibliographic information, or in body of the text? -->
-         <!-- GT: it validates! Normally you'd put notes and bibliography in the <back> of your <text>, in which case they're considered part of the text.
-            Like endnotes and bibliographies in a printed book you'd buy. <standOff> is a (newer) more database oriented approach, where the notes/bibliographies exist separately: outside and alongside the text. For <listPerson>, <listPlace> and <listEvent>, this is more common. But TEI and digital encoding is a chance to rethink the print models, so if you prefer this organization, that's fine with me. I think it's a terrific experiment with these editorial models. -->
-         
-      </listBibl>
       <listPerson>
+         <head>
+            <s>Important People</s>
+         </head>
          <person xml:id="mary_baker_eddy">
             <persName>
                <forename>Mary</forename>
@@ -342,61 +320,139 @@
             <note>Went by Mary Patterson from ages 32 to 51</note>
             <note>Went by Mary Eddy from ages 56 to 89</note>
          </person>
-         <!-- Add: Mary's family (father, mother, brother who died); Mary's husbands (George Glover, Daniel Patterson, Asa Eddy); Mary's son (George Glover II); Phineas Quimby) -->
+         <person xml:id="albert_baker">
+            <persName>
+               <forename>Albert</forename>
+               <surname>Baker</surname>
+            </persName>
+            <birth when="1810-02-05"> 5 February 1810 
+               <placeName>
+                  <settlement type="town">Bow</settlement>
+                  <region type="state">New Hampshire</region>
+               </placeName>
+            </birth>
+            <death when="1841-10-17"> 17 October 1841
+               <placeName>
+                  <settlement type="town">Hillsborough</settlement>
+                  <region type="state">New Hampshire</region>
+               </placeName>
+            </death>
+            <note>Credited with teaching and mentoring Mary in youth.</note>
+         </person>
+         <person xml:id="george_washington_glover">
+            <persName>
+               <forename>George</forename>
+               <surname>Washington</surname>
+               <surname>Glover</surname>
+            </persName>
+            <birth when="1811-08-02"> 2 August 1811</birth>
+            <death when="1844-06-27"> 27 June 1844
+               <placeName>
+                  <settlement type="city">Wilmington</settlement>
+                  <region type="state">North Carolina</region>
+               </placeName>
+            </death>
+            <note>Mary's first husband, who died 6 months into their marriage of a fever.</note>
+         </person>
+         <person xml:id="abigail_baker">
+            <persName>
+               <forename>Abigail</forename>
+               <surname>Baker</surname>
+            </persName>
+            <birth when="1784-04-18"> 18 April 1784</birth>
+            <death when="1849-11-21"> 21 November 1849</death>
+         </person>
+         <person xml:id="daniel_patterson">
+            <persName>
+               <forename>Daniel</forename>
+               <surname>Patterson</surname>
+            </persName>
+            <death when="1896-08-14"> 14 August 1896
+               <placeName>
+                  <settlement type="city">Saco</settlement>
+                  <region type="state">Maine</region>
+               </placeName>
+            </death>
+            <note>Mary separated from Patterson in 1866, due to his desertion and adultery. Their divorce was finalized in 1873, 20 years after they married.</note>
+         </person>
+         <person xml:id="asa_gilbert_eddy">
+            <persName>
+               <forename>Asa</forename>
+               <surname>Gilbert</surname>
+               <surname>Eddy</surname>
+            </persName>
+            <birth when="1832"> 1832</birth>
+            <death when="1882-06-02"> 2 June 1882</death>
+            <note>Mary met Asa when he was a student in her class on the teachings of Christian Science. He was her last husband, and they were married until his death.</note>
+         </person>
+         <person xml:id="george_washington_glover_ii">
+            <persName>
+               <forename>George</forename>
+               <surname>Washington</surname>
+               <surname>Glover II</surname>
+            </persName>
+            <birth when="1844-09-12"> 12 September 1844
+               <placeName>
+                  <settlement type="town">Sanbornton</settlement>
+                  <region type="state">New Hampshire</region>
+               </placeName>
+            </birth>
+            <death when="1915-12-26"> 26 December 1915
+               <placeName>
+                  <settlement type="county">Lawrence</settlement>
+                  <region type="state">South Dakota</region>
+               </placeName>
+            </death>
+            <note>Mary and her son were separated from 1856 to 1879, as he was told she had died. He visited her occasionally after reuniting.</note>
+         </person>
+         <person xml:id="phineas_parkhurst_quimby">
+            <persName>
+               <forename>Phineas</forename>
+               <surname>Parkhurst</surname>
+               <surname>Quimby</surname>
+            </persName>
+            <birth when="1802-02-16"> 16 February 1802</birth>
+            <death when="1866-01-16"> 16 January 1866
+               <placeName>
+                  <settlement type="city">Belfast</settlement>
+                  <region type="state">Maine</region>
+               </placeName>
+            </death>
+            <note>Quimby treated Mary of her physical ailments in the 60s, and the two discussed healing practices together.</note>
+         </person>
       </listPerson>
       <listPlace>
          <head>
-            <s>Relevant Places</s>
+            <s>Important Places</s>
          </head>
          <place xml:id="Bow">
             <placeName>
                <settlement type="town">Bow</settlement>
                <region type="state">New Hampshire</region>
             </placeName>
+            <note>Where the Baker Home is located, birthplace of Mary and her siblings.</note>
          </place>
          <place xml:id="Sanbornton">
             <placeName>
                <settlement type="town">Sanbornton Bridge</settlement>
                <region type="state">New Hampshire</region>
             </placeName>
-         </place>
-         <place xml:id="Charleston">
-            <placeName>
-               <settlement type="town">Charleston</settlement>
-               <region type="state">South Carolina</region>
-            </placeName>
-         </place>
-         <place xml:id="Portland">
-            <placeName>
-               <settlement type="town">Portland</settlement>
-               <region type="state">Maine</region>
-            </placeName>
+            <note>Where the Baker family moved to during Mary's youth and continued to live throughout her adulthood.</note>
          </place>
          <place xml:id="Lynn">
             <placeName>
                <settlement type="town">Lynn</settlement>
                <region type="state">Massachusetts</region>
             </placeName>
+            <note>Where Mary lived with Daniel Patterson, and established the Christian Science ptactice later in her life.</note>
          </place>
          <place xml:id="Newton">
             <placeName>
                <settlement type="town">Newton</settlement>
                <region type="state">Massachusetts</region>
             </placeName>
+            <note>Where Mary died in 1910.</note>
          </place>
-         <place xml:id="Boston">
-            <placeName>
-               <settlement type="town">Boston</settlement>
-               <region type="state">Massachusetts</region>
-            </placeName>
-         </place>
-         <place xml:id="Concord">
-            <placeName>
-               <settlement type="town">Concord</settlement>
-               <region type="state">New Hampshire</region>
-            </placeName>
-         </place>
-         <!-- Consider more specific information to add to places, such as residences, geographic location -->
       </listPlace>
       <listEvent>
          <event xml:id="birthday" when="1821-07-16">
@@ -404,5 +460,31 @@
          </event>
          <!-- Add more important dates: death of relatives, separation from husbands, birth of her son, foundation of Christian Science, publication of Science and Health, fall on the ice, death -->
       </listEvent>
+      <listBibl>
+         <head>
+            <s>Bibliography of Sources</s>
+         </head>
+         <bibl type="article" xml:id="chronology_of_events_source">
+            “A Chronology of Events Surrounding the Life of Mary Baker Eddy.” The Mary Baker Eddy Library, www.marybakereddylibrary.org/wp-content/uploads/2018/12/Mary_Baker_Eddy_Detailed_Annotated_Chronology_2018-12-10.pdf.  
+         </bibl>
+         <bibl type="website" xml:id="literary_devices_source">
+            Glatch, Sean. “12 Literary Devices in Poetry: Identifying Poetic Devices.” Writers.Com, 16 June 2023, writers.com/literary-devices-in-poetry. 
+         </bibl>
+         <bibl type="article" xml:id="britannica_eddy_source">
+            Gottschalk, Stephen. "Mary Baker Eddy". Encyclopedia Britannica, 29 Nov. 2023, https://www.britannica.com/biography/Mary-Baker-Eddy. Accessed 20 February 2024.
+         </bibl>
+         <bibl type="article" xml:id="wikipedia_eddy_source">
+            “Mary Baker Eddy.” Wikipedia, Wikimedia Foundation,  en.wikipedia.org/wiki/Mary_Baker_Eddy#CITEREFSilberger1980. 
+         </bibl>
+         <bibl type="article" xml:id="mary_baker_eddy_library_source">
+            “Mary Baker Eddy - Deep Read.” Mary Baker Eddy Library, 17 Feb. 2022, www.marybakereddylibrary.org/mary-baker-eddy/mary-baker-eddy-deep-read/. 
+         </bibl>
+         <bibl type="website" xml:id="christian_science_source">
+            “The Christian Science Pastor.” Christian Science, www.christianscience.com/the-christian-science-pastor. Accessed 20 Feb. 2024. 
+         </bibl>
+         <!-- Is this the correct place to host bibliographic information, or in body of the text? -->
+         <!-- GT: it validates! Normally you'd put notes and bibliography in the <back> of your <text>, in which case they're considered part of the text.
+            Like endnotes and bibliographies in a printed book you'd buy. <standOff> is a (newer) more database oriented approach, where the notes/bibliographies exist separately: outside and alongside the text. For <listPerson>, <listPlace> and <listEvent>, this is more common. But TEI and digital encoding is a chance to rethink the print models, so if you prefer this organization, that's fine with me. I think it's a terrific experiment with these editorial models. -->
+      </listBibl>
    </standOff>
 </TEI>

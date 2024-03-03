@@ -1,0 +1,10 @@
+/* Place project-specific CSS here */
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background: #ABD4F8;
+}
+note {
+    background: #394938;
+}

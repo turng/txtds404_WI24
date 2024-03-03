@@ -61,14 +61,13 @@
             </normalization>
             <segmentation>
                <p>We have segmented the text into three sections: two lists and one section of
-                  poetry. While the source text does not explicitly separate these sections, we will
+                  poetry. Although the source text does not explicitly separate these sections, we will
                   have headers that show when a new section begins and ends.</p>
             </segmentation>
             <p>Cross references will be provided for the flowers that are emphasized in the text
                with illustrations and these cross-references will connect to poems that reference
                these flowers and the list of meanings that has no illustrations. We will also add
-               notes referencing how these flowers would have been used by the average Victorian
-               person, as well as other information that might be useful or interesting to our
+               notes that contain all of this information in a single place, as well as other information that might be useful or interesting to our
                audience.</p>
          </editorialDecl>
       </encodingDesc>
@@ -168,6 +167,13 @@
                      front of the woods. Woman in brown hooded cloak is reading the palm of the
                      woman in the yellow dress while woman in blue observes.</figDesc>
                </figure>
+
+
+		<!-- GT: I think looking head, you might want to decide whether to keep all those ellipses, or at least maybe to encode them.
+		    You've transcribed it as content of <item> which makes sense as a description of your source. 
+		    The snag is that content will always appear in any output. If you want to replicate the look of the original, that's fine.
+		    But your text lends itself to very different ways of representing the content, and you can imagine a scenario where
+		    you might not want those ellipses. So you want to be able to suppress them -->
                <item>Ebony Tree.....<hi rend="italics">Blackness.</hi></item>
                <item>Eglantine (Sweetbrier).....<hi rend="italics">Poetry.I wound to
                   heal.</hi></item>
@@ -176,7 +182,7 @@
                <item><ref target="#nightshade">Enchanter's Nightshade</ref>......<hi rend="italics"
                      >Witchcraft. Sorcery.</hi></item>
                <item>Endive.....<hi rend="italics">Frugality.</hi></item>
-               <item>Eupatorium.....<hi rend="italics">.....Delay.</hi></item>
+               <item>Eupatorium.....<hi rend="italics">Delay.</hi></item>
                <item>Everflowering Candytuft.....<hi rend="italics">Indifference.</hi></item>
                <item>Evergreen Clematis.....<hi rend="italics">Poverty.</hi></item>
                <item>Evergreen Thorn.....<hi rend="italics">Solace in adversity.</hi></item>
@@ -187,9 +193,9 @@
                <figure>
                   <graphic url="LarkspurPurpleHaughtiness.png"/>
                   <figDesc>Two plainly dressed girls lean against a brick wall watching a finely
-                     dressed woman walk by. The finely dressed woman has a hat with a featehr, a
-                     skirt with a bustle and she holds a fan. She looks forward with a haughty
-                     expression.</figDesc>
+                     dressed woman walk by. The finely dressed woman wears a hat with a feather and a
+                     skirt with a bustle, and she holds a fan. She looks forward with a haughty
+                     expression on her face.</figDesc>
                </figure>
                <item>Laburnum.....<hi rend="italics">Forsaken. Pensive Beauty.</hi></item>
                <item>Lady's Slipper.....<hi rend="italics">Capricious Beauty. Win me and wear
@@ -237,7 +243,7 @@
                      Knight-errantry.</hi></item>
                <item>Moonwort.....<hi rend="italics">Forgetfulness.</hi></item>
                <item>Morning Glory.....<hi rend="italics">Affectation.</hi></item>
-               <item> Moschatel.....<hi rend="italics">Weakness.</hi></item>
+               <item>Moschatel.....<hi rend="italics">Weakness.</hi></item>
                <item>Moss.....<hi rend="italics">Maternal love.</hi></item>
                <item>Mosses.....<hi rend="italics">Ennui.</hi></item>
                <item>Mossy Saxifrage.....<hi rend="italics">Affection.</hi></item>
@@ -255,10 +261,10 @@
                <item><ref target="#mulberry">Mulberry Tree (White)</ref>.....<hi rend="italics">Wisdom.</hi></item>
                <item>Mushroom.....<hi rend="italics">Suspicion.</hi></item>
                <item>Musk Plant.....<hi rend="italics">Weakness.</hi></item>
-               <item>Mustard Seed<hi rend="italics">Indifference.</hi></item>
-               <item>Myrobalan<hi rend="italics">Privation.</hi></item>
-               <item>Myrrh<hi rend="italics">Gladness.</hi></item>
-               <item>Myrtle<hi rend="italics">Love.</hi></item>
+               <item>Mustard Seed.....<hi rend="italics">Indifference.</hi></item>
+               <item>Myrobalan.....<hi rend="italics">Privation.</hi></item>
+               <item>Myrrh.....<hi rend="italics">Gladness.</hi></item>
+               <item>Myrtle.....<hi rend="italics">Love.</hi></item>
 
                <!-- P. 32 (Brianna) -->
                <figure>
@@ -420,7 +426,7 @@
                <item>Frugality.......<hi rend="italics">Chicory. Endive.</hi></item>
 
                <!-- p. 53 (Cari) -->
-               <item>Gaiety.......<hi rend="italics">Butterfly Orchis.</hi></item>
+               <item>Gaiety.......<hi rend="italics">Butterfly Orchid.</hi></item>
                <item>Gaiety.......<hi rend="italics">Blue Violet.</hi></item>
                <item>Gallantry.......<hi rend="italics"><ref target="#william">Sweet
                      William.</ref></hi></item>
@@ -485,7 +491,7 @@
                <item>I desire a return of affection.......<hi rend="italics">Jonquil.</hi></item>
                <item>I feel my obligations.......<hi rend="italics">Lint.</hi></item>
                <item>I feel your kindess.......<hi rend="italics">Flax.</hi></item>
-               <item>I have lost it all.......<hi rend="italics"><ref target="#bride">Mourning
+               <item>I have lost all.......<hi rend="italics"><ref target="#bride">Mourning
                         Bride.</ref></hi></item>
                <item>I live for thee.......<hi rend="italics">Cedar Leaf.</hi></item>
                <item>I love.......<hi rend="italics">Red Chrysanthemum.</hi></item>
@@ -519,9 +525,9 @@
                <item>Indifference.......<hi rend="italics">Senvy.</hi></item>
                <item>Indiscretion.......<hi rend="italics">Split Reed.</hi></item>
                <item>Industry.......<hi rend="italics">Red Clover.</hi></item>
-               <item>Industry, Domestic<hi rend="italics">Flax.</hi></item>
-               <item>Ingenuousness<hi rend="italics">White Pink.</hi></item>
-               <item>Ingenuity<hi rend="italics">Pencilled Geranium.</hi></item>
+               <item>Industry, Domestic.......<hi rend="italics">Flax.</hi></item>
+               <item>Ingenuousness.......<hi rend="italics">White Pink.</hi></item>
+               <item>Ingenuity.......<hi rend="italics">Pencilled Geranium.</hi></item>
 
                <!-- p. 55 (Brianna) -->
                <item>Ingenuous simplicity.......<hi rend="italics">Mouse-eared

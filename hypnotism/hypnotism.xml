@@ -2,6 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -60,43 +61,45 @@
    <text>
       <front>
          <div type="editorial_intro">
-         <p>At the turn of the twentieth century, the concept of hypnotism experienced a surge in
-            public interest and experimentation from areas such as scientific inquiry,
-            entertainment, and therapeutic applications (LoC). The lead editor of this text, E.
-            Virgil Neal, capitalized on this cultural fascination towards hypnosis as another of his
-            various entrepreneurial endeavors; he began giving hypnosis demonstrations in the
-            mid-1890s (Conroy, 70), and in 1897, he wrote a book titled Hypnotism As It Is, which
-            set the stage for Hypnotism and Hypnotic Suggestion (Conroy, 35). Hypnotism and Hypnotic
-            Suggestion covers various uses of hypnosis, from the medical to religious, but Neal and
-            Clark personally contributed work which emphasized the more practical and business
-            related uses of hypnosis (Conroy, 41). The other 28 authors of Hypnotism and Hypnotic
-            Suggestion were considered specialists in the field, coming from universities such as
-            Harvard and Yale (Conroy, 41).</p>
+            <p>At the turn of the twentieth century, the concept of hypnotism experienced a surge in
+               public interest and experimentation from areas such as scientific inquiry,
+               entertainment, and therapeutic applications (LoC). The lead editor of this text, E.
+               Virgil Neal, capitalized on this cultural fascination towards hypnosis as another of
+               his various entrepreneurial endeavors; he began giving hypnosis demonstrations in the
+               mid-1890s (Conroy, 70), and in 1897, he wrote a book titled Hypnotism As It Is, which
+               set the stage for Hypnotism and Hypnotic Suggestion (Conroy, 35). Hypnotism and
+               Hypnotic Suggestion covers various uses of hypnosis, from the medical to religious,
+               but Neal and Clark personally contributed work which emphasized the more practical
+               and business related uses of hypnosis (Conroy, 41). The other 28 authors of Hypnotism
+               and Hypnotic Suggestion were considered specialists in the field, coming from
+               universities such as Harvard and Yale (Conroy, 41).</p>
 
-         <p>Hypnotism and Hypnotic Suggestion was intended to be instructional, aimed towards
-            students of Neal, Clark, and their other colleagues in the New York Institute of
-            Science, namely Thomas Adkin (Conroy, 70). The New York Institute of Science, which was
-            a mail-order company selling fraudulent degrees and courses relating to hypnotism and
-            personal magnetism, only operated from 1899 until 1912, because it was shut down by the
-            U.S. government (New York Tribune, pages 18 &amp; 11). According to the 1913 indictment,
-            the co-editors and Adkin had collaborated in a fraudulent hypnotic suggestion mail-order
-            scheme, of which this text was a part (New York Tribune, pages 18 &amp; 11). Given this,
-            we hope readers can read this edition for entertainment purposes, but not for
-            educational purposes. With its fraudulent nature, this edition can be used by students
-            to learn more about a "scam" during this time period, or to use the activities in the
-            text for fun.</p>
+            <p>Hypnotism and Hypnotic Suggestion was intended to be instructional, aimed towards
+               students of Neal, Clark, and their other colleagues in the New York Institute of
+               Science, namely Thomas Adkin (Conroy, 70). The New York Institute of Science, which
+               was a mail-order company selling fraudulent degrees and courses relating to hypnotism
+               and personal magnetism, only operated from 1899 until 1912, because it was shut down
+               by the U.S. government (New York Tribune, pages 18 &amp; 11). According to the 1913
+               indictment, the co-editors and Adkin had collaborated in a fraudulent hypnotic
+               suggestion mail-order scheme, of which this text was a part (New York Tribune, pages
+               18 &amp; 11). Given this, we hope readers can read this edition for entertainment
+               purposes, but not for educational purposes. With its fraudulent nature, this edition
+               can be used by students to learn more about a "scam" during this time period, or to
+               use the activities in the text for fun.</p>
 
-         <p>When transcribing and editing this text, we chose to keep the text as close to the
-            original as possible, except for some visual aspects that don’t affect the reading of
-            the text (such as omitting specific line breaks and page breaks). We did not update
-            spellings, vocabulary, or other textual parts of the book.</p>
+            <p>When transcribing and editing this text, we chose to keep the text as close to the
+               original as possible, except for some visual aspects that don’t affect the reading of
+               the text (such as omitting specific line breaks and page breaks). We did not update
+               spellings, vocabulary, or other textual parts of the book.</p>
          </div>
       </front>
       <body>
          <div type="introduction">
             <head>
-               <!-- GT: technically, these <emph>s should be <hi>s. <emph> refers to rhetorical emphasis.
-                  But here, you're talking about typographic emphasis: using bold face to draw attention to content. Not something emphatic -->
+		    <!-- GT: looks great overall. My one general comment is you transcribe a lot of titles with caps.
+		    I think as a general rule, it's better to describe the formatting with XML and transcribe as 
+		    unformatted text. But what you have is fine: you can always transform ths caps back into lowercase
+		    in various ways -->
                <hi rend="bold"><title type="book">SUGGESTIONS AND DIRECTIONS FOR THE STUDY OF
                      PERSONAL MAGNETISM AND HYPNOTISM.</title></hi>
                <note n="1" type="editorial">"Personal Magnetism" is in reference to a speaking style
@@ -139,20 +142,21 @@
                <head><hi rend="bold">THE STUMBLING BLOCK</hi></head>
                <p>is hypnotizing the first one. <note n="3" type="editorial">The beginning of this
                      sentence is a direct transcription, not an error (including the
-                     capitalization). It may be a continuation of the title (though no other
-                     sections do this).</note> Then remember that a good hypnotist might possibly
-                  try ten people and not hypnotize any of them, because they resist. They may say
-                  they do not, though they do. With different people the whole ten might be
-                  affected. You should make due allowance for this. Should you not meet with the
-                  success you anticipate, it will probably be because you do not follow our
-                  directions. Many think they are doing just as the instructions direct, when in
-                  reality they are doing nothing of the kind. Read the instructions carefully and
-                  slowly a number of times and study them well until you know each step as well as
-                  you know your A, B, C's, and if you have any determination or perseverance
-                  whatever, you cannot possibly make a failure. You are as certain to succeed as one
-                  and one are two. After the ice is broken, that is, after you have hypnotized the
-                  first one or two, you will have confidence, and you yourself will be surprised and
-                  mystified at your work.</p>
+                     capitalization). It may be a continuation of the title. This stylistic choice
+                     is repeated in the subsequent section: "To Be A Good Hypnotist.", though the
+                     latter has a period in the title, whereas this one does not.</note> Then
+                  remember that a good hypnotist might possibly try ten people and not hypnotize any
+                  of them, because they resist. They may say they do not, though they do. With
+                  different people the whole ten might be affected. You should make due allowance
+                  for this. Should you not meet with the success you anticipate, it will probably be
+                  because you do not follow our directions. Many think they are doing just as the
+                  instructions direct, when in reality they are doing nothing of the kind. Read the
+                  instructions carefully and slowly a number of times and study them well until you
+                  know each step as well as you know your A, B, C's, and if you have any
+                  determination or perseverance whatever, you cannot possibly make a failure. You
+                  are as certain to succeed as one and one are two. After the ice is broken, that
+                  is, after you have hypnotized the first one or two, you will have confidence, and
+                  you yourself will be surprised and mystified at your work.</p>
             </div>
             <div type="section">
                <head><hi rend="bold">SUGGESTIONS.</hi></head>
@@ -210,101 +214,106 @@
                   will master them, if you will only give them a thorough trial, you will be more
                   enthusiastic in their praises than the authors of this course. </p>
             </div>
-         <div type="section">
-            <head><hi rend="bold">TACT.</hi></head>
-            <p>If you wish to exert a lasting influence over a person, you must influence him
-               in such a manner that he does not dream that you are affecting him. He must think
-               that he is performing every act of his own free will and accord. In controlling 
-               people use tact and judgment; study human nature. No two persons are exactly alike;
-               what will influence one person will not always influence another, but all persons 
-               may be influenced. We do not hope to teach' you in a few days how to influence 
-               every person with whom you come in contact, but if you follow the instructions 
-               implicitly we shall develop in you a strong personality, and we shall increase 
-               to a marvelous extent your present ability to influence people,-in fact, the 
-               instructions will positively enable you to influence to a greater or less 
-               degree 90 per cent. of those with whom you come in contact. The longer you 
-               practice the more proficient you will become, and the greater the influence you 
-               will be able to exert.</p>
+            <div type="section">
+               <head><hi rend="bold">TACT.</hi></head>
+               <p>If you wish to exert a lasting influence over a person, you must influence him in
+                  such a manner that he does not dream that you are affecting him. He must think
+                  that he is performing every act of his own free will and accord. In controlling
+                  people use tact and judgment; study human nature. No two persons are exactly
+                  alike; what will influence one person will not always influence another, but all
+                  persons may be influenced. We do not hope to teach' you in a few days how to
+                  influence every person with whom you come in contact, but if you follow the
+                  instructions implicitly we shall develop in you a strong personality, and we shall
+                  increase to a marvelous extent your present ability to influence people,-in fact,
+                  the instructions will positively enable you to influence to a greater or less
+                  degree 90 per cent. of those with whom you come in contact. The longer you
+                  practice the more proficient you will become, and the greater the influence you
+                  will be able to exert.</p>
+            </div>
+            <div type="section">
+               <head><hi rend="bold">SIMPLE TESTS.</hi></head>
+               <p>For the purpose of developing the power of personal magnetism we have devised some
+                  very simple tests. If you can succeed with these little things, you can succeed
+                  with greater things. If you can successfully perform the first four tests given on
+                  pages 12 to 22 your success with personal magnetism and hypnotism is assured and
+                  your complete mastery of these sciences is only a question of a very short
+                  time.</p>
+            </div>
+            <div type="section">
+               <head><hi rend="bold"> METHOD OF STUDY.</hi></head>
+               <p>Take the tests in order and study each one thoroughly. Do not read the last part
+                  of the instructions until you have learned the first part. It is time worse than
+                  wasted to study the lessons in the back part of an arithmetic before you have
+                  mastered those in the front part. You cannot learn cube root before you learn
+                  addition; you cannot learn mensuration before division. For this reason the
+                  fundamental principles of personal magnetism and hypnotism have been purposely
+                  placed in the first part of the course, and the instructions relating to the
+                  practical application of these sciences have been placed in the other parts.
+                  Without a thorough knowledge of the fundamental principles of any science, higher
+                  instruction is useless.</p>
+            </div>
+            <div type="section">
+               <head><hi rend="bold">PREPARATORY.</hi></head>
+               <p>The first part of the course is the notation, numeration, addition and subtraction
+                  of personal magnetism, hypnotism, suggestive therapeutics and magnetic healing. It
+                  is the key, without which you can do absolutely nothing. Master it well and your
+                  complete success is certain.</p>
+            </div>
+            <div type="section">
+               <head><hi rend="bold">PLAN OF TEACHING.</hi></head>
+               <p>The majority of those who teach hypnotism instruct you to put the subject asleep
+                  first, but such a method is generally impracticable. Most people who are
+                  unacquainted with hypnotism dread going into an unconscious condition. By the
+                  methods which I employ, you commence with the subjects on tests in which they are
+                  not hypnotized. Then you produce light hyp- notic effects and lead them from these
+                  slight effects into the deeper stages of hypnosis.</p>
+               <p>It is entirely unnecessary to put one asleep to fasten his hands together,
+                  although this is the instruction which most teachers give. It is contrary to
+                  reason to undertake to throw the majority of people into an unconscious condition
+                  upon the first trial, because they naturally resist such a mode of procedure. By
+                  such methods it is entirely impossible to go into a promiscuous audience and give
+                  uniformly successful hypnotic demonstrations without subjects whom you have
+                  previously hypnotized.</p>
+               <p>I have given a large number of demonstrations before colleges and universities. I
+                  made it a point to use as subjects none but students. I have also given a large
+                  number of demonstrations before clubs, using in every case for my experiments,
+                  members of the clubs. I have never made a failure in a single instance. I
+                  attribute this to my method of hypnotizing in the waking state which is explained
+                  on page 12.</p>
+               <p>Again, by using the physical tests first, you give the subject confidence in your
+                  ability and gain corresponding confidence in yourself. These are also the tests
+                  with which you develop the real power of personal magnetism-you learn how to
+                  influenoe people without putting them to sleep.</p>
+            </div>
+            <div type="section">
+               <head><hi rend="bold">OCCULT SCIENCES.</hi></head>
+               <p>The science of hypnotism unfolds the secret law. of all personal influence. A man
+                  who sways multitudes by the charm of his voice uses no less of hypnotism than he
+                  who fastens another's hands together and makes his arm stiff and rigid so that he
+                  cannot bend it. Both act under the same law. It is merely a difference.in the
+                  application of that law. Hypnotism is the foundation of personal magnetism. It
+                  bears the same relation to personal magnetism that grammar does to language. There
+                  is no better way of developing the higher power of personal magnetism than by
+                  practicing simple hypnotic tests.</p>
+            </div>
+            <div type="section">
+               <head><hi rend="bold">TO BE A GOOD HYPNOTIST.</hi></head>
+               <p>you must be positive, you must persevere. Persevere and you will learn how to be
+                  positive; hence, the only essential conditions are perseverance and a desire to
+                  learn. A man who gives up simply because lie does not succeed upon the first few
+                  trials, Will never be brilliantly successful at anything. There are many persons
+                  of this kind in the world. Such persons will never learn how to use personal
+                  magnetism; they will never occupy positions of trust and responsibility unless
+                  they first acquire that necessary prerequisite, perseverance.</p>
+            </div>
          </div>
-         <div type="section">
-            <head><hi rend="bold">SIMPLE TESTS.</hi></head>
-            <p>For the purpose of developing the power of personal magnetism we have devised 
-               some very simple tests. If you can succeed with these little things, you can 
-               succeed with greater things. If you can successfully perform the first four tests 
-               given on pages 12 to 22 your success with personal magnetism and hypnotism is 
-               assured and your complete mastery of these sciences is only a question of a very 
-               short time.</p>
-         </div>
-         <div type="section">
-            <head><hi rend="bold"> METHOD OF STUDY.</hi></head>
-            <p>Take the tests in order and study each one thoroughly. Do not read the last part 
-               of the instructions until you have learned the first part. It is time worse than 
-               wasted to study the lessons in the back part of an arithmetic before you have 
-               mastered those in the front part. You cannot learn cube root before you learn 
-               addition; you cannot learn mensuration before division. For this reason the 
-               fundamental principles of personal magnetism and hypnotism have been purposely 
-               placed in the first part of the course, and the instructions relating to the 
-               practical application of these sciences have been placed in the other parts. 
-               Without a thorough knowledge of the fundamental principles of any science, higher 
-               instruction is useless.</p>
-         </div>
-         <div type="section">
-            <head><hi rend="bold">PREPARATORY.</hi></head>
-            <p>The, first part of the course is the notation, numeration, addition and subtraction 
-               of personal magnetism, hypnotism, suggestive therapeutics and magnetic healing. It is
-               the key, without which you can do absolutely nothing. Master it well and your complete
-               success is certain.</p>
-         </div>
-         <div type="section">
-            <head><hi rend="bold">PLAN OF TEACHING.</hi></head>
-            <p>The majority of those who teach hypnotism instruct you to put the subject asleep first,
-               but such a method is generally impracticable. Most people who are unacquainted with 
-               hypnotism dread going into an unconscious condition. By the methods which I employ, 
-               you commence with the subjects on tests in which they are not hypnotized. Then you 
-               produce light hyp- notic effects and lead them from these slight effects into the 
-               deeper stages of hypnosis.</p>
-            <p>It is entirely unnecessary to put one asleep to fasten his hands together, although
-               this is the instruction which most teachers give. It is contrary to reason to undertake
-               to throw the majority of people into an unconscious condition upon the first trial, 
-               because they naturally resist such a mode of procedure. By such methods it is entirely 
-               impossible to go into a promiscuous audience and give uniformly successful hypnotic 
-               demonstrations without subjects whom you have previously hypnotized.</p>
-            <p>I have given a large number of demonstrations before colleges and universities. 
-               I made it a point to use as subjects none but students. I have also given a large 
-               number of demonstrations before clubs, using in every case for my experiments, members 
-               of the clubs. I have never made a failure in a single instance. I attribute this to my 
-               method of hypnotizing in the waking state which is explained on page 12.</p>
-            <p>Again, by using the physical tests first, you give the subject confidence in your 
-               ability and gain corresponding confidence in yourself. These are also the tests with 
-               which you develop the real power of personal magnetism-you learn how to influenoe people
-               without putting them to sleep.</p>
-         </div>
-         <div type="section">
-            <head><hi rend="bold">OCCULT SCIENCES.</hi></head>
-            <p>The science of hypnotism unfolds the secret law. of all personal influence. A man who sways
-               multitudes by the charm of his voice uses no less of hypnotism than he who fastens another's
-               hands together and makes his arm stiff and rigid so that he cannot bend it. Both act under 
-               the same law. It is merely a difference.in the application of that law. Hypnotism is the 
-               foundation of personal magnetism. It bears the same relation to personal magnetism that 
-               grammar does to language. There is no better way of developing the higher power of personal 
-               magnetism than by practicing simple hypnotic tests.</p>
-         </div>
-         <div type="section">
-            <head><hi rend="bold">TO BE A GOOD HYPNOTIST.</hi></head>
-            <p>you must be positive, you must persevere. Persevere and you will learn how to be positive;
-               hence, the only essential conditions are perseverance and a desire to learn. A man who gives
-               up simply because lie does not succeed upon the first few trials, Will never be brilliantly 
-               successful at anything. There are many persons of this kind in the world. Such persons will 
-               never learn how to use personal magnetism; they will never occupy positions of trust and 
-               responsibility unless they first acquire that necessary prerequisite, perseverance.</p>
-         </div>
-        </div>     
 
          <div type="part">
             <head><hi rend="bold">HOW TO HYPNOTIZE</hi> By <name type="person">L. E.
                   KASSEALL.</name></head>
-            <note n="5" type="editorial">At the time of publishing, Lulu Elizabeth Kasseall was the 
-               treasurer of the American College of Sciences<ref target="#dem_chronicle">(Democrat and Chronicle)</ref>.</note>
+            <note n="5" type="editorial">At the time of publishing, Lulu Elizabeth Kasseall was the
+               treasurer of the American College of Sciences <ref target="#dem_chronicle">(Democrat
+                  and Chronicle)</ref>.</note>
             <p>In this article I shall give the student my three favorite methods of producing
                hypnosis, and in doing so I shall endeavor to explain the methods so that the student
                may learn just how to hypnotize and mesmerize.</p>
@@ -313,7 +322,13 @@
                <p>Have the subject seated in a comfortable chair or lying on a bed or couch. Place
                   the thumb of the subject’s left hand against your left thumb, with the inside of
                   the thumbs together.</p>
-               <p><hi rend="bold">METHOD NO. 1.</hi></p>
+               <figure xml:id="figure1" type="example">
+                  <graphic url="images/figure1.png"/>
+                  <p><hi>METHOD NO. 1.</hi></p>
+                  <figDesc> Man standing over another man sitting in a chair. Standing man has right
+                     hand pressed against forehead of sitting man. Left thumbs of both men are
+                     pressed together. </figDesc>
+               </figure>
                <p> Then grasp, with the fingers of the left hand, the base of the subject’s left
                   thumb, between the thumb and the first finger. The pressure should be firm without
                   hurting the subject. The thumbs should be in a perpendicular position. With your
@@ -352,7 +367,13 @@
                   those of the neck. Then roll the subject’s head to the right, making as large a
                   circle as possible; the movement should be slow. All the time you are doing this,
                   suggest to</p>
-               <p><hi rend="bold">METHOD NO. 2.</hi></p>
+               <figure xml:id="figure2" type="example">
+                  <graphic url="images/figure2.png"/>
+                  <p><hi>METHOD NO. 2.</hi></p>
+                  <figDesc> Man standing over another man sitting in a chair. Standing man has right
+                     hand cupped around the forehead of the sitting man. Standing man has left hand
+                     grasping the back of the sitting man's neck.</figDesc>
+               </figure>
                <p>the subject the same sleep formulas give in Method No. 1. After you have rolled
                   the head for five or ten minutes, gradually make the circle less until it stops
                   altogether. Keep the left hand in the original position, but drop the right hand
@@ -368,7 +389,13 @@
             </div>
             <div type="section">
                <head><hi rend="bold">METHOD NO. 3.</hi></head>
-               <p><hi rend="bold">METHOD NO. 3.</hi></p>
+               <figure xml:id="figure3" type="example">
+                  <graphic url="images/figure3.png"/>
+                  <p><hi>METHOD NO. 3.</hi></p>
+                  <figDesc> Man standing over another man laying down, face-up, on a table with a
+                     sheet on it. Standing man is holding his open-faced palms over the eyes of the
+                     man lying down.</figDesc>
+               </figure>
                <p>Have the subject lie down on a couch or bed <note n="6" type="editorial">From the
                      picture, they should lie down face-up.</note>, tell him to close his eyes,
                   think of sleep and relax all of his muscles. Tell him to try to give up the
@@ -459,7 +486,7 @@
                   </author>
                   <ref>https://archive.org/details/cosmeticsbaronyo0000conr</ref>
                </bibl>
-               
+
                <bibl xml:id="dem_chronicle">
                   <title>Democrat and Chronicle</title>
                   <date when="1900-09-01">1900-09-01</date>
@@ -468,7 +495,7 @@
                   <ref>https://www.newspapers.com/article/democrat-and-chronicle/141734229/</ref>
                   <ref>https://img.newspapers.com/img/img?clippingId=141734229</ref>
                </bibl>
-               
+
                <bibl xml:id="young">
                   <title>Guest Post: Jeremy C. Young, “James Rush and the Invention of Personal
                      Magnetism”</title>

@@ -14,6 +14,7 @@ body {
 figure {
     width: auto;
     margin: auto;
+  
 }
 title {
     color: goldenrod;
@@ -21,12 +22,14 @@ title {
     font-family: garamond;
     text-align: center;
     font-family: garamond;
+    font-style: italic;
 }
 titleStmt {
     text-align: center;
     color: darkolivegreen;
     font-family: garamond;
     font-size: 32pt;
+    font-style: italic;
 }
 
 #highlight {

@@ -1,7 +1,5 @@
 div.name {
     text-align: right;
-
-    /*  why isnt this working :( */
 }
 
 .maintitle {
@@ -22,4 +20,18 @@ body.booklet {
     font-size: 14pt;
     font-family: arial;
     padding: 30px;
+}
+figure {
+    float: right;
+    width: 50%;
+    /* ok so right now the image is inline with the text. i kinda like it, i kinda dont. do we want to put it above the text? below? or keep as is? up to you -M */
+}
+img {
+    width: 100%;
+}
+
+.toc-list {
+    padding-inline-start: 2ch;
+    font-family: 'Courier New', monospace;
+    /* you dont know how happy i am that the list works */
 }
