@@ -94,41 +94,43 @@
                   <stamp rend="caps">Atty's.</stamp>
                   <salute>Dear Sir:</salute></opener>
 
-               <p>We have recieved and filled your claim with the proper offi<pc type="EOLhyphen>"
-                     >-</pc><lb/>cial of the Government, and will prosecute it to a final
-                  settlement.<lb/></p>
+               <div rend="typewritten">
+                  <p>We have recieved and filled your claim with the proper offi<pc
+                        type="EOLhyphen>">-</pc><lb/>cial of the Government, and will prosecute it
+                     to a final settlement.<lb/></p>
 
-               <p>Prior to <date when="1900-06-06">June 6, 1900</date>, attorneys' fee were deducted
-                  and<lb/> paid them by the Government upon the allowance of claims, but this
-                  <lb/>practice in reagrd to fees as follows:<lb/></p>
+                  <p>Prior to <date when="1900-06-06">June 6, 1900</date>, attorneys' fee were
+                     deducted and<lb/> paid them by the Government upon the allowance of claims, but
+                     this <lb/>practice in reagrd to fees as follows:<lb/></p>
 
-               <p>"<hi rend="caps">Provided</hi>, That in the settlement of claims of officers,<lb/>
-                  soldiers, sailors, and marines, of their repreentatives,<lb/> and all other claims
-                  for pay and allowances within the jurisdiction<lb/> of the Auditor for the
-                  <lb/>War Department or the Auditor for the Navy Department, presented and filed
-                  hereafter in which it is<lb/> the present practice to make deductions of
-                  attorneys' fees from<lb/> the amound found due, no deductions of fees for
-                  attorneys or <lb/>agents shall hereafter be made, but the draft, check or
-                  warrant<lb/> for the full amount found due shall be delivered the payee<lb/> in
-                  person or sent to his bona fide post office adress (residence <lb/>of place of
-                  business.)"<lb/></p>
+                  <p>"<hi rend="caps">Provided</hi>, That in the settlement of claims of
+                     officers,<lb/> soldiers, sailors, and marines, of their repreentatives,<lb/>
+                     and all other claims for pay and allowances within the jurisdiction<lb/> of the
+                     Auditor for the <lb/>War Department or the Auditor for the Navy Department,
+                     presented and filed hereafter in which it is<lb/> the present practice to make
+                     deductions of attorneys' fees from<lb/> the amound found due, no deductions of
+                     fees for attorneys or <lb/>agents shall hereafter be made, but the draft, check
+                     or warrant<lb/> for the full amount found due shall be delivered the payee<lb/>
+                     in person or sent to his bona fide post office adress (residence <lb/>of place
+                     of business.)"<lb/></p>
 
-               <p>Under this act fees are held to be a matter of adjust<pc type="EOLhyphen>"
-                  >-</pc><lb/>ment between claimants and attorneys, and the Government <hi
-                     rend="caps">does not <lb/>now deduct and pay fees to attorneys as formerly</hi>
-                  in any of the above <lb/>described claims filed since the Act of Congress approved
-                     <date when="1900-06-06">June 6,<lb/> 1900</date>.<lb/></p>
+                  <p>Under this act fees are held to be a matter of adjust<pc type="EOLhyphen>"
+                        >-</pc><lb/>ment between claimants and attorneys, and the Government <hi
+                        rend="caps">does not <lb/>now deduct and pay fees to attorneys as
+                        formerly</hi> in any of the above <lb/>described claims filed since the Act
+                     of Congress approved <date when="1900-06-06">June 6,<lb/> 1900</date>.<lb/></p>
 
-               <p>The former practice of the Government in deducting and <lb/>paying the attorney
-                  fees upon settlement with the claimants was <lb/>greatly preferred by us, but the
-                  law javing changed this method as <lb/>stated, we are obliged to meet the new
-                  order of things.<lb/></p>
+                  <p>The former practice of the Government in deducting and <lb/>paying the attorney
+                     fees upon settlement with the claimants was <lb/>greatly preferred by us, but
+                     the law javing changed this method as <lb/>stated, we are obliged to meet the
+                     new order of things.<lb/></p>
 
-               <p>You will, therefore, please remit us the sum of two dollars <lb/>($2) immediately
-                  upon receipt of this letter, to be applied to the <lb/>fee in your case, for
-                  bounty pay and other dues.<lb/></p>
+                  <p>You will, therefore, please remit us the sum of two dollars <lb/>($2)
+                     immediately upon receipt of this letter, to be applied to the <lb/>fee in your
+                     case, for bounty pay and other dues.<lb/></p>
 
-               <p>We must ask that you comply with this request at once!<lb/></p>
+                  <p>We must ask that you comply with this request at once!<lb/></p>
+               </div>
 
                <closer rend="typewritten">
                   <salute>Very truly yours,</salute>
@@ -264,7 +266,7 @@
             <body>
                <opener rend="cursive">
                   <persName>Douglas</persName>
-                  <dateline>March 1908</dateline>
+                  <dateline><date when="1908-03">March 1908</date></dateline>
                   <salute>Dear grandpa,</salute>
                </opener>
                <p rend="cursive">I thought you might like to hear from your only grandson.
