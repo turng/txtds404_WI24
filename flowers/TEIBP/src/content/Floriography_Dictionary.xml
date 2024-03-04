@@ -288,8 +288,6 @@
                <item>Pennyroyal.....<hi rend="italics">Flee Away.</hi></item>
                <item>Peony.....<hi rend="italics">Shame. Bashfulness.</hi></item>
                <item>Peppermint.....<hi rend="italics">Warmth of feeling.</hi></item>
-               <!-- GT: I mentioned this in my email, but I wonder if the <ref> should only contain the name of the flower
-               if the ref is pointing to a note about the flower? -->
                <item><ref target="#periwinkle">Periwinkle, Blue</ref>.....<hi rend="italics">Early
                      Friendship.</hi></item>
                <item><ref target="#periwinkle">Periwinkle, white</ref>.....<hi rend="italics"
