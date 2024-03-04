@@ -7,7 +7,7 @@ body{
 }
 note {
     background: #E6E9DA;
-    position: absolute;
+    position: relative;
     bottom:0;
 }
 
