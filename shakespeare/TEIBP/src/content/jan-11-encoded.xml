@@ -37,7 +37,7 @@
          </div>
       </body>
   </text>
-   <standOff>
+   <standOff style="visibility: hidden">
       <listPerson>
          <person xml:id="Carrie-Gove">
             <persName>
