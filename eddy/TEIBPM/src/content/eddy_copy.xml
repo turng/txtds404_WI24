@@ -34,8 +34,7 @@
          <div type="poem" rhyme="aabccb">
             <head><hi rend="uppercase">Meeting Of My Departed Mother And Husband</hi></head>
             <lg type="stanza">
-		 <!-- GT: is it both in the source? You can include two values here: rend="italics caps". Or you can combine into one value that will
-		 mean italics and caps: rend="caps_ital" , or something similar -->
+		 <!-- GT: is it both in the source? You can include two values here: rend="italics caps". Or you can combine into one value that will mean italics and caps: rend="caps_ital" , or something similar -->
                <l>Joy for thee, happy friend! thy bark is past</l>
                <l>The dangerous sea, and safely moored at last—</l>
                <l>Beyond rough foam.</l>
@@ -43,7 +42,7 @@
                <l>Spirit emancipate for this far shore—</l>
                <l>Thee to thy home.</l>
             </lg>
-            <lg type="stanza" rhyme="aabccb"><!-- Encode speakers -->
+            <lg type="stanza" rhyme="aabccb">
                <l>"You've traveled long, and far from mortal joys,</l>
                <l>To Soul's diviner sense, that spurns such toys,</l>
                <l>Brave wrestler, lone.</l>
@@ -68,15 +67,15 @@
                <l>Thine, ever thine.</l>
             </lg>
             <lg type="stanza" rhyme="aabccb">
-               <l>"Bearest thou no tidings from our loved on earth,</l>
+               <l>"Bearest thou no tidings from <ref target="#mary_baker_eddy">our loved on earth</ref>,</l>
                <l>The toiler tireless for Truth's new birth</l>
                <l>All-unbeguiled?</l>
                <l>Our joy is gathered from her parting sigh:</l>
                <l>This hour looks on her heart with pitying eye,—</l>
-               <l>What of my child?"</l> <!-- Reference pregnancy when first husband died -->
+               <l>What of <ref target="#george_washington_glover_ii">my child?</ref>"</l> 
             </lg>
             <lg type="stanza" rhyme="aabccb">
-               <l>"When, severed by death's dream, I woke to Life,</l>
+               <l>"When, severed by death's dream, <ref target="#abigail_baker">I</ref> woke to Life,</l>
                <l>She deemed I died, and could not know the strife</l>
                <l>At first to fill</l>
                <l>That waking with a love that steady turns</l>
@@ -84,17 +83,17 @@
                <l>Bowed to His will.</l>
             </lg>
             <lg type="stanza" rhyme="aabccb">
-               <l>"Years had passed o'er thy broken household band,</l> <!-- Broken household band? -->
-               <l>When angels beckoned me to this bright land,</l>
+               <l>"Years had passed o'er <ref target="#george_washington_glover">thy</ref> broken household band,</l> 
+               <l>When angels beckoned <ref target="#abigail_baker">me</ref> to this bright land,</l>
                <l>With thee to meet.</l>
-               <l>She that has wept o'er thee, kissed my cold brow,</l>
+               <l><ref target="#mary_baker_eddy">She</ref> that has wept o'er thee, kissed my cold brow,</l>
                <l>Rears the sad marble to our memory now,</l>
                <l>In lone retreat.</l>
             </lg>
             <lg type="stanza" rhyme="aabccb">
                <l>"By the remembrance of her loyal life,</l>
-               <l>And parting prayer, I only know my wife,</l>
-               <l>Thy child, shall come—</l>
+               <l>And parting prayer, I only know <ref target="#mary_baker_eddy">my wife</ref>,</l>
+               <l>Thy <ref target="#george_washington_glover_ii">child</ref>, shall come—</l>
                <l>Where farewells cloud not o'er our ransomed rest—</l>
                <l>Hither to reap, with all the crowned and blest,</l>
                <l>Of bliss the sum.</l>
@@ -111,7 +110,7 @@
          <div type="poem" n="2">
             <head><hi rend="uppercase">I'm Sitting Alone</hi></head>
             <lg type="quatrain" rhyme="aabb">
-               <l>I'm sitting alone where the shadows fall</l> <!-- Reference a location where she's sitting -->
+               <l><ref target="#mary_baker_eddy">I'm </ref>sitting alone where the shadows fall</l> 
                <l>In somber groups at the vesper-call,</l>
                <l>Where tear-dews of night seek the loving rose,</l>
                <l>Her bosom to fill with mortal woes.</l>
@@ -131,29 +130,29 @@
             <lg type="quatrain" rhyme="aabb">
                <l>I'm dreaming alone of its changeful sky—</l>
                <l>What rainbows of rapture floated by!</l>
-               <l>Of a mother's love, that no words could speak</l> <!-- Reference the mother -->
+               <l>Of a <ref target="#abigail_baker">mother's</ref> love, that no words could speak</l> 
                <l>When parting the ringlets to kiss my cheek.</l>
             </lg>
             <lg type="quatrain" rhyme="aabb">
-               <l>I'm thinking alone of a fair young bride,</l> <!-- reference which husband -->
+               <l>I'm thinking alone of a fair young bride,</l>
                <l>The light of a home of love and pride;</l>
-               <l>How the glance of her husband's watchful eye</l>
+               <l>How the glance of <ref target="#daniel_patterson">her husband</ref>'s watchful eye</l>
                <l>Turned to his star of idolatry.</l>
             </lg>
             <lg type="quatrain" rhyme="aabb">
-               <l>I'm picturing alone a glad young face,</l>
+               <l>I'm picturing alone a <ref target="#george_washington_glover_ii">glad young face</ref>,</l>
                <l>Upturned to his mother's in playful grace;</l>
                <l>And the unsealed fountains of grief and joy</l>
-               <l>That gushed at the birth of that beautiful boy.</l> <!-- Who's the beautiful boy -->
+               <l>That gushed at the birth of that beautiful boy.</l>
             </lg>
             <lg type="quatrain" rhyme="aabb">
-               <l>I'm weeping alone that the vision is fled,</l> <!-- Reference event for why the vision is fled -->
+               <l>I'm weeping alone that the vision is fled,</l> 
                <l>The leaves all faded, the fruitage shed,</l>
                <l>And wishing this earth more gifts from above,</l>
                <l>Our reason made right and hearts all love.</l>
             </lg>
             <note place="footnote">
-               Lynn, Mass., <hi rend="italic">September 3, 1866.</hi>
+               <ref target="#Lynn">Lynn, Mass.</ref>, <hi rend="italic">September 3, 1866.</hi>
             </note>
          </div>
          <div type="poem" n="3">
@@ -174,13 +173,13 @@
                <l>'Tis writ on earth, on leaf and flower:</l>
                <l>Love hath one race, one realm, one power.</l>
                <l>Dear God! how great, how good Thou art</l>
-               <l>To heal humanity's sore heart;</l> <!-- Is this related to teachings? Encode event -->
-               <l>To probe the wound, then pour the balm—</l>
+               <l><ref target="#christian_science_foundation">To heal humanity's sore heart</ref>;</l>
+               <l><ref target="#ice_fall">To probe the wound, then pour the balm</ref>—</l>
                <l>A life perfected, strong and calm.</l>
                <l>The dark domain of pain and sin</l>
                <l>Surrenders—Love doth enter in,</l>
                <l>And peace is won, and lost is vice:</l>
-               <l>Right reigns, and blood was not its price.</l> <!-- Encode religious teachings / events -->
+               <l>Right reigns, and blood was not its price.</l> 
             </lg>
             <note place="footnote">
                Pleasant View, Concord, N. H., <hi rend="italic">January, 1901.</hi>
@@ -190,9 +189,9 @@
             <head><hi rend="uppercase">Constancy</hi></head>
             <lg type="quatrain" rhyme="aabb">     
                <l>When starlight blends with morning's hue,</l>
-               <l>I miss thee as the flower the dew!</l> <!-- Who does she miss -->
+               <l><ref target="#mary_baker_eddy">I</ref> miss thee as the flower the dew!</l> <!-- Who does she miss -->
                <l>When noonday's length'ning shadows flee,</l>
-               <l>I think of thee, I think of thee!</l>
+               <l>I think of <ref target="#george_washington_glover">thee</ref>, I think of thee!</l>
             </lg>
             <lg type="quatrain" rhyme="aabb">
                <l>With evening, memories reappear—</l>
@@ -201,7 +200,7 @@
                <l>To dream of thee, to dream of thee!</l>
             </lg>
             <lg type="quatrain" rhyme="aabb">
-               <l>Since first we met, in weal or woe</l> <!-- Guess an age she wrote this -->
+               <l>Since first we met, in weal or woe</l> 
                <l>It hath been thus; and must be so</l>
                <l>Till bursting bonds our spirits part</l>
                <l>And Love divine doth fill my heart.</l>
@@ -214,7 +213,7 @@
             <head><hi rend="uppercase">Autumn</hi></head>
             <lg type="quatrain" rhyme="abab">
                <l>Quickly earth's jewels disappear;</l>
-               <l>The turf, whereon I tread,</l>
+               <l><ref target="#Sanbornton">The turf</ref>, whereon <ref target="#mary_baker_eddy">I</ref> tread,</l>
                <l>Ere autumn blanch another year,</l>
                <l>May rest above my head.</l>
             </lg>
@@ -232,7 +231,7 @@
             </lg>
             <lg type="quatrain" rhyme="abab">
                <l>The wild winds mutter, howl, and moan,</l>
-               <l>To scare my woodland walk,</l> <!-- Encode a place -->
+               <l>To scare my woodland walk</l>
                <l>And frightened fancy flees, to roam</l>
                <l>Where ghosts and goblins stalk.</l>
             </lg>
@@ -255,7 +254,7 @@
                <l>Beneath the maple's shade.</l>
             </lg>
             <note place="footnote">
-               Written in girlhood, in a maple grove.
+               Written in girlhood, <ref target="#Sanbornton">in a maple grove.</ref>
             </note>      
          </div>
       </body>
@@ -441,7 +440,7 @@
          </event>
          <event xml:id="poems_publication" when="1910">
             <label>Publication of Poems</label>
-            <desc>Mary wrote poems throughout her lifetime, and a few months prior to her death in December of 1910, she requested that her writings be collected for publication. The collection was published through the Church of Christ, SCientist, a decision authorized by the trustees of Mary's will. The poems featured in this collection are taken from a various points in her life, and touch on subjects of religion, family, and nature.</desc>
+            <desc>Mary wrote poems throughout her lifetime, and a few months prior to her death in December of 1910, she requested that her writings be collected for publication. The collection was published through the Church of Christ, Scientist, a decision authorized by the trustees of Mary's will. The poems featured in this collection are taken from a various points in her life, and touch on subjects of religion, family, and nature.</desc>
          </event>
       </listEvent>
       <listBibl>
