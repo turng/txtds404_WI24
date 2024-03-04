@@ -7,8 +7,11 @@ body{
 }
 note {
     background: #E6E9DA;
+    position: absolute;
+    bottom:0;
 }
 
 html {
     width: fit-content;
 }
+
