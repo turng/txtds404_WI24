@@ -87,7 +87,7 @@
       <group>
          <text>
             <body>
-               <opener>
+               <opener rend="typewritten">
                   <orgName ref="#Cralle"><hi rend="caps">J B. Cralle &amp; Co.</hi></orgName>
                   <dateline><date when="1907-04-30"><hi rend="caps">Apr</hi> 30
                      1907</date></dateline>
@@ -130,7 +130,7 @@
 
                <p>We must ask that you comply with this request at once!<lb/></p>
 
-               <closer>
+               <closer rend="typewritten">
                   <salute>Very truly yours,</salute>
                   <signed><orgName ref="#Cralle">J. B Cralle &amp; Co</orgName></signed>
                </closer>
