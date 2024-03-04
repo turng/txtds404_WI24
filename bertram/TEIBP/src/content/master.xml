@@ -590,17 +590,14 @@
                   <author>Wikipedia Contributors</author>,<title level="a">Lakeside, Washington</title>.<publisher>Wikipedia, the Free Encyclopedia</publisher>,
                   <ref target="https://en.wikipedia.org/w/index.php?title=Lakeside,_Washington&amp;oldid=1186419158">https://en.wikipedia.org/w/index.php?title=Lakeside,_Washington&amp;oldid=1186419158</ref>
                </bibl>
-               <bibl xml:id="Diphtheria">
-                  <title>Diphtheria</title>
-                  <ref
-                     target="https://artsci.case.edu/dittrick/2014/04/29/deadly-diphtheria-the-childrens-plague/"
-                  />
+               <bibl xml:id="Diphtheria" type="webpage">
+                 <author>Case Western Reserve University</author>,<title level="a">Diphtheria</title>.<publisher>Case Western Reserve University</publisher>,
+                  <ref target="https://artsci.case.edu/dittrick/2014/04/29/deadly-diphtheria-the-childrens-plague/"</ref>
                </bibl>
                <bibl xml:id="Cralle_Co">
-                  <title>JB Cralle &amp; Co</title>
-                  <ref
-                     target="https://www.nps.gov/common/uploads/teachers/lessonplans/General%20Affadavit%201905.pdf"
-                  /></bibl>
+                  <author> <title>JB Cralle &amp; Co</title>
+                  <ref target="https://www.nps.gov/common/uploads/teachers/lessonplans/General%20Affadavit%201905.pdf"</ref>
+	       </bibl>
             </listBibl>
          </div>
       </back>
