@@ -36,7 +36,7 @@
             <dateline><date when="1897-01-16">Jan - 16/97</date></dateline>
          </div>
          <div type="entry">
-            <head><date when="1897-01-18">Jan. 18, 1887</date></head>
+            <head style="margin-top: 2em;"><date when="1897-01-18">Jan. 18, 1887</date></head>
             <p>On <date when="1897-01-18">the eighteenth of January</date>, Shakespeare Club met at <name type="location" ref="#Condon">Mrs Condon</name>'s. The place of meeting has been changed by <name type="location" ref="#Condon">Mrs. Condon</name>--</p>
             <p>At ten minutes past seven the President called the Club to order - all members being present, and answering with quotations from <name type="play" ref="#Merchant">Merchant of Venice </name>&amp; <name type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</name>.</p>
             <p>After the roll call the minutes of <date when="1897-01-11">January Eleventh</date> were read and approved--</p>
@@ -72,6 +72,10 @@
             <persName>
                <roleName>Mrs.</roleName>
                <surname>Wylde</surname>
+            </persName>
+            <persName>
+               <roleName>Mrs.</roleName>
+               <surname>Condon</surname>
             </persName>
          </person>
       </listPerson>
