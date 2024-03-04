@@ -580,11 +580,11 @@
                   <ref target="https://archiveswest.orbiscascade.org/ark:/80444/xv10931">https://archiveswest.orbiscascade.org/ark:/80444/xv10931</ref>
                </bibl>
                <bibl xml:id="Winston_Company">
-                  <title>John C. Winston Company</title>
-                  <ref target="https://www.wikidata.org/wiki/Q21808712"/>
+                  <title level="a">John C. Winston Company</title>.<publisher>Wikidata</publisher>,
+                  <ref target="https://www.wikidata.org/wiki/Q21808712">https://www.wikidata.org/wiki/Q21808712</ref>
                </bibl>
                <bibl xml:id="Chelan_County" type="webpage">
-                  <title level="a">City of Chelan County</title>, <ref target="https://cityofchelan.us/">cityofchelan.us</ref>
+                  <title level="a">City of Chelan County</title>,<ref target="https://cityofchelan.us/">cityofchelan.us</ref>
                </bibl>
                <bibl xml:id="lakeside" type="webpage">
                   <author>Wikipedia Contributors</author>,<title level="a">Lakeside, Washington</title>.<publisher>Wikipedia, the Free Encyclopedia</publisher>,
