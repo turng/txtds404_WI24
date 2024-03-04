@@ -1,2 +1,8 @@
 /* Place project-specific CSS here */
 note {color:antiquewhite;}
+html > body {
+  margin: 0;
+  padding: 50px;
+  color: black;
+  background-color: antiquewhite;
+}
