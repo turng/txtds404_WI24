@@ -1836,7 +1836,9 @@ zone {
 /* styles for html shell and html elements in TEI (e.g.,<a> and <img>) */
 html > body {
   margin: 0;
-  padding: 0;
+  padding: 50px;
+  color: black;
+  background-color: antiquewhite;
 }
 html {
   margin: 0;
