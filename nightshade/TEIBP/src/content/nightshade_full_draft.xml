@@ -51,7 +51,7 @@
       <back>
          <list>
          <head>Bibliography</head>
-            <item><bibl xml:id="apothecary" type="webpage">- <title level="a">Apothecaries weight | Units, Definition, &amp; Facts</title>. <title level="m">Britannica</title>, <ref target="https://www.britannica.com/science/apothecaries-weight">www.britannica.com/science/apothecaries-weight</ref>.</bibl></item>
+            <item><bibl xml:id="apothecary" type="webpage"><title level="a">Apothecaries weight | Units, Definition, &amp; Facts</title>. <title level="m">Britannica</title>, <ref target="https://www.britannica.com/science/apothecaries-weight">www.britannica.com/science/apothecaries-weight</ref>.</bibl></item>
             <item><bibl xml:id="grain" type="webpage">"<title level="a">Grain | Metric, Imperial &amp; Avoirdupois</title>."<title level="m">Britannica</title>, <ref target="https://www.britannica.com/science/grain-unit-of-weight">www.britannica.com/science/grain-unit-of-weight</ref>.</bibl></item>
             <item><bibl xml:id="crown" type="webpage">"<title level="a">Half crown Defintion &amp; Meaning</title>."<title level="m">Merriman Webster</title>, <ref target="https://www.merriam-webster.com/dictionary/half%20crown">www.merriam-webster.com/dictionary/half%20crown</ref>.</bibl></item>
             <item><bibl xml:id="royal_history" type="webpage">"<title level="a">History of the Royal Society</title>."<title level="m">Royal Society</title>, <ref target="https://royalsociety.org/about-us/history/">royalsociety.org/about-us/history/</ref>.</bibl></item>
