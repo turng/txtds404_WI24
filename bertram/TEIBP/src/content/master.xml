@@ -592,7 +592,7 @@
                </bibl>
                <bibl xml:id="Diphtheria" type="webpage">
                  <author>Case Western Reserve University</author>,<title level="a">Diphtheria</title>.<publisher>Case Western Reserve University</publisher>,
-                  <ref target="https://artsci.case.edu/dittrick/2014/04/29/deadly-diphtheria-the-childrens-plague/"</ref>
+                  <ref target="https://artsci.case.edu/dittrick/2014/04/29/deadly-diphtheria-the-childrens-plague/">https://artsci.case.edu/dittrick/2014/04/29/deadly-diphtheria-the-childrens-plague/</ref>
                </bibl>
                <bibl xml:id="Cralle_Co">
                   <author> <title>JB Cralle &amp; Co</title>
