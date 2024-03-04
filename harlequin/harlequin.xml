@@ -570,7 +570,7 @@
  <l>Of youths I could have chosen for the gal.</l></sp><stage> [Exeunt.</stage> </div>
          
 <!-- SCENE V -->
-         <div type="scene" n='5'>
+         <div type="scene" n="5">
             <head rend="italic bold">SCENE V. – FRIAR BACON’S OBSERVATORY AT SUNNINGWELL NEAR OXFORD, AND DISTANT VIEW OF JOHN OF GAUNT‘
                S CASTLE, BY SUNSET</head>
             <stage>Over door of observatory, an inscription— ‘<hi rend="italic">Friar Bacon, Licensed Dealer in Black Art.</hi>’ 
@@ -667,7 +667,7 @@
          </div>
          
 <!-- SCENE VI -->
-         <div type="scene">
+         <div type="scene" n="6">
             <head rend="italic bold">SCENE VI.—GOTHIC CORRIDOR, LEADING TO BANQUETING ROOM.</head>
             <p>
                Lively Music. –The Retainers and Servants of John of Gaunt cross the stage, bearing the customary Pantomimic, Viands for 
@@ -683,7 +683,7 @@
          </div>
          
 <!-- SCENE VII -->
-         <div type="scene">
+         <div type="scene" n="7">
             <head rend="italic bold">SCENE VII.—THE COURT-YARD OF JOHN OF GAUNT’S CASTLE.</head>
             <p>Pavilion at back—The Lists are formed—The Galleries are filled with spectators—Stage full at the sides, and
                only the centre kept clear for the Combatants—Herald blows a trumpet—Chaucer enters with Rose, and signifies 
@@ -712,7 +712,7 @@
          </div>
          
 <!-- SCENE VIII -->
-         <div type="scene">
+         <div type="scene" n="8">
             <head rend="italic bold">SCENE VIII.—THE TRANSPARENT REALMS OF ILLUTIONS, IN THE REGIONS OF POETRY.</head>
             <p rend = "center italic"> All the Fairies discovered.</p>
             <sp who="#ROBIN">
