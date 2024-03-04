@@ -408,6 +408,7 @@
             </sp>
             <stage rend="italics">[Gradual descent, and change to</stage>
          </div>
+   <!-- SCENE II -->
 <div type="scene" n='2'>
 <head rend="italic bold">Scene II.–The Grotto of Good Idea, in the World of Fancy. </head>
 <p rend="italics">In the Rainbow Car is Imagination, attended by Romance, Reverie, Fiction, Poetry, Wit, and Humour–at the back is inscribed, in glistening letters, 
@@ -439,6 +440,7 @@ With pilgrims famed to Canterbury bound.</sp>
 <sp who="#CHORUS"><speaker rend="italics">Chorus.</speaker> <l>Then lightly, sprightly, trip along– </l>
 <l>Which always ends a fairy song.</l></sp> 
 <stage rend="italics">[At conclusion Imagination returns to her Car, and ascends with her Attendants, whilst Oberson and the Fairies go off on one side, and Robin Goodfellow leads off Pantomime and his retinue on the other.</stage> </div>
+   <!-- SCENE III -->
 <div type="scene" n='3'>
  <head rend="italic bold"> Scene III.–The Ancient Hostelrie of The Tabard, in the Borough.* </head>
  <stage rend="italics">The scene occupies the full extent of the stage, with the Inn-Yard and projecting galleries of the period distinctly marked.–Lively Music. 
@@ -501,7 +503,8 @@ With pilgrims famed to Canterbury bound.</sp>
  <p>‘Fear not, your pilgrimage pursue </p>
 <p> For Fairies aid all lovers true.’</p>
 <stage rend="italics"> [Chaucer reads the magic scroll, and becomes reassured.–The Pilgrims now return down stage, when the Chambermaid, Head Waiter, Boots, Ostler, &c. (each showing their vocation on a scroll) appeal to them severally for the usual fees–difficulty of supplying them. Business–Pilgrims depart, and a Tableau is formed, whilst the scene changes to–</stage> </div>
- <div type="scene" n='4'>
+   <!-- SCENE IV -->
+	  <div type="scene" n='4'>
   <head rend="italic bold"> Scene IV.–Old Bridle-Way and Wishing-Gate, on the Road to Canterbury. </head>
  <stage rend="italics">Finger-Post, ‘To Canterbury.–The Wishing-Guide in the centre–Haw-thorn Tree in blossom, and bank. </stage>
 <sp who="#CHORUS"> <speaker rend="bold">Chorus of Pilgrims,</speaker> <stage>[Without.] </stage>
