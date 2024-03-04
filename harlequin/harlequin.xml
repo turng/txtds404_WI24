@@ -158,12 +158,258 @@
 	    </bibl>
          </div><!-- GT: I think you're missing a closing </bibl> here... -->
 
-	 <!-- TITLE PAGE -->
-	 <div type="title page">
-	    <head rend="caps">Harlequin and Friar Bacon</head>
-	    <subhead rend="caps">or</subhead>
+<!-- TITLE PAGE -->
+         <div type="title_page">
+            <head rend="caps">Harlequin and Friar Bacon</head>
+            <head rend="caps">or</head>
+            <head rend="caps">Great Grim John of Gaunt,</head>
+            <p rend="caps">and the</p>
+            <p rend="caps">Enchanted Lance of Robin Goodfellow:</p>
+            <p> rend="caps">An entirely new and original grotesque, burlesque, poetic, pictorial,
+               spectacular, historical, dramatic, and hippo-dramatic, grand comic Christmas
+               Pantomime.</p>
+            <p rend="caps">By Francesco Frost.</p>
+            <p rend="caps">London:</p>
+            <p rend="caps">The Music-Publishing Company, / 19 Peter’s Hill, St. Paul’s, E.C.</p>
+         </div>
+
+<!-- SYNOPSIS AND CHARACTERS -->
+         <div type="synopsis">
+            <head rend="caps">Synopsis of Scenery, Incidents, and Characters,</head>
+            <p rend="caps">Fairy Encampment by Moonlight.</p>
+            <p>‘All was this land full of færie, The Elf-Queen with her jolly company, Danced full
+               oft’ in many a green mead.’ –<hi rend="italics">Chaucer</hi>.</p>
+            <p>Robin Goodfellow (‘that merry wanderer of the night’), Miss Eliza Arden;</p>
+            <p>Will O’ the Wisp, Miss Gasflitter;</p>
+            <p> Oberon, (the Fairy King), Miss Nesbitt;</p>
+            <p>Imagination (Queen of the Realms of Poetry), Miss Weber;</p>
+            <p>Romance, Reverie, Fiction, Song, Wit, and Humour (attendants on Imagination);</p>
+            <p>Misses Brown, Johnson, Fudge, Jones, Somes, and Lewis.</p>
+            <p><hi rend="caps">The Fairy Army</hi>.–Captain, Miss Eliza Grosvenor; Lieutenant, Miss
+               Polly Grosvenor; assisted by a numerous corps of coryphées.</p>
+            <p rend="caps">Arrival of Oberon in his glow-worm chariot, and grand ballet, of the
+               Amazonian Fairies.</p>
+            <p>Principal danseuse, Madlle Stellinos, from Paris.</p>
+            <p>Old Pantomime, Mr. Allen; Broadgrin (his Herald), Mr. Hawshaw; Trap, Flap, Slap,
+               Bump, Jump, and Thump (his attendants), Masters Trip, Flip, Slip, Whack, Bang, and
+               Smart.</p>
+            <p>How Oberon calls upon Imagination to assist good Old Pantomime, and the result.</p>
+            <p rend="caps">The Grotto of good-idea, in the world of fancy.</p>
+            <p> ‘By Imagination’s aid, thus we are to-night conveyed, Far away into the past to a
+               region that will last enshrined in fame for ever.’</p>
+            <p>How Imagination reveals a treasure of the past, and bestows it on the present as a
+               gift for the future.</p>
+            <p rend="caps">The ancient hostelrie of ‘The Tabard,’</p>
+            <p>in the Borough, with the Inn-yard and Projecting Galleries of the Period, as it
+               appeared May-Day, 1383. (Gates.)</p>
+            <p>Master Henry Bailly (host of ‘The Tabard’), Mr. Templeton.</p>
+            <p>Ostler, Mr. Bonemeals; Boots, Mr. Samwella;</p>
+            <p>Chambermaids, Miss Bumptious and Miss Scrumptious;</p>
+            <p>Rose (the ‘pretty Barmaid’), Miss Morelli;</p>
+            <p>Waiters, Messrs. Runquick, Yessir, and Cumming;</p>
+            <p>Geoffrey Chaucer (the Poet), Miss Craven.</p>
+            <p><hi rend="caps">Canterbury Pilgrims</hi>–The Knight, the Yeoman, the Prior, the Monk,
+               the Miller, the Friar, the Scholar, the Sergeant of the Law, the Doctor, the
+               Franklin, and the Wife of Bath, by eminent equestrians of Astleyan celebrity.</p>
+            <p>‘It so befelle that season on a daye, In Southwark at the Tabard Inn I laye, Ready by
+               morne my progress to pursue.’ <hi rend="italics">Chaucer’s Canterbury Tales</hi>.</p>
+            <p rend="caps">The Old English Morris-dance.</p>
+            <p>Great Grim John of Gaunt (Duke of Lancaster), Mr. Lingham.</p>
+            <p>His retainers, Messrs. Grumpy, Stumpy, Smash, Crash, Whack, Crackdrill, Swill, Swop,
+               Chop, Glum, Grum, Snip, Snap, and Cutaway.</p>
+            <p>How John of Gaunt, returning from the wars, is struck by the beauty of the Barmaid
+               and the stout arm of Chaucer, and what ensues in consequence.</p>
+            <p rend="caps">Old Bridle-Way and Wishing-Gate on the road to Canterbury.</p>
+            <p>‘Now as every Pilgrim tells a tale that shall make short the day, Jingling go our
+               palfrey-bells, as we onward wend our way.’</p>
+            <p>The wish uttered. Blooming of hawthorn tree, and presentation of the enchanted
+               lance.</p>
+            <p>Gnome of the Fiery Phiz, Master Wrednose.</p>
+            <p rend="caps">Friar Bacon’s observatory at Sunningwell,</p>
+            <p> near Oxford, with Distant View of John of Gaunt’s Castle by Sunset. (C. S.
+               James.)</p>
+            <p>Old Friar Bacon (the Necromancer), Mr. Russell.</p>
+            <p>Hocus Pocus (his attendant), Mr. G. Craig.</p>
+            <p>The mysterious visitor–The conjuror’s cabalistic charm and concoction of the magic
+               love-potion–How John of Gaunt gives an invitation to a fête–How the Friar meets with
+               another fate he never expected.</p>
+            <p><hi rend="caps">Exterior of John of Gaunt’s castle</hi>. (A. Callcott.)</p>
+            <p><hi rend="small-caps">Grand procession to the tournament</hi>, and Brilliant Display
+               of the Knights of the Days of Yore on their Richly Caparisoned Horses.</p>
+            <p><hi rend="caps">Corridor leading to banquetting-room</hi>. (W. Broadfoot.)</p>
+            <p>Preparations for the feast and fray–Marvellous effects of the gift of Robin
+               Goodfellow, and how John of Gaunt having gone down on his knees in one way, goes down
+               on his sneeze in another.</p>
+            <p><hi rend="caps">Court-yard of the castle, prepared for the tournament</hi>. (A.
+               Callcott.)</p>
+            <p>Formation of the lists–Desperate encounter–The ‘Gentle and joyous passage of arms’
+               among the knightly competitors for the prizes, and tremendous tilt between Chaucer
+               and Grim John of Gaunt, which leads to a startling effect on one of combatants, and
+               results in the magnificent effect of</p>
+            <p rend="caps">The transparent realms of illusion,</p>
+            <p><hi rend="small-caps">and grand flight of Imagination from the fragrant clusters of
+                  Canterbury bells</hi>. (Gates).</p>
+            <p rend="caps bold">The Transformation.</p>
+            <p>Harlequin ………………………………………………… Mr. W. <hi rend="caps">Driver</hi>.</p>
+            <p>Columbine ………………………………………………… Miss <hi rend="caps">Newham</hi>.</p>
+            <p>Harlequina ……………………………………………… Miss <hi rend="caps"> Nelly Davis</hi>.</p>
+            <p>Pantaloon ………………………………………………… Mr. <hi rend="caps">Stilt</hi>.</p>
+            <p>Clown ……………………………………………………… Mr. <hi rend="caps">Edwin Edwards</hi>.</p>
+            <p>(From the Continental Theatres.</p>
+         </div>
+
+<!-- SCENE I -->
+         <div type="scene" n="1">
+            <head rend="caps">Friar Bacon.</head>
+            <head rend="caps">Scene 1.–<hi rend="italics">Fairy encampment, by moonlight, on the
+                  plains of phantasy</hi>.</head>
+            <stage><hi rend="italics">A picturesque view of a Fairy Camp, with Mushrooms for Tents,
+                  appearing to occupy on extensive plain, with hills beyond, dotted with lines of
+                  Mushrooms, diminishing in perspective–Two large Mushrooms, as tents, in the
+                  foreground–one at each front wing–The whole scene imitative of the Camp at
+                  Aldershot</hi>.–<hi rend="small-caps">Robin Goodfellow</hi><hi rend="italics">
+                  discovered, as a Fairy Sentinel</hi>.</stage>
+            <p><hi rend="caps">Song</hi>, <hi rend="small-caps">Robin Goodfellow</hi>.</p>
+            <p>Elfins who, in fairy tent,</p>
+            <p>After day’s exhaustion, slumber,</p>
+            <p>Shoulder arms, and here present</p>
+            <p>All your force in mighty number;</p>
+            <p>Gathered on the plains of Surrey,</p>
+            <p>Here appear now, in a hurry.</p>
+            <stage rend="italics">[Music.–Mushroom Tents all expand, and the stage becomes filled
+               with Fairies, each bearing a fantastic bulrush as a weapon.–Tableau.</stage>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
+               <l>A fair assembly, formed in gallant style.</l>
+               <l>How does my old acquaintance of this isle?</l>
+               <l>From bud and blossom, forest, lake, and stream,</l>
+               <l>Ye have been summoned–for, as mortals deem,</l>
+               <l>Your power is gone–that Fairy Land must cease–</l>
+               <l>Unfit for war–used up in every <hi rend="italics">piece</hi>.</l>
+               <l>There has been fixed, by Oberon’s direction,</l>
+               <l>A Volunteer Review for his inspection.</l>
+            </sp>
+            <stage rend="italics">[A Fairy comes forward unsteadily.</stage>
+            <sp who="#FAIRY">
+               <speaker rend="italics">Fairy.</speaker>
+               <l>Our general grows particular, methinks.</l>
+            </sp>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
+               <l>This comes of those intoxicating drinks.</l>
+               <l>Duty off wines should satisfy your throttle:</l>
+               <l>Try good French claret, eighteen-pence per bottle.</l>
+            </sp>
+            <sp who="#FAIRY">
+               <speaker rend="italics">Fairy.</speaker>
+               <l>My thirsty lips did but dewdrop drain.</l>
+            </sp>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
+               <l>These slips I hope won’t lead to goes again.</l>
+               <l>But Oberon comes.</l>
+            </sp>
+            <stage><hi rend="italics">Music.–A Will-O’-the-Wisp passes across the state, followed by
+                  </hi><hi rend="small-caps">Oberon</hi>,<hi rend="italics">in his glow-worm
+                  Chariot, drawn by gigantic Moths</hi>.</stage>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
+               <l>Our great commander, hail!</l>
+               <l>I thought your royal visit would not fail.</l>
+            </sp>
+            <sp who="#OBERON">
+               <speaker rend="italics">Oberon.</speaker>
+               <l>I scarce could see, the road’s so dark to-night.</l>
+            </sp>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
+               <l>Allow me, then, to help you to a-light.</l>
+               <stage rend="italics">[Robin assists Oberon from his chariot, which goes off.</stage>
+            </sp>
+            <sp who="#OBERON">
+               <speaker rend="italics">Oberon.</speaker>
+               <l>Now, would you like to learn on what pretences</l>
+               <l>You are here encamped?</l>
+            </sp>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
+               <l>Our national defences?</l>
+            </sp>
+            <sp who="#OBERON">
+               <speaker rend="italics">Oberon.</speaker>
+               <l>Just so; for mortals, shunning our assistance,</l>
+               <l> Don’t even now believe in our existence.</l>
+               <l>Science and art, they say–a fact too true–</l>
+               <l>Accomplish all the work <hi rend="italics">we</hi> used to do.</l>
+               <l>So, show the world no longer they must doubt us;</l>
+               <l>At <hi rend="italics">Christmas</hi> time they <hi rend="italics">cannot</hi> do
+                  without us.</l>
+            </sp>
+            <stage rend="italics">[Comic Pantomime Music heard, without.</stage>
+            <sp who="#OBERON">
+               <speaker rend="italics">Oberon.</speaker>
+               <l>Who’s there? Do you hear that strain? it comes in time.</l>
+            </sp>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
+               <l> I know him well–it’s good old Pantomime!</l>
+            </sp>
+            <stage><hi rend="italics">Enter, preceded by Broadgrin (a large Head with broad grinning
+                  mouth), and six Imps, Trap, Flap, Slap, Bump, Jump, and Thump,</hi>
+               <hi rend="small-caps">Old Pantomime</hi>, <hi rend="italics"/>dressed in a grotesque
+               mixture of the usual costume of all the characters in Pantomime–crown of carrots and
+               turnips, red hot poker for staff.–He presents a petition to Oberon, who reads
+               it.</stage>
+            <sp who="OBERON">
+               <speaker rend="italics">Oberon.</speaker>
+               <l>What’s this? of subjects I am so bereft,</l>
+               <l>That I’ve scarce got a single subject left!</l>
+               <l>For help again am I so soon accosted?</l>
+               <l>Are all the funds I gave you quite exhausted?</l>
+            </sp>
+            <stage rend="italics">[Pantomime regrets they are:</stage>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
+               <l>His fairy treasury is very low.</l>
+            </sp>
+            <sp who="#OBERON">
+               <speaker rend="italics">Oberon.</speaker>
+               <l>That Pantomime’s extravagant we know.</l>
+               <l>But where are all the tales I gave the hints?</l>
+            </sp>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
+               <l>For Christmas entertainments used long since.</l>
+            </sp>
+            <sp who="#OBERON">
+               <speaker rend="italics">Oberon.</speaker>
+               <l>Well, for the sake of all those little folks,</l>
+               <l>Who still look forward to his annual jokes,</l>
+               <l>I on Imagination now will call,</l>
+               <l>And ask her aid to benefit us all.</l>
+            </sp>
+            <stage rend="italics">[Waving wand, and speaking through Music:</stage>
+            <sp who="#OBERON">
+               <l>Queen of our fairy world, Imagination,</l>
+               <l>Respond unto your children’s invocation.</l>
+               <l>To Oberon, born in your poetic sphere,</l>
+               <l>In all your glowing colours now appear.</l>
+               <l>Imagination can’t imagine why–</l>
+               <l> But just suppose a [-] air I try.</l>
+            </sp>
+            <p><hi rend="caps">Song</hi>, <hi rend="small-caps">Oberon.</hi></p>
+            <sp who="#OBERON">
+               <l>Imagination now appear–</l>
+               <l>Come now readily;</l>
+               <l>And let me know that you are near;</l>
+               <l>Do now!</l>
+               <l>For Oberon desires</l>
+               <l>Your spark to light his fires.</l>
+            </sp>
+            <stage rend="italics">[Gradual descent, and change to</stage>
+         </div>
          
-         <!-- SCENE V -->
+<!-- SCENE V -->
          <div type="scene" n='5'>
             <head rend="italic bold">SCENE V. – FRIAR BACON’S OBSERVATORY AT SUNNINGWELL NEAR OXFORD, AND DISTANT VIEW OF JOHN OF GAUNT‘
                S CASTLE, BY SUNSET</head>
@@ -260,7 +506,7 @@
                by Hocus Pocus, bearing a Box, labelled ‘Magic Lantern.’—Excunt(Latin)—scene closes.</hi></p>
          </div>
          
-         <!-- SCENE VI -->
+<!-- SCENE VI -->
          <div type="scene">
             <head rend="italic bold">SCENE VI.—GOTHIC CORRIDOR, LEADING TO BANQUETING ROOM.</head>
             <p>
@@ -276,7 +522,7 @@
             <p>All rush off—and scene draws, discovering</p>
          </div>
          
-         <!-- SCENE VII -->
+<!-- SCENE VII -->
          <div type="scene">
             <head rend="italic bold">SCENE VII.—THE COURT-YARD OF JOHN OF GAUNT’S CASTLE.</head>
             <p>Pavilion at back—The Lists are formed—The Galleries are filled with spectators—Stage full at the sides, and
@@ -305,7 +551,7 @@
             <p rend = "right italic">Chord—and instantaneous change to</p>
          </div>
          
-         <!-- SCENE VIII -->
+<!-- SCENE VIII -->
          <div type="scene">
             <head rend="italic bold">SCENE VIII.—THE TRANSPARENT REALMS OF ILLUTIONS, IN THE REGIONS OF POETRY.</head>
             <p rend = "center italic"> All the Fairies discovered.</p>
@@ -362,24 +608,24 @@
          </div>
          
          <div>
-            <p rend = "bold italic center"> (Comic Business Commences)</p>
-            <p rend = "bold center">Scene I.—TOY SHOP AND CONFECTIONER’S.</p>
-            <p rend = "bold cneter">By Messrs. T. Totum and Toffey</p>
-            <p rend = "bold cneter">Scene II.—A SURBURBAN BOARDING-SCHOOL and YOUNG LADIES’ SEMINARY.</p>
-            <p rend = "bold cneter">By Mr. Birch and Miss O’Thwackham.</p>
-            <p rend = "bold cneter">Scene III.—COTTON BROKERS AND GENERAL DEALERS.</p>
-            <p rend = "bold cneter">By A. Sell and E. Sell.</p>
-            <p rend = "bold cneter">Scene IV.—GRANDMAMMMA”S DRAWING-ROOM.</p>
-            <p rend = "bold cneter">By Jolly Boy and Assistants.</p>
-            <p rend = "bold cneter">Scene IV.__LOAN OFFICE, RESTAURANT’S, and FARRIER’S</p>
-            <p rend = "bold cneter">By Touch and Go.</p>
-            <p rend = "bold cneter">Scene VI.—and Last –The Grand Finale.</p>
-            <p rend = "bold cneter">The SALAMANDRINE TEMPLE.</p>
-            <p rend = "bold">With the Wonder of the World in a cage with a thousand fires, the Children’s Christmas Squibs, and the Triumph of 
+            <p rend="bold italic center"> (Comic Business Commences)</p>
+            <p rend="bold center">Scene I.—TOY SHOP AND CONFECTIONER’S.</p>
+            <p rend="bold center">By Messrs. T. Totum and Toffey</p>
+            <p rend="bold center">Scene II.—A SURBURBAN BOARDING-SCHOOL and YOUNG LADIES’ SEMINARY.</p>
+            <p rend="bold center">By Mr. Birch and Miss O’Thwackham.</p>
+            <p rend="bold center">Scene III.—COTTON BROKERS AND GENERAL DEALERS.</p>
+            <p rend="bold center">By A. Sell and E. Sell.</p>
+            <p rend="bold center">Scene IV.—GRANDMAMMMA”S DRAWING-ROOM.</p>
+            <p rend="bold center">By Jolly Boy and Assistants.</p>
+            <p rend="bold center">Scene IV.__LOAN OFFICE, RESTAURANT’S, and FARRIER’S</p>
+            <p rend="bold center">By Touch and Go.</p>
+            <p rend="bold center">Scene VI.—and Last –The Grand Finale.</p>
+            <p rend="bold center">The SALAMANDRINE TEMPLE.</p>
+            <p rend="bold">With the Wonder of the World in a cage with a thousand fires, the Children’s Christmas Squibs, and the Triumph of 
                Francisco Frost, with a Darby effect.</p>
          </div>
          
-         <!-- FOOTNOTE PAGE -->
+<!-- FOOTNOTE PAGE -->
          <div type="footnote">
             <head>Footnote Page</head>
             <p>THE TABARD.—As the Borough High Street was formerly the great passage into a great part of the kingdom to and from the capital, 
@@ -394,7 +640,7 @@
                Sir Jeffery Chaucer and the nine-and -twenty pilgrims lay, in their journey to Canterbury, anno 1383.</p>
          </div>
          
-         <!-- ACKNOWLEDGEMENT PAGE -->
+<!-- ACKNOWLEDGEMENT PAGE -->
          <div type="acknowledgement">
             <head>Acknowledgement Page</head>
             <p>The Scenery (from historical authorities), with the Grand Transformation Effects, the greatest and most extraordinary ever yet 
