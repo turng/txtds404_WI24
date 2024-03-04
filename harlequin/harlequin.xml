@@ -262,7 +262,7 @@
          <div type="scene" n="1">
             <head rend="caps">Friar Bacon.</head>
             <head rend="italic bold">Scene 1.–Fairy encampment, by moonlight, on the
-                  plains of phantasy</hi>.</head>
+                  plains of phantasy</head>
             <stage><hi rend="italics">A picturesque view of a Fairy Camp, with Mushrooms for Tents,
                   appearing to occupy on extensive plain, with hills beyond, dotted with lines of
                   Mushrooms, diminishing in perspective–Two large Mushrooms, as tents, in the
@@ -424,7 +424,7 @@
 <l>Shall wake to life again–and with him those </l>
 <l>Who lived about that period, we’ll suppose; </l>
 <l>The ancient Tabard shall once more be found,</l> 
-With pilgrims famed to Canterbury bound.</sp> 
+   <l>With pilgrims famed to Canterbury bound.</l></sp> 
 <stage rend="italics">[Music.–Old Pantomime expresses his thanks for aid. </stage>
 <sp who="#IMAGINATION #OBERON #ROBIN GOODFELLOW"><speaker rend="italics">Trio.–Imagination, Oberon, and Robin Goodfellow. </speaker>
 <l>By Imagination’s aid, </l>
@@ -452,7 +452,7 @@ With pilgrims famed to Canterbury bound.</sp>
 <hi rend="small caps"> Master Henry Bailly</hi>, the host, enters, with Waiters, who spread table for breakfast at side, their movements being accelerated by the occasional insertion of the points of large carving knife and fork–Huge tankards of ale, large loaves, round of beef, and chine of ham, are brought on and placed on table. 
 <hi rend="small caps"> Rose,</hi> the Barmaid, enters, with dish of eggs, and at the same time Geoffrey Chaucer comes on, from opposite doorway–they exchange tokens of recognition–the Host observes them, and is indignant–Geoffrey takes the eggs from Rose, to put on table, when just as he has placed them there, the Host comes between them and jumping on table, to prevent their love-making, sits down upon the eggs–hearty merriment of Waiters, who are immediatel re-proved by the forks as before–Host sends Rose off to get more eggs, and quietly signifies he shall attend to her lover by and bye. 
 <hi rend="itlaics"> The Pilgrims</hi> now all make their appearance–the Knight, the Squire, the Yeomen his attendants, the Prior, the Monk, the Miller, the Friar, the Scholar, the Serjeant of the Law, the Doctor, the Franklin, and the Wife of Bath. 
-<hi rend="small caps"> Rose</hi> returns with another dish of eggs, and they all commence breakfast but Chaucer, who is making</stage> love to Rose–wanting to get the Host out of the way, he asks for his bill–the Host goes off, and returns with it immediately, chuckling over the prices he has charged–Chaucer waits to examine it–the Host and two Waiters then unroll the scroll which is raised by prop to nearly roof of inn–and there is then seen, to Chaucer’s amazement, this:– 
+    <hi rend="small caps"> Rose</hi> returns with another dish of eggs, and they all commence breakfast but Chaucer, who is making love to Rose–wanting to get the Host out of the way, he asks for his bill–the Host goes off, and returns with it immediately, chuckling over the prices he has charged–Chaucer waits to examine it–the Host and two Waiters then unroll the scroll which is raised by prop to nearly roof of inn–and there is then seen, to Chaucer’s amazement, this:–</stage>
 <p> The Tabard, Family Hotel and Posting-House, </p>
 <p> High Street, Borough. </p>
 <p> May-day, 1383.</p> 
@@ -502,7 +502,7 @@ With pilgrims famed to Canterbury bound.</sp>
 <stage rend="italics"> [Music.–John of Gaunt beckons forward two of his retainers–they seize Chaucer, whilst two others bear Rose away.–A general melee ensues–Chaucer breaks away, and attacks John of Gaunt, but the Monk interferes as he is struck down, and John of Gaunt goes off with his retinue triumphantly–Chaucer is in despair.–The Pil-grims busy themselves with preparations for departure–Chaucer is reflecting on his condition, when these two lines appear on a scroll, behind him, on a trough, in golden letters:– </stage>
  <p>‘Fear not, your pilgrimage pursue </p>
 <p> For Fairies aid all lovers true.’</p>
-<stage rend="italics"> [Chaucer reads the magic scroll, and becomes reassured.–The Pilgrims now return down stage, when the Chambermaid, Head Waiter, Boots, Ostler, &c. (each showing their vocation on a scroll) appeal to them severally for the usual fees–difficulty of supplying them. Business–Pilgrims depart, and a Tableau is formed, whilst the scene changes to–</stage> </div>
+<stage rend="italics"> [Chaucer reads the magic scroll, and becomes reassured.–The Pilgrims now return down stage, when the Chambermaid, Head Waiter, Boots, Ostler, &amp; c. (each showing their vocation on a scroll) appeal to them severally for the usual fees–difficulty of supplying them. Business–Pilgrims depart, and a Tableau is formed, whilst the scene changes to–</stage> </div>
    <!-- SCENE IV -->
 	  <div type="scene" n='4'>
   <head rend="italic bold"> Scene IV.–Old Bridle-Way and Wishing-Gate, on the Road to Canterbury. </head>
@@ -532,7 +532,7 @@ With pilgrims famed to Canterbury bound.</sp>
  <l>This saves a deal of tedious explanation.</l> </sp>
  <sp who="#ROBIN"><speaker rend="italics">Robin.</speaker> <l>Of course it does.–That party you suppose </l>
 <l> To be a party who–no matter–Rose!</l> <stage>[Very mysteriously. </stage>
-<l> Has met a party, who did sneer and scoff</l>, 
+<l> Has met a party, who did sneer and scoff,</l> 
 <l> And then this party, took that party off.</l></sp> 
 <sp who="#CHAUCER"> <speaker rend="italics">Chaucer.</speaker> <l>Most true!</l> </sp>
 <sp who="#ROBIN"> <speaker rend="italics">Robin.</speaker> <l>He’s one that every body rifles,</l> 
@@ -567,7 +567,7 @@ With pilgrims famed to Canterbury bound.</sp>
 <sp who="#CHAUCER"> <speaker rend="italics">Chaucer.</speaker> <l>You must–couldn’t think of taking first </l>
  <l>The precedence of any one who’s super-nat-ur-al.</l></sp> 
 <sp who="#ROBIN"> <speaker rend="italics">Robin.</speaker><l> I do think you won’t become the very worst </l>
- <l>Of youths I could have chosen for the gal</l></sp>.<stage> [Exeunt.</stage> </div>
+ <l>Of youths I could have chosen for the gal.</l></sp><stage> [Exeunt.</stage> </div>
          
 <!-- SCENE V -->
          <div type="scene" n='5'>
