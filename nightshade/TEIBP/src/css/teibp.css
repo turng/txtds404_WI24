@@ -286,7 +286,10 @@ publicationStmt > availability[status]:before {
 }
 /* B */
 back {
-  display: block;
+    padding: 1em 1em 1em 1em;
+    border-radius: 15px;
+    display: block;
+    background: beige;
 }
 bibl {
   /* Empty Rule Set */
