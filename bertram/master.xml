@@ -233,7 +233,7 @@
                   <salute>Mr. J.H.Bertram,</salute>
                   <placeName>Seattle Wash.</placeName>
                </opener>
-               <p rend="typewriten">Dear sir: Through <persName>Dr. A.I. Mitchell</persName>, I
+               <p rend="typewritten">Dear sir: Through <persName>Dr. A.I. Mitchell</persName>, I
                   learn that you are interested in the <placeName ref="#Chelan_country">Chelan
                      Country</placeName> (n3),and contemplate settling here. If you will write me
                   telling me just what you would like in the way of land and how much you would care
@@ -363,19 +363,19 @@
          </text>
          <text xml:id="treasury_dept" rend="print">
             <body>
-               <head rend="typewrite">H-3c.</head>
+               <head rend="typewritten">H-3c.</head>
                <lb/>
                <head place="left"><hi rend="bold">Form 1816</hi>.<lb/> Ed. Jan. 6-09-2,000.</head>
                <lb/>
                <opener><hi rend="caps">notice to claimant-no differences</hi>.<lb/>
-                  <unclear rend="cursive script">mcx</unclear> Appeal No. <hi rend="typewrite"
+                  <unclear rend="cursive script">mcx</unclear> Appeal No. <hi rend="typewritten"
                      >16518.</hi>
                   <hi rend="gothic"><orgName ref="#Treasury">Treauty Department</orgName>,</hi><lb/>
                   <hi rend="caps">office of the<lb/> comptroller of the treasury</hi>.<lb/>
                   <dateline><placeName type="city">Washington, D.C.</placeName>, <date
-                        when="1909-01-09"><hi rend="typewrite">January 30</hi>, 190<hi
-                           rend="typewrite">9</hi></date>.</dateline>
-                  <hi rend="typewrite">Mr. <persName ref="#JN_Bertram">Jasper N. <choice>
+                        when="1909-01-09"><hi rend="typewritten">January 30</hi>, 190<hi
+                           rend="typewritten">9</hi></date>.</dateline>
+                  <hi rend="typewritten">Mr. <persName ref="#JN_Bertram">Jasper N. <choice>
                            <orig>Butram</orig>
                            <corr>Bertram</corr>
                         </choice></persName>,<lb/>
@@ -383,17 +383,17 @@
                         <addrLine>426-34th Avenue, South,<lb/> Seattle, Wash.</addrLine>
                      </address></hi></opener>
                <lb/>
-               <p><hi rend="typewrite">Sir</hi>:<lb/> I have examined your appeal, filed <date
-                     when="1909-01-09"><hi rend="typewrite">January 9, 1909</hi></date>, from the
-                  action<lb/> of the Auditor for the <hi rend="caps typewrite">war</hi> Department,
+               <p><hi rend="typewritten">Sir</hi>:<lb/> I have examined your appeal, filed <date
+                     when="1909-01-09"><hi rend="typewritten">January 9, 1909</hi></date>, from the
+                  action<lb/> of the Auditor for the <hi rend="caps typewritten">war</hi> Department,
                   on your claim<lb/>
-                  <hi rend="typewrite">for additional bounty under act of <date when="1866-07-28"
+                  <hi rend="typewritten">for additional bounty under act of <date when="1866-07-28"
                         >July 28, 1866</date>, as of 9th<lb/> Regt. of Kentucky Infantry,</hi><lb/>
-                  per certificate No. <hi rend="typewrite">20392</hi>, dated <hi rend="typewrite"
+                  per certificate No. <hi rend="typewritten">20392</hi>, dated <hi rend="typewritten"
                         ><date when="1908-06-15">June 15, 1908</date></hi>,<lb/> and find and
                   certify no differences, the action of the Auditor being affirmed.</p>
                <lb/>
-               <p rend="typewrite">It is shown by the records that you were enrolled<lb/>
+               <p rend="typewritten">It is shown by the records that you were enrolled<lb/>
                   <date when="1861-09-24">September 24, 1861</date>, and discharged <date
                      when="1864-09-20">September 20, 1864</date>, by<lb/> reason of promotion to lst
                   Lieutenant. You have been paid<lb/> $100.00 bounty under act of <date
@@ -402,7 +402,7 @@
                   for promotion before serving <hi rend="underline">three</hi> years as an<lb/>
                   enlisted man you are not entitled to any more bounty.</p>
                <lb/>
-               <p rend="typewrite">Parol evidence will not be accepted to contradict the<lb/>
+               <p rend="typewritten">Parol evidence will not be accepted to contradict the<lb/>
                   records which show that you were enrolled <date when="1861-09-24">September
                      24,<lb/> 1861</date>, and served less than three years as an enlisted<lb/> man.
                   The time you served as a commissioned officer cannot<lb/> lawfully be counted in
@@ -410,7 +410,7 @@
                <lb/>
                <closer>Respectfully, <signed><hi rend="cursive">L.P. Mitchell</hi></signed>
                   <hi rend="cursive script">J.W.R.</hi>
-                  <hi rend="typewrite">Assistant</hi> Comptroller <hi rend="cursive script"
+                  <hi rend="typewritten">Assistant</hi> Comptroller <hi rend="cursive script"
                      >C.H.</hi></closer>
             </body>
             <back>
