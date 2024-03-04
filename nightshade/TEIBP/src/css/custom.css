@@ -9,6 +9,6 @@ note {
     background: #E6E9DA;
 }
 
-TEI {
-    width: auto;
+html {
+    width: fit-content;
 }
