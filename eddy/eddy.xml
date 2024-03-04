@@ -260,39 +260,7 @@
          </div>
       </body>
    </text>
-   <!-- GT: excellent work on everything below -->
    <standOff>
-      <!-- GT: this is a great way to do the notes. It changes their status, in a way: they're separate from the text rather than part of the text. Everything in <standOff> is considered like an associated database or appendix... -->
-      <listAnnotation>
-         <!-- GT: normally you'd give notes enumerating XML:ids, as in n1, n2, n3, etc... I think that's because you might want at some point to cycle or loop through them: maybe you want to represent them as numbered end notes...-->
-         <annotation xml:id="ice_fall" target="editorial_stmt" motivation="commenting">
-            <note>
-               In 1866, Mary experienced an injurous fall in Lynn Massachusetts, having slipped on a patch of ice. The treatment of this injury involved morphine doses, which Mary continued taking through the end of her life. The fall marked a moment of spiritual revelation for Eddy, who attributed her recovery to teachings from the Bible and subsequently delved further into spititualism and the foundation of Christian Science.
-            </note>
-         </annotation>
-         <annotation xml:id="christian_science" target="editorial_stmt" motivation="commenting">
-            <note>
-               Christian Science is the religion founded by Mary Baker Eddy. Its followers believe in healing and transformation through spirituality,  specifically through the doctrines and teachings of the Bible. After experiencing her own accident and divine healing, Mary spread her doctrines through her foundational textbook Christian Science and the Church itself. Founded in 1879, Christian Science is still a religion today.
-            </note>
-         </annotation>
-         <annotation xml:id="science_and_health" target="editorial_stmt" motivation="commenting">
-            <note>
-               Science and Health is the foundation scripture of Christian Science, written by Mary Baker Eddy from 1872-1975. The text is 500 pages long, was published by Christian Science Publishing Co., and is available through the organization's website. Christian Scientists refer to Science and Health alongside the Bible within their sermons, the teachings of both being integral to their religion. 
-            </note>
-         </annotation>
-         <annotation xml:id="line_break" target="poems" motivation="commenting">
-            <note>There are two types of line breaks seen in Mary's poetry. An End-Stop is when a line of poetry ends on a period or natural break in the sentence. An Enjambment is when a sentence continues across multiple poetic lines.
-            </note>
-         </annotation>
-         <annotation xml:id="meter" target="poems" motivation="commenting">
-            <note>
-               Poetic meter refers to the pattern of stressed and unstressed syllables in a line of poetry. Feet contain the repeated pattern of stressed sylablles, and can contain two or three syllables per feet. 
-               Two-syllable feet include Iambs (unstressed / stressed), Trochee (stressed / unstressed), and Spondee (stressed / stressed). Three-syllable feet include Anapests (unstressed / unstressed / stressed) and Dactyls (stressed / unstressed / unstressed). 
-            </note>
-            <!-- Annotations will be marked with xml:id references and bibliographic information, but first need to figure out what tags can be used for such purposes -->
-            <!-- GT: I'm not sure if this is what you're looking for here, but you can use <ref> or <ptr/> to point to the bilbiographic entries below -->
-         </annotation>
-      </listAnnotation>
       <listPerson>
          <head>
             <s>Important People</s>
@@ -315,10 +283,7 @@
                   <region type="state">Massachusetts</region>
                </placeName>
             </death>
-            <note>Went by Mary Baker up until age 21</note>
-            <note>Went by Mary Glover froma ages 22 to 31</note>
-            <note>Went by Mary Patterson from ages 32 to 51</note>
-            <note>Went by Mary Eddy from ages 56 to 89</note>
+            <note>Mary was married three times in her life, and went by many different names. These include Mary Baker, Mary Glover, Mary Patterson, Mary Eddy, and Mary Baker Eddy, the name most frequently associated with her.</note>
          </person>
          <person xml:id="albert_baker">
             <persName>
@@ -455,10 +420,29 @@
          </place>
       </listPlace>
       <listEvent>
-         <event xml:id="birthday" when="1821-07-16">
-            <label>birthday</label>
+         <head>
+            <s>Important Events</s>
+         </head>
+         <event xml:id="paitent_of_phineas" when="1862">
+            <label>Patient of Phineas Quimby</label>
+            <desc>After a prolonged period of physical ailments and sickness, Mary became a patient of Phineas Quimby in 1862, a doctor recommended by her then-husband Daniel Patterson. From 1862 to 1865, Mary and Quimby attempted to cure Mary without medicine, a process which Mary found religiously motivating. Mary produced notes as a result of her relationship with Quimby that associated physical healing with strong religious beliefs.</desc>
          </event>
-         <!-- Add more important dates: death of relatives, separation from husbands, birth of her son, foundation of Christian Science, publication of Science and Health, fall on the ice, death -->
+         <event xml:id="ice_fall" when="1866-02-01">
+            <label>Ice Fall</label>           
+            <desc>In 1866 in Lynn, Massachusetts, Mary was critically injured after slipping on a path of ice. Mary's treatment was medical and spiritual - her doctor, Alvin Cushing, gave her small doses of morphine, which she would continue taking through the end of her life. However, Mary attributed her renewed health to faith, and her renewed belief in the New Testament and God's healing power gave her spiritual momentum which resulted in the foundation of the Christian Science religion.</desc>
+         </event>
+         <event xml:id="science_and_health_publication" when="1875-10-03">
+            <label>Publication of Science and Health</label>
+            <desc>In 1872, Mary began writing Science and Health, the foundational religious text for Christian Science, intended as a companion to the Christian Bible. The first edition of Science and Health was published in 1875, and the text continued to be revised and reprinted throughout Mary's lifetime. The work is comprised of fourteen primary chapters, a "Key to the Scriptures," and a Fruitage composed of testimonies.</desc>
+         </event>
+         <event xml:id="christian_science_foundation" when="1879-08-23">
+            <label>Foundation of the Church of Christ, Scientist</label>
+            <desc>In 1879, Mary and her fellow Christian Scientists voted to organize a Church around the teachings from Science and Health. The Church of Christ, Scientist, became an official religion in August of 1879, and in the years following, Mary and other founding members established official buildings, created missionary services, and offered classes through the Church. Christian Scientists believe in that physical healing can occur through spirituality and is still a religion today.</desc>
+         </event>
+         <event xml:id="poems_publication" when="1910">
+            <label>Publication of Poems</label>
+            <desc>Mary wrote poems throughout her lifetime, and a few months prior to her death in December of 1910, she requested that her writings be collected for publication. The collection was published through the Church of Christ, SCientist, a decision authorized by the trustees of Mary's will. The poems featured in this collection are taken from a various points in her life, and touch on subjects of religion, family, and nature.</desc>
+         </event>
       </listEvent>
       <listBibl>
          <head>
