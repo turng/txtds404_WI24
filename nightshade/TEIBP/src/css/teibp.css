@@ -1672,6 +1672,7 @@ table > head {
   text-align: center;
 }
 teiHeader {
+  text-align: center;
   display: block;
   /*
 border-radius: 15px;
@@ -1683,6 +1684,7 @@ background:white;
   border-bottom: 1px solid #999;
 }
 TEI > text {
+  text-indent: 2%;
   display: block;
   background: #D6DAC4;
   /*
@@ -1833,7 +1835,8 @@ html > body {
   padding: 0;
 }
 html {
-  padding: 100px;
+  padding: 15%;
+  padding-top: 7%;
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
   background-color: #D6DAC4;
