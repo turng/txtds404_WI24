@@ -157,6 +157,11 @@
    		<ref target="https://www.blackpoolgrand.co.uk/complete-guide-to-pantomime"/>
 	    </bibl>
          </div><!-- GT: I think you're missing a closing </bibl> here... -->
+
+	 <!-- TITLE PAGE -->
+	 <div type="title page">
+	    <head rend="caps">Harlequin and Friar Bacon</head>
+	    <subhead rend="caps">or</subhead>
          
          <!-- SCENE V -->
          <div type="scene" n='5'>
