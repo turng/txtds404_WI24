@@ -1825,7 +1825,7 @@ html {
   font-family: Garamond;
   font-size: 14pt;
   color: #292929;
-  width: 1500px;
+  width: 100%;
 }
 img {
   border: 1px solid #AAA;
@@ -1897,7 +1897,7 @@ a:hover {
 /* facsViewer */
 #resizable {
   background-color: #EBEBEB;
-  width: 550px;
+  width: auto;
   height: 700px;
   overflow: hidden;
   padding: 0 1em .25em 0;
