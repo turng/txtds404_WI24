@@ -94,12 +94,7 @@
                   <stamp rend="caps">Atty's.</stamp>
                   <salute>Dear Sir:</salute></opener>
 
-               <!-- GT: This is another small detail but potentially a headache down the line. Since you encode the <lb>, you might think about how to deal with
-		    the hyphen. The problem is if you want to output this without the line-break, the hyphen will be there. So you idea would be to 
-		    encode the hyphen as well. Sometimes you see something like: <pc type="EOLhyphen"-</pc>. <pc> = punctuation character. This way,
-		    if you don't output the <lb>, you can also withhold the hyphen from the output -->
-
-               <p>We have recieved and filled your claim with the proper offi-<lb/>cial of the
+               <p>We have recieved and filled your claim with the proper offi<pc type="EOLhyphen>">-</pc><lb/>cial of the
                   Government, and will prosecute it to a final settlement.<lb/></p>
 
                <p>Prior to <date when="1900-06-06">June 6, 1900</date>, attorneys' fee were deducted
@@ -117,7 +112,7 @@
                   person or sent to his bona fide post office adress (residence <lb/>of place of
                   business.)"<lb/></p>
 
-               <p>Under this act fees are held to be a matter of adjust-<lb/>ment between claimants
+               <p>Under this act fees are held to be a matter of adjust<pc type="EOLhyphen>">-</pc><lb/>ment between claimants
                   and attorneys, and the Government <hi rend="caps">does not <lb/>now deduct and pay
                      fees to attorneys as formerly</hi> in any of the above <lb/>described claims
                   filed since the Act of Congress approved <date when="1900-06-06">June 6,<lb/>
