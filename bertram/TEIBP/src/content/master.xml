@@ -576,8 +576,8 @@
          <div type="bibliography">
             <listBibl>
                <bibl xml:id="Bertram_Papers">
-                  <title>Jasper N. Bertram papers</title>
-                  <ref target="https://archiveswest.orbiscascade.org/ark:/80444/xv10931"/>
+                  <title level="a">Jasper N. Bertram papers</title>.<publisher>Special Collections, University of Washington Libraries</publisher>,
+                  <ref target="https://archiveswest.orbiscascade.org/ark:/80444/xv10931">https://archiveswest.orbiscascade.org/ark:/80444/xv10931</ref>
                </bibl>
                <bibl xml:id="Winston_Company">
                   <title>John C. Winston Company</title>
