@@ -306,15 +306,12 @@
                   <title>John C. Winston Company</title>
                   <ref target="https://www.wikidata.org/wiki/Q21808712"/>
                </bibl>
-               <bibl xml:id="Chelan_County">
-                  <title>Chelan County</title>
-                  <ref target="https://www.co.chelan.wa.us/"/>
+               <bibl xml:id="Chelan_County" type="webpage">
+                  <title level="a">City of Chelan County</title>, <ref target="https://cityofchelan.us/">cityofchelan.us</ref>
                </bibl>
-               <bibl xml:id="lakeside">
-                  <title>Lakeside</title>
-                  <ref
-                     target="https://edits.nationalmap.gov/apps/gaz-domestic/public/search/names/1521865"
-                  />
+               <bibl xml:id="lakeside" type="webpage">
+                  <author>Wikipedia Contributors</author>,<title level="a">Lakeside, Washington</title>.<publisher>Wikipedia, the Free Encyclopedia</publisher>,
+                  <ref target="https://en.wikipedia.org/w/index.php?title=Lakeside,_Washington&amp;oldid=1186419158">https://en.wikipedia.org/w/index.php?title=Lakeside,_Washington&amp;oldid=1186419158</ref>
                </bibl>
                <bibl xml:id="Diphtheria">
                   <title>Diphtheria</title>
