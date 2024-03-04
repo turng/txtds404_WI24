@@ -21,11 +21,11 @@
       <body>
          <div type="entry">
             <head><date when="1897-01-11">Jan. 11, 1887</date></head>
-            <p>On the <date when="1897-01-11">Eleventh of January</date> the Shakespeare Club met at <name type="location" ref="#Carrie-Gove">Miss Gove</name>'s for the purpose of Reading The Merchant of Venice.</p>
+            <p>On the <date when="1897-01-11">Eleventh of January</date> the Shakespeare Club met at <name type="location" ref="#Carrie-Gove">Miss Gove</name>'s for the purpose of Reading <name type="play" ref="#Merchant">The Merchant of Venice</name>.</p>
             <p>The President called the Club to order at 7.15. The roll call was given &amp; all members being present &amp; answering with quotations from the above mentioned play.</p>
             <p>After the roll call the minutes of the meeting of <date when="1897-01-04">Jan. 4<hi style="vertical-align: super; font-size: 80%;">th</hi></date> were read &amp; approved- <name type="person" ref="#Ames">Mrs. Ames</name> there ?from? ?gift? ?are? the [illegible] use of several ?words? that had been discussed at the meeting of the <date when="1897-01-04">4<hi style="vertical-align: super; font-size: 80%;">th</hi></date> after which they one hour was spent in discussing [illegible!] [illegible] from the ?guidance!? [illegible]—which the President read.</p>
-            <p>At 8 o'clock- began reading The Merchant of Venice- ?all? reading through two scenes of the third act. [Illegible] there being ?few? [illegible] at which time the [illegible] adjourned to meet on <date when="1897-01-18">Monday the 18<hi style="vertical-align: super; font-size: 80%;">th</hi>, 1897</date>, the place of meeting being <name type="location" ref="#Wylde">Mrs. Wylde</name>'s at which ?time? The Merchant of Venice is to be finished and a part of Romeo &amp; Juliet which had been cast by <name type="person" ref="#Wylde">Mrs. Wylde</name> with cast as follows-</p>
-            <p style="text-align: center"><name type="play">Romeo &amp; Juliet</name></p>
+            <p>At 8 o'clock- began reading <name type="play" ref="#Merchant">The Merchant of Venice</name>- ?all? reading through two scenes of the third act. [Illegible] there being ?few? [illegible] at which time the [illegible] adjourned to meet on <date when="1897-01-18">Monday the 18<hi style="vertical-align: super; font-size: 80%;">th</hi>, 1897</date>, the place of meeting being <name type="location" ref="#Wylde">Mrs. Wylde</name>'s at which ?time? The Merchant of Venice is to be finished and a part of <name type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet </name>which had been cast by <name type="person" ref="#Wylde">Mrs. Wylde</name> with cast as follows-</p>
+            <p style="text-align: center"><name type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</name></p>
             <list>
                <item><name type="person" ref="#Robinson">Mrs Robinson</name></item>
                   <item style="margin-left: 2em">Romeo</item>
@@ -34,6 +34,17 @@
             <signed>M. N. Ames.</signed>
             <signed style="margin-top: 0em;">Sec-</signed>
             <dateline><date when="1897-01-16">Jan - 16/97</date></dateline>
+         </div>
+         <div type="entry">
+            <head><date when="1897-01-18">Jan. 18, 1887</date></head>
+            <p>On <date when="1897-01-18">the eighteenth of January</date>, Shakespeare Club met at <name type="location" ref="#Condon">Mrs Condon</name>'s. The place of meeting has been changed by <name type="location" ref="#Condon">Mrs. Condon</name>--</p>
+            <p>At ten minutes past seven the President called the Club to order - all members being present, and answering with quotations from <name type="play" ref="#Merchant">Merchant of Venice </name>&amp; <name type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</name>.</p>
+            <p>After the roll call the minutes of <date when="1897-01-11">January Eleventh</date> were read and approved--</p>
+            <p>There being no business to attend to- the President gave questions from the Grammar which were discussed for some twenty minutes.</p>
+            <p>At 7-35- began reading at the III <hi style="text-decoration: line-through">act</hi> scene of the IV act of <name type="play" ref="#Merchant">Merchant of Venice </name>the remainder of the play being finished at 8.55- at which time fifteen minutes was spent discussing. At 9.05-- began the reading of <name type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet &amp;</name> finishing the first act it being ten at which time the Club adjourned to meet at <name type="play" ref="#Wylde">Mrs. Wylde</name>'s-- <date when="1897-01-25">January twenty-fifth</date> <name type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet &amp;</name>.</p>
+            <signed>M. N. Ames.</signed>
+            <signed style="margin-top: 0em;">sec</signed>
+            <dateline><date when="1897-01-16">Jan - 19/97</date></dateline>
          </div>
       </body>
   </text>
