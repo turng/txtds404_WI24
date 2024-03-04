@@ -155,7 +155,7 @@ activity:before {
   content: "activity: ";
 }
 actor {
-  /* Empty Rule Set */
+  margin-left: 4em
 }
 /* add */
 /* Could add other [place=] variations */
