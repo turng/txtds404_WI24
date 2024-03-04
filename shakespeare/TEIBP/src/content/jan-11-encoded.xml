@@ -28,7 +28,7 @@
             <p style="text-align: center"><title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title></p>
             <castList>
                <castItem>
-                  <role>Romeo</role>
+                  <role>Romeo &#xA;</role>
                   <role style="margin-left: 1.5em">1st Watch</role>
                   <actor style="margin-left: 1.5em"><name type="person" ref="#Robinson">Mrs Robinson</name></actor>
                </castItem>
