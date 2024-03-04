@@ -1833,6 +1833,7 @@ html > body {
   padding: 0;
 }
 html {
+  padding: 100px;
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
   background-color: #D6DAC4;
