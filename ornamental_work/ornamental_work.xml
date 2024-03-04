@@ -86,34 +86,145 @@
       </front>
       <body>
          <div type="InstructionProse">
-            <p>To attempt to enumerate the many articles which can be made by knitting, would be useless, as volumes might be written without exhausting the subject, and its advantages, both of use and ornament, are almost as inexhaustible. Knitting can truly be called the friend of the aged and blind; the fingers supplying the want of eyesight, and solacing many weary hours which otherwise would be tedious to bear. It gives employment to the poor, amusement to the rich, and supplies to all something in the way of garments, either useful or ornamental. The beautiful shawls, so fashionable of late years, are many of them knit by ladies, in their moments of leisure; and caps, comforters, tippets, gaiters, shoes etc. are made in vast quantities, either for money or for gifts to friends. In ornamental knitting, with silk and beads, the number is almost as great as for purely useful articles. The implements necessary, are different sizes of needles, called knitting needles, and cotton, wool, or silk, as desired. The position of the hands is important in learning to knit, either to be a rapid or elegant knitter; but practice alone will enable a person to become a thorough proficient.</p>
+            <p>To attempt to enumerate the many articles which can be made by knitting, would be
+               useless, as volumes might be written without exhausting the subject, and its
+               advantages, both of use and ornament, are almost as inexhaustible. Knitting can truly
+               be called the friend of the aged and blind; the fingers supplying the want of
+               eyesight, and solacing many weary hours which otherwise would be tedious to bear. It
+               gives employment to the poor, amusement to the rich, and supplies to all something in
+               the way of garments, either useful or ornamental. The beautiful shawls, so
+               fashionable of late years, are many of them knit by ladies, in their moments of
+               leisure; and caps, comforters, tippets, gaiters, shoes etc. are made in vast
+               quantities, either for money or for gifts to friends. In ornamental knitting, with
+               silk and beads, the number is almost as great as for purely useful articles. The
+               implements necessary, are different sizes of needles, called knitting needles, and
+               cotton, wool, or silk, as desired. The position of the hands is important in learning
+               to knit, either to be a rapid or elegant knitter; but practice alone will enable a
+               person to become a thorough proficient.</p>
             <figure>
                <graphic url="knit.png"/>
             </figure>
-            <p>Fig. 1, The first process in <ref target="#CastOn">casting on.</ref> — Hold the end of cotton between the first and second fingers of the left hand, twist it over the thumb and forefinger, and bend the latter to twist the cotton into a loop ; bend the needle in the loop ; hold the cotton, attached to the reel, between the third and little fingers of the right hand, and over the point of the forefinger ; bring the thread round the needle, by the slightest possible motion ; bend the needle towards you, and tighten the loop on the left hand finger, in letting it slip off to form the first stitch.</p>
-            <p>Fig. 2. Now take that needle with the loop on it, in the left hand, and another in the right. Observe the position of the hands. The left hand needle is held between the thumb and the second finger, leaving the forefinger free, to aid in moving the points of the needles. This mode of using the forefinger, instead of employing it merely to hold the needle, is the great secret of being able to knit without looking at the work ; for so extremely delicate is the sense of touch in this finger, that it will, after a little practice, enable you to tell the sort of stitch coming next, in the finest material, so that knitting becomes merely mechanical. The engraving indicates the mode in which the right hand needle should be held. Insert the point in the loop, bringing it behind the other needle, slip the thread round it, bring the point in front, and transfer the loop to the left hand needle, without withdrawing it from the right hand. Repeat the process for any number of stitches required.</p>
-            <p>Fig. 3. Plain Knitting. — Slip the point of the right hand needle in a loop, bring the thread round it, and, with the forefinger, push the point of the needle off the loop, so that the thread, just twisted round, forms a new one on the right hand.</p>
-            <p>Fig. 4. Purling. — The right hand needle is slipped in the loop in front of the left hand one, and the thread, after passing between the two, is brought round it ; it is then worked as before. The thread is always brought forward before beginning a purled stitch, unless particular directions to the contrary are given.</p>
-            <p>Fig. 5. The mode of malting stitches. — To make one, merely bring the thread in front, before knitting, when, as it passes over the needle, it makes a loop ; to make two, three, or more, pass the thread round the needle in addition, once for two, twice for three, and so on.</p>
-            <p>Fig. 6. To decrease. — Take one stitch off without knitting ; knit one, then slip the point of the left hand needle in the unknitted stitch, and draw it over the other. To decrease two or more, slip one, knit two, three, or more together, as one, and pass the slip-stitch over.</p>
-            <p>Fig. 7. The way to join a round. — Four or five needles are used in round work, such as socks, stockings, etc. Cast on any given number of stitches on one needle, then slip another needle in the last stitch, before casting any on it ; repeat for any number. When all are cast on, knit the first two stitches off on to the end of the last needle. One needle is always left unused in casting on for a round.</p>
-            <p>Fig. 8. The way of joining the toe of a sock, or any similar thing. — Divide all the stitches on to two needles, hold both, in the left hand as if they were one, and in knitting, take a loop off each one, which knit together.</p>
-            <p>Fig. 9. To <ref target="#CastOff">cast off.</ref> — Knit two stitches ; with the left hand needle draw the first over the second ; knit another ; repeat. Observe that the row before the casting-off should never be very tightly knitted.</p>
-            <p>Fig. 10. This shows the mode of knitting three stitches together, so that the centre one shall be in front. Slip two off the needle together ; knit the third, and draw the others over together.</p>
-            <p>To raise a stitch, is to knit the bar of thread between the two stitches, as one.</p>
+            <p>Fig. 1, The first process in <ref target="#CastOn">casting on.</ref> — Hold the end
+               of cotton between the first and second fingers of the left hand, twist it over the
+               thumb and forefinger, and bend the latter to twist the cotton into a loop ; bend the
+               needle in the loop ; hold the cotton, attached to the reel, between the third and
+               little fingers of the right hand, and over the point of the forefinger ; bring the
+               thread round the needle, by the slightest possible motion ; bend the needle towards
+               you, and tighten the loop on the left hand finger, in letting it slip off to form the
+               first stitch.</p>
+            <p>Fig. 2. Now take that needle with the loop on it, in the left hand, and another in
+               the right. Observe the position of the hands. The left hand needle is held between
+               the thumb and the second finger, leaving the forefinger free, to aid in moving the
+               points of the needles. This mode of using the forefinger, instead of employing it
+               merely to hold the needle, is the great secret of being able to knit without looking
+               at the work ; for so extremely delicate is the sense of touch in this finger, that it
+               will, after a little practice, enable you to tell the sort of stitch coming next, in
+               the finest material, so that knitting becomes merely mechanical. The engraving
+               indicates the mode in which the right hand needle should be held. Insert the point in
+               the loop, bringing it behind the other needle, slip the thread round it, bring the
+               point in front, and transfer the loop to the left hand needle, without withdrawing it
+               from the right hand. Repeat the process for any number of stitches required.</p>
+            <p>Fig. 3. <ref target="#PlainRow">Plain</ref> Knitting. — Slip the point of the right
+               hand needle in a loop, bring the thread round it, and, with the forefinger, push the
+               point of the needle off the loop, so that the thread, just twisted round, forms a new
+               one on the right hand.</p>
+            <p>Fig. 4. Purling. — The right hand needle is slipped in the loop in front of the left
+               hand one, and the thread, after passing between the two, is brought round it ; it is
+               then worked as before. The thread is always brought forward before beginning a purled
+               stitch, unless particular directions to the contrary are given.</p>
+            <p>Fig. 5. The mode of malting stitches. — To make one, merely bring the thread in
+               front, before knitting, when, as it passes over the needle, it makes a loop ; to make
+               two, three, or more, pass the thread round the needle in addition, once for two,
+               twice for three, and so on.</p>
+            <p>Fig. 6. To decrease. — Take <num type="StitchCount" value="1">one</num> stitch off
+               without knitting ; knit <num type="StitchCount" value="1">one</num>, then slip the
+               point of the left hand needle in the unknitted stitch, and draw it over the other. To
+               decrease two or more, <ref target="#SlipOrPassAStitch">slip</ref>
+               <num type="StitchCount" value="1">one</num>, knit <num type="StitchCount" value="2"
+                  >two</num>, <num type="StitchCount" value="3">three</num>, or more together, as
+               one, and <ref target="#SlipOrPassAStitch">pass</ref> the slip-stitch over.</p>
+            <p>Fig. 7. The way to join a round. — <num type="Materials" value="4">Four</num> or <num
+                  type="Materials" value="5">five</num> needles are used in round work, such as
+               socks, stockings, etc. <ref target="#CastOn">Cast on</ref> any given number of
+               stitches on one needle, then slip another needle in the last stitch, before <ref
+                  target="#CastOn">casting any on</ref> it ; repeat for any number. When all are
+                  <ref target="#CastOn">cast on</ref>, knit the first <num type="StitchCount"
+                  value="2">two</num> stitches off on to the end of the last needle. One needle is
+               always left unused in <ref target="#CastOn">casting on</ref> for a round.</p>
+            <p>Fig. 8. The way of joining the toe of a sock, or any similar thing. — Divide all the
+               stitches on to two needles, hold both, in the left hand as if they were one, and in
+               knitting, take a loop off each one, which knit together.</p>
+            <p>Fig. 9. To <ref target="#CastOff">cast off.</ref> — Knit <num type="StitchCount"
+                  value="2">two</num> stitches ; with the left hand needle draw the first over the
+               second ; knit another ; repeat. Observe that the <ref target="#Row">row</ref> before
+               the <ref target="#CastOff">casting-off</ref> should never be very tightly
+               knitted.</p>
+            <p>Fig. 10. This shows the mode of knitting <num type="StitchCount" value="3"
+                  >three</num> stitches together, so that the centre one shall be in front. <ref
+                  target="#SlipOrPassAStitch">Slip</ref>
+               <num type="StitchCount" value="2">two</num> off the needle together ; knit the third,
+               and draw the others over together.</p>
+            <p>To raise a stitch, is to knit the bar of thread between the <num type="StitchCount"
+                  value="2">two</num> stitches, as one.</p>
             <figure>
                <graphic url="Turk.png"/>
-               <figDesc>TURKISH SLIPPER.</figDesc>
+               <figDesc>Image of a knitted slipper, with multiple horizontal layers of varied,
+                  patterned knitting and a fringe with tassels surrounding the top.</figDesc>
+               <p rend="bottom"><hi rend="caps">Turkish Slipper.</hi></p>
             </figure>
-            <p>BOOK CUSHION IN ORNE' KNITTING.</p>
-            <p>Materials. — One ball of No. 16 Orne' knitting wool ; No. 11 knitting pins ; one-half ounce shaded amber ; one-half ounce of deep claret Berlin wool. No. 2 Penelope Hook ; 1 yard of twilled colored lining ; two-thirds yard of claret colored cotton or silk velvet ; as much bran as will stuff the cushion hard. Some silk gimp or worsted bullion fringe to match, and four tassels.</p>
+            <div type="Materials" xml:id="BookCushioninOrneKnitting">
+               <head type="main" rend="caps">BOOK CUSHION IN ORNE' KNITTING.</head>
+               <ab>Materials. — <num type="MaterialAmount" value="1">One</num> ball of No. 16 Orne'
+                  knitting wool ; No. 11 knitting pins ; <num type="MaterialAmount" value="0.5"
+                     >one-half</num> ounce shaded amber ; <num type="MaterialAmount" value="0.5"
+                     >one-half</num> ounce of deep claret Berlin wool. No. 2 Penelope Hook ; <num
+                     type="MaterialAmount" value="1">1</num> yard of twilled colored lining ; <num
+                     type="MaterialAmount" value="0.66">two-thirds</num> yard of claret colored
+                  cotton or silk velvet ; as much bran as will stuff the cushion hard. Some silk
+                  gimp or worsted bullion fringe to match, and <num type="MaterialAmount" value="4"
+                     >four</num> tassels.</ab>
+            </div>
             <figure>
                <graphic url="bookcushion.png"/>
-               <figDesc>BOOK CUSHION IN ORNE KNITTING.</figDesc>
+               <figDesc>A decorative cushion, with tassels on each corner. A knit decor center of
+                  flowers across the top of the cushion.</figDesc>
+               <p rend="bottom"><hi rend="caps">Book Cushion in Orne Knitting.</hi></p>
             </figure>
-            <p>The Orne knitting ball consists of beautifully colored threads of fine wool knotted at equal lengths ; each knot terminating one row ; and this, when knitted up, produces the engraved elegant design, which is twenty-two inches long by seventeen broad.</p>
-            <p>With the claret Berlin wool cast on 140 stitches, then join on the Orne' knitting ball, and knit it in moss-stitch, thus :1st Roiv. — Slip 1. Knit and pearl each stitch alternately. 2nd. — Slip 1. Pearl and knit alternately.</p>
-            <p>Observe that the stitch which was pearled, must in the next row be knitted, and always slip the first stitch. By continuing this from knot to knot the design will work itself out ; but should the thread of wool be too long or too short, tighten or slacken the preceding stitches, with a pin, or the finger and thumb, but invariably bring the knot to the edge. When the ball is knitted up, with the claret wool work a row of Dc all round, making three stitches into each corner stitch of the knitting. Then, with shaded wool, work a row of double L stitches all round. These are made by twisting the wool twice over the hook ; work three stitches into every stitch at the corner^ Then, with claret wool, work another row ; damp the knitting, pull it, and lay it between linen clothes under a heavy weight. Now make up the cushion, and trim it as in engraving. This work will wash and look equal to new, by mixing a little ox-gall with a little curd soap lather, and washing it in the ordinary way, spreading it out to dry, and turning it frequently.</p>
+            <div type="InstructionProse">
+               <p>The Orne knitting ball consists of beautifully colored threads of fine wool
+                  knotted at equal lengths ; each knot terminating <num type="RowNumber" value="1"
+                     >one</num>
+                  <ref target="#Row">row</ref> ; and this, when knitted up, produces the engraved
+                  elegant design, which is <num type="Length" value="22">twenty-two</num> inches
+                  long by <num type="Length" value="17">seventeen</num> broad.</p>
+               <p>With the claret Berlin wool <ref target="#CastOn">cast on</ref>
+                  <num type="StitchCount" value="140">140</num> stitches, then join on the Orne'
+                  knitting ball, and knit it in moss-stitch, thus :<num type="RowNumber" value="1"
+                     >1st</num>
+                  <ref target="#Row">Row</ref>. — <ref target="#SlipOrPassAStitch">Slip</ref>
+                  <num type="StitchCount" value="1">1</num>. Knit and <ref target="#PearlARow"
+                     >pearl</ref> each stitch alternately. <num type="RowNumber" value="2"
+                     >2nd.</num> — <ref target="#SlipOrPassAStitch">Slip</ref>
+                  <num type="StitchCount" value="1">1</num>. <ref target="#PearlARow">Pearl</ref>
+                  and knit alternately.</p>
+               <p>Observe that the stitch which was <ref target="#PearlARow">pearled</ref>, must in
+                  the next <ref target="#Row">row</ref> be knitted, and always <ref
+                     target="#SlipOrPassAStitch">slip</ref> the first stitch. By continuing this
+                  from knot to knot the design will work itself out ; but should the thread of wool
+                  be too long or too short, tighten or slacken the preceding stitches, with a pin,
+                  or the finger and thumb, but invariably bring the knot to the edge. When the ball
+                  is knitted up, with the claret wool work a row of Dc all round, making <num
+                     type="StitchCount" value="3">three</num> stitches into each corner stitch of
+                  the knitting. Then, with shaded wool, work a <ref target="#Row">row</ref> of
+                  double L stitches all round. These are made by twisting the wool twice over the
+                  hook ; work <num type="StitchCount" value="3">three</num> stitches into every
+                  stitch at the corner. Then, with claret wool, work another <ref target="#Row"
+                     >row</ref> ; damp the knitting, pull it, and lay it between linen clothes under
+                  a heavy weight. Now make up the cushion, and trim it as in engraving. <ref
+                     type="note" target="n4">This work will wash and look equal to new, by mixing a
+                     little ox-gall with a little curd soap lather, and washing it in the ordinary
+                     way, spreading it out to dry, and turning it frequently.</ref></p>
+            </div>
             <figure>
                <graphic url="torturedevice.png"/>
                <graphic url="stock.png"/>
@@ -666,7 +777,8 @@
          <div type="section" xml:id="PincushionCoverLeafPattern">
             <head type="main"><hi rend="caps">Pincushion Cover.</hi></head>
             <head type="sub"><hi rend="caps">Leaf Pattern</hi></head>
-            <ab type="materials"><hi rend="italics">This pattern is knitted with 4 needles, No. 18.</hi></ab>
+            <ab type="materials"><hi rend="italics">This pattern is knitted with 4 needles, No.
+                  18.</hi></ab>
             <ab type="InstructionProse"><ref target="CastOn">Cast</ref> 45 stitches on each of 3
                needles (15 being required for each stripe). First <ref target="Round">round</ref>,
                begin with the cotton forward, purl 2 stitches, pass the cotton back, knit one,
