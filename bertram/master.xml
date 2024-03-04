@@ -576,31 +576,28 @@
          <div type="bibliography">
             <listBibl>
                <bibl xml:id="Bertram_Papers">
-                  <title>Jasper N. Bertram papers</title>
-                  <ref target="https://archiveswest.orbiscascade.org/ark:/80444/xv10931"/>
+                  <title level="a">Jasper N. Bertram papers</title>.<publisher>Special Collections, University of Washington Libraries</publisher>,
+                  <ref target="https://archiveswest.orbiscascade.org/ark:/80444/xv10931">https://archiveswest.orbiscascade.org/ark:/80444/xv10931</ref>
                </bibl>
                <bibl xml:id="Winston_Company">
-                  <title>John C. Winston Company</title>
-                  <ref target="https://www.wikidata.org/wiki/Q21808712"/>
+                  <title level="a">John C. Winston Company</title>.<publisher>Wikidata</publisher>,
+                  <ref target="https://www.wikidata.org/wiki/Q21808712">https://www.wikidata.org/wiki/Q21808712</ref>
                </bibl>
                <bibl xml:id="Chelan_County" type="webpage">
-                  <title level="a">City of Chelan County</title>, <ref target="https://cityofchelan.us/">cityofchelan.us</ref>
+                  <title level="a">City of Chelan County</title>,<ref target="https://cityofchelan.us/">cityofchelan.us</ref>
                </bibl>
                <bibl xml:id="lakeside" type="webpage">
                   <author>Wikipedia Contributors</author>,<title level="a">Lakeside, Washington</title>.<publisher>Wikipedia, the Free Encyclopedia</publisher>,
                   <ref target="https://en.wikipedia.org/w/index.php?title=Lakeside,_Washington&amp;oldid=1186419158">https://en.wikipedia.org/w/index.php?title=Lakeside,_Washington&amp;oldid=1186419158</ref>
                </bibl>
-               <bibl xml:id="Diphtheria">
-                  <title>Diphtheria</title>
-                  <ref
-                     target="https://artsci.case.edu/dittrick/2014/04/29/deadly-diphtheria-the-childrens-plague/"
-                  />
+               <bibl xml:id="Diphtheria" type="webpage">
+                 <author>Case Western Reserve University</author>,<title level="a">Diphtheria</title>.<publisher>Case Western Reserve University</publisher>,
+                  <ref target="https://artsci.case.edu/dittrick/2014/04/29/deadly-diphtheria-the-childrens-plague/">https://artsci.case.edu/dittrick/2014/04/29/deadly-diphtheria-the-childrens-plague/</ref>
                </bibl>
                <bibl xml:id="Cralle_Co">
-                  <title>JB Cralle &amp; Co</title>
-                  <ref
-                     target="https://www.nps.gov/common/uploads/teachers/lessonplans/General%20Affadavit%201905.pdf"
-                  /></bibl>
+                  <author>JB Cralle &amp; Co</author>,<title level="a">JB Cralle &amp; Co</title>.
+                  <ref target="https://www.nps.gov/common/uploads/teachers/lessonplans/General%20Affadavit%201905.pdf">https://www.nps.gov/common/uploads/teachers/lessonplans/General%20Affadavit%201905.pdf</ref>
+	       </bibl>
             </listBibl>
          </div>
       </back>
