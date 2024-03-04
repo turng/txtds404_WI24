@@ -12,6 +12,10 @@ html {
   font-weight: bold;
 }
 
+.uppercase {
+    text-transform: uppercase;
+}
+
 #tei_wrapper {
   width: 65%;
   margin: auto;

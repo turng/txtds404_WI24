@@ -58,7 +58,7 @@
    <text>
       <front>
          <titlePage>
-            <titlePart><title>Preface</title></titlePart>
+            <titlePart>...</titlePart>
          </titlePage>
          <div type="editorial_intro">
             <p>The present documents reflect a small sample of the corpus known as the Jasper N.
@@ -94,7 +94,7 @@
                   <stamp rend="caps">Atty's.</stamp>
                   <salute>Dear Sir:</salute></opener>
 
-               <p>We have recieved and filled your claim with the proper offi-<lb/>cial of the
+               <p>We have recieved and filled your claim with the proper offi<pc type="EOLhyphen>">-</pc><lb/>cial of the
                   Government, and will prosecute it to a final settlement.<lb/></p>
 
                <p>Prior to <date when="1900-06-06">June 6, 1900</date>, attorneys' fee were deducted
@@ -112,7 +112,7 @@
                   person or sent to his bona fide post office adress (residence <lb/>of place of
                   business.)"<lb/></p>
 
-               <p>Under this act fees are held to be a matter of adjust-<lb/>ment between claimants
+               <p>Under this act fees are held to be a matter of adjust<pc type="EOLhyphen>">-</pc><lb/>ment between claimants
                   and attorneys, and the Government <hi rend="caps">does not <lb/>now deduct and pay
                      fees to attorneys as formerly</hi> in any of the above <lb/>described claims
                   filed since the Act of Congress approved <date when="1900-06-06">June 6,<lb/>
@@ -136,9 +136,11 @@
             </body>
             <back>
                <div type="endnotes">
-                  <note xml:id="Cralle">JB Cralle &amp; Co were claim and pension attorneys. Their
-                     firm was located in Washington DC.<ref type="biblio" target="#source6"/>See
-                     source 6</note>
+                  <note>
+                     <note xml:id="Cralle">JB Cralle &amp; Co were claim and pension attorneys.
+                        Their firm was located in Washington DC.<ref type="biblio" target="#source6"
+                        />See source 6</note>
+                  </note>
                </div>
             </back>
          </text>
@@ -183,13 +185,14 @@
                      <persName>Ala Bruce</persName> at <placeName>Indiana-polis</placeName>
                      <persName>Hial</persName> excpects to go to <persName>Omar</persName> &amp;
                         <persName>Carol</persName> is getting a long as usual has two pet Squieruls
-                     and a fish his little gray man got her high braK<gap rend="strikethrough"/> the
-                        <date when="1903-07-01">first of July</date> and hasent used her any Since
-                     but think he can use her in a few days now write us as soon as you can</p>
+                     and a fish his little gray man got her high braK(unintelligible scribble and
+                     struckout) the <date when="1903-07-01">first of July</date> and hasent used her
+                     any Since but think he can use her in a few days now write us as soon as you
+                     can</p>
                </div>
                <closer>
                   <salute>as ever your Brother</salute>
-                  <signed><persName ref="DH_Bertram">DH Bertram</persName></signed>
+                  <signed><persName ref="#DH_Bertram">DH Bertram</persName></signed>
                </closer>
             </body>
             <back>
@@ -203,8 +206,7 @@
                      Seattle where he was district manager and salesman. He married Mary Huselby in
                      1896. He died on July 1, 1928 in Seattle, Washington." <ref type="biblio"
                         target="#source1">See source 1</ref>.</note>
-                  <note xml:id="Mary_Bertram">"Mary Ann Garret married Jasper N Bertram on January
-                     1st, 1866, in Overton Tennessee and they had five children."</note>
+                  <note xml:id="Mary_Bertram"/>
                   <note xml:id="Diptheria">Diphtheria is a bacterial respiratory illness that
                      primarily affects children under 5. The disease was considered highly
                      contagious and deadly during its height, at the end of the 19th and beginning
@@ -212,12 +214,348 @@
                      of 10 children infected by the disease died. Although, the vaccine was not
                      widely distributed until the 1920s. <ref type="biblio" target="#source5">See
                         source 5</ref></note>
-                  <note xml:id="DH_Bertram">DH Bertram was the brother of Jasper N. Bertram.</note>
+                  <note xml:id="DH_Bertram">DH Bertam was the brother of Jasper N. Bertram</note>
                </div>
             </back>
          </text>
+         <text>
+            <body>
+                  <head rend="small_caps"> Notary public, real estates, inusrance. Propery interests of non-residents looked after. </head>
+                  <head rend="caps"><orgName> Chelan Real Estate office</orgName></head>
+                  <head rend="small_caps"><placeName>Chelan. Washington</placeName><date when="1907-08-07"> Aug 7th, 1907</date></head>
+                  <opener rend="typewritten">
+                     <salute>Mr. J.H.Bertram,</salute>
+                     <placeName>Seattle Wash.</placeName>
+                  </opener>
+                  <p rend="typewriten">Dear sir: Through <persName>Dr. A.I. Mitchell</persName>, I learn that you are
+                     interested in the <placeName ref="#Chelan_country">Chelan Country</placeName> (n3),and contemplate settling here. If you will write
+                     me telling me just what you would like in the way of land and how much you would care to
+                     invest I could answer your letter and tell you whether such land could be had att all
+                     and what the cost would be. You understand we have a fine fruit country and that tha
+                     country is rough or rolling .We have also a fine country and few extremes of eithe rheat
+                     or col.Reinquishments and homesteads are practically gone.I can s sell you a 40 close to
+                     town <hi rend="struck_through">and</hi> atv $20. an acre. Out of this 40 there is 25 acres of the best
+                     of fruit land and the balance is pasture.No improvements.This land joins <placeName ref="Lakeside">Lakeside</placeName> (n4)
+                     on the south and is on teh first bench above. It is within reach of the town and hangs
+                     ovre the hill A person could live in Lakeside if they wish and farm it. I would be glad
+                     to hear from you on the subject and will furnish you any information you may wish.</p>
+                  <closer rend="cursive">
+                     <salute>Very truly,</salute> 
+                     <signed>Barnett Stillery.</signed> 
+                  </closer>
+            </body>
+            <back>
+               <div type="endnotes">
+                  <note xml:id="Chelan_country">Chelan County is located in central Washington<ref type="biblio" target="source3">see source 3</ref></note>
+                  <note xml:id="Lakeside">Lakeside is an unincorporated community located in Chelan County <ref type="biblio" target="source4"> see source 4</ref></note>
+               </div>
+            </back>
+         </text>
+         <text>
+            <body>
+               <opener rend="cursive">
+                  <persName>Douglas</persName>
+                  <dateline>March 1908</dateline>
+                  <salute>Dear grandpa,</salute>
+               </opener>
+               <p rend="cursive">I thought you might like to hear from your only grandson.
+                  <persName>Mama</persName> is going to write too.
+                  I am going to school and trying to learn fast.
+                  I have a nice sled and a nice little kitten. 
+                  Many nice books and playmates. If you will write I will answer your letter.
+                  All the uncles are well, and so is <persName ref="#aunt_nettie">aunt nettie.</persName>
+                  Our coldest day this winter was yesterday,<date> March the 14th.</date>
+                  What do you think of that for spring?</p>
+               <closer rend="cursive">
+                  <salute>With much love,</salute>
+                  <signed><persName>Ralph</persName>.</signed>
+               </closer> 
+            </body>
+         </text>
+         <!-- Start of Nic Staley's documents -->
+         <text xml:id="tn_letter" rend="cursive script">
+            <body>
+               <opener><dateline><placeName type="city" ref="#roseland">Roseland</placeName>
+                  <placeName type="state" ref="#louisiana">La</placeName>. <date when="1901-06-27">June
+                     27/1901</date></dateline><lb/>
+                  <persName ref="#t_noel">Theo Noel</persName>
+                  <roleName>President</roleName> of <orgName ref="#tn_co">T.N.Co</orgName><lb/>
+                  <placeName type="city" ref="#chicago">Chicago</placeName><lb/> My Dear Sir<lb/></opener>
+               <p>A few days ago I rec'd<lb/>
+                  <unclear>yours</unclear> of late date giveing<lb/> ^<hi rend="superscript">your</hi>
+                  agents the second of <unclear><lb/> -naity</unclear> to become stock holders<lb/> in the
+                  "<orgName ref="#tn_co">Theo Noel Company</orgName>.<lb/> The reason I did not at<lb/>
+                  first take the five share of<lb/> stock <unclear>and</unclear> had not
+                  <unclear>up</unclear> to<lb/> The present was The uncertai<lb/> -nty of my haveing
+                  time to<lb/> denote, to the handling the<lb/> remedies, so after geting The<lb/>
+                  business well in hand I<lb/> came here to look after I<lb/> decided to take The stock.
+                  of<pb/> five shares<lb/> and<del rend="strikethrough">before doing so ask</del> ask<lb/>
+                  you <del rend="strikethrough">a few questions</del><lb/> if <del rend="strikethrough"
+                     >would</del> it suits you just<lb/> as well to <del rend="strikethrough">let me make
+                        out</del><lb/>
+                  <del rend="strikethrough">a bill for The $50. worth</del><lb/> instead of taking it
+                  all<lb/> in v.o.?</p>
+               <lb/>
+               <p>Have you a state agent<lb/> for this state?.if so where<lb/> is he located? and
+                  have<lb/> you at state agent in<lb/>
+                  <placeName type="state" ref="#kentucky">Kentucky</placeName>? in a few<lb/> months I
+                  want to visit<lb/> a while in <placeName type="state" ref="#kentucky">Ky</placeName> and
+                  would<lb/> like to combine business<lb/> with pleasure while there</p>
+            </body>
+            <back>
+               <div type="endnotes">
+                  <listPerson>
+                     <person xml:id="t_noel">
+                        <persName>
+                           <surname>Noel</surname>
+                           <forename>Theophilus</forename>
+                        </persName>
+                        <note>Soldier in the Confederate army during the United Stated Civil War. Born
+                           <date when="1840">1840</date>.</note>
+                     </person>
+                  </listPerson>
+                  <listOrg>
+                     <org xml:id="tn_co">
+                        <orgName> Theo Noel Company </orgName>
+                        <note>Publishing company based in <placeName ref="#chicago"
+                           >Chicago</placeName>.</note>
+                     </org>
+                  </listOrg>
+                  <listPlace>
+                     <place xml:id="kentucky">
+                        <placeName>
+                           <region>Kentucky</region>
+                        </placeName>
+                     </place>
+                     <place xml:id="chicago">
+                        <placeName>
+                           <settlement>Chicago</settlement>
+                           <region>Illinois</region>
+                        </placeName>
+                     </place>
+                     <place xml:id="roseland">
+                        <placeName>
+                           <settlement>Roseland</settlement>
+                           <region>Louisiana</region>
+                        </placeName>
+                     </place>
+                     <place xml:id="louisiana">
+                        <placeName>
+                           <region>Louisiana</region>
+                        </placeName>
+                     </place>
+                  </listPlace>
+               </div>
+            </back>
+         </text>
+         <text xml:id="treasury_dept" rend="print">
+            <body>
+               <head rend="typewrite">H-3c.</head>
+               <lb/>
+               <head place="left"><hi rend="bold">Form 1816</hi>.<lb/> Ed. Jan. 6-09-2,000.</head>
+               <lb/>
+               <opener><hi rend="caps">notice to claimant-no differences</hi>.<lb/>
+                  <unclear rend="cursive script">mcx</unclear> Appeal No. <hi rend="typewrite">16518.</hi>
+                  <hi rend="gothic"><orgName ref="#treasury">Treauty Department</orgName>,</hi><lb/>
+                  <hi rend="caps">office of the<lb/> comptroller of the treasury</hi>.<lb/>
+                  <dateline><placeName type="city">Washington, D.C.</placeName>, <date when="1909-01-09"
+                     ><hi rend="typewrite">January 30</hi>, 190<hi rend="typewrite"
+                        >9</hi></date>.</dateline>
+                  <hi rend="typewrite">Mr. <persName ref="#JN_Bertram">Jasper N. <choice>
+                     <orig>Butram</orig>
+                     <corr>Bertram</corr>
+                  </choice></persName>,<lb/>
+                     <address>
+                        <addrLine>426-34th Avenue, South,<lb/> Seattle, Wash.</addrLine>
+                     </address></hi></opener>
+               <lb/>
+               <p><hi rend="typewrite">Sir</hi>:<lb/> I have examined your appeal, filed <date
+                  when="1909-01-09"><hi rend="typewrite">January 9, 1909</hi></date>, from the
+                  action<lb/> of the Auditor for the <hi rend="caps typewrite">war</hi> Department, on
+                  your claim<lb/>
+                  <hi rend="typewrite">for additional bounty under act of <date when="1866-07-28">July 28,
+                     1866</date>, as of 9th<lb/> Regt. of Kentucky Infantry,</hi><lb/> per certificate
+                  No. <hi rend="typewrite">20392</hi>, dated <hi rend="typewrite"><date when="1908-06-15"
+                     >June 15, 1908</date></hi>,<lb/> and find and certify no differences, the action
+                  of the Auditor being affirmed.</p>
+               <lb/>
+               <p rend="typewrite">It is shown by the records that you were enrolled<lb/>
+                  <date when="1861-09-24">September 24, 1861</date>, and discharged <date
+                     when="1864-09-20">September 20, 1864</date>, by<lb/> reason of promotion to lst
+                  Lieutenant. You have been paid<lb/> $100.00 bounty under act of <date when="1861-07-22"
+                     >July 22, 1861</date>, and $50.00<lb/> additional bounty under act of <date
+                        when="1866-07-28">July 28, 1866</date>. Having been<lb/> discharged for promotion
+                  before serving <hi rend="underline">three</hi> years as an<lb/> enlisted man you are not
+                  entitled to any more bounty.</p>
+               <lb/>
+               <p rend="typewrite">Parol evidence will not be accepted to contradict the<lb/> records
+                  which show that you were enrolled <date when="1861-09-24">September 24,<lb/>
+                     1861</date>, and served less than three years as an enlisted<lb/> man. The time you
+                  served as a commissioned officer cannot<lb/> lawfully be counted in computing
+                  bounty.</p>
+               <lb/>
+               <closer>Respectfully, <signed><hi rend="cursive">L.P. Mitchell</hi></signed>
+                  <hi rend="cursive script">J.W.R.</hi>
+                  <hi rend="typewrite">Assistant</hi> Comptroller <hi rend="cursive script">C.H.</hi></closer>
+            </body>
+            <back>
+               <div type="endnotes">
+                  <listOrg xml:id="treasury">
+                     <org>
+                        <orgName>United States Department of the Treasury</orgName>
+                     </org>
+                  </listOrg>
+               </div>
+            </back>
+         </text>
+         <text xml:id="winston" rend="print">
+            <body>
+               <div1 type="pamphlet_front">
+                  <head><hi rend="caps">we are now located in<lb/> our new home</hi><lb/>
+                     <address>
+                        <addrLine>Winston Building, 1006 to 1016 Arch Street</addrLine>
+                        <lb/>
+                     </address>
+                     <placeName type="city">Philadelphia</placeName><lb/>
+                     <hi rend="caps"><orgName ref="#winston_co">the john c. winston
+                        co.</orgName></hi><lb/></head>
+                  <head rend="bold">From <orgName ref="#phil_rec">Philadelphia "Record,"</orgName>
+                     <figure type="illustration" place="inline">
+                        <graphic url="Winston%20Building.png"/>
+                        <figDesc>An illustration of the Winston Building, described below.</figDesc>
+                     </figure>
+                     <date when="1903-08-06">August 6, 1903</date><lb/></head>
+                  <div2 style="columns">
+                     <p>Workmen yesterday began the demolition of<lb/> the picturesque old Arch Street
+                        Presbyterian<lb/> Church, on Arch Street, above Tenth, whose site<lb/> is to be
+                        occupied by a large building for <orgName ref="#winston_co">The John<lb/> C.
+                           Winston Company</orgName>. The church has not been<lb/> used for several years,
+                        and its removal marks an<lb/> important step in the improvement of Arch<lb/>
+                        Street for commercial purposes. The inroads of<lb/> trade have driven out nearly
+                        all the residents<lb/> east of Broad Street, and west of that throrough-<lb/>fare
+                        they are also gradually being forced out.<lb/> The old church has long been
+                        admired for the<lb/> purity of its architecture, and its disappearance<lb/> will
+                        be regretted by many.<lb/></p>
+                     <p>The new building which is to take its place<lb/> will be the largest on Arch
+                        street, and will<lb/> be eight stories high, with a frontage of 100 feet<lb/> and
+                        a depth of 150 feet. There will be an arcade<cb/> driveway around the entire
+                        building, with room<lb/> for wagons to load in the read, under cover. The<lb/>
+                        building will be equipped with two freight eleva-<lb/>tors and a passenger
+                        elevator, fire-proof vaults<lb/> and other modern conveniences. It will have
+                        an<lb/> electrical power plant of 400-horse power, with<lb/> steam heating,
+                        electric lighting, etc. The buil-<lb/>ding will be of steel construction and
+                        semi-fire-<lb/>proof. The front will have a granite base, with<lb/> brick and
+                        terra-cotta above.<lb/></p>
+                     <p>The contract price for the building, including<lb/> the power plant is $275,000.
+                        The value of the lot<lb/> is $150.000. The entire floor space of the build-<lb/>
+                        ing amounts to about 135,000 square feet, or about<lb/> three acres. The building
+                        will be completed in<lb/> July 1904, when <orgName ref="#winston_co">The John C.
+                           Winston Company</orgName><lb/> will move into it their offices and printing
+                        and<lb/> binding plant.-<hi rend="ital">Phila.Record.</hi><pb/></p>
+                  </div2>
+               </div1>
+               <div1 type="pamphlet_back">
+                  <head rend="caps">history of our house<lb/></head>
+                  <div2>
+                     <head rend="caps">how a great publishing house has grown<lb/> out of a small
+                        beginning.<lb/></head>
+                     <p>The erection of a new and magnificent building, of such unusal size,<lb/> to
+                        accommodate our growing business, has awakened a great deal of<lb/> interest, and
+                        led to many inquiries regarding the history of our house.<lb/> For the information
+                        of those interested, and especially for the informa-<lb/>tion of agents and others
+                        in distant parts of the country who do business<lb/> with us, we present the
+                        following facts regarding the growth of our<lb/> business during the past twenty
+                        years.<lb/></p>
+                     <p>In the fall of 1884 <persName ref="#j_winston">Mr. Winston</persName> began this
+                        business alone, on one<lb/> floor of a small building immediately opposite the
+                        site of our new building<lb/> on Arch Street. He began with the publication of one
+                        book, which<lb/> fortunately proved very successful. This book was sold by agents whom<lb/>
+                        <persName ref="#j_winston">Mr. Winston</persName> himself employed and trained.
+                        Encouraged by this first<lb/> success, <persName ref="#j_winston">Mr.
+                           Winston</persName> added one book after another and extended his<lb/>
+                        organization into many States, until his business became very extensive.<lb/></p>
+                  </div2>
+                  <div2>
+                     <head rend="caps">formation of the company.<lb/></head>
+                     <p>Realizing that a business of this size should not depend upon any one<lb/> man,
+                        <persName ref="#j_winston">Mr. Winston</persName> invited into partnership with
+                        him a number of able<lb/> and experienced men, and thus formed the present
+                        corporate company, with<lb/> an authorized capital of $500,000.<lb/></p>
+                     <p> At first <persName ref="#j_winston">Mr. Winston</persName> had his books printed
+                        and bound by contract<lb/> with outside printers and binders, but many years ago
+                        this was found<lb/> inconvenient. Our present establishment consists of a large
+                        printing and<lb/> binding plant equipped with the best modern machinery.<lb/></p>
+                  </div2>
+                  <div2>
+                     <head rend="caps">the publication of bibles.<lb/></head>
+                     <p>Aside from the publication of several hundred popular books, many<lb/> of which
+                        have reached a sale of hundreds of thousands, <orgName ref="#winston_co">The John
+                           C.<lb/> Winston Company</orgName> publish what is known as the "International"
+                        line of<lb/> Bibles. This line of Bibles was originally published under the
+                        joint<lb/> management of two of the largest religious publication houses in the<lb/>
+                        <country>United States</country>. Our Company bought out this business, and has
+                        greatly<lb/> increased the line, until it now comprises over 500 styles of Bibles
+                        and<lb/> Testaments. It is said that we are the largest Bible publication house
+                        in<lb/> the <country>United States</country>, and certainly, taking into account
+                        our books and Bibles<lb/> together, we are the largest concern making this line of
+                        goods in the world.<lb/></p>
+                  </div2>
+                  <div2>
+                     <head rend="caps">our business acquaintance.<lb/></head>
+                     <p>While we do a very extensive business with agents on subscription<lb/> books, and
+                        have always made a specialty of this line of books, we are<lb/> to-day doing
+                        business all over the world, and are publishing books and<lb/> Bibles in
+                        <lang>English</lang>, <lang>French</lang>, <lang>German</lang>,
+                        <lang>Swedish</lang>, <lang>Norwegian</lang> and other<lb/> languages.<lb/></p>
+                     <p>Any local banker or large merchant, having access to the usual<lb/> mercantile
+                        records, can satisfy any inquirer as to our general standing and<lb/> reliability.
+                        It is always easier to do business with those with whom you<lb/> are acquainted,
+                        and we desire to establish a feeling of confidence with all<lb/> those in
+                        correspondence with us, so that they may feel entire confidence<lb/> in any
+                        arrangement we may seek to make. If we have had marked and<lb/> unusual success in
+                        building up so large a business in a few years, from a<lb/> small beginning, we
+                        must attribute it chiefly to our facilities for helping<lb/> agents to succeed,
+                        because it has been the success of canvassers that has<lb/> brought about our own
+                        success and rapid growth.<lb/></p>
+                  </div2>
+                  <div2>
+                     <head rend="caps"><orgName ref="#winston_co">the john c. winston
+                        co.</orgName><lb/></head>
+                     <p><orgName ref="#winston_co">The John C. Winston Co.</orgName> are also proprietors
+                        of the Union Book and Bible House and the<lb/> Universal Book and Bible House, and
+                        are responsible for all contracts made by either of<lb/> these special
+                        departments.<lb/></p>
+                  </div2>
+               </div1>
+            </body>
+            <back>
+               <div type="endnotes">
+                  <listPerson>
+                     <person xml:id="j_winston">
+                        <persName>
+                           <surname>Winston</surname>
+                           <forename>John</forename>
+                        </persName>
+                        <note>Born <date when="1856">1856</date>. Died<date when="1920"/>.</note>
+                     </person>
+                  </listPerson>
+                  <listOrg>
+                     <org xml:id="winston_co">
+                        <orgName>The John C. Winston Company</orgName>
+                        <note>Founded in <date when="1884">1884</date>.</note>
+                     </org>
+                     <org xml:id="phil_rec">
+                        <orgName>The Philadelphia Record</orgName>
+                        <note>A daily newspaper published in Philadelphia from <date when="1877"
+                           >1877</date>to <date when="1947">1947</date>.</note>
+                     </org>
+                  </listOrg>
+               </div>
+            </back>
+            <!-- End of Nic Staley's documents -->
+         </text>
       </group>
-      <back>
+      <back xml:id="appendix">
          <div type="endnotes">
             <note xml:id="n1">"Jasper N. Bertram (1840-1928) was born in Wayne, Kentucky. He
                enlisted in the Civil War with the Kentucky Volunteers, 9th Regiment, 3rd Division,
@@ -245,27 +583,21 @@
                   <title>John C. Winston Company</title>
                   <ref target="https://www.wikidata.org/wiki/Q21808712"/>
                </bibl>
-               <bibl xml:id="Chelan_County">
-                  <title>Chelan County</title>
-                  <ref target="https://www.co.chelan.wa.us/"/>
+               <bibl xml:id="Chelan_County" type="webpage">
+                  <title level="a">City of Chelan County</title>, <ref target="https://cityofchelan.us/">cityofchelan.us</ref>
                </bibl>
-               <bibl xml:id="Lakeside">
-                  <title>Lakeside</title>
-                  <ref
-                     target="https://edits.nationalmap.gov/apps/gaz-domestic/public/search/names/1521865"
-                  />
+               <bibl xml:id="lakeside" type="webpage">
+                  <author>Wikipedia Contributors</author>,<title level="a">Lakeside, Washington</title>.<publisher>Wikipedia, the Free Encyclopedia</publisher>,
+                  <ref target="https://en.wikipedia.org/w/index.php?title=Lakeside,_Washington&amp;oldid=1186419158">https://en.wikipedia.org/w/index.php?title=Lakeside,_Washington&amp;oldid=1186419158</ref>
                </bibl>
-               <bibl xml:id="Diphtheria">
-                  <title>Diphtheria</title>
-                  <ref
-                     target="https://artsci.case.edu/dittrick/2014/04/29/deadly-diphtheria-the-childrens-plague/"
-                  />
+               <bibl xml:id="Diphtheria" type="webpage">
+                 <author>Case Western Reserve University</author>,<title level="a">Diphtheria</title>.<publisher>Case Western Reserve University</publisher>,
+                  <ref target="https://artsci.case.edu/dittrick/2014/04/29/deadly-diphtheria-the-childrens-plague/"</ref>
                </bibl>
                <bibl xml:id="Cralle_Co">
-                  <title>JB Cralle &amp; Co</title>
-                  <ref
-                     target="https://www.nps.gov/common/uploads/teachers/lessonplans/General%20Affadavit%201905.pdf"
-                  /></bibl>
+                  <author> <title>JB Cralle &amp; Co</title>
+                  <ref target="https://www.nps.gov/common/uploads/teachers/lessonplans/General%20Affadavit%201905.pdf"</ref>
+	       </bibl>
             </listBibl>
          </div>
       </back>

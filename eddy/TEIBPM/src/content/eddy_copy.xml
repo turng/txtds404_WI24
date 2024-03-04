@@ -28,8 +28,14 @@
          </div>
       </front>
       <body>
-         <div type="preface" n="1">
-            <p></p>
+         <div type="preface">
+            <head><hi rend="uppercase">Preface</hi></head>
+               <p>The poems garnered up in this little volume were written at different periods in the life of the author, dating from her early girlhood up to recent years. They were not written with a view of making a book, each poem being the spontaneous outpouring of a deeply poetic nature and called forth by some experience that claimed her attention.</p>
+               <p>The "Old Man of the Mountain," for instance, was written while the author was contemplating this lofty New Hampshire crag, whose rugged outlines resemble the profile of a human face. Inspired by the grandeur of this masterpiece of nature's handiwork, and looking "up through nature, unto nature's God," the poem began to take form in her thought, and alighting from her carriage, she seated herself by the roadside and began to write. Some tourists who were passing, and who made her acquaintance, asked her what she was writing, and she replied by reading the poem to them. They were so pleased with it that each requested a copy, which was subsequently mailed to them. Similar requests continued to reach the author for years afterward, until the poem finally found its way into print, appearing, together with "The Valley Cemetery," in a book "Gems for You," published in Manchester, N. H., in 1850, and again in Boston, in 1856.</p>
+               <p>The poem on the "Dedication of a Temperance Hall," in Lynn, Mass., in 1866, was written for that occasion, and was sung by the audience as a dedicatory hymn. "The Liberty Bells" appeared in a Lynn, Mass., newspaper, under the date of February 3, 1865. A note from the author, which was published with the poem, read as follows:</p>       
+               <p>"Mr. Editor:—In 1835 a mob in Boston (although Boston has since been the pioneer of anti-slavery) dispersed a meeting of the Female Anti-Slavery Society, and assailed the person of William Lloyd Garrison with such fury that the city authorities could protect him nowhere but in the walls of a jail. To-day, by order of Governor Andrew, the bells are ringing to celebrate the passing of a resolution in Congress prohibiting slavery in the United States."</p>           
+               <p>All of the author's best-known hymns are included in this collection, as well as many poems written in girlhood and during the years she resided in Lynn, Mass., and which appeared in various publications of that day. Among her earliest poems are "Upward," "Resolutions for the Day," "Autumn" (written in a maple grove), "Alphabet and Bayonet," and "The Country-Seat" (written while visiting a family friend in the beautiful suburbs of Boston); yet, even these are characterized by the same lofty trend of thought that reached its fulness in her later productions.</p>        
+               <p>In May, 1910, Mrs. Eddy requested her publisher to prepare a few bound volumes of her poems, for private distribution. When this became known to her friends, they urged her to allow a popular edition to be issued, to which she assented. With grateful acknowledgment, therefore, of this permission, this little volume is presented to the public, in the hope that these gems of purest thought from this spiritually-minded author will prove a joy to the heavy laden and a balm to the weary heart.</p>
          </div>
          <div type="poem" rhyme="aabccb">
             <head><hi rend="uppercase">Meeting Of My Departed Mother And Husband</hi></head>
@@ -257,6 +263,216 @@
                Written in girlhood, <ref target="#Sanbornton">in a maple grove.</ref>
             </note>      
          </div>
+	 <div type="poem" n="6">
+            <head><hi rend="uppercase">Spring</hi></head>
+            <lg type="quatrain" rhyme="abab">
+	      <l>Come to thy bowers, sweet spring,</l>
+              <l>And paint the gray, stark trees,</l>
+              <l>The bud, the leaf and wing—</l>
+              <l>Bring with thee brush and breeze.</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>And soft thy shading lay</l>
+              <l>On vale and woodland deep;</l>
+              <l>With sunshine's lovely ray</l>
+              <l>Light o'er the rugged steep.</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>More softly warm and weave</l>
+              <l>The patient, timid grass,</l>
+              <l>Till heard at silvery eve</l>
+              <l>Poor robin's lonely mass.</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>Bid faithful swallows come</l>
+              <l>And build their cozy nests,</l>
+              <l>Where wind nor storm can numb</l>
+              <l>Their downy little breasts.</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>Come at the sad heart's call,</l>
+              <l>To empty summer bowers,</l>
+              <l>Where still and dead are all</l>
+              <l>The vernal songs and flowers.</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>It may be months or years</l>
+              <l>Since joyous spring was there.</l>
+              <l>O come to clouds and tears</l>
+              <l>With light and song and prayer!</l>
+           </lg>
+        </div>
+	<div type="poem" n="7">
+            <head><hi rend="uppercase">Old Man of the Mountain</hi></head>
+            <lg type="quatrain" rhyme="aabb">
+	       <l>Gigantic sire, unfallen still thy crest!</l>
+               <l>Primeval dweller where the wild winds rest,</l>
+               <l>Beyond the ken of mortal e'er to tell</l>
+               <l>What power sustains thee in thy rock-bound cell.</l>
+           </lg>
+            <lg type="quatrain" rhyme="aabb">
+               <l>Or if, when first creation vast began,</l>
+               <l>And far the universal fiat ran,</l>
+               <l>"Let there be light"—from chaos dark set free,</l>
+               <l>Ye rose, a monument of Deity,</l>
+           </lg>
+           <lg type="quatrain" rhyme="aabb">
+              <l>Proud from yon cloud-crowned height to look henceforth</l>
+              <l>On insignificance that peoples earth,</l>
+              <l>Recalling oft the bitter draft which turns</l>
+              <l>The mind to meditate on what it learns.</l>
+           </lg>
+           <lg type="quatrain" rhyme="aabb">
+              <l>Stern, passionless, no soul those looks betray;</l>
+              <l>Though kindred rocks, to sport at mortal clay—</l>
+              <l>Much as the chisel of the sculptor's art</l>
+              <l>"Plays round the head, but comes not to the heart."</l>
+           </lg>
+           <lg type="quatrain" rhyme="aabb">
+              <l>Ah, who can fathom thee! Ambitious man,</l>
+              <l>Like a trained falcon in the Gallic van,</l>
+              <l>Guided and led, can never reach to thee</l>
+              <l>With all the strength of weakness—vanity!</l>
+           </lg>
+           <lg type="quatrain" rhyme="aabb">
+              <l>Great as thou art, and paralleled by none,</l>
+              <l>Admired by all, still art thou drear and lone!</l>
+              <l>The moon looks down upon thine exiled height;</l>
+              <l>The stars, so cold, so glitteringly bright,</l>
+           </lg>
+           <lg type="quatrain" rhyme="aabb">
+              <l>On wings of morning gladly flit away,</l>
+              <l>Yield to the sun's more genial, mighty ray;</l>
+              <l>The white waves kiss the murmuring rill—</l>
+              <l>But thy deep silence is unbroken still.</l>
+           </lg>
+        </div>
+	<div type="poem" n="8">
+            <head><hi rend="uppercase">O For Thy Wings, Sweet Bird!</hi></head>
+            <lg type="quatrain" rhyme="abab">
+	      <l>O for thy wings, sweet bird!</l>
+              <l>And soul of melody by being blest—</l>
+              <l>Like thee, my voice had stirred</l>
+              <l>Some dear remembrance in a weary breast.</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>But whither wouldst thou rove,</l>
+              <l>Bird of the airy wing, and fold thy plumes?</l>
+              <l>In what dark leafy grove</l>
+              <l>Wouldst chant thy vespers 'mid rich glooms?</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>Or sing thy love-lorn note—</l>
+              <l>In deeper solitude, where nymph or saint</l>
+              <l>Has wooed some mystic spot,</l>
+              <l>Divinely desolate the shrine to paint?</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>Yet wherefore ask thy doom?</l>
+              <l>Blessed compared with me thou art—</l>
+              <l>Unto thy greenwood home</l>
+              <l>Bearing no bitter memory at heart;</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>Wearing no earthly chain,</l>
+              <l>Thou canst in azure bright soar far above;</l>
+              <l>Nor pinest thou in vain</l>
+              <l>O'er joys departed, unforgotten love.</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>O take me to thy bower!</l>
+              <l>Beguile the lagging hours of weariness</l>
+              <l>With strain which hath strange power</l>
+              <l>To make me love thee as I love life less!</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>From mortal consciousness</l>
+              <l>Which binds to earth—infirmity of woe!</l>
+              <l>Or pining tenderness—</l>
+              <l>Whose streams will never dry or cease to flow;</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>An aching, voiceless void,</l>
+              <l>Hushed in the heart whereunto none reply,</l>
+              <l>And in the cringing crowd</l>
+              <l>Companionless! Bird, bear me through the sky!</l>
+           </lg>
+           <note place="footnote">
+              Written more than sixty years ago for the <hi rend="italic">New Hampshire Patriot.</hi>
+           </note>
+        </div>
+	<div type="poem" n="9">
+            <head><hi rend="uppercase">Dedication of a Temperance Hall</hi></head>
+            <lg type="quatrain" rhyme="abab">
+	      <l>Author of all divine</l>
+              <l>Gifts, lofty, pure, and free,</l>
+              <l>Temperance and truth in song sublime</l>
+              <l>An offering bring to Thee!</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>A temple, whose high dome</l>
+              <l>Rose from a water-cup;</l>
+              <l>And from its altar to Thy throne</l>
+              <l>May we press on and up!</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>And she—last at the cross,</l>
+              <l>First at the tomb, who waits—</l>
+              <l>Woman—will watch to cleanse from dross</l>
+              <l>The cause she elevates.</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>Sons of the old Bay State,</l>
+              <l>Work for our glorious cause!</l>
+              <l>And be your waiting hearts elate,</l>
+              <l>Since temperance makes your laws.</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>"Temples of Honor," all,</l>
+              <l>"Social," or grand, or great,</l>
+              <l>This blazoned, brilliant temperance hall</l>
+              <l>To Thee we dedicate.</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>"Good Templars" one and all,</l>
+              <l>Good "Sons," and daughters, too,</l>
+              <l>We dedicate this temperance hall</l>
+              <l>To God, to Truth, and you!</l>
+           </lg>
+           <note place="footnote">
+              Lynn, Mass., <hi rend="italic">August 4, 1866.</hi>
+           </note>
+        </div>
+	<div type="poem" n="10">
+            <head><hi rend="uppercase">To Etta</hi></head>
+            <lg type="quatrain" rhyme="abab">
+	      <l>Fair girl, thy rosebud heart rests warm</l>
+              <l>Within life's summer bowers!</l>
+              <l>Nor blasts of winter's angry storm,</l>
+              <l>Nor April's changeful showers,</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>Its leaves have shed or bowed the stem;</l>
+              <l>But gracefully it stands—</l>
+              <l>A gem in beauty's diadem,</l>
+              <l>Unplucked by ruthless hands.</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+              <l>Thus may it ripen into bloom,</l>
+              <l>Fresh as the fragrant sod,</l>
+              <l>And yield its beauty and perfume</l>
+              <l>An offering pure to God.</l>
+           </lg>
+           <lg type="quatrain" rhyme="abab">
+               <l>Sweet as the poetry of heaven,</l>
+               <l>Bright as her evening star,</l>
+               <l>Be all thy life in music given,</l>
+               <l>While beauty fills each bar.</l>
+           </lg>
+           <note place="footnote">
+              Lynn, Mass., <hi rend="italic">December 8, 1866.</hi>
+           </note>
+        </div>
       </body>
    </text>
    <standOff>
@@ -465,9 +681,6 @@
          <bibl type="website" xml:id="christian_science_source">
             “The Christian Science Pastor.” Christian Science, www.christianscience.com/the-christian-science-pastor. Accessed 20 Feb. 2024. 
          </bibl>
-         <!-- Is this the correct place to host bibliographic information, or in body of the text? -->
-         <!-- GT: it validates! Normally you'd put notes and bibliography in the <back> of your <text>, in which case they're considered part of the text.
-            Like endnotes and bibliographies in a printed book you'd buy. <standOff> is a (newer) more database oriented approach, where the notes/bibliographies exist separately: outside and alongside the text. For <listPerson>, <listPlace> and <listEvent>, this is more common. But TEI and digital encoding is a chance to rethink the print models, so if you prefer this organization, that's fine with me. I think it's a terrific experiment with these editorial models. -->
       </listBibl>
    </standOff>
 </TEI>
