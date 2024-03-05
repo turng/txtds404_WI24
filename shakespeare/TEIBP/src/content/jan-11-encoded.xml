@@ -28,14 +28,14 @@
             <castList>
                <head style="text-align: center"><title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title></head>
                <castItem>
-                  <role>Romeo, </role>
+                  <role>Romeo</role>
                   <role>1st Watch</role>
                   <actor><name type="person" ref="#Robinson">Mrs Robinson</name></actor>
                </castItem>
                <castItem>
                   <role>Juliet</role>
-                  <role style="margin-left: 1.5em">2nd Watch</role>
-                  <actor style="margin-left: 4em"><name type="person" ref="#Marie-Gove">Miss M. Gove</name></actor>
+                  <role>2nd Watch</role>
+                  <actor><name type="person" ref="#Marie-Gove">Miss M. Gove</name></actor>
                </castItem>
             </castList>
             <signed>M. N. Ames.</signed>

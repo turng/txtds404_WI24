@@ -379,10 +379,13 @@ castItem {
   list-style-type: none;
 }
 castList {
-  display: block;
+  display: inline-flex;
   margin-top: 1em;
   margin-bottom: 1em;
   margin-left: 2em;
+}
+castList > head {
+    margin-bottom: 2em
 }
 catDesc {
   /* Empty Rule Set */
@@ -1389,7 +1392,7 @@ rhyme {
   /* Empty Rule Set */
 }
 role {
-  /* put on same line as roledesc? */
+  margin-left: 1.5em
 }
 roleDesc {
   /* put on same line as role */
