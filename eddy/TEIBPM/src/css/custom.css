@@ -13,15 +13,18 @@ margin: auto;
 }
 titleStmt > tei-title {
 display: block;
+font-family: didot;
 font-size: 48pt;
 font-weight: bold;
 text-transform: uppercase;
 }
 titleStmt > author {
+font-family: didot;
 font-size: 32pt;
 font-weight: bold
 }
 TEI head {
+font-family: didot;
 font-size: 24pt;
 text-transform: uppercase;
 }
