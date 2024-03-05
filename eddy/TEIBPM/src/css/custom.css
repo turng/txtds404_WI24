@@ -12,7 +12,6 @@ text-align: center;
 margin: auto;
 }
 titleStmt > tei-title {
-display: block;
 font-family: didot;
 font-size: 48pt;
 font-weight: bold;
