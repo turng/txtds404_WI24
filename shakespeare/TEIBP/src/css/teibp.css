@@ -383,7 +383,7 @@ castItem {
 castList {
   display: block;
   margin-top: 1em;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
   margin-left: 2em;
 }
 castList > head {
@@ -1511,7 +1511,7 @@ signatures {
 }
 signed {
   display: block;
-  margin-top: 2em;
+  margin-top: 0em;
   /*should make name a block when contained within  */
 }
 soCalled {
