@@ -82,10 +82,11 @@
          </div>
          <div type="section" n="Soups">
             <div type="recipe">
-		    <!-- GT: what you did works fine, but as a general rule, I think it's better to put as much formatting into into XML as possible
+               <!-- GT: what you did works fine, but as a general rule, I think it's better to put as much formatting into into XML as possible
 		    and to transcribe unformatted text. In this case, render the all caps by adding a "caps" value to @rend and transcribe the title
 		    with lowercase: <head rend="bold caps">Normandy Soup</head>. What you have is totally fine, and it's always possible to reverse engineer,
 		    and to transform the text from caps to lowercase, using CSS or XSLT or another technique -->
+               <!-- i think the caps was just left over from a google docs transcription. it works for now, but cleaning up the xml and html was part of the whats next segment in our presentation -Moses -->
                <head rend="bold">NORMANDY SOUP.</head>
                <p>One knuckle veal, 3 quarts cold water, 1 onion, ½ loaf baker’s bread, 1 quart
                   cream, 2 tablespoonfuls butter, 2 tablespoonfuls flour. Put veal and onion on in
@@ -489,15 +490,8 @@
                </div>
             </div>
          </div>
-	      <!-- GT: these divs aren't performing any purpose. They're just empty. You can delete them -->
-         <div/>
-         <div/>
-         <div/>
-         <div/>
       </body>
       <back>
-	      <!-- GT: I don't think you need both <div type="biblio"> and <listBibl>. The latter is already a more specific version of the former -->
-         <div type="biliography">
             <listBibl>
                <bibl xml:id="Seattle_Times" n="1" type="webpage">
                   <author>Daniel Neman</author>, <title>A delicious decade: The food of
@@ -535,7 +529,6 @@
                   <publisher>Wikipedia</publisher>
                   <date>edited 2024</date></bibl>
             </listBibl>
-         </div>
       </back>
    </text>
 </TEI>

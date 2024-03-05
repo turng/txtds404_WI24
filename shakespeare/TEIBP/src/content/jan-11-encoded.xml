@@ -24,18 +24,18 @@
             <p>On the <date when="1897-01-11">Eleventh of January</date> the Shakespeare Club met at <name type="location" ref="#Carrie-Gove">Miss Gove</name>'s for the purpose of Reading <title type="play" ref="#Merchant">The Merchant of Venice</title>.</p>
             <p>The President called the Club to order at 7.15. The roll call was given &amp; all members being present &amp; answering with quotations from the above mentioned play.</p>
             <p>After the roll call the minutes of the meeting of <date when="1897-01-04">Jan. 4<hi style="vertical-align: super; font-size: 0.7em;">th</hi></date> were read &amp; approved- <name type="person" ref="#Ames">Mrs. Ames</name> there ?from? ?gift? ?are? the [illegible] use of several ?words? that had been discussed at the meeting of the <date when="1897-01-04">4<hi style="vertical-align: super; font-size: 0.7em;">th</hi></date> after which they one hour was spent in discussing [illegible!] [illegible] from the ?guidance!? [illegible]—which the President read.</p>
-            <p>At 8 o'clock- began reading <title type="play" ref="#Merchant">The Merchant of Venice</title>- ?all? reading through two scenes of the third act. [Illegible] there being ?few? [illegible] at which time the [illegible] adjourned to meet on <date when="1897-01-18">Monday the 18<hi style="vertical-align: super; font-size: 0.7em;">th</hi>, 1897</date>, the place of meeting being <name type="location" ref="#Wylde">Mrs. Wylde</name>'s at which ?time? The Merchant of Venice is to be finished and a part of <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet </title>which had been cast by <name type="person" ref="#Wylde">Mrs. Wylde</name> with cast as follows-</p>
-            <p style="text-align: center"><title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title></p>
+            <p>At 8 o'clock- began reading <title type="play" ref="#Merchant">The Merchant of Venice</title>- ?all? reading through two scenes of the third act. [Illegible] there being ?few? [illegible] at which time the <gap quantity="1" unit="word" reason="illegible"></gap> adjourned to meet on <date when="1897-01-18">Monday the 18<hi style="vertical-align: super; font-size: 0.7em;">th</hi>, 1897</date>, the place of meeting being <name type="location" ref="#Wylde">Mrs. Wylde</name>'s at which ?time? The Merchant of Venice is to be finished and a part of <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet </title>which had been cast by <name type="person" ref="#Wylde">Mrs. Wylde</name> with cast as follows-</p>
             <castList>
+               <head style="text-align: center"><title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title></head>
                <castItem>
-                  <role>Romeo &#xD;</role>
-                  <role style="margin-left: 1.5em">1st Watch</role>
-                  <actor style="margin-left: 2.5em"><name type="person" ref="#Robinson">Mrs Robinson</name></actor>
+                  <role>Romeo</role>
+                  <role>1st Watch</role>
+                  <actor><name type="person" ref="#Robinson">Mrs Robinson</name></actor>
                </castItem>
                <castItem>
                   <role>Juliet</role>
-                  <role style="margin-left: 1.5em">2nd Watch</role>
-                  <actor style="margin-left: 2.5em"><name type="person" ref="#Marie-Gove">Miss M. Gove</name></actor>
+                  <role>2nd Watch</role>
+                  <actor><name type="person" ref="#Marie-Gove">Miss M. Gove</name></actor>
                </castItem>
             </castList>
             <signed>M. N. Ames.</signed>
@@ -43,12 +43,12 @@
             <dateline><date when="1897-01-16">Jan - 16/97</date></dateline>
          </div>
          <div type="entry">
-            <head style="margin-top: 2.5em;"><date when="1897-01-18">Jan. 18, 1887</date></head>
+            <head style="margin-top: 2em;"><date when="1897-01-18">Jan. 18, 1887</date></head>
             <p>On <date when="1897-01-18">the eighteenth of January</date>, Shakespeare Club met at <name type="location" ref="#Condon">Mrs Condon</name>'s. The place of meeting has been changed by <name type="location" ref="#Condon">Mrs. Condon</name>--</p>
             <p>At ten minutes past seven the President called the Club to order - all members being present, and answering with quotations from <title type="play" ref="#Merchant">Merchant of Venice </title>&amp; <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title>.</p>
             <p>After the roll call the minutes of <date when="1897-01-11">January Eleventh</date> were read and approved--</p>
             <p>There being no business to attend to- the President gave questions from the Grammar which were discussed for some twenty minutes.</p>
-            <p>At 7-35- began reading at the III <hi style="text-decoration: line-through">act</hi> scene of the IV act of <title type="play" ref="#Merchant">Merchant of Venice </title>the remainder of the play being finished at 8.55- at which time fifteen minutes was spent discussing. At 9.05-- began the reading of <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet &amp;</title> finishing the first act it being ten at which time the Club adjourned to meet at <name type="location" ref="#Wylde">Mrs. Wylde</name>'s-- <date when="1897-01-25">January twenty-fifth</date> <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet &amp;</title>.</p>
+            <p>At 7-35- began reading at the III <hi style="text-decoration: line-through">act</hi> scene of the IV act of <title type="play" ref="#Merchant">Merchant of Venice </title>the remainder of the play being finished at 8.55- at which time fifteen minutes was spent discussing. At 9.05-- began the reading of <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet &amp;</title> finishing the first act it being ten at which time the Club adjourned to meet at <name type="location" ref="#Wylde">Mrs. Wylde</name>'s-- <date when="1897-01-25">January twenty-fifth</date> <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title>.</p>
             <signed>M. N. Ames.</signed>
             <signed style="margin-top: 0em;">sec</signed>
             <dateline><date when="1897-01-16">Jan - 19/97</date></dateline>
@@ -68,12 +68,14 @@
                <roleName>Mrs.</roleName>
                <surname>Ames</surname>
             </persName>
+            <occupation>Secretary</occupation>
          </person>
          <person xml:id="Robinson">
             <persName>
                <roleName>Mrs.</roleName>
                <surname>Robinson</surname>
             </persName>
+            <occupation>President</occupation>
          </person>
          <person xml:id="Wylde">
             <persName>
@@ -93,5 +95,9 @@
             </persName>
          </person>
       </listPerson>
+      <list type="play">
+         <item xml:id="Merchant">Merchant of Venice</item>
+         <item xml:id="Romeo-Juliet">Romeo &amp; Juliet</item>
+      </list>
    </standOff>
 </TEI>
