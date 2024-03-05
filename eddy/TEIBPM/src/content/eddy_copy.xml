@@ -17,8 +17,6 @@
          </publicationStmt>
          <sourceDesc>
             <p>Information about the source</p>
-         <sourceDesc>
-            <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -30,6 +28,7 @@
          </div>
       </front>
       <body>
+         <div type="preface">
             <head><hi rend="uppercase">Preface</hi></head>
                <p>The poems garnered up in this little volume were written at different periods in the life of the author, dating from her early girlhood up to recent years. They were not written with a view of making a book, each poem being the spontaneous outpouring of a deeply poetic nature and called forth by some experience that claimed her attention.</p>
                <p>The "Old Man of the Mountain," for instance, was written while the author was contemplating this lofty New Hampshire crag, whose rugged outlines resemble the profile of a human face. Inspired by the grandeur of this masterpiece of nature's handiwork, and looking "up through nature, unto nature's God," the poem began to take form in her thought, and alighting from her carriage, she seated herself by the roadside and began to write. Some tourists who were passing, and who made her acquaintance, asked her what she was writing, and she replied by reading the poem to them. They were so pleased with it that each requested a copy, which was subsequently mailed to them. Similar requests continued to reach the author for years afterward, until the poem finally found its way into print, appearing, together with "The Valley Cemetery," in a book "Gems for You," published in Manchester, N. H., in 1850, and again in Boston, in 1856.</p>
