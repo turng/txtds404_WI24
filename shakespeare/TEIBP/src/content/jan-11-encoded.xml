@@ -57,7 +57,7 @@
                <castItem>
                   <role>Benvolio</role>
                   <role>[Illegible]</role>
-                  <actor><name type="person">Miss [Illegible]</name></actor>
+                  <actor><name type="person" ref="E-Gove">Miss E. Gove</name></actor>
                </castItem>
                <castItem>
                   <role>?Sampson?</role>
@@ -109,6 +109,77 @@
             <signed><name type="person" ref="#Ames">M. N. Ames.</name></signed>
             <signed>sec</signed>
             <dateline><date when="1897-01-16">Jan - 19/97</date></dateline>
+         </div>
+         <div type="entry">
+            <head><date when="1987-01-25">January 25th 1897</date></head>
+            <p>On <date when="1987-01-25">January twenty-fifth</date> the Shakespeare Club met at <name type="location" ref="#Wylde">Mrs. Wylde</name>'s.</p>
+            <p>At 7.10 - the Club was called to order. The roll call given &amp; all members being present and answering with quotation from <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title>.</p>
+            <p>After the roll call the minutes of the previous meeting were read &amp; approved-- after which some 30 minutes was spent in questions from the Grammar.</p>
+            <p>At 7.50 -- began the reading of <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title>. At the second act &amp; reading through the fourth act.</p>
+            <p>it then being ten o'clock at which time the Club adjourned to meet <date when="1987-02-01">February 1st</date> the place of meeting being <name type="location" ref="#Fitzhenry">Mrs. Fitzhenry</name>'s. The reading to be the last act of <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title> and a part of <title type="play" ref="#Much-Ado">Much Ado About Nothing</title>, which had been cast as follows by <name type="person" ref="#Ames">Mrs. Ames</name></p>
+            <castList>
+               <head><title type="play" ref="#Much-Ado">Much Ado About Nothing</title></head>
+               <castItem>
+                  <role>Benedick</role>
+                  <actor><name type="person" ref="#Robinson">Miss Robinson</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Beatrice</role>
+                  <role>Conrad</role>
+                  <actor><name type="person" ref="#Condon">Mrs. Condon</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Friar Francis</role>
+                  <actor><name type="person" ref="#McPhee">Miss McPhee</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Don John</role>
+                  <role>Messenger</role>
+                  <role>Claudio</role>
+                  <actor><name type="person" ref="#Carrie-Gove">Miss Gove</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Don Pedro</role>
+                  <actor><name type="person" ref="#E-Gove">Miss E. Gove</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Hero</role>
+                  <role>Dogberry</role>
+                  <actor><name type="person" ref="#Marie-Gove">Miss M. Gove</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Antonio</role>
+                  <actor><name type="person" ref="#Fitzhenry">Mrs. Fitzhenry</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Margaret</role>
+                  <role>2nd Watch</role>
+                  <actor><name type="person" ref="#Fichett">Mrs. Fichett</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Verges</role>
+                  <role>Ursula</role>
+                  <actor><name type="person" ref="#Kiernan">Miss Kiernan</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Balthasar</role>
+                  <role>Borachio</role>
+                  <actor><name type="person" ref="#Kimball">Miss Kimball</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Leonato</role>
+                  <role>1st Watch</role>
+                  <actor><name type="person" ref="#Wylde">Mrs. Wylde</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Sexton</role>
+                  <role>Boy</role>
+                  <actor><name type="person" ref="#Ames">Mrs. Ames</name></actor>
+               </castItem>
+            </castList>
+            <signed><name type="person" ref="#Ames">M. N. Ames.</name></signed>
+            <signed>Sec.</signed>
+            <dateline><date when="1897-01-16">Jan - 30/97</date></dateline>
          </div>
       </body>
   </text>
@@ -185,6 +256,7 @@
       <listBibl>
          <bibl xml:id="Merchant">Merchant of Venice</bibl>
          <bibl xml:id="Romeo-Juliet">Romeo &amp; Juliet</bibl>
+         <bibl xml:id="Much-Ado">Much Ado About Nothing</bibl>
       </listBibl>
    </standOff>
 </TEI>
