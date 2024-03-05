@@ -13,8 +13,10 @@
             <editor>Annie Melnick</editor>
          </titleStmt>
          <publicationStmt>
-            <p>This transcription of "Poems" was created as our final project submission for Professor Turnovsky's TXTDS 404 course, "Texts, Publics and Publication" at the University of Washington. Poems was chosen amongst various texts provided by the UW Libraries' Special Collections department. Our intention with this transcription was to preserve the content of Eddy's poetry, and provide through our poem selections and annotations a curated understanding of Eddy's beliefs and life. The literary content of the poems and historical period of time they were written in were a central focus in our transcription efforts. </p>
+            <p>This transcription of <hi rend="italic">Poems</hi> was created as our final project submission for Professor Turnovsky's TXTDS 404 course, "Texts, Publics and Publication" at the University of Washington. Poems was chosen amongst various texts provided by the UW Libraries' Special Collections department. Our intention with this transcription was to preserve the content of Eddy's poetry, and provide through our poem selections and annotations a curated understanding of Eddy's beliefs and life. The literary content of the poems and historical period of time they were written in were a central focus in our transcription efforts. </p>
          </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
          <sourceDesc>
             <p>Information about the source</p>
          </sourceDesc>
@@ -23,11 +25,14 @@
    <text>
       <front>
          <div type="editorial_intro">
-            <p>Mary Baker Eddy’s Poems is a collection of poetry written by Eddy during the course of her life, dated from childhood through her last years. As editors, we found this text notable because we wanted to contextualize Eddy’s poems by researching additional historical and biographical information, therefore deriving and providing more meaning from her work. An aspect of note is that there are varying levels of context provided for each poem. Only a portion of Eddy’s poems have footnotes listing the year and location the work was written. With the help of additional biographical information, we are able to piece together additional context. But many of the poems do not have that level of specificity. Some only list the year or time period in which it was written; many do not provide footnotes at all. This gives us a significant challenge when it comes to contextualizing Eddy’s poems.</p>
+            <p>Mary Baker Eddy’s <hi rend="italic">Poems</hi> is a collection of poetry written by Eddy during the course of her life, dated from childhood through her last years. As editors, we found this text notable because we wanted to contextualize Eddy’s poems by researching additional historical and biographical information, therefore deriving and providing more meaning from her work. An aspect of note is that there are varying levels of context provided for each poem. Only a portion of Eddy’s poems have footnotes listing the year and location the work was written. With the help of additional biographical information, we are able to piece together additional context. But many of the poems do not have that level of specificity. Some only list the year or time period in which it was written; many do not provide footnotes at all. This gives us a significant challenge when it comes to contextualizing Eddy’s poems.</p>
             <p>The goal of our project is twofold. The first is to attempt to contextualize some of Eddy’s poems based on clues, seeing if we could utilize stylistic and thematic elements to provide our best guess as to when and where the poem was written. In addition, for the poems with identifying information, we are going to provide annotations with facts about Eddy’s life during the time it was written. Our second goal is to share which poems stood out to us. Our edition only contains ten poems, and we picked our favorites to feature. This could give insight as to which of Eddy’s poems continue to be impactive in the twenty-first century.</p>
          </div>
       </front>
       <body>
+	<figure>
+            <img src= "https://www.gutenberg.org/cache/epub/27370/images/cover.jpg" alt="cover">
+         </figure>
          <div type="preface">
             <head><hi rend="uppercase">Preface</hi></head>
                <p>The poems garnered up in this little volume were written at different periods in the life of the author, dating from her early girlhood up to recent years. They were not written with a view of making a book, each poem being the spontaneous outpouring of a deeply poetic nature and called forth by some experience that claimed her attention.</p>
