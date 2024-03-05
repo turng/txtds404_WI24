@@ -43,8 +43,59 @@
                   <role>3rd Watch</role>
                   <actor><name type="person" ref="#McPhee">Miss McPhee</name></actor>
                </castItem>
+               <castItem>
+                  <role>Friar Laurence</role>
+                  <role>Mercutio</role>
+                  <role>[Illegible]</role>
+                  <actor><name type="person" ref="#Ames">Mrs Ames</name></actor>
+               </castItem>
+               <castItem>
+                  <role>[Illegible] Montague</role>
+                  <role>2nd Capulet</role>
+                  <actor><name type="person" ref="#Condon">Mrs Condon</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Benvolio</role>
+                  <role>[Illegible]</role>
+                  <actor><name type="person">Miss [Illegible]</name></actor>
+               </castItem>
+               <castItem>
+                  <role>?Sampson?</role>
+                  <role>Friar John</role>
+                  <role>Balthasar</role>
+                  <actor><name type="person" ref="#Kiernan">Miss Kiernan</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Gregory</role>
+                  <role>Tybalt</role>
+                  <actor><name type="person" ref="#Kimball">Miss Kimball</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Lady Montague</role>
+                  <role>[Illegible]</role>
+                  <actor><name type="person" ref="#Carrie-Gove">Miss Gove</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Lady Capulet</role>
+                  <role>1st [Illegible]</role>
+                  <role>Servant</role>
+                  <role>3rd Musician</role>
+                  <actor><name type="person" ref="#Fichett">Mrs. Fichett</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Abraham</role>
+                  <role>2nd Musican</role>
+                  <role>1st Servant</role>
+                  <actor><name type="person" ref="#Fitzhenry">Mrs Fitzhenry</name></actor>
+               </castItem>
+               <castItem>
+                  <role>2nd Servant</role>
+                  <role>1st Musican</role>
+                  <role>Peter</role>
+                  <actor><name type="person" ref="#Wylde">Mrs Wylde</name></actor>
+               </castItem>
             </castList>
-            <signed>M. N. Ames.</signed>
+            <signed><name type="person" ref="#Ames">M. N. Ames.</name></signed>
             <signed>Sec-</signed>
             <dateline><date when="1897-01-16">Jan - 16/97</date></dateline>
          </div>
@@ -55,7 +106,7 @@
             <p>After the roll call the minutes of <date when="1897-01-11">January Eleventh</date> were read and approved--</p>
             <p>There being no business to attend to- the President gave questions from the Grammar which were discussed for some twenty minutes.</p>
             <p>At 7-35- began reading at the III scene of the IV act of <title type="play" ref="#Merchant">Merchant of Venice </title>the remainder of the play being finished at 8.55- at which time fifteen minutes was spent discussing. At 9.05-- began the reading of <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet &amp;</title> finishing the first act it being ten at which time the Club adjourned to meet at <name type="location" ref="#Wylde">Mrs. Wylde</name>'s-- <date when="1897-01-25">January twenty-fifth</date> <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title>.</p>
-            <signed>M. N. Ames.</signed>
+            <signed><name type="person" ref="#Ames">M. N. Ames.</name></signed>
             <signed>sec</signed>
             <dateline><date when="1897-01-16">Jan - 19/97</date></dateline>
          </div>
@@ -100,16 +151,40 @@
                <surname>Gove</surname>
             </persName>
          </person>
-         <person>
+         <person xml:id="McPhee">
             <persName>
                <roleName>Miss</roleName>
                <surname>McPhee</surname>
             </persName>
          </person>
+         <person xml:id="Kiernan">
+            <persName>
+               <roleName>Miss</roleName>
+               <surname>Kiernan</surname>
+            </persName>
+         </person>
+         <person xml:id="Kimball">
+            <persName>
+               <roleName>Miss</roleName>
+               <surname>Kimball</surname>
+            </persName>
+         </person>
+         <person xml:id="Fichett">
+            <persName>
+               <roleName>Mrs.</roleName>
+               <surname>Fichett</surname>
+            </persName>
+         </person>
+         <person xml:id="Fitzhenry">
+            <persName>
+               <roleName>Mrs.</roleName>
+               <surname>Fitzhenry</surname>
+            </persName>
+         </person>
       </listPerson>
-      <list type="play">
-         <item xml:id="Merchant">Merchant of Venice</item>
-         <item xml:id="Romeo-Juliet">Romeo &amp; Juliet</item>
-      </list>
+      <listBibl>
+         <bibl xml:id="Merchant">Merchant of Venice</bibl>
+         <bibl xml:id="Romeo-Juliet">Romeo &amp; Juliet</bibl>
+      </listBibl>
    </standOff>
 </TEI>
