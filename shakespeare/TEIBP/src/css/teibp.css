@@ -157,7 +157,7 @@ activity:before {
 actor {
   position: absolute;
   left: 600px;
-  font-size:inherit;
+  font-size:100%;
 }
 /* add */
 /* Could add other [place=] variations */
