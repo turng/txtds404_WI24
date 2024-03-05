@@ -23,10 +23,16 @@ font-family: didot;
 font-size: 32pt;
 font-weight: bold
 }
+titleStmt > editor {
+font-family: cursive;
+}
+front {
+font-family: cursive
+}
 TEI head {
 font-family: didot;
-font-size: 24pt;
 font-weight: bold;
+font-size: 24pt;
 text-transform: uppercase;
 }
 body {
