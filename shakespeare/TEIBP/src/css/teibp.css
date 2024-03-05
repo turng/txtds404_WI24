@@ -155,7 +155,8 @@ activity:before {
   content: "activity: ";
 }
 actor {
-  text-align: right;
+  position: absolute;
+  left: 600px;
 }
 /* add */
 /* Could add other [place=] variations */
