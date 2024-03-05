@@ -387,7 +387,8 @@ castList {
   margin-left: 2em;
 }
 castList > head {
-    margin-bottom: 1em
+    margin-bottom: 1em;
+    text-align: center;
 }
 catDesc {
   /* Empty Rule Set */
