@@ -37,6 +37,12 @@
                   <role>2nd Watch</role>
                   <actor><name type="person" ref="#Marie-Gove">Miss M. Gove</name></actor>
                </castItem>
+               <castItem>
+                  <role>Prince of Verona</role>
+                  <role>[Illegible]</role>
+                  <role>3rd Watch</role>
+                  <actor><name type="person" ref="#McPhee">Miss McPhee</name></actor>
+               </castItem>
             </castList>
             <signed>M. N. Ames.</signed>
             <signed style="margin-top: 0em;">Sec-</signed>
@@ -92,6 +98,12 @@
                <roleName>Miss</roleName>
                <forename>Marie</forename>
                <surname>Gove</surname>
+            </persName>
+         </person>
+         <person>
+            <persName>
+               <roleName>Miss</roleName>
+               <surname>McPhee</surname>
             </persName>
          </person>
       </listPerson>
