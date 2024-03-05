@@ -379,7 +379,7 @@ castItem {
   list-style-type: none;
 }
 castList {
-  display: inline-flex;
+  display: block;
   margin-top: 1em;
   margin-bottom: 1em;
   margin-left: 2em;
