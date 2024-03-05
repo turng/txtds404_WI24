@@ -155,7 +155,7 @@ activity:before {
   content: "activity: ";
 }
 actor {
-  margin-left: 5.5em
+  text-align: right;
 }
 /* add */
 /* Could add other [place=] variations */
@@ -1944,4 +1944,7 @@ div.facsImage img:first-child {
 .head-font {
   font-family: Arvo, sans-serif;
   font-weight: normal;
+}
+standOff {
+  visibility: hidden;
 }
