@@ -682,7 +682,7 @@ handShift {
 /* Need head with TEI parent to distinguish from HTML head */
 TEI head {
   display: block;
-  font-family: Bookman, URW Bookman L, serif;
+  font-family: Times, Times New Roman, serif;
   font-weight: normal;
 }
 body > head {
@@ -1845,7 +1845,7 @@ html {
   margin-left: 2em;
   margin-right: 4em;
   padding: 2.5em;
-  font-family: Bookman, URW Bookman L, serif;
+  font-family: Times, Times New Roman, serif;
   word-spacing: -.1em;
   font-size: 14pt;
   background-color: #d2b48c;
