@@ -7,19 +7,548 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Shakespeare</title>
+            <title>The Shakespeare Club of Port Gamble, Washington</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>This edition covers the daybook's entries from December 14 1896 to January 11 1987.
+               Residents of Port Gamble, Washington may be interested in reading this edition,
+               particularly the descendants of the Gove family. Upon doing research, our group
+               realized that the Gove family may have been an important family in the town that
+               worked in tugboat service, which was essential in Kitsap County. There is even a
+               historical house/landmark in town called the Gove House. We imagine that the
+               residents of Port Gamble and descendants of the Gove family would be interested in
+               this edition as it gives a glimpse into what life and leisure was like in the late
+               1800s. </p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>The manuscript are meeting minutes contained within a “Day Book” ruled planner of 150
+               pages. The minutes are handwritten and contain descriptive paragraphs interspersed
+               with cast lists for their reading assignments. Included are two loose-leaf pages of
+               handwritten letters to the club president. <bibl>
+                  <title>Special Collections Manuscripts and Archives, University of Washington
+                     Libraries; Shakespeare Club Records</title>
+                  <author>Mrs. Ames</author>
+                  <date> December 14, 1896 to January 11, 1987</date>
+                  <msIdentifier>
+                     <settlement>Seattle</settlement>
+                     <repository>Special Collections Manuscripts and Archives, University og
+                        Washington Libraries</repository>
+                     <idno type="OCLC">23949118</idno>
+                  </msIdentifier>
+               </bibl>
+            </p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
+      <front>
+         <div type="editorial_intro">
+            <p>Port Gamble, Washington is a windswept town along the Puget sound, and in 1896 its
+               quaint Victorian homes were chiefly occupied by the bourgeois families drawn to
+               Kitsap county for its burgeoning industries. Herein, the records of the Port Gamble
+               Shakespeare club illuminate the lives of some of its prominent female residents;
+               beyond the paper trails left by their husband’s occupations. Consider the Gove
+               family, whose home is now a historic landmark. Its patriarch, William Gove, was a
+               tugboat captain employed by the Puget Mill Company and had moved to Port Gamble with
+               his wife Laura from Maine. Their four daughters were participants in the Shakespeare
+               club, cropping up frequently in cast lists and in correspondence with the club
+               president.</p>
+            <p>This digital edition of the Port Gamble Shakespeare Society aims to tell the story of
+               the women of the Gove family whose stories have been overlooked in the discussions of
+               historical families in Port Gamble. We hope to highlight the lived experiences and
+               shared relationships of these women. By the 1900 census, all but one member of the
+               Gove family had left Port Gamble. But for an eventful few months in 1896 and 1897,
+               there were marriages, lead roles and deaths all indirectly chronicled through the
+               lens of the Shakespeare club. This edition may be especially interesting for
+               residents of Port Gamble and the descendants of the Gove Family as it intentionally
+               celebrates the lives and relationships of the women of Port Gamble’s Shakespeare
+               Club.</p>
+            <p>These meeting minutes, recorded in club secretary Mrs. Ame’s exceptional handwriting,
+               were transcribed to the best of the publisher’s ability. Spelling will be retained as
+               written, with an understanding that each transcription of cursive represents a kind
+               of best-guess. Errors, given the spontaneous nature of the text, will be retained. In
+               instances of post-script correction, the original and corrected text will be noted.
+            </p>
+         </div>
+      </front>
       <body>
-         <p>On the Eleventh of January the Shakespeare Club met at Miss Gove for the purpose of Reading The Merchant of Venice.</p>
+         <div type="roster">
+            <list>
+               <head>Members of the Shakespeare Club 1986</head>
+               <item>1 Mrs. Ames,</item>
+               <item>2 " Condon-</item>
+               <item>3 Miss Dowling-</item>
+               <item>4 Mrs. Fitzhenry-</item>
+               <item>5 Miss Carrie Gove</item>
+               <item>6 " Emily "</item>
+               <item>7 " Eva "</item>
+               <item>8 " Maurie Kiernan "</item>
+               <item> 9 " Lizzie "</item>
+               <item>11 " Longfellow,</item>
+               <item> 12 " " McPhee --</item>
+               <item>13 " Robinson,</item>
+               <item>14 Mrs Wylde Joined Aug. 26th 95 </item>
+               <item>15 Miss Hallie Thornton " " " "</item>
+               <item> 10 Miss Lizzie [Kristoll]</item>
+               <item> Mrs. F [Fichett] " Nov. 25/95</item>
+               <item>Miss Maurie Gove " Oct. 26/96</item>
+            </list>
+
+            <list>
+               <head>Members for 1897.</head>
+
+               <item>1 Mrs Ames.</item>
+               <item>2 Miss Dowling</item>
+               <item>3 Mrs Fitzhenry</item>
+               <item>4 Miss Kiernan</item>
+               <item>5 " [Kristoll]</item>
+               <item> 6 " McPhee</item>
+               <item>7 " Robinson</item>
+               <item>8 Mrs Wylde Moved away Nov. 1897</item>
+               <item>9 Carrie Gove Berg - Married Nov 24 * 1897 at Townsend</item>
+               <item>Carrie Gove Berg - Died Nov 6th 1898 at Port Gamble</item>
+            </list>
+         </div>
+         <div type="entry">
+            <head><date when="1897-01-04">Jan - 4/1897</date></head>
+            <p><date when="1887-01-04">Monday the fourth day of January</date> the Shakespeare Club met at the home of the President for the purpose of reading "<title type="play" ref="#Windsor">The Merry Wives of Windsor</title>." The Club was called to order by the President at 7.10 - all member present answering with quotations from the above mentioned play -</p>
+            <p><name type="person" ref="#Condon">Mrs Condon</name> was the only member absent at this meeting -</p>
+            <p>After the roll call the minutes of the meeting of <date when="1886-12-21">December twenty first</date> were then read and approved -</p>
+            <p>There was no meeing on <date when="1888-12-28">December twenty eight</date> it having been postponed by the President.</p>
+            <p><name type="person" ref="#Wylde">Mrs Wylde</name> made the motion &amp; it was deemed by <name type="person" ref="#Marie-Gove">Mrs M. Gove</name> that a note of thanks be extended to <name type="person" ref="#Mr-Ames">Mr Ames</name> for his kindness: in [illegible] for the [illegible] was [illegible] -</p>
+            <p>Mrs Ames then informed the members that <name type="person" ref="#Cramite">Mr. Cramtie</name> had very kindly provided the Club with the [illegible] &amp; candy for the ?tree? for which she han thanked him for in behalf of the Club.</p>
+            <p>There being no further business to attend to - Mrs [illegible] then read ?the? ?Gove? [illegible] [illegible] ?words? - that had had been given the Club two weeks previous.</p>
+            <p>After this <name type="person" ref="#E-Gove">Miss E. Gove</name> then gave her idea of the forms of the affected works is the II ?chopin? of [illegible]</p>
+            <p>At 7.40 - the reading of the play, <title type="play" ref="#Windsor">Merry Wives of Windsor</title> was begun &amp; finish at 10.15 at which time the Club adjourned -- to meet the following Monday- the place of meeting being<name type="location" ref="#Carrie-Gove"> Mrs. Gove</name>'s &amp; the play to be <title type="play" ref="#Merchant">Merchant of Venice</title> - which had been cast as follows by <name type="person" ref="#Robinson">Mrs. Robinson</name></p>
+         </div>
+         <div type="entry">
+            <head><date when="1897-01-11">Jan. 11, 1887</date></head>
+            <p>On the <date when="1897-01-11">Eleventh of January</date> the Shakespeare Club met at <name type="location" ref="#Carrie-Gove">Miss Gove</name>'s for the purpose of Reading <title type="play" ref="#Merchant">The Merchant of Venice</title>.</p>
+            <p>The President called the Club to order at 7.15. The roll call was given &amp; all members being present &amp; answering with quotations from the above mentioned play.</p>
+            <p>After the roll call the minutes of the meeting of <date when="1897-01-04">Jan. 4th</date> were read &amp; approved- <name type="person" ref="#Ames">Mrs. Ames</name> there ?from? ?gift? ?are? the [illegible] use of several ?words? that had been discussed at the meeting of the <date when="1897-01-04">4th</date> after which they one hour was spent in discussing [illegible!] [illegible] from the ?guidance!? [illegible]—which the President read.</p>
+            <p>At 8 o'clock- began reading <title type="play" ref="#Merchant">The Merchant of Venice</title>- ?all? reading through two scenes of the third act. [Illegible] there being ?few? [illegible] at which time the <gap quantity="1" unit="word" reason="illegible"></gap> adjourned to meet on <date when="1897-01-18">Monday the 18th, 1897</date>, the place of meeting being <name type="location" ref="#Wylde">Mrs. Wylde</name>'s at which ?time? The Merchant of Venice is to be finished and a part of <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet </title>which had been cast by <name type="person" ref="#Wylde">Mrs. Wylde</name> with cast as follows-</p>
+            <castList>
+               <head><title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title></head>
+               <castItem>
+                  <role>Romeo</role>
+                  <role>1st Watch</role>
+                  <actor><name type="person" ref="#Robinson">Mrs Robinson</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Juliet</role>
+                  <role>2nd Watch</role>
+                  <actor><name type="person" ref="#Marie-Gove">Miss M. Gove</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Prince of Verona</role>
+                  <role>[Illegible]</role>
+                  <role>3rd Watch</role>
+                  <actor><name type="person" ref="#McPhee">Miss McPhee</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Friar Laurence</role>
+                  <role>Mercutio</role>
+                  <role>[Illegible]</role>
+                  <actor><name type="person" ref="#Ames">Mrs Ames</name></actor>
+               </castItem>
+               <castItem>
+                  <role>[Illegible] Montague</role>
+                  <role>2nd Capulet</role>
+                  <actor><name type="person" ref="#Condon">Mrs Condon</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Benvolio</role>
+                  <role>[Illegible]</role>
+                  <actor><name type="person" ref="E-Gove">Miss E. Gove</name></actor>
+               </castItem>
+               <castItem>
+                  <role>?Sampson?</role>
+                  <role>Friar John</role>
+                  <role>Balthasar</role>
+                  <actor><name type="person" ref="#Kiernan">Miss Kiernan</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Gregory</role>
+                  <role>Tybalt</role>
+                  <actor><name type="person" ref="#Kimball">Miss Kimball</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Lady Montague</role>
+                  <role>[Illegible]</role>
+                  <actor><name type="person" ref="#Carrie-Gove">Miss Gove</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Lady Capulet</role>
+                  <role>1st [Illegible]</role>
+                  <role>Servant</role>
+                  <role>3rd Musician</role>
+                  <actor><name type="person" ref="#Fichett">Mrs. Fichett</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Abraham</role>
+                  <role>2nd Musican</role>
+                  <role>1st Servant</role>
+                  <actor><name type="person" ref="#Fitzhenry">Mrs Fitzhenry</name></actor>
+               </castItem>
+               <castItem>
+                  <role>2nd Servant</role>
+                  <role>1st Musican</role>
+                  <role>Peter</role>
+                  <actor><name type="person" ref="#Wylde">Mrs Wylde</name></actor>
+               </castItem>
+            </castList>
+            <signed><name type="person" ref="#Ames">M. N. Ames.</name></signed>
+            <signed>Sec-</signed>
+            <dateline><date when="1897-01-16">Jan - 16/97</date></dateline>
+         </div>
+         <div type="entry">
+            <head><date when="1897-01-18">Jan. 18, 1887</date></head>
+            <p>On <date when="1897-01-18">the eighteenth of January</date>, Shakespeare Club met at <name type="location" ref="#Condon">Mrs Condon</name>'s. The place of meeting has been changed by <name type="location" ref="#Condon">Mrs. Condon</name>--</p>
+            <p>At ten minutes past seven the President called the Club to order - all members being present, and answering with quotations from <title type="play" ref="#Merchant">Merchant of Venice </title>&amp; <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title>.</p>
+            <p>After the roll call the minutes of <date when="1897-01-11">January Eleventh</date> were read and approved--</p>
+            <p>There being no business to attend to- the President gave questions from the Grammar which were discussed for some twenty minutes.</p>
+            <p>At 7-35- began reading at the III scene of the IV act of <title type="play" ref="#Merchant">Merchant of Venice </title>the remainder of the play being finished at 8.55- at which time fifteen minutes was spent discussing. At 9.05-- began the reading of <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet &amp;</title> finishing the first act it being ten at which time the Club adjourned to meet at <name type="location" ref="#Wylde">Mrs. Wylde</name>'s-- <date when="1897-01-25">January twenty-fifth</date> <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title>.</p>
+            <signed><name type="person" ref="#Ames">M. N. Ames.</name></signed>
+            <signed>sec</signed>
+            <dateline><date when="1897-01-16">Jan - 19/97</date></dateline>
+         </div>
+         <div type="entry">
+            <head><date when="1987-01-25">January 25th 1897</date></head>
+            <p>On <date when="1987-01-25">January twenty-fifth</date> the Shakespeare Club met at <name type="location" ref="#Wylde">Mrs. Wylde</name>'s.</p>
+            <p>At 7.10 - the Club was called to order. The roll call given &amp; all members being present and answering with quotation from <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title>.</p>
+            <p>After the roll call the minutes of the previous meeting were read &amp; approved-- after which some 30 minutes was spent in questions from the Grammar.</p>
+            <p>At 7.50 -- began the reading of <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title>. At the second act &amp; reading through the fourth act.</p>
+            <p>it then being ten o'clock at which time the Club adjourned to meet <date when="1987-02-01">February 1st</date> the place of meeting being <name type="location" ref="#Fitzhenry">Mrs. Fitzhenry</name>'s. The reading to be the last act of <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title> and a part of <title type="play" ref="#Much-Ado">Much Ado About Nothing</title>, which had been cast as follows by <name type="person" ref="#Ames">Mrs. Ames</name></p>
+            <castList>
+               <head><title type="play" ref="#Much-Ado">Much Ado About Nothing</title></head>
+               <castItem>
+                  <role>Benedick</role>
+                  <actor><name type="person" ref="#Robinson">Miss Robinson</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Beatrice</role>
+                  <role>Conrad</role>
+                  <actor><name type="person" ref="#Condon">Mrs. Condon</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Friar Francis</role>
+                  <actor><name type="person" ref="#McPhee">Miss McPhee</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Don John</role>
+                  <role>Messenger</role>
+                  <role>Claudio</role>
+                  <actor><name type="person" ref="#Carrie-Gove">Miss Gove</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Don Pedro</role>
+                  <actor><name type="person" ref="#E-Gove">Miss E. Gove</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Hero</role>
+                  <role>Dogberry</role>
+                  <actor><name type="person" ref="#Marie-Gove">Miss M. Gove</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Antonio</role>
+                  <actor><name type="person" ref="#Fitzhenry">Mrs. Fitzhenry</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Margaret</role>
+                  <role>2nd Watch</role>
+                  <actor><name type="person" ref="#Fichett">Mrs. Fichett</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Verges</role>
+                  <role>Ursula</role>
+                  <actor><name type="person" ref="#Kiernan">Miss Kiernan</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Balthasar</role>
+                  <role>Borachio</role>
+                  <actor><name type="person" ref="#Kimball">Miss Kimball</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Leonato</role>
+                  <role>1st Watch</role>
+                  <actor><name type="person" ref="#Wylde">Mrs. Wylde</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Sexton</role>
+                  <role>Boy</role>
+                  <actor><name type="person" ref="#Ames">Mrs. Ames</name></actor>
+               </castItem>
+            </castList>
+            <signed><name type="person" ref="#Ames">M. N. Ames.</name></signed>
+            <signed>Sec.</signed>
+            <dateline><date when="1897-01-16">Jan - 30/97</date></dateline>
+         </div>
+         <div type="entry">
+            <head><date when="1897-02-01">February 1st 1897</date></head>
+            <p>On the 1st of February the Shakespeare Club met at <name ref="#Fitzhenry"> Mrs.
+                  Fitzhenry</name>'s</p>
+            <p>At 7.20 the Club was called to order by the President. The roll call given the
+               members present answering with quotations from <name type="play">Much Ado About
+                  Nothing</name></p>
+            <p><name ref="#Fickett">Mrs. Fickett</name> was absent at the meeting.</p>
+            <p>After the roll call the minutes of the meeting of <del>F</del>
+               <date when="1897-01-25">January 25</date>th were<del> ommission</del> and
+               approved.</p>
+            <p>Some ten minutes was then spent with questions from the grammar.</p>
+            <p>There being no business to attend to the Reading began at 7.35, reading the last act
+               of Romeo &amp; Juliet it being finished at 7.58--</p>
+            <p><name type="play">Much Ado About Nothing</name> was then taken up and four acts were
+               read 00 and finished at ten o'clock at which time the Club adjourned to meet <date
+                  when="1897-02-08">February 8th</date> the place of meeting being <name
+                  ref="Fickett">Mrs. Fickett</name>'s and the reading is to be the last act of<name
+                  type="play"> Much Ado</name> and a portion of <name type="play">Twelfth
+                  Night</name> which had been cast by <name ref="Condon">Mrs. Condon</name> with
+               cast as follows</p>
+
+            <p style="text-align: center"><name type="play">Twelfth Night</name></p>
+
+            <list>
+               <item>(Viola) Miss Robinson --</item>
+               <item>(Malvolio) Miss E. Gove</item>
+               <item>(Olivia) Miss M. Gove</item>
+               <item>(Sir Toby Belch) Miss Gove</item>
+               <item>(Antonio/Curio) Miss McPhee</item>
+               <item>(Feste/2nd Officer) Miss Kiernan</item>
+               <item>(Sebastian/Fabian) Mrs. Ames</item>
+               <item>(Orsino) Mrs. Wylde</item>
+               <item>(Maria) Mrs. Fickett</item>
+               <item>(Sir Andrew Anguecheek) Mrs. Fitzhenry</item>
+               <item>(Valentine/1st Officer) Miss Kimball</item>
+               <item>(Sea Captain/Priest) Mrs. Condon</item>
+            </list>
+
+            <dateline>February 7/97</dateline>
+            <signed>M.W. Ames</signed>
+            <signed style="margin-top: 0em;">Sec-</signed>
+         </div>
+         <div type="entry">
+            <head><date when="1897-02-08">February 8th 1897</date></head>
+
+            <p>On February 8th the Shakespeare Club met at the home of <name ref="#Fickett">Mrs.
+                  Fickett</name>.</p>
+            <p>The club was called to order at 7.15. The roll call given and all members present
+               answering with quotations from <name type="play">Twelfth Night</name>.</p>
+            <p><name ref="#Gove">Miss Gove</name> was absent from this meeting.</p>
+            <p><name ref="#Robinson">Miss Robinson</name> informed the Club that she would be absent
+               from the Club on <date when="1897-02-15">Feb. 15th</date> &amp; probably <date
+                  when="1897-02-22">Feb. 22nd</date> and <name ref="#Wylde">Mrs. Wylde</name> made
+               the motion that someone be appointed to fill the place of President during the
+               absence. Mrs. <name ref="#Ames">Ames</name> was mentioned, voted on and received a
+               unanimous vote to act in the capacity of President during the few meeting [sic] at
+               which <name ref="#Robinson">Miss Robinson</name> would be absent.</p>
+            <p>There being no further business to attend to, Miss RObinson then gave some questions
+               from the Grammar--</p>
+            <p>Ten minutes were thus satisfied.</p>
+            <p>At 7.35- began the reading of <name type="play">Much Ado About Nothing</name>
+               beginning at the 5th act and the play was finished.</p>
+            <p><name type="play">Twelfth Night</name> was begun - &amp; reading through two acts</p>
+            <p>At 10- the Club adjourned to meet February 15th the place of meeting being <name
+                  ref="#Ames">Miss Ame</name>'s the play being</p>
+
+            <p style="text-align: center"><name type="play"> As You Like It</name></p>
+            <p>As You Like It which had been cast as follows by </p>
+
+            <list>
+               <item>(Duke Senior/Corin) Miss Robinson</item>
+               <item>(Frederick/Jaques/Jacques de Boys/Amiens) Mrs. Ames</item>
+               <item>(Silvius) Mrs. Fickett</item>
+               <item>(Charles/William) Miss McPhee</item>
+               <item>(Oliver/Hymen/1st Page) Mrs. Condon</item>
+               <item>(Orlando/Audrey) Miss E. Gove</item>
+               <item>(Adam/Le Beau) Mrs. Wylde</item>
+               <item>(Touchstone/1st Lord) Miss M. Gove</item>
+               <item>(Rosalind/ Epilogue) Miss Kiernan</item>
+               <item>(Celia/2nd Page) Miss Gove</item>
+               <item>(Phebe/Forester) Miss Kimball</item>
+               <item> (Dennis/2nd Lord/Lord/ Sir Oliver Martex) Mrs Fitzhenry.</item>
+            </list>
+
+            <signed>M.W. Ames</signed>
+            <dateline>February 14th 1897</dateline>
+         </div>
+         <div type="letter">
+            <p><name type="place" ref="#Gamble">Port Gamble</name>, Wash. Dec. 14 -- 1897.</p>
+            <p><name ref="#Ames">Mrs. E. G. Ames</name>, President of Shakespeare Club</p>
+            <p>Dear President, - <name ref="#Carrie">Carrie</name> told me to-day that mention was
+               made at the Club last</p>
+            <p>evening about my non-attendance, so I decided to address an explanation to you as</p>
+            <p> President. When the Club first formed for this windter, I told the members that
+               I</p>
+            <p>could not possible attend while Carrie and <name ref="#Emily">Emily</name> were both
+               away from home as I had no</p>
+            <p>time for study and did not want to go with my lesson unpre- pared. I also said I</p>
+            <p> thought that I could begin again at the first of the year. But I did not know
+               then</p>
+            <p>that Carrie would be married soon. You can see that now she is gone</p>
+            <p> (carrie died Nov. 6th 1897)I am in the same predicament I was before. I did not</p>
+            <p>think about resigning, for I hoped to be able to attend before very long, and
+               also</p>
+            <p>wished to help the Club in anything they might understake for Xmas, etc. Now that
+               we</p>
+            <p>have decided to move to <name type="place" ref="#Townsend">Port Townsend </name>in
+               three or four months, I think it may be well</p>
+            <p>for me to hand in my resignation. So will you kindly inform the Club of my desire</p>
+            <p> that they may take the necessary action. I have enjoyed the work and sociability
+               very</p>
+            <p>much and hope the society will ever be as earnest and enjoyable as when I was in
+               it.</p>
+            <p> If there is ever anything I can do to help you, please let me know as I will
+               always</p>
+            <p>be interested. Hoping my explanation is acceptable, and wishing you all sucess, I
+               remain </p>
+            <p>Yours sincerely, </p>
+            <signed>Mame N. Gove</signed>
+         </div>
       </body>
+
+      <back>
+         <!-- HI LUKE! where can i put the stand0ff tag? thanks-->
+         <div type="endnotes">
+            <note xml:id="Gamble">Port Gamble, Washington is a windswept town along the Puget sound,
+               and in 1896 its quaint historic homes were chiefly occupied by the bourgeois families
+               drawn to Kitsap county for its burgeoning industries.<ref type="bibliography"
+                  target="#source1"/></note>
+            <note xml:id="Townsend">Port Townsend is a city in Jefferson County known for its rich
+               history, especially its Victorian architecture from the 19th century. The city is
+               known for its boatbuilders and considered to be a maritime center.<ref
+                  type="bibliography" target="#source2"/></note>
+            <note xml:id="Windsor">This is a Shakespearean comedy that depicts Sir John Falstaff's
+               attempts to seduce two married women, Mistress Ford and Mistress Page. This leads to
+               a series of comical misunderstandings and the clever wives outwitting the would-be
+               seducer in the bustling town of Windsor.<ref type="bibliography" target="#source3"
+               /></note>
+            <note xml:id="Venice">This is a Shakespearean comedy that follows the story of a
+               merchant named Antonio, his friend Bassanio, the wealthy heiress Portia, and the
+               moneylender Shylock in Venice and Belmont.<ref type="bibliography" target="#source4"
+               /></note>
+            <note xml:id="Juliet">This is a tragic play by William Shakespeare that tells the story
+               of two young lovers from feuding families in Verona, whose passionate romance
+               ultimately leads to their untimely deaths and reconciliation between their rival
+                  families.<ref type="bibliography" target="#source5"/></note>
+
+         </div>
+         <div type="bibliography">
+            <listBibl>
+               <bibl xml:id="source1"> Eakins, Jan M. “Historic American Engineering Record Port
+                  Gamble, Washington, William Gove House (House No. 21) Houses Erected by
+                  Employees.” Historic American Engineering Record Columbia Cascades Support Office,
+                  HAER No. WA-149, 1997,
+                  memory.loc.gov/master/pnp/habshaer/wa/wa0600/wa0677/data/wa0677data.pdf</bibl>
+               <bibl xml:id="source2">“Overview: Romeo and Juliet.” Oxford Reference,
+                  https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100427839.
+                  Accessed 22 Feb. 2024.</bibl>
+               <bibl xml:id="source3">“Merry Wives of Windsor.” Oxford Reference,
+                  https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100151834.
+                  Accessed 22 Feb. 2024. </bibl>
+               <bibl xml:id="source4">“The Merchant of Venice.” Oxford Reference,
+                  https://www.oxfordreference.com/display/10.1093/acref/9780198708735.001.0001/acref-9780198708735-e-1885?rskey=vVD8o3result=1.Accessed
+                  22 Feb. 2024.</bibl>
+               <bibl xml:id="source5">“Overview: Romeo and Juliet.” Oxford Reference,
+                  https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100427839.
+                  Accessed 22 Feb. 2024.</bibl>
+            </listBibl>
+         </div>
+         <div type="members">
+            <listPerson>
+               <person xml:id="Carrie-Gove">
+                  <persName>
+                     <roleName>Miss</roleName>
+                     <forename>Carrie</forename>
+                     <surname>Gove</surname>
+                  </persName></person>
+               <person xml:id="Ames">
+                  <persName>
+                     <roleName>Mrs.</roleName>
+                     <surname>Ames</surname>
+                  </persName>
+                  <occupation>Secretary</occupation>
+               </person>
+               <person xml:id="Robinson">
+                  <persName>
+                     <roleName>Mrs.</roleName>
+                     <surname>Robinson</surname>
+                  </persName>
+                  <occupation>President</occupation>
+               </person>
+               <person xml:id="Wylde">
+                  <persName>
+                     <roleName>Mrs.</roleName>
+                     <surname>Wylde</surname>
+                  </persName>
+                  <persName>
+                     <roleName>Mrs.</roleName>
+                     <surname>Condon</surname>
+                  </persName>
+               </person>
+               <person xml:id="Marie-Gove">
+                  <persName>
+                     <roleName>Miss</roleName>
+                     <forename>Marie</forename>
+                     <surname>Gove</surname>
+                  </persName>
+               </person>
+               <person xml:id="McPhee">
+                  <persName>
+                     <roleName>Miss</roleName>
+                     <surname>McPhee</surname>
+                  </persName>
+               </person>
+               <person xml:id="Kiernan">
+                  <persName>
+                     <roleName>Miss</roleName>
+                     <surname>Kiernan</surname>
+                  </persName>
+               </person>
+               <person xml:id="Kimball">
+                  <persName>
+                     <roleName>Miss</roleName>
+                     <surname>Kimball</surname>
+                  </persName>
+               </person>
+               <person xml:id="Fichett">
+                  <persName>
+                     <roleName>Mrs.</roleName>
+                     <surname>Fichett</surname>
+                  </persName>
+               </person>
+               <person xml:id="Fitzhenry">
+                  <persName>
+                     <roleName>Mrs.</roleName>
+                     <surname>Fitzhenry</surname>
+                  </persName>
+               </person>
+               <person xml:id="Condon">
+                  <persName>
+                     <roleName>Mrs.</roleName>
+                     <surname>Condon</surname>
+                  </persName>
+               </person>
+               <person xml:id="Mr-Ames">
+                  <persName>
+                     <roleName>Mr.</roleName>
+                     <surname>Ames</surname>
+                  </persName>
+               </person>
+               <person xml:id="Cramite">
+                  <persName>
+                     <roleName>Mr.</roleName>
+                     <surname>Cramite</surname>
+                  </persName>
+               </person>
+               <person xml:id="E-Gove">
+                  <persName>
+                     <roleName>Miss</roleName>
+                     <forename>E</forename>
+                     <surname>Gove</surname>
+                  </persName>
+               </person>
+            </listPerson>
+         </div>
+      </back>
    </text>
 </TEI>
