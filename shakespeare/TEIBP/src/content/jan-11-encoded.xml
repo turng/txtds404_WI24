@@ -20,6 +20,18 @@
   <text>
       <body>
          <div type="entry">
+            <head><date when="1897-01-04">Jan - 4/1897</date></head>
+            <p><date when="1887-01-04">Monday the fourth day of January</date> the Shakespeare Club met at the home of the President for the purpose of reading "<title type="play" ref="#Winsor">The Merry Wives of Winsor</title>." The Club was called to order by the President at 7.10 - all member present answering with quotations from the above mentioned play -</p>
+            <p><name type="person" ref="#Condon">Mrs Condon</name> was the only member absent at this meeting -</p>
+            <p>After the roll call the minutes of the meeting of <date when="1886-12-21">December twenty first</date> were then read and approved -</p>
+            <p>There was no meeing on <date when="1888-12-28">December twenty eight</date> it having been postponed by the President.</p>
+            <p><name type="person" ref="#Wylde">Mrs Wylde</name> made the motion &amp; it was deemed by <name type="person" ref="#Marie-Gove">Mrs M. Gove</name> that a note of thanks be extended to <name type="person" ref="#Mr-Ames">Mr Ames</name> for his kindness: in [illegible] for the [illegible] was [illegible] -</p>
+            <p>Mrs Ames then informed the members that <name type="person" ref="#Cramite">Mr. Cramtie</name> had very kindly provided the Club with the [illegible] &amp; candy for the ?tree? for which she han thanked him for in behalf of the Club.</p>
+            <p>There being no further business to attend to - Mrs [illegible] then read ?the? ?Gove? [illegible] [illegible] ?words? - that had had been given the Club two weeks previous.</p>
+            <p>After this <name type="person" ref="#E-Gove">Miss E. Gove</name> then gave her idea of the forms of the affected works is the II ?chopin? of [illegible]</p>
+            <p>At 7.40 - the reading of the play, <title type="play" ref="#Winsor">Merry Wives of Winsor</title> was begun &amp; finish at 10.15 at which time the Club adjourned -- to meet the following Monday- the place of meeting being<name type="location" ref="#Carrie-Gove"> Mrs. Gove</name>'s &amp; the play to be <title type="play" ref="#Merchant">Merchant of Venice</title> - which had been cast as follows by <name type="person" ref="#Robinson">Mrs. Robinson</name></p>
+         </div>
+         <div type="entry">
             <head><date when="1897-01-11">Jan. 11, 1887</date></head>
             <p>On the <date when="1897-01-11">Eleventh of January</date> the Shakespeare Club met at <name type="location" ref="#Carrie-Gove">Miss Gove</name>'s for the purpose of Reading <title type="play" ref="#Merchant">The Merchant of Venice</title>.</p>
             <p>The President called the Club to order at 7.15. The roll call was given &amp; all members being present &amp; answering with quotations from the above mentioned play.</p>
@@ -252,11 +264,37 @@
                <surname>Fitzhenry</surname>
             </persName>
          </person>
+         <person xml:id="Condon">
+            <persName>
+               <roleName>Mrs.</roleName>
+               <surname>Condon</surname>
+            </persName>
+         </person>
+         <person xml:id="Mr-Ames">
+            <persName>
+               <roleName>Mr.</roleName>
+               <surname>Ames</surname>
+            </persName>
+         </person>
+         <person xml:id="Cramite">
+            <persName>
+               <roleName>Mr.</roleName>
+               <surname>Cramite</surname>
+            </persName>
+         </person>
+         <person xml:id="E-Gove">
+            <persName>
+               <roleName>Miss</roleName>
+               <forename>E</forename>
+               <surname>Gove</surname>
+            </persName>
+         </person>
       </listPerson>
       <listBibl>
          <bibl xml:id="Merchant">Merchant of Venice</bibl>
          <bibl xml:id="Romeo-Juliet">Romeo &amp; Juliet</bibl>
          <bibl xml:id="Much-Ado">Much Ado About Nothing</bibl>
+         <bibl xml:id="Winsor">The Merry Wives of Winsor</bibl>
       </listBibl>
    </standOff>
 </TEI>
