@@ -37,10 +37,150 @@
                <p>All of the author's best-known hymns are included in this collection, as well as many poems written in girlhood and during the years she resided in Lynn, Mass., and which appeared in various publications of that day. Among her earliest poems are "Upward," "Resolutions for the Day," "Autumn" (written in a maple grove), "Alphabet and Bayonet," and "The Country-Seat" (written while visiting a family friend in the beautiful suburbs of Boston); yet, even these are characterized by the same lofty trend of thought that reached its fulness in her later productions.</p>        
                <p>In May, 1910, Mrs. Eddy requested her publisher to prepare a few bound volumes of her poems, for private distribution. When this became known to her friends, they urged her to allow a popular edition to be issued, to which she assented. With grateful acknowledgment, therefore, of this permission, this little volume is presented to the public, in the hope that these gems of purest thought from this spiritually-minded author will prove a joy to the heavy laden and a balm to the weary heart.</p>
          </div>
-         <div type="poem" rhyme="aabccb">
+         <div type="poem" n="1">
+            <head><hi rend="uppercase">Autumn</hi></head>
+            <lg type="quatrain" rhyme="abab">
+               <l>Quickly earth's jewels disappear;</l>
+               <l><ref target="#Sanbornton">The turf</ref>, whereon <ref target="#mary_baker_eddy">I</ref>tread,</l>
+               <l>Ere autumn blanch another year,</l>
+               <l>May rest above my head.</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>Touched by the finger of decay</l>
+               <l>Is every earthly love;</l>
+               <l>For joy, to shun my weary way,</l>
+               <l>Is registered above.</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>The languid brooklets yield their sighs,</l>
+               <l>A requiem o'er the tomb</l>
+               <l>Of sunny days and cloudless skies,</l>
+               <l>Enhancing autumn's gloom. </l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>The wild winds mutter, howl, and moan,</l>
+               <l>To scare my woodland walk</l>
+               <l>And frightened fancy flees, to roam</l>
+               <l>Where ghosts and goblins stalk.</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>The cricket's sharp, discordant scream</l>
+               <l>Fills mortal sense with dread;</l>
+               <l>More sorrowful it scarce could seem;</l>
+               <l>It voices beauty fled.</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>Yet here, upon this faded sod,—</l>
+               <l>O happy hours and fleet,—</l>
+               <l>When songsters' matin hymns to God</l>
+               <l>Are poured in strains so sweet,</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>My heart unbidden joins rehearse,</l>
+               <l>I hope it's better made,</l>
+               <l>When mingling with the universe,</l>
+               <l>Beneath the maple's shade.</l>
+            </lg>
+            <note place="footnote">
+               Written in girlhood, <ref target="#Sanbornton">in a maple grove.</ref>
+            </note>      
+         </div>
+         <div type="poem" n="2">
+            <head><hi rend="uppercase">Spring</hi></head>
+            <lg type="quatrain" rhyme="abab">
+               <l>Come to <ref target="#Sanbornton">thy bowers</ref>, sweet spring,</l>
+               <l>And paint the gray, stark trees,</l>
+               <l>The bud, the leaf and wing—</l>
+               <l>Bring with thee brush and breeze.</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>And soft thy shading lay</l>
+               <l>On vale and woodland deep;</l>
+               <l>With sunshine's lovely ray</l>
+               <l>Light o'er the rugged steep.</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>More softly warm and weave</l>
+               <l>The patient, timid grass,</l>
+               <l>Till heard at silvery eve</l>
+               <l>Poor robin's lonely mass.</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>Bid faithful swallows come</l>
+               <l>And build their cozy nests,</l>
+               <l>Where wind nor storm can numb</l>
+               <l>Their downy little breasts.</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>Come at the sad heart's call,</l>
+               <l>To empty summer bowers,</l>
+               <l>Where still and dead are all</l>
+               <l>The vernal songs and flowers.</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>It may be months or years</l>
+               <l>Since joyous spring was there.</l>
+               <l>O come to clouds and tears</l>
+               <l>With light and song and prayer!</l>
+            </lg>
+         </div>
+         <div type="poem" n="3">
+            <head><hi rend="uppercase">O For Thy Wings, Sweet Bird!</hi></head>
+            <lg type="quatrain" rhyme="abab">
+               <l>O for thy wings, sweet bird!</l>
+               <l>And soul of melody by being blest—</l>
+               <l>Like thee, <ref target="#mary_baker_eddy">my</ref> voice had stirred</l>
+               <l>Some dear remembrance in a weary breast.</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>But whither wouldst thou rove,</l>
+               <l>Bird of the airy wing, and fold thy plumes?</l>
+               <l>In what dark leafy grove</l>
+               <l>Wouldst chant thy vespers 'mid rich glooms?</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>Or sing thy love-lorn note—</l>
+               <l>In deeper solitude, where nymph or saint</l>
+               <l>Has wooed some mystic spot,</l>
+               <l>Divinely desolate the shrine to paint?</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>Yet wherefore ask thy doom?</l>
+               <l>Blessed compared with me thou art—</l>
+               <l>Unto thy greenwood home</l>
+               <l>Bearing no bitter memory at heart;</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>Wearing no earthly chain,</l>
+               <l>Thou canst in azure bright soar far above;</l>
+               <l>Nor pinest thou in vain</l>
+               <l>O'er joys departed, unforgotten love.</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>O take me to thy bower!</l>
+               <l>Beguile the lagging hours of weariness</l>
+               <l>With strain which hath strange power</l>
+               <l>To make me love thee as I love life less!</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>From mortal consciousness</l>
+               <l>Which binds to earth—infirmity of woe!</l>
+               <l>Or pining tenderness—</l>
+               <l>Whose streams will never dry or cease to flow;</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>An aching, voiceless void,</l>
+               <l>Hushed in the heart whereunto none reply,</l>
+               <l>And in the cringing crowd</l>
+               <l>Companionless! Bird, bear me through the sky!</l>
+            </lg>
+            <note place="footnote">
+               Written more than sixty years ago for the <hi rend="italic">New Hampshire Patriot.</hi>
+            </note>
+         </div>
+         <div type="poem" n="4">
             <head><hi rend="uppercase">Meeting Of My Departed Mother And Husband</hi></head>
-            <lg type="stanza">
-		 <!-- GT: is it both in the source? You can include two values here: rend="italics caps". Or you can combine into one value that will mean italics and caps: rend="caps_ital" , or something similar -->
+            <lg type="stanza" rhyme="aabccb">
                <l>Joy for thee, happy friend! thy bark is past</l>
                <l>The dangerous sea, and safely moored at last—</l>
                <l>Beyond rough foam.</l>
@@ -113,7 +253,49 @@
                <l>Our spirits' own!"</l>
             </lg>
          </div>
-         <div type="poem" n="2">
+         <div type="poem" n="5">
+            <head><hi rend="uppercase">Dedication of a Temperance Hall</hi></head>
+            <lg type="quatrain" rhyme="abab">
+               <l>Author of all divine</l>
+               <l>Gifts, lofty, pure, and free,</l>
+               <l>Temperance and truth in song sublime</l>
+               <l>An offering bring to Thee!</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>A temple, whose high dome</l>
+               <l>Rose from a water-cup;</l>
+               <l>And from its altar to Thy throne</l>
+               <l>May we press on and up!</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>And she—last at the cross,</l>
+               <l>First at the tomb, who waits—</l>
+               <l>Woman—will watch to cleanse from dross</l>
+               <l>The cause she elevates.</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>Sons of the old Bay State,</l>
+               <l>Work for our glorious cause!</l>
+               <l>And be your waiting hearts elate,</l>
+               <l>Since temperance makes your laws.</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>"Temples of Honor," all,</l>
+               <l>"Social," or grand, or great,</l>
+               <l>This blazoned, brilliant temperance hall</l>
+               <l>To Thee we dedicate.</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>"Good Templars" one and all,</l>
+               <l>Good "Sons," and daughters, too,</l>
+               <l>We dedicate this temperance hall</l>
+               <l>To God, to Truth, and you!</l>
+            </lg>
+            <note place="footnote">
+               Lynn, Mass., <hi rend="italic">August 4, 1866.</hi>
+            </note>
+         </div>
+         <div type="poem" n="6">
             <head><hi rend="uppercase">I'm Sitting Alone</hi></head>
             <lg type="quatrain" rhyme="aabb">
                <l><ref target="#mary_baker_eddy">I'm </ref>sitting alone where the shadows fall</l> 
@@ -161,7 +343,106 @@
                <ref target="#Lynn">Lynn, Mass.</ref>, <hi rend="italic">September 3, 1866.</hi>
             </note>
          </div>
-         <div type="poem" n="3">
+         <div type="poem" n="7">
+            <head><hi rend="uppercase">To Etta</hi></head>
+            <lg type="quatrain" rhyme="abab">
+               <l>Fair girl, thy rosebud heart rests warm</l>
+               <l>Within life's summer bowers!</l>
+               <l>Nor blasts of winter's angry storm,</l>
+               <l>Nor April's changeful showers,</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>Its leaves have shed or bowed the stem;</l>
+               <l>But gracefully it stands—</l>
+               <l>A gem in beauty's diadem,</l>
+               <l>Unplucked by ruthless hands.</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>Thus may it ripen into bloom,</l>
+               <l>Fresh as the fragrant sod,</l>
+               <l>And yield its beauty and perfume</l>
+               <l>An offering pure to God.</l>
+            </lg>
+            <lg type="quatrain" rhyme="abab">
+               <l>Sweet as the poetry of heaven,</l>
+               <l>Bright as her evening star,</l>
+               <l>Be all thy life in music given,</l>
+               <l>While beauty fills each bar.</l>
+            </lg>
+            <note place="footnote">
+               Lynn, Mass., <hi rend="italic">December 8, 1866.</hi>
+            </note>
+         </div>
+         <div type="poem" n="8">
+            <head><hi rend="uppercase">Constancy</hi></head>
+            <lg type="quatrain" rhyme="aabb">     
+               <l>When starlight blends with morning's hue,</l>
+               <l><ref target="#mary_baker_eddy">I</ref> miss thee as the flower the dew!</l>
+               <l>When noonday's length'ning shadows flee,</l>
+               <l>I think of <ref target="#george_washington_glover">thee</ref>, I think of thee!</l>
+            </lg>
+            <lg type="quatrain" rhyme="aabb">
+               <l>With evening, memories reappear—</l>
+               <l>I watch thy chair, and wish thee here;</l>
+               <l>Till sleep sets drooping fancy free</l>
+               <l>To dream of thee, to dream of thee!</l>
+            </lg>
+            <lg type="quatrain" rhyme="aabb">
+               <l>Since first we met, in weal or woe</l> 
+               <l>It hath been thus; and must be so</l>
+               <l>Till bursting bonds our spirits part</l>
+               <l>And Love divine doth fill my heart.</l>
+            </lg>
+            <note place="footnote">
+               Written many years ago.
+            </note>
+         </div>
+         <div type="poem" n="9">
+            <head><hi rend="uppercase">Old Man of the Mountain</hi></head>
+            <lg type="quatrain" rhyme="aabb">
+               <l>Gigantic sire, unfallen still thy crest!</l>
+               <l>Primeval dweller where the wild winds rest,</l>
+               <l>Beyond the ken of mortal e'er to tell</l>
+               <l>What power sustains thee in thy rock-bound cell.</l>
+            </lg>
+            <lg type="quatrain" rhyme="aabb">
+               <l>Or if, when first creation vast began,</l>
+               <l>And far the universal fiat ran,</l>
+               <l>"Let there be light"—from chaos dark set free,</l>
+               <l>Ye rose, a monument of Deity,</l>
+            </lg>
+            <lg type="quatrain" rhyme="aabb">
+               <l>Proud from yon cloud-crowned height to look henceforth</l>
+               <l>On insignificance that peoples earth,</l>
+               <l>Recalling oft the bitter draft which turns</l>
+               <l>The mind to meditate on what it learns.</l>
+            </lg>
+            <lg type="quatrain" rhyme="aabb">
+               <l>Stern, passionless, no soul those looks betray;</l>
+               <l>Though kindred rocks, to sport at mortal clay—</l>
+               <l>Much as the chisel of the sculptor's art</l>
+               <l>"Plays round the head, but comes not to the heart."</l>
+            </lg>
+            <lg type="quatrain" rhyme="aabb">
+               <l>Ah, who can fathom thee! Ambitious man,</l>
+               <l>Like a trained falcon in the Gallic van,</l>
+               <l>Guided and led, can never reach to thee</l>
+               <l>With all the strength of weakness—vanity!</l>
+            </lg>
+            <lg type="quatrain" rhyme="aabb">
+               <l>Great as thou art, and paralleled by none,</l>
+               <l>Admired by all, still art thou drear and lone!</l>
+               <l>The moon looks down upon thine exiled height;</l>
+               <l>The stars, so cold, so glitteringly bright,</l>
+            </lg>
+            <lg type="quatrain" rhyme="aabb">
+               <l>On wings of morning gladly flit away,</l>
+               <l>Yield to the sun's more genial, mighty ray;</l>
+               <l>The white waves kiss the murmuring rill—</l>
+               <l>But thy deep silence is unbroken still.</l>
+            </lg>
+         </div>
+         <div type="poem" n="10">
             <head><hi rend="uppercase">The New Century</hi></head>
             <lg type="stanza" rhyme="aabbccddee">
                <l>Thou God-crowned, patient century,</l>
@@ -191,297 +472,12 @@
                Pleasant View, Concord, N. H., <hi rend="italic">January, 1901.</hi>
             </note>
          </div>
-         <div type="poem" n="4">
-            <head><hi rend="uppercase">Constancy</hi></head>
-            <lg type="quatrain" rhyme="aabb">     
-               <l>When starlight blends with morning's hue,</l>
-               <l><ref target="#mary_baker_eddy">I</ref> miss thee as the flower the dew!</l> <!-- Who does she miss -->
-               <l>When noonday's length'ning shadows flee,</l>
-               <l>I think of <ref target="#george_washington_glover">thee</ref>, I think of thee!</l>
-            </lg>
-            <lg type="quatrain" rhyme="aabb">
-               <l>With evening, memories reappear—</l>
-               <l>I watch thy chair, and wish thee here;</l>
-               <l>Till sleep sets drooping fancy free</l>
-               <l>To dream of thee, to dream of thee!</l>
-            </lg>
-            <lg type="quatrain" rhyme="aabb">
-               <l>Since first we met, in weal or woe</l> 
-               <l>It hath been thus; and must be so</l>
-               <l>Till bursting bonds our spirits part</l>
-               <l>And Love divine doth fill my heart.</l>
-            </lg>
-            <note place="footnote">
-               Written many years ago.
-            </note>
-         </div>
-         <div type="poem" n="5">
-            <head><hi rend="uppercase">Autumn</hi></head>
-            <lg type="quatrain" rhyme="abab">
-               <l>Quickly earth's jewels disappear;</l>
-               <l><ref target="#Sanbornton">The turf</ref>, whereon <ref target="#mary_baker_eddy">I</ref> tread,</l>
-               <l>Ere autumn blanch another year,</l>
-               <l>May rest above my head.</l>
-            </lg>
-            <lg type="quatrain" rhyme="abab">
-               <l>Touched by the finger of decay</l>
-               <l>Is every earthly love;</l>
-               <l>For joy, to shun my weary way,</l>
-               <l>Is registered above.</l>
-            </lg>
-            <lg type="quatrain" rhyme="abab">
-               <l>The languid brooklets yield their sighs,</l>
-               <l>A requiem o'er the tomb</l>
-               <l>Of sunny days and cloudless skies,</l>
-               <l>Enhancing autumn's gloom. </l>
-            </lg>
-            <lg type="quatrain" rhyme="abab">
-               <l>The wild winds mutter, howl, and moan,</l>
-               <l>To scare my woodland walk</l>
-               <l>And frightened fancy flees, to roam</l>
-               <l>Where ghosts and goblins stalk.</l>
-            </lg>
-            <lg type="quatrain" rhyme="abab">
-               <l>The cricket's sharp, discordant scream</l>
-               <l>Fills mortal sense with dread;</l>
-               <l>More sorrowful it scarce could seem;</l>
-               <l>It voices beauty fled.</l>
-            </lg>
-            <lg type="quatrain" rhyme="abab">
-               <l>Yet here, upon this faded sod,—</l>
-               <l>O happy hours and fleet,—</l>
-               <l>When songsters' matin hymns to God</l>
-               <l>Are poured in strains so sweet,</l>
-            </lg>
-            <lg type="quatrain" rhyme="abab">
-               <l>My heart unbidden joins rehearse,</l>
-               <l>I hope it's better made,</l>
-               <l>When mingling with the universe,</l>
-               <l>Beneath the maple's shade.</l>
-            </lg>
-            <note place="footnote">
-               Written in girlhood, <ref target="#Sanbornton">in a maple grove.</ref>
-            </note>      
-         </div>
-	 <div type="poem" n="6">
-            <head><hi rend="uppercase">Spring</hi></head>
-            <lg type="quatrain" rhyme="abab">
-	      <l>Come to thy bowers, sweet spring,</l>
-              <l>And paint the gray, stark trees,</l>
-              <l>The bud, the leaf and wing—</l>
-              <l>Bring with thee brush and breeze.</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>And soft thy shading lay</l>
-              <l>On vale and woodland deep;</l>
-              <l>With sunshine's lovely ray</l>
-              <l>Light o'er the rugged steep.</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>More softly warm and weave</l>
-              <l>The patient, timid grass,</l>
-              <l>Till heard at silvery eve</l>
-              <l>Poor robin's lonely mass.</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>Bid faithful swallows come</l>
-              <l>And build their cozy nests,</l>
-              <l>Where wind nor storm can numb</l>
-              <l>Their downy little breasts.</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>Come at the sad heart's call,</l>
-              <l>To empty summer bowers,</l>
-              <l>Where still and dead are all</l>
-              <l>The vernal songs and flowers.</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>It may be months or years</l>
-              <l>Since joyous spring was there.</l>
-              <l>O come to clouds and tears</l>
-              <l>With light and song and prayer!</l>
-           </lg>
-        </div>
-	<div type="poem" n="7">
-            <head><hi rend="uppercase">Old Man of the Mountain</hi></head>
-            <lg type="quatrain" rhyme="aabb">
-	       <l>Gigantic sire, unfallen still thy crest!</l>
-               <l>Primeval dweller where the wild winds rest,</l>
-               <l>Beyond the ken of mortal e'er to tell</l>
-               <l>What power sustains thee in thy rock-bound cell.</l>
-           </lg>
-            <lg type="quatrain" rhyme="aabb">
-               <l>Or if, when first creation vast began,</l>
-               <l>And far the universal fiat ran,</l>
-               <l>"Let there be light"—from chaos dark set free,</l>
-               <l>Ye rose, a monument of Deity,</l>
-           </lg>
-           <lg type="quatrain" rhyme="aabb">
-              <l>Proud from yon cloud-crowned height to look henceforth</l>
-              <l>On insignificance that peoples earth,</l>
-              <l>Recalling oft the bitter draft which turns</l>
-              <l>The mind to meditate on what it learns.</l>
-           </lg>
-           <lg type="quatrain" rhyme="aabb">
-              <l>Stern, passionless, no soul those looks betray;</l>
-              <l>Though kindred rocks, to sport at mortal clay—</l>
-              <l>Much as the chisel of the sculptor's art</l>
-              <l>"Plays round the head, but comes not to the heart."</l>
-           </lg>
-           <lg type="quatrain" rhyme="aabb">
-              <l>Ah, who can fathom thee! Ambitious man,</l>
-              <l>Like a trained falcon in the Gallic van,</l>
-              <l>Guided and led, can never reach to thee</l>
-              <l>With all the strength of weakness—vanity!</l>
-           </lg>
-           <lg type="quatrain" rhyme="aabb">
-              <l>Great as thou art, and paralleled by none,</l>
-              <l>Admired by all, still art thou drear and lone!</l>
-              <l>The moon looks down upon thine exiled height;</l>
-              <l>The stars, so cold, so glitteringly bright,</l>
-           </lg>
-           <lg type="quatrain" rhyme="aabb">
-              <l>On wings of morning gladly flit away,</l>
-              <l>Yield to the sun's more genial, mighty ray;</l>
-              <l>The white waves kiss the murmuring rill—</l>
-              <l>But thy deep silence is unbroken still.</l>
-           </lg>
-        </div>
-	<div type="poem" n="8">
-            <head><hi rend="uppercase">O For Thy Wings, Sweet Bird!</hi></head>
-            <lg type="quatrain" rhyme="abab">
-	      <l>O for thy wings, sweet bird!</l>
-              <l>And soul of melody by being blest—</l>
-              <l>Like thee, my voice had stirred</l>
-              <l>Some dear remembrance in a weary breast.</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>But whither wouldst thou rove,</l>
-              <l>Bird of the airy wing, and fold thy plumes?</l>
-              <l>In what dark leafy grove</l>
-              <l>Wouldst chant thy vespers 'mid rich glooms?</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>Or sing thy love-lorn note—</l>
-              <l>In deeper solitude, where nymph or saint</l>
-              <l>Has wooed some mystic spot,</l>
-              <l>Divinely desolate the shrine to paint?</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>Yet wherefore ask thy doom?</l>
-              <l>Blessed compared with me thou art—</l>
-              <l>Unto thy greenwood home</l>
-              <l>Bearing no bitter memory at heart;</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>Wearing no earthly chain,</l>
-              <l>Thou canst in azure bright soar far above;</l>
-              <l>Nor pinest thou in vain</l>
-              <l>O'er joys departed, unforgotten love.</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>O take me to thy bower!</l>
-              <l>Beguile the lagging hours of weariness</l>
-              <l>With strain which hath strange power</l>
-              <l>To make me love thee as I love life less!</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>From mortal consciousness</l>
-              <l>Which binds to earth—infirmity of woe!</l>
-              <l>Or pining tenderness—</l>
-              <l>Whose streams will never dry or cease to flow;</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>An aching, voiceless void,</l>
-              <l>Hushed in the heart whereunto none reply,</l>
-              <l>And in the cringing crowd</l>
-              <l>Companionless! Bird, bear me through the sky!</l>
-           </lg>
-           <note place="footnote">
-              Written more than sixty years ago for the <hi rend="italic">New Hampshire Patriot.</hi>
-           </note>
-        </div>
-	<div type="poem" n="9">
-            <head><hi rend="uppercase">Dedication of a Temperance Hall</hi></head>
-            <lg type="quatrain" rhyme="abab">
-	      <l>Author of all divine</l>
-              <l>Gifts, lofty, pure, and free,</l>
-              <l>Temperance and truth in song sublime</l>
-              <l>An offering bring to Thee!</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>A temple, whose high dome</l>
-              <l>Rose from a water-cup;</l>
-              <l>And from its altar to Thy throne</l>
-              <l>May we press on and up!</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>And she—last at the cross,</l>
-              <l>First at the tomb, who waits—</l>
-              <l>Woman—will watch to cleanse from dross</l>
-              <l>The cause she elevates.</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>Sons of the old Bay State,</l>
-              <l>Work for our glorious cause!</l>
-              <l>And be your waiting hearts elate,</l>
-              <l>Since temperance makes your laws.</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>"Temples of Honor," all,</l>
-              <l>"Social," or grand, or great,</l>
-              <l>This blazoned, brilliant temperance hall</l>
-              <l>To Thee we dedicate.</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>"Good Templars" one and all,</l>
-              <l>Good "Sons," and daughters, too,</l>
-              <l>We dedicate this temperance hall</l>
-              <l>To God, to Truth, and you!</l>
-           </lg>
-           <note place="footnote">
-              Lynn, Mass., <hi rend="italic">August 4, 1866.</hi>
-           </note>
-        </div>
-	<div type="poem" n="10">
-            <head><hi rend="uppercase">To Etta</hi></head>
-            <lg type="quatrain" rhyme="abab">
-	      <l>Fair girl, thy rosebud heart rests warm</l>
-              <l>Within life's summer bowers!</l>
-              <l>Nor blasts of winter's angry storm,</l>
-              <l>Nor April's changeful showers,</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>Its leaves have shed or bowed the stem;</l>
-              <l>But gracefully it stands—</l>
-              <l>A gem in beauty's diadem,</l>
-              <l>Unplucked by ruthless hands.</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-              <l>Thus may it ripen into bloom,</l>
-              <l>Fresh as the fragrant sod,</l>
-              <l>And yield its beauty and perfume</l>
-              <l>An offering pure to God.</l>
-           </lg>
-           <lg type="quatrain" rhyme="abab">
-               <l>Sweet as the poetry of heaven,</l>
-               <l>Bright as her evening star,</l>
-               <l>Be all thy life in music given,</l>
-               <l>While beauty fills each bar.</l>
-           </lg>
-           <note place="footnote">
-              Lynn, Mass., <hi rend="italic">December 8, 1866.</hi>
-           </note>
-        </div>
       </body>
    </text>
    <standOff>
       <listPerson>
          <head>
             <s>Important People</s>
-         </head>
-         <head>
-            <s>Mary Baker Eddy</s>
          </head>
          <person xml:id="mary_baker_eddy">
             <persName>
