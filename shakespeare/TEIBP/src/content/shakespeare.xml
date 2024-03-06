@@ -120,6 +120,70 @@
             <p>There being no further business to attend to - Mrs [illegible] then read ?the? ?Gove? [illegible] [illegible] ?words? - that had had been given the Club two weeks previous.</p>
             <p>After this <name type="person" ref="#E-Gove">Miss E. Gove</name> then gave her idea of the forms of the affected works is the II ?chopin? of [illegible]</p>
             <p>At 7.40 - the reading of the play, <title type="play" ref="#Windsor">Merry Wives of Windsor</title> was begun &amp; finish at 10.15 at which time the Club adjourned -- to meet the following Monday- the place of meeting being<name type="location" ref="#Carrie-Gove"> Mrs. Gove</name>'s &amp; the play to be <title type="play" ref="#Merchant">Merchant of Venice</title> - which had been cast as follows by <name type="person" ref="#Robinson">Mrs. Robinson</name></p>
+            <castList>
+               <head><title type="play" ref="#Merchant">Merchant of Venice</title></head>
+               <castItem>
+                  <role>Shylock</role>
+                  <actor><name type="person" ref="#McPhee">Miss McPhee</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Portia</role>
+                  <actor><name type="person" ref="#Ames">Mrs Ames</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Bassonio</role>
+                  <actor><name type="person" ref="#E-Gove">Miss E. Gove</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Nerissa</role>
+                  <role>Tubal</role>
+                  <actor><name type="person" ref="#Condon">Mrs. Condon</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Salarino</role>
+                  <role>Old Gobbo</role>
+                  <actor><name type="person" ref="#Carrie-Gove">Miss Carrie Gove</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Launcelot Gobbo</role>
+                  <role>Prince of Morocco</role>
+                  <role>Duke of Venice</role>
+                  <actor><name type="person" ref="#Wylde">Mrs Wylde</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Lorenzo</role>
+                  <actor><name type="person" ref="#Fichett">Mrs. Fichett</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Salanio</role>
+                  <role>Balthazar</role>
+                  <actor><name type="person" ref="#Fitzhenry">Mrs. Fitzhenry</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Gratiano</role>
+                  <role>Prince of Arragon</role>
+                  <actor><name type="person" ref="#Kiernan">Miss Kiernan</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Jessica</role>
+                  <role>Leonardo</role>
+                  <actor><name type="person" ref="#Kimball">Miss Kimball</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Antonio</role>
+                  <actor><name type="person" ref="#Marie-Gove">Miss M. Gove</name></actor>
+               </castItem>
+               <castItem>
+                  <role>Salerio</role>
+                  <role>Stephano</role>
+                  <role>Messenger</role>
+                  <role>Servant</role>
+                  <actor><name type="person" ref="#Robinson">Miss Robinson</name></actor>
+               </castItem>
+            </castList>
+            <signed><name type="person" ref="#Ames">M. N. Ames.</name></signed>
+            <signed>Sec-</signed>
+            <dateline><date when="1897-01-11">January-11th 1897</date></dateline>
          </div>
          <div type="entry">
             <head><date when="1897-01-11">Jan. 11, 1887</date></head>
