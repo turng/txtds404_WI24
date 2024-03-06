@@ -372,42 +372,37 @@
             <dateline>February 14th 1897</dateline>
          </div>
          <div type="letter">
-            <p><name type="place" ref="#Gamble">Port Gamble</name>, Wash. Dec. 14 -- 1897.</p>
-            <p><name ref="#Ames">Mrs. E. G. Ames</name>, President of Shakespeare Club</p>
-            <p>Dear President, - <name ref="#Carrie">Carrie</name> told me to-day that mention was
-               made at the Club last</p>
-            <p>evening about my non-attendance, so I decided to address an explanation to you as</p>
-            <p> President. When the Club first formed for this windter, I told the members that
-               I</p>
-            <p>could not possible attend while Carrie and <name ref="#Emily">Emily</name> were both
-               away from home as I had no</p>
-            <p>time for study and did not want to go with my lesson unpre- pared. I also said I</p>
-            <p> thought that I could begin again at the first of the year. But I did not know
-               then</p>
-            <p>that Carrie would be married soon. You can see that now she is gone</p>
-            <p> (carrie died Nov. 6th 1897)I am in the same predicament I was before. I did not</p>
-            <p>think about resigning, for I hoped to be able to attend before very long, and
-               also</p>
-            <p>wished to help the Club in anything they might understake for Xmas, etc. Now that
-               we</p>
-            <p>have decided to move to <name type="place" ref="#Townsend">Port Townsend </name>in
-               three or four months, I think it may be well</p>
-            <p>for me to hand in my resignation. So will you kindly inform the Club of my desire</p>
-            <p> that they may take the necessary action. I have enjoyed the work and sociability
-               very</p>
-            <p>much and hope the society will ever be as earnest and enjoyable as when I was in
-               it.</p>
-            <p> If there is ever anything I can do to help you, please let me know as I will
-               always</p>
-            <p>be interested. Hoping my explanation is acceptable, and wishing you all sucess, I
-               remain </p>
-            <p>Yours sincerely, </p>
-            <signed>Mame N. Gove</signed>
+            <head>
+               <lg type="sender-address">
+                  <l>Port Gamble, Wash.</l>
+               </lg>
+               <lg type="date">
+                  <l>Dec. 14 - 1987</l>
+               </lg>
+               <lg type="addressee">
+                  <l><name ref="#Ames">Mrs. E. G. Ames</name>,</l>
+                  <l>President of Shakespeare Club</l>
+               </lg>
+            </head>
+            <opener>
+               <salute>Dear President,</salute>
+            </opener>
+            <p><name ref="#Carrie">Carrie</name> told me to-day that mention was made at the Club last evening about my non-attendance, so I decided to address an explanation to you as President.</p>
+            <p>When the Club first formed for this winter, I told the members that I could not possible attend while Carrie and <name ref="#Emily">Emily</name> were both away from home as I had no time for study and did not want to go with my lesson unprepared. I also said I thought that I could begin again at the first of the year.</p> 
+            <p>But I did not know then that Carrie would be married soon. You can see that now she is gone &amp; I am in the same predicament I was before.</p> 
+            <p>I did not think about resigning, for I hoped to be able to attend before very long, and also wished to help the Club in anything they might understake for Xmas, etc.</p> 
+            <p>Now that we have decided to move to <name type="place" ref="#Townsend">Port Townsend </name>in three or four months, I think it may be well for me to hand in my resignation. So will you kindly inform the Club of my desire that they may take the necessary action.</p>
+            <p>I have enjoyed the work and sociability very much and hope the society will ever be as earnest and enjoyable as when I was in it.</p>
+            <p> If there is ever anything I can do to help you, please let me know as I will always be interested.</p>
+            <p>Hoping my explanation is acceptable, and wishing you all sucess, I remain</p>
+            <closer>
+               <salute>Yours sincerely,</salute>
+               <signed>Marie N. Gove</signed>
+            </closer>
          </div>
       </body>
 
       <back>
-         <!-- HI LUKE! where can i put the stand0ff tag? thanks-->
          <div type="endnotes">
             <note xml:id="Gamble">Port Gamble, Washington is a windswept town along the Puget sound,
                and in 1896 its quaint historic homes were chiefly occupied by the bourgeois families
