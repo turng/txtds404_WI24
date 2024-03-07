@@ -369,22 +369,21 @@
                   Night</name> which had been cast by <name ref="Condon">Mrs. Condon</name> with
                cast as follows</p>
 
-            <p style="text-align: center"><name type="play">Twelfth Night</name></p>
-
-            <list>
-               <item>(Viola) Miss Robinson --</item>
-               <item>(Malvolio) Miss E. Gove</item>
-               <item>(Olivia) Miss M. Gove</item>
-               <item>(Sir Toby Belch) Miss Gove</item>
-               <item>(Antonio/Curio) Miss McPhee</item>
-               <item>(Feste/2nd Officer) Miss Kiernan</item>
-               <item>(Sebastian/Fabian) Mrs. Ames</item>
-               <item>(Orsino) Mrs. Wylde</item>
-               <item>(Maria) Mrs. Fickett</item>
-               <item>(Sir Andrew Anguecheek) Mrs. Fitzhenry</item>
-               <item>(Valentine/1st Officer) Miss Kimball</item>
-               <item>(Sea Captain/Priest) Mrs. Condon</item>
-            </list>
+           <castList> 
+              <head><title type="play" ref="#Twelfth">Twelfth Night</title></head>
+               <castItem><role>Viola</role> <actor><name type="person" ref="#Robinson">Miss Robinson</name></actor> --</castItem>
+              <castItem> <role>Malvolio</role> <actor><name type="person" ref="#E-Gove">Miss E. Gove</name></actor></castItem>
+               <castItem><role>Olivia </role><actor><name type="person" ref="#Marie-Gove">Miss M. Gove</name></actor></castItem>
+               <castItem><role>Sir Toby Belch</role><actor><name type="person" ref="#Carrie-Gove"> Miss Gove</name></actor></castItem>
+               <castItem><role>Antonio/Curio</role> <actor><name type="person" ref="#McPhee">Miss McPhee</name></actor></castItem>
+               <castItem><role>Feste/2nd Officer </role><actor><name type="person" ref="#Kiernan">Miss Kiernan</name></actor></castItem>
+              <castItem><role>Sebastian/Fabian</role> <actor><name type="person" ref="#Ames">Mrs. Ames</name></actor></castItem>
+               <castItem><role>Orsino</role><actor> <name type="person" ref="#Wylde">Mrs. Wylde</name></actor></castItem>
+               <castItem><role>Maria</role><actor><name type="person" ref="#Fichett"> Mrs. Fickett</name></actor></castItem>
+               <castItem><role>Sir Andrew Anguecheek </role><actor><name type="person" ref="#Fitzhenry">Mrs. Fitzhenry</name></actor></castItem>
+               <castItem><role>Valentine/1st Officer </role><actor><name type="person" ref="#Kimball">Miss Kimball</name></actor></castItem>
+               <castItem><role>Sea Captain/Priest</role><actor><name type="person" ref="#Condon"> Mrs. Condon</name></actor></castItem>
+            </castList>
 
             <dateline>February 7/97</dateline>
             <signed>M.W. Ames</signed>
