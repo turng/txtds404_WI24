@@ -75,6 +75,12 @@ border: 1px solid #AAA;
 background: #FAFAFA;
 text-align: justify;
 }
+birth:before {
+content: "Birth:";
+}
+death:before {
+content: "Death:";
+}
 #teibpToolbox {
 display: none
 }
