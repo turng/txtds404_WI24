@@ -49,6 +49,32 @@ border: 1px solid #AAA;
 background: #FAFAFA;
 text-align: justify
 }
+desc {
+display: block;
+margin: 1.5em auto 1.5em auto;
+padding: 0.5em 1.5em 1.5em 1.5em;
+border-radius: 15px;
+width: 325px;
+font-size: 12pt;
+font-family: cursive;
+position: relative;
+border: 1px solid #AAA;
+background: #FAFAFA;
+text-align: justify;
+}
+bibl {
+display: block;
+margin: 1.5em auto 1.5em auto;
+padding: 0.5em 1.5em 1.5em 1.5em;
+border-radius: 15px;
+width: 550px;
+font-size: 12pt;
+font-family: cursive;
+position: relative;
+border: 1px solid #AAA;
+background: #FAFAFA;
+text-align: justify;
+}
 #teibpToolbox {
 display: none
 }
