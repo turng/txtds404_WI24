@@ -10,7 +10,7 @@
             <title>The Shakespeare Club of Port Gamble, Washington</title>
          </titleStmt>
          <publicationStmt>
-            <p>This edition covers the daybook's entries from December 14 1896 to January 11 1987.
+            <p>This edition covers the daybook's entries from December 14 1896 to January 11 1897.
                Residents of Port Gamble, Washington may be interested in reading this edition,
                particularly the descendants of the Gove family. Upon doing research, our group
                realized that the Gove family may have been an important family in the town that
@@ -28,7 +28,7 @@
                   <title>Special Collections Manuscripts and Archives, University of Washington
                      Libraries; Shakespeare Club Records</title>
                   <author>Mrs. Ames</author>
-                  <date> December 14, 1896 to January 11, 1987</date>
+                  <date> December 14, 1896 to January 11, 1897</date>
                   <msIdentifier>
                      <settlement>Seattle</settlement>
                      <repository>Special Collections Manuscripts and Archives, University og
@@ -74,7 +74,7 @@
       <body>
          <div type="roster">
             <list>
-               <head>Members of the Shakespeare Club 1986</head>
+               <head>Members of the Shakespeare Club 1896</head>
                <item>1 Mrs. Ames,</item>
                <item>2 " Condon-</item>
                <item>3 Miss Dowling-</item>
@@ -90,7 +90,7 @@
                <item>14 Mrs Wylde Joined Aug. 26th 95 </item>
                <item>15 Miss Hallie Thornton " " " "</item>
                <item> 10 Miss Lizzie [Kristoll]</item>
-               <item> Mrs. F [Fichett] " Nov. 25/95</item>
+               <item> Mrs. F [Fickett] " Nov. 25/95</item>
                <item>Miss Maurie Gove " Oct. 26/96</item>
             </list>
 
@@ -152,7 +152,7 @@
                </castItem>
                <castItem>
                   <role>Lorenzo</role>
-                  <actor><name type="person" ref="#Fichett">Mrs. Fichett</name></actor>
+                  <actor><name type="person" ref="#Fickett">Mrs. Fickett</name></actor>
                </castItem>
                <castItem>
                   <role>Salanio</role>
@@ -246,7 +246,7 @@
                   <role>1st [Illegible]</role>
                   <role>Servant</role>
                   <role>3rd Musician</role>
-                  <actor><name type="person" ref="#Fichett">Mrs. Fichett</name></actor>
+                  <actor><name type="person" ref="#Fickett">Mrs. Fickett</name></actor>
                </castItem>
                <castItem>
                   <role>Abraham</role>
@@ -277,12 +277,12 @@
             <dateline><date when="1897-01-16">Jan - 19/97</date></dateline>
          </div>
          <div type="entry">
-            <head><date when="1987-01-25">January 25th 1897</date></head>
-            <p>On <date when="1987-01-25">January twenty-fifth</date> the Shakespeare Club met at <name type="location" ref="#Wylde">Mrs. Wylde</name>'s.</p>
+            <head><date when="1897-01-25">January 25th 1897</date></head>
+            <p>On <date when="1897-01-25">January twenty-fifth</date> the Shakespeare Club met at <name type="location" ref="#Wylde">Mrs. Wylde</name>'s.</p>
             <p>At 7.10 - the Club was called to order. The roll call given &amp; all members being present and answering with quotation from <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title>.</p>
             <p>After the roll call the minutes of the previous meeting were read &amp; approved-- after which some 30 minutes was spent in questions from the Grammar.</p>
             <p>At 7.50 -- began the reading of <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title>. At the second act &amp; reading through the fourth act.</p>
-            <p>it then being ten o'clock at which time the Club adjourned to meet <date when="1987-02-01">February 1st</date> the place of meeting being <name type="location" ref="#Fitzhenry">Mrs. Fitzhenry</name>'s. The reading to be the last act of <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title> and a part of <title type="play" ref="#Much-Ado">Much Ado About Nothing</title>, which had been cast as follows by <name type="person" ref="#Ames">Mrs. Ames</name></p>
+            <p>it then being ten o'clock at which time the Club adjourned to meet <date when="1897-02-01">February 1st</date> the place of meeting being <name type="location" ref="#Fitzhenry">Mrs. Fitzhenry</name>'s. The reading to be the last act of <title type="play" ref="#Romeo-Juliet">Romeo &amp; Juliet</title> and a part of <title type="play" ref="#Much-Ado">Much Ado About Nothing</title>, which had been cast as follows by <name type="person" ref="#Ames">Mrs. Ames</name></p>
             <castList>
                <head><title type="play" ref="#Much-Ado">Much Ado About Nothing</title></head>
                <castItem>
@@ -320,7 +320,7 @@
                <castItem>
                   <role>Margaret</role>
                   <role>2nd Watch</role>
-                  <actor><name type="person" ref="#Fichett">Mrs. Fichett</name></actor>
+                  <actor><name type="person" ref="#Fickett">Mrs. Fickett</name></actor>
                </castItem>
                <castItem>
                   <role>Verges</role>
@@ -349,73 +349,86 @@
          </div>
          <div type="entry">
             <head><date when="1897-02-01">February 1st 1897</date></head>
-            <p>On the 1st of February the Shakespeare Club met at <name ref="#Fitzhenry"> Mrs.
-                  Fitzhenry</name>'s</p>
-            <p>At 7.20 the Club was called to order by the President. The roll call given the
-               members present answering with quotations from <name type="play">Much Ado About
-                  Nothing</name></p>
-            <p><name ref="#Fickett">Mrs. Fickett</name> was absent at the meeting.</p>
-            <p>After the roll call the minutes of the meeting of <del>F</del>
-               <date when="1897-01-25">January 25</date>th were<del> ommission</del> and
-               approved.</p>
+            <p>On <date when="1897-02-01">the 1st of February</date> the Shakespeare Club met at <name type="location" ref="#Fitzhenry"> Mrs. Fitzhenry</name>'s</p>
+            <p>At 7.20 the Club was called to order by the President. The roll call given the members present answering with quotations from <title type="play">Much Ado About Nothing</title></p>
+            <p><name type="person" ref="#Fickett">Mrs. Fickett</name> was absent at the meeting.</p>
+            <p>After the roll call the minutes of the meeting of <del>F</del> <date when="1897-01-25">January 25</date>th were<del> ommission</del> and approved.</p>
             <p>Some ten minutes was then spent with questions from the grammar.</p>
-            <p>There being no business to attend to the Reading began at 7.35, reading the last act
-               of Romeo &amp; Juliet it being finished at 7.58--</p>
-            <p><name type="play">Much Ado About Nothing</name> was then taken up and four acts were
-               read 00 and finished at ten o'clock at which time the Club adjourned to meet <date
-                  when="1897-02-08">February 8th</date> the place of meeting being <name
-                  ref="Fickett">Mrs. Fickett</name>'s and the reading is to be the last act of<name
-                  type="play"> Much Ado</name> and a portion of <name type="play">Twelfth
-                  Night</name> which had been cast by <name ref="Condon">Mrs. Condon</name> with
-               cast as follows</p>
-
+            <p>There being no business to attend to the Reading began at 7.35, reading the last act of Romeo &amp; Juliet it being finished at 7.58--</p>
+            <p><title type="play">Much Ado About Nothing</title> was then taken up and four acts were read 00 and finished at ten o'clock at which time the Club adjourned to meet <date when="1897-02-08">February 8th</date> the place of meeting being <name type="person" ref="Fickett">Mrs. Fickett</name>'s and the reading is to be the last act of<title type="play"> Much Ado</title> and a portion of <title type="play">Twelfth Night</title> which had been cast by <name type="person" ref="Condon">Mrs. Condon</name> with cast as follows</p>
            <castList> 
               <head><title type="play" ref="#Twelfth">Twelfth Night</title></head>
-               <castItem><role>Viola</role> <actor><name type="person" ref="#Robinson">Miss Robinson</name></actor> --</castItem>
-              <castItem> <role>Malvolio</role> <actor><name type="person" ref="#E-Gove">Miss E. Gove</name></actor></castItem>
-               <castItem><role>Olivia </role><actor><name type="person" ref="#Marie-Gove">Miss M. Gove</name></actor></castItem>
-               <castItem><role>Sir Toby Belch</role><actor><name type="person" ref="#Carrie-Gove"> Miss Gove</name></actor></castItem>
-               <castItem><role>Antonio/Curio</role> <actor><name type="person" ref="#McPhee">Miss McPhee</name></actor></castItem>
-               <castItem><role>Feste/2nd Officer </role><actor><name type="person" ref="#Kiernan">Miss Kiernan</name></actor></castItem>
-              <castItem><role>Sebastian/Fabian</role> <actor><name type="person" ref="#Ames">Mrs. Ames</name></actor></castItem>
-               <castItem><role>Orsino</role><actor> <name type="person" ref="#Wylde">Mrs. Wylde</name></actor></castItem>
-               <castItem><role>Maria</role><actor><name type="person" ref="#Fichett"> Mrs. Fickett</name></actor></castItem>
-               <castItem><role>Sir Andrew Anguecheek </role><actor><name type="person" ref="#Fitzhenry">Mrs. Fitzhenry</name></actor></castItem>
-               <castItem><role>Valentine/1st Officer </role><actor><name type="person" ref="#Kimball">Miss Kimball</name></actor></castItem>
-               <castItem><role>Sea Captain/Priest</role><actor><name type="person" ref="#Condon"> Mrs. Condon</name></actor></castItem>
+              <castItem>
+                  <role>Viola</role>
+                  <actor><name type="person" ref="#Robinson">Miss Robinson</name></actor> --
+              </castItem>
+              <castItem>
+                 <role>Malvolio</role>
+                 <actor><name type="person" ref="#E-Gove">Miss E. Gove</name></actor>
+              </castItem>
+              <castItem>
+                 <role>Olivia </role>
+                 <actor><name type="person" ref="#Marie-Gove">Miss M. Gove</name></actor>
+              </castItem>
+              <castItem>
+                 <role>Sir Toby Belch</role>
+                 <actor><name type="person" ref="#Carrie-Gove"> Miss Gove</name></actor>
+              </castItem>
+              <castItem>
+                 <role>Antonio</role>
+                 <role>Curio</role>
+                 <actor><name type="person" ref="#McPhee">Miss McPhee</name></actor>
+              </castItem>
+              <castItem>
+                 <role>Feste</role>
+                 <role>2nd Officer</role>
+                 <actor><name type="person" ref="#Kiernan">Miss Kiernan</name></actor>
+              </castItem>
+              <castItem>
+                 <role>Sebastian</role>
+                 <role>Fabian</role>
+                 <actor><name type="person" ref="#Ames">Mrs. Ames</name></actor>
+              </castItem>
+              <castItem>
+                 <role>Orsino</role>
+                 <actor><name type="person" ref="#Wylde">Mrs. Wylde</name></actor>
+              </castItem>
+              <castItem>
+                 <role>Maria</role>
+                 <actor><name type="person" ref="#Fickett"> Mrs. Fickett</name></actor>
+              </castItem>
+              <castItem>
+                 <role>Sir Andrew Anguecheek</role>
+                 <actor><name type="person" ref="#Fitzhenry">Mrs. Fitzhenry</name></actor>
+              </castItem>
+              <castItem>
+                 <role>Valentine</role>
+                 <role>1st Officer</role>
+                 <actor><name type="person" ref="#Kimball">Miss Kimball</name></actor>
+              </castItem>
+              <castItem>
+                 <role>Sea Captain</role>
+                 <role>Priest</role>
+                 <actor><name type="person" ref="#Condon"> Mrs. Condon</name></actor>
+              </castItem>
             </castList>
-
-            <dateline>February 7/97</dateline>
             <signed>M.W. Ames</signed>
-            <signed style="margin-top: 0em;">Sec-</signed>
+            <signed>Sec-</signed>
+            <dateline>February 7/97</dateline>
          </div>
          <div type="entry">
             <head><date when="1897-02-08">February 8th 1897</date></head>
-
-            <p>On February 8th the Shakespeare Club met at the home of <name ref="#Fickett">Mrs.
-                  Fickett</name>.</p>
-            <p>The club was called to order at 7.15. The roll call given and all members present
-               answering with quotations from <name type="play">Twelfth Night</name>.</p>
-            <p><name ref="#Gove">Miss Gove</name> was absent from this meeting.</p>
-            <p><name ref="#Robinson">Miss Robinson</name> informed the Club that she would be absent
-               from the Club on <date when="1897-02-15">Feb. 15th</date> &amp; probably <date
-                  when="1897-02-22">Feb. 22nd</date> and <name ref="#Wylde">Mrs. Wylde</name> made
-               the motion that someone be appointed to fill the place of President during the
-               absence. Mrs. <name ref="#Ames">Ames</name> was mentioned, voted on and received a
-               unanimous vote to act in the capacity of President during the few meeting [sic] at
-               which <name ref="#Robinson">Miss Robinson</name> would be absent.</p>
-            <p>There being no further business to attend to, Miss RObinson then gave some questions
-               from the Grammar--</p>
+            <p>On <date when="1897-02-08">February 8th</date> the Shakespeare Club met at the home of <name type="location" ref="#Fickett">Mrs. Fickett</name>.</p>
+            <p>The club was called to order at 7.15. The roll call given and all members present answering with quotations from <title type="play">Twelfth Night</title>.</p>
+            <p><name type="person" ref="#Gove">Miss Gove</name> was absent from this meeting.</p>
+            <p><name type="person" ref="#Robinson">Miss Robinson</name> informed the Club that she would be absent from the Club on <date when="1897-02-15">Feb. 15th</date> &amp; probably <date when="1897-02-22">Feb. 22nd</date> and <name type="person" ref="#Wylde">Mrs. Wylde</name> made the motion that someone be appointed to fill the place of President during the absence. <name type="person" ref="#Ames">Mrs. Ames</name> was mentioned, voted on and received a unanimous vote to act in the capacity of President during the few meeting [sic] at which <name ref="#Robinson">Miss Robinson</name> would be absent.</p>
+            <p>There being no further business to attend to, Miss Robinson then gave some questions from the Grammar--</p>
             <p>Ten minutes were thus satisfied.</p>
-            <p>At 7.35- began the reading of <name type="play">Much Ado About Nothing</name>
-               beginning at the 5th act and the play was finished.</p>
-            <p><name type="play">Twelfth Night</name> was begun - &amp; reading through two acts</p>
-            <p>At 10- the Club adjourned to meet February 15th the place of meeting being <name
-                  ref="#Ames">Miss Ame</name>'s the play being</p>
-
-            <p style="text-align: center"><name type="play"> As You Like It</name></p>
+            <p>At 7.35- began the reading of <title type="play">Much Ado About Nothing</title> beginning at the 5th act and the play was finished.</p>
+            <p><title type="play">Twelfth Night</title> was begun - &amp; reading through two acts</p>
+            <p>At 10- the Club adjourned to meet February 15th the place of meeting being <name ref="#Ames">Miss Ame</name>'s the play being</p>
+            <p><title type="play"> As You Like It</title></p>
             <p>As You Like It which had been cast as follows by </p>
-
             <list>
                <item>(Duke Senior/Corin) Miss Robinson</item>
                <item>(Frederick/Jaques/Jacques de Boys/Amiens) Mrs. Ames</item>
@@ -440,7 +453,7 @@
                   <l>Port Gamble, Wash.</l>
                </lg>
                <lg type="date">
-                  <l>Dec. 14 - 1987</l>
+                  <l>Dec. 14 - 1897</l>
                </lg>
                <lg type="addressee">
                   <l><name ref="#Ames">Mrs. E. G. Ames</name>,</l>
@@ -568,10 +581,10 @@
                      <surname>Kimball</surname>
                   </persName>
                </person>
-               <person xml:id="Fichett">
+               <person xml:id="Fickett">
                   <persName>
                      <roleName>Mrs.</roleName>
-                     <surname>Fichett</surname>
+                     <surname>Fickett</surname>
                   </persName>
                </person>
                <person xml:id="Fitzhenry">
