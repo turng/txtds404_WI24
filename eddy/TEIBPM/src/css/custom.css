@@ -37,6 +37,10 @@ text-transform: uppercase;
 body {
 font-size: 14pt;
 }
+a:link, a:visited, a:active {
+color: #4169E1;
+text-decoration: none;
+}
 note {
 font-size: 12pt;
 font-family: cursive;
