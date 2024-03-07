@@ -44,33 +44,36 @@
    </teiHeader>
    <text>
       <front>
-         <p>A great way to engage in and learn much about a historical period can come from cuisine
-            and the foods people used to prepare and eat. The Ladies’ Aid Society cook book was
-            published by the Vincent Methodist Episcopal Church in Spokane, WA, in 1915. It is an
-            interesting text because this is not only a cookbook but also a kind of guidebook for
-            homemakers of the time. It is an instructional text divided into sections one might find
-            in a typical cookbook, such as Soups, Fish, Meats, Vegetables, Bread, Relishes, Salads,
-            Pies, Cakes, Puddings, tables of weights and measure, and Candies. An unnamed section
-            also contains recipes for household fluids like library paste. At the end of some of
-            these recipes, there is a name of a person who contributed the recipe to the cookbook.
-            The original copy also contains full-page advertisements on every other page, akin to
-            what is seen in Victorian serials, with advertisements promoting products and businesses
-            of the local community.</p>
-         <p>We created a digital version of this text because we believe anyone interested in
-            cuisine, food, and the history of the early 20th century would be curious about this
-            text and to bring about a new appreciation for this unique text from the Special
-            Collections of the University of Washington Library. If anyone wants to know how food
-            played a role in the history and culture of the time, they would be interested in this
-            book. Because the original text is so modern and sparse, special care was put into
-            transcribing the text presented here as diplomatically as possible. This edition was
-            created to provide historical recipes for readers for various purposes, be it a study of
-            ingredients available, the culinary culture of the early 20th century, or kitchen
-            technology. Even though the text has full-page advertisements on every other page, these
-            have been omitted from our edition, as we felt that they were extraneous information and
-            rather that the effort should be put into including as many recipes as possible.</p>
+         <div type="introduction">
+            <p>A great way to engage in and learn much about a historical period can come from
+               cuisine and the foods people used to prepare and eat. The Ladies’ Aid Society cook
+               book was published by the Vincent Methodist Episcopal Church in Spokane, WA, in 1915.
+               It is an interesting text because this is not only a cookbook but also a kind of
+               guidebook for homemakers of the time. It is an instructional text divided into
+               sections one might find in a typical cookbook, such as Soups, Fish, Meats,
+               Vegetables, Bread, Relishes, Salads, Pies, Cakes, Puddings, tables of weights and
+               measure, and Candies. An unnamed section also contains recipes for household fluids
+               like library paste. At the end of some of these recipes, there is a name of a person
+               who contributed the recipe to the cookbook. The original copy also contains full-page
+               advertisements on every other page, akin to what is seen in Victorian serials, with
+               advertisements promoting products and businesses of the local community.</p>
+            <p>We created a digital version of this text because we believe anyone interested in
+               cuisine, food, and the history of the early 20th century would be curious about this
+               text and to bring about a new appreciation for this unique text from the Special
+               Collections of the University of Washington Library. If anyone wants to know how food
+               played a role in the history and culture of the time, they would be interested in
+               this book. Because the original text is so modern and sparse, special care was put
+               into transcribing the text presented here as diplomatically as possible. This edition
+               was created to provide historical recipes for readers for various purposes, be it a
+               study of ingredients available, the culinary culture of the early 20th century, or
+               kitchen technology. Even though the text has full-page advertisements on every other
+               page, these have been omitted from our edition, as we felt that they were extraneous
+               information and rather that the effort should be put into including as many recipes
+               as possible.</p>
+         </div>
       </front>
       <body>
-         <div type="section" n="Handwritten notes">
+         <div type="section" xml:id="Handwritten_notes">
             <p>Beets. sugar. milk. nuts. oranges. lemons. butter. eggs. meat. candy.</p>
             <p>Sift baking powder in flour 5 tablespoons melted butter 1 coffee cup sugar creamed
                together 2 eggs nutmeg to taste 3 teaspoons baking powder heaping 2 coffee cups milk
@@ -80,7 +83,7 @@
             <note>the list is likley a shopping list</note>
             <note>im adding something here to test the push. please edit out later</note>
          </div>
-         <div type="section" n="Soups">
+         <div type="section" xml:id="Soups">
             <div type="recipe">
                <!-- GT: what you did works fine, but as a general rule, I think it's better to put as much formatting into into XML as possible
 		    and to transcribe unformatted text. In this case, render the all caps by adding a "caps" value to @rend and transcribe the title
@@ -93,14 +96,14 @@
                   cold water, let simmer 2 hours. Then add bread cut in slices, let simmer 2 hours
                   longer. Remove meat and press the other ingredients through sieve. Rub butter and
                   flour together, stir into boiling soup. Add cream, salt, and pepper.</p>
-               <p><name type="person" ref="#M._F._Mendenhall">—Mrs. M. F. Mendenhall.</name></p>
+               <p>-Mrs. <name type="person" ref="#M._F._Mendenhall">M. F. Mendenhall</name>.</p>
             </div>
             <div type="recipe">
                <head rend="bold">SPLIT PEA SOUP.</head>
                <p>Two cups split peas, add 3 pints water and clean piece of bacon rind or small
                   piece of bacon or ham; teaspoon salt, pepper to taste, small onion, small carrot.
                   Boil all at least 3 hours. If preferred run through colander.</p>
-               <p><name type="person" ref="#John_R._Corkery">—Mrs. John R. Corkery</name></p>
+               <p>- Mrs. <name type="person" ref="#John_R._Corkery">John R. Corkery</name>.</p>
             </div>
             <div type="recipe">
                <head rend="bold">GERMAN POTATO SOUP.</head>
@@ -109,7 +112,7 @@
                   pepper to taste, 1 large onion, 2 medium sized carrots, small amount of cabbage or
                   turnip, some dried celery or fresh, 8 good sized potatoes. Boil all at least 1
                   hour and then run through colander and serve with bread croutons.</p>
-               <p><name type="person" ref="#John_R._Corkery">—Mrs. John R. Corkery.</name></p>
+               <p>-Mrs. <name type="person" ref="#John_R._Corkery">John R. Corkery</name>.</p>
                <note>The "10-cent shin bone" is likley just a refrence to the expected price of the
                      ingredient.<ref target="#Food_Timeline"/></note>
             </div>
@@ -118,10 +121,10 @@
                <p>Scald 1 quart milk in double boiler. Add 1 tablespoonful flour, 1 yolk egg mixed
                   with a little milk. When cooked and ready to serve add 1 cup minced shrimps, 1
                   tablespoon grated cheese, white 1 egg whipped, salt and pepper to taste.</p>
-               <p><name type="person" ref="#McCreary">—Mrs. McCreary.</name></p>
+               <p>-Mrs. <name type="person" ref="#McCreary">McCreary</name>.</p>
             </div>
          </div>
-         <div type="section" n="fish">
+         <div type="section" xml:id="fish">
             <div type="recipe">
                <head rend="bold">MINCED CLAM PATTIES.</head>
                <p>One can of minced sea clams, 2 cupfuls off cream or milk, 3 tablespoonfuls flour,
@@ -130,7 +133,7 @@
                   well beaten , salt, pepper, butter and clam meat. When this is hot thicken with
                   the flour dissolved in a little milk or water. Pour into pastry patties and serve
                   hot.</p>
-               <p><name type="person" ref="#E.C._McRae">—Mrs. E.C. McRae.</name></p>
+               <p>-Mrs.<name type="person" ref="#E.C._McRae">E.C. McRae</name>.</p>
             </div>
             <div type="recipe">
                <head rend="bold">SHRIMP PIRLEAU.</head>
@@ -138,14 +141,14 @@
                   shrimp meat, 1 teaspoon beef extract, 1 teaspoon flour, ¼ lb. red pepper, 1
                   teaspoon celery seed. Cook rice until dry. Cook bacon and onion together. Then mix
                   all together and cook one hour.</p>
-               <p><name type="person" ref="#Bruce_Blake">—Mrs. Bruce Blake</name></p>
+               <p>-Mrs. <name type="person" ref="#Bruce_Blake">Bruce Blake</name>.</p>
             </div>
             <div type="recipe">
                <head rend="bold">SALMON LOAF.</head>
                <p>One-half cup milk, 1 can salmon, ½ cup bread crumbs, 2 eggs well beaten, little
                   chopped parsley, little mace, salt and pepper to taste. Turn into greased mold and
                   steam 1 hour.</p>
-               <p><name type="person" ref="#Joseph_Briggs">—Mrs. Joseph Briggs.</name></p>
+               <p>-Mrs. <name type="person" ref="#Joseph_Briggs">Joseph Briggs</name>.</p>
             </div>
             <div type="recipe">
                <head rend="bold">SCALLOPED FISH.</head>
@@ -153,7 +156,7 @@
                   parlsey, 1 bay leaf, 4 cloves and juice ½ lemon. Separate fish from bone. Cut in
                   buttered baking dish with laternate layers of white sauce made of 1 cup milk, 1
                   tablespoon flour, 1 tablespoon butter. Heat in oven.</p>
-               <p><name type="person" ref="#A._B._Lee">—Mrs. A. B. Lee</name></p>
+               <p>-Mrs. <name type="person" ref="#A._B._Lee">A. B. Lee</name>.</p>
             </div>
             <div type="recipe">
                <head rend="bold">PIGS IN BLANKETS.</head>
@@ -167,7 +170,7 @@
                   meant to be placed in the proceeding Meats section.</note>
             </div>
          </div>
-         <div type="section" n="Meats">
+         <div type="section" xml:id="Meats">
             <div type="recipe">
                <head rend="bold">HAM EN CASSEROLE.</head>
                <p>Select a slice of ham about 2 inches thick; dredge with flour and saute brown in
@@ -176,7 +179,7 @@
                   cut into small cubes. Add ½ teaspoon of pepper; then pour on a cupful of boiling
                   water, cover and cook for 3 hours in a moderate oven; half an hour before the
                   cooking is finished, add a cupful of strained tomatoes.</p>
-               <p><name type="person" ref="#B._L._Jenkins">—Mrs. B. L. Jenkins</name></p>
+               <p>-Mrs. <name type="person" ref="#B._L._Jenkins">B. L. Jenkins</name>.</p>
             </div>
             <div type="recipe">
                <head rend="bold">STEAMED HAM.</head>
@@ -185,7 +188,7 @@
                   and bake until the water and sugar have formed a thick syrup. Put ham on platter
                   and pour the syrup over it. Surround with rings of pineapple sauted in butter.
                   Varnish with parsley.</p>
-               <p><name type="person" ref="#J._K._Cecil">-Mrs. J. K. Cecil.</name></p>
+               <p>-Mrs. <name type="person" ref="#J._K._Cecil">J. K. Cecil</name>.</p>
             </div>
             <div type="recipe">
                <head rend="bold">"DOBE" MEAT.</head>
@@ -193,7 +196,7 @@
                   dozen cloves, pepper and salt to taste, ½ cup sugar, ½ cup tomatoes. Rub your pan
                   with garlic. When onions are browned, flour your meat, put in a pan, add other
                   ingredients and cook slowly in an over for 2 hours.</p>
-               <p><name type="person" ref="#Newman">—Mrs. Newman.</name></p>
+               <p>-Mrs. <name type="person" ref="#Newman">Newman</name>.</p>
             </div>
             <div type="recipe">
                <head rend="bold">CASSEROLE OF RICE AND MEAT.</head>
@@ -204,16 +207,16 @@
                   hot stock or water to moisten. Pack the meat in the rice lined mold. Cover the top
                   with riceand cover the rice with buttered paper to keep out the moisture. Steam ¾
                   of an hour. Serve with tomato sauce. Potato may be used in place of rice.</p>
-               <p><name type="person" ref="#A._D._Butler">—Mrs. A. D. Butler.</name></p>
+               <p>-Mrs. <name type="person" ref="#A._D._Butler">A. D. Butler</name>.</p>
             </div>
-            <div type="section" n="Vegetables">
+            <div type="section" xml:id="Vegetables">
                <div type="recipe">
                   <head rend="bold">STUFFED PEPPERS.</head>
                   <p>Six green peppers, remove seeds amd led stand in hot water ½ hour; 1 cup
                      chopped meat or oysters, 1¼ cups bread crumbs, ½ cup tomatoes, ½ onion
                      (chopped), 1 tablespoon parsley (chopped), salt, 1 egg. Fill peppers. Pour over
                      stock and bake ⅓ hour.</p>
-                  <p><name type="person" ref="#Rutter">—Mrs. Rutter.</name></p>
+                  <p>-Mrs. <name type="person" ref="#Rutter">Rutter</name>.</p>
                </div>
                <div type="recipe">
                   <head rend="bold">MEXICAN CORN.</head>
@@ -221,7 +224,7 @@
                      tablespoon flour, 1 egg (beaten), 1 cup milk, 1 cup corn, ½ cup Mexican beans,
                      cooked, salt and pepper, paprika. Pour in buttered dish, covered with
                      bread-crumbs and bake in oven ½ hour.</p>
-                  <p><name type="person" ref="#J._E._Daniel">—Mrs. J. E. Daniel.</name></p>
+                  <p>-Mrs. <name type="person" ref="#J._E._Daniel">J. E. Daniel</name>.</p>
                </div>
                <div type="recipe">
                   <head rend="bold">CABBAGE AU GRATIN.</head>
@@ -238,13 +241,13 @@
                   <p>Parboil peppers from which seeds have been removed, stuff with cold minced meat
                      and bread crumbs, to which add a few raisins; dot the top with butter and bake
                      half an hour.</p>
-                  <p><name type="person" ref="#Mathers">—Miss Mathers.</name></p>
+                  <p>-Miss <name type="person" ref="#Mathers">Mathers</name>.</p>
                </div>
                <div type="recipe">
                   <head rend="bold">CORN PUDDING</head>
                   <p>Eight ears corn scored down center, thne scraped; 1 tablespoon butter, 1 cup
                      milk, 1 teaspoon flour, 3 ggs beaten light. Bake ¾ hour.</p>
-                  <p><name type="person" ref="#W._S._McCrea">—Mrs. W. S. McCrea.</name></p>
+                  <p>-Mrs. <name type="person" ref="#W._S._McCrea">W. S. McCrea</name>.</p>
                </div>
                <div type="recipe">
                   <head rend="bold">SPANISH RICE.</head>
@@ -253,7 +256,7 @@
                      minutes.</p>
                </div>
             </div>
-            <div type="section" n="Bread">
+            <div type="section" xml:id="Bread">
                <div type="recipe">
                   <head rend="bold">CREAM DATE ROLES.</head>
                   <p>Two cups pastry flour, ½ teaspoon salt, 4 teaspoons Royal baking powder, 1
@@ -266,7 +269,7 @@
                      15 minutes.</p>
                   <p>Cheese Biscuit may be made by substituting grated cheese for dates in above
                      recipe, and are delicious.</p>
-                  <p><name type="person" ref="#E._F._Waggoner.">-Mrs. E. F. Waggoner.</name></p>
+                  <p>-Mrs. <name type="person" ref="#E._F._Waggoner">E. F. Waggoner</name></p>
                   <note>A "Parker House roll" is a variety of bread roll made by rolling the dough
                      into an oval shape and then folding them in half. They were invented at the
                      Parker House Hotel in Boston in the 1870s.</note>
@@ -276,31 +279,31 @@
                   <p>Mix together 1 teaspoonful salt, 2 teaspoonfuls soda (level), pinch ginger. Add
                      1 cup molasses 2 cups sweet milk, 3¼ cups graham flour, ½ cup raisins. Steam 3
                      hours, then bake 10 minutes.</p>
-                  <p><name type="person" ref="#Wm._Merryweather">-Mrs. Wm. Merryweather.</name></p>
+                  <p>-Mrs. <name type="person" ref="#Wm._Merryweather">Wm. Merryweather</name>.</p>
                </div>
                <div type="recipe">
                   <head rend="bold">POTATO MUFFINS.</head>
                   <p>Two cups mashed potato, 1 cup warm milk, 1 cake compressed yeast, 2 eggs well
                      beaten, 1 tablespoon lard, 1 tablespoon sugar, 1 teaspoon butter, salt to
                      taste, 3 cups flour. Set then at 11 o’clock. Roll at 4 and bake at 6.</p>
-                  <p><name type="person" ref="#E._Taylor">—Mrs. E. Taylor.</name></p>
+                  <p>-Mrs. <name type="person" ref="#E._Taylor">E. Taylor</name>.</p>
                </div>
                <div type="recipe">
                   <head rend="bold">NUT BREAD.</head>
                   <p>One cup sour milk, 1 cup sweet milk, 2 cups whole wheat or graham flour, 1 cup
                      white flour, 1 cup sugar (scant), 1 teaspoon baking powder, 1 teaspoon soda, 1
                      teaspoon salt, ½ cup raisins and ½ cup walnuts chopped.</p>
-                  <p><name type="person" ref="#W._H._Matthews">—Mrs. W. H. Matthews.</name></p>
+                  <p>-Mrs. <name type="person" ref="#W._H._Matthews">W. H. Matthews</name>.</p>
                </div>
             </div>
-            <div type="section" n="Relishes">
+            <div type="section" xml:id="Relishes">
                <div type="recipe">
                   <head rend="bold">ORANGE MARMALADE.</head>
                   <p>Take 1 dozen oranges, peel very thin (cut peel fine); remove all the white and
                      slice oranges thin, add 2 qts. of cold water. Let stand for 24 hours, cook
                      until tender, then add 8 lbs. sugar, juice of 4 lemons and boil at least 1 hour
                      longer.</p>
-                  <p><name type="person" ref="#M._K.">–M. K.</name></p>
+                  <p>-<name type="person" ref="#M._K.">M. K.</name></p>
                   <note>Interestingly, this is the only submission with a name that does not have a
                      gendered title. All other recipes submissions with attached names have
                      explicitly feminine titles such as miss or mrs. This segmentation is to be
@@ -315,7 +318,7 @@
                      peaches and cook for 10 minutes. Cook the orange peel until tender and shred.
                      Then add the pineapple, oranges and peel to the peaches, and cook for 5 minutes
                      more.</p>
-                  <p><name type="person" ref="#J._D._Ellis">-Mrs. J. D. Ellis.</name></p>
+                  <p>-Mrs. <name type="person" ref="#J._D._Ellis">J. D. Ellis</name>.</p>
                </div>
                <div type="recipe">
                   <head rend="bold">RHUBARB CONSERVE.</head>
@@ -324,7 +327,7 @@
                      add sugar and ginger and cook until quite thick. Take off and add the nuts
                      (chopped). Prunes can be used instead of rhubarb. Put them through grinder
                      before cooking.</p>
-                  <p><name type="person" ref="#Mae_Jones">—Mrs. Mae Jones.</name></p>
+                  <p>-Mrs. <name type="person" ref="#Mae_Jones">Mae Jones</name>.</p>
                </div>
                <div type="recipe">
                   <head rend="bold">INDIAN PEACH PICKLES.</head>
@@ -333,7 +336,7 @@
                      spices tied in cloth), 1 tablespoon stick cinnamon. Pour over uncorked peaches,
                      heating and pouring over peaches for 9 days. The last day cork peaches few
                      minutes. Boil down syrup and pour over peaches.</p>
-                  <p><name type="person" ref="#A._E._Blake">—Mrs. A. E. Blake.</name></p>
+                  <p>-Mrs. <name type="person" ref="#A._E._Blake">A. E. Blake</name>.</p>
                   <note>It is unclear whether the term "indian" here is a refrence to the country in
                      southern Asia or to the Indigenous peoples of the US.</note>
                </div>
@@ -343,16 +346,16 @@
                      seeded raisins, 2 oranges chopped fine, 1 cup chopped walnuts added last. Pulp
                      grapes and cook pulps. Put through colander. Add skins and other inregdients
                      and cook 1 hour.</p>
-                  <p><name type="person" ref="#May_Jason">—Mrs. May Jason.</name></p>
+                  <p>-Mrs. <name type="person" ref="#May_Jason">May Jason</name>.</p>
                </div>
             </div>
-            <div type="section" n="Salads">
+            <div type="section" xml:id="Salads">
                <div type="recipe">
                   <head rend="bold">PINEAPPLE AND TOMATO SALAD.</head>
                   <p>On a lettuce leaf place a ring of pineapple, then a slice of ripe tomato; put
                      on a spoonful or two of mayonnaise dressing and garnish with a salted cherry or
                      stuffed olive.</p>
-                  <p><name type="person" ref="Mrs._B._L._Jenkins">-Mrs. B. L. Jenkins.</name></p>
+                  <p>-Mrs. <name type="person" ref="#B._L._Jenkins">B. L. Jenkins</name>.</p>
                </div>
                <div type="recipe">
                   <head rend="bold">POTATO SALAD.</head>
@@ -360,7 +363,7 @@
                      chopped. Mix with this dressing ½ cup sugar, ½ cup vinegar, ½ cup water, 1
                      tablespoon flour, 1 tablespoon butter, 3 ggs. Mix well and cook in double
                      boiler. When cool add cream.</p>
-                  <p><name type="person" ref="Dana Child">-Mrs. Dana Child.</name></p>
+                  <p>-Mrs. <name type="person" ref="#Dana_Child">Dana Child</name>.</p>
                </div>
                <div type="recipe">
                   <head rend="bold">SALAD DRESSING FOR TEN PEOPLE.</head>
@@ -372,7 +375,7 @@
                   <head rend="bold">FRUIT SALAD DRESSING.</head>
                   <p>One-fourth cup fruit juice (pineapple)m juice of ½ lemon, ¼ cup sugarm yolks of
                      2 eggs. Cook slowly and cool before serving.</p>
-                  <p><name type="person" ref="F._H._Quilliam">-Mrs. F. H. Quilliam</name></p>
+                  <p>-Mrs. <name type="person" ref="#F._H._Quilliam">F. H. Quilliam</name>.</p>
                   <note>The seemingly put of place "m"s are present in the origional text and have
                      been transcribed here diplomatically</note>
                </div>
@@ -383,7 +386,7 @@
                      sufficient to fill a teacup and fry it a light brown; remove the meat, and into
                      the grease stir 3 tablespoonsful of vinegar, making a sour gravy, which, with
                      the bacon pour over the potato and onion; mix lightly. To be eaten hot.</p>
-                  <p><name type="person" ref="J._E._Horton">-Mrs. J. E. Horton.</name></p>
+                  <p>-Mrs. <name type="person" ref="#J._E._Horton">J. E. Horton</name>.</p>
                </div>
                <div type="recipe">
                   <head rend="bold">SALAD DRESSING.</head>
@@ -394,7 +397,7 @@
                      keep for weeks.</p>
                </div>
             </div>
-            <div type="section" n="Pies">
+            <div type="section" xml:id="Pies">
                <div type="recipe">
                   <head rend="bold">PINEAPPLE PIE.</head>
                   <p>Fill a rich, flaky crust with the following: In a double boiler put the liquid
@@ -404,14 +407,14 @@
                      cool add the shredded pineapple. Fill crust with this mixture. Uhe the whites
                      of the eggs for meringue, beaten with two (2) tablespoons sugar. Brown lightly
                      in oven. This recipe makes two (2) large pies.</p>
-                  <p><name type="person" ref="A._M._Johnson">-Mrs. A. M. Johnson.</name></p>
+                  <p>-Mrs. <name type="person" ref="#A._M._Johnson">A. M. Johnson</name>.</p>
                </div>
                <div type="recipe">
                   <head rend="bold">WALNUT PIES.</head>
                   <p>Boil together until thick, yolks of 3 eggs, 1 cup sugar, 1 cup milk, 1 heaping
                      teaspoon flour. Let cool and add a cup of chopped walnuts, then turn into baked
                      pie crust, use whites for top.</p>
-                  <p><name type="person" ref="H._A._Flood">-Mrs. H. A. Flood.</name></p>
+                  <p>-Mrs. <name type="person" ref="#H._A._Flood">H. A. Flood</name>.</p>
                </div>
                <div type="recipe">
                   <head rend="bold">DIVINITY PIES.</head>
@@ -419,7 +422,7 @@
                      whites of eggs; put eggs and sugar into the crust (baked the day before) and
                      bake a short time; let cool, take ½ pint of whipping cream, beat to a stiffness
                      and tdd 2 tablespoons sugar and spread over pie. Flavor to taste.</p>
-                  <p><name type="person" ref="Glenn_Russell">-Mrs. Glenn Russell.</name></p>
+                  <p>-Mrs. <name type="person" ref="#Glenn_Russell">Glenn Russell</name>.</p>
                </div>
                <div type="recipe">
                   <head rend="bold">APPLE CUSTARD PIE.</head>
@@ -441,21 +444,21 @@
                      mispelling of "rhubarb" as "rhubard"</note>
                </div>
             </div>
-            <div type="section" n="Cakes">
+            <div type="section" xml:id="Cakes">
                <div type="recipe">
                   <head rend="bold">NUT CAKES.</head>
                   <p>One-half cup butter, 1 cup sugar, 3 eggs, ½ cup milk, 1¾ cups flour, 3
                      teaspoons baking powder, 1 teaspoon flavoring, ¾ cup of nuts (walnuts or
                      pecans) broken in small pieces Mixin usual manner and bake in small pans.</p>
-                  <p><name type="person" ref="Chas_L._Featherstone">-Mrs. Chas L.
-                        Featherstone.</name></p>
+                  <p>-Mrs. <name type="person" ref="#Chas_L._Featherstone">Chas L.
+                        Featherstone</name>.</p>
                </div>
                <div type="recipe">
                   <head rend="bold">DATE CAKE.</head>
                   <p>One pound dates (after stoning), 1 pound English walnut meats, 1 cup flour, 2
                      rounded teaspoons baking powder, ½ teaspoon salt, 1 small cup sugar, 4 eggs
                      beaten separately, teaspoon vanilla. Bake in loaf.</p>
-                  <p><name type="person" ref="G._W._Paine">-Mrs. G. W. Paine.</name></p>
+                  <p>-Mrs. <name type="person" ref="#G._W._Paine">G. W. Paine</name>.</p>
                </div>
                <div type="recipe">
                   <head rend="bold">DELICIOUS PORK CAKE.</head>
@@ -465,7 +468,7 @@
                      dissolved in boiling water, cloves, cinnamon, nutmeg, to taste. Mix quite stiff
                      with flour and bake for 1¼ hours with a steady fire. Will keep
                      indefinitely.</p>
-                  <p><name type="person" ref="A. _E._Keats">-Mrs. A. E. Keats.</name></p>
+                  <p>-Mrs. <name type="person" ref="#A. _E._Keats">A. E. Keats.</name>.</p>
                   <note>At the time of publication, most homes had either a wood stove or a range,
                      which used natural or coal gas. The "steady fire" mentioned here could be in
                      refrence to fire in a wood stove, or possibly that the submiter was invisioning
@@ -479,56 +482,163 @@
                   <head rend="bold">SPICE CAKE.</head>
                   <p>One egg, 1 cup sugar, ½ cup butter, 1 cup sour milk, 1 teaspoon soda, 2⅔ cups
                      flour, all spices as desired.</p>
-                  <p><name type="person" ref="Z._Stewart">-Mrs. Z. Stewart.</name></p>
+                  <p>-Mrs. <name type="person" ref="#Z._Stewart">Z. Stewart</name>.</p>
                </div>
                <div type="recipe">
                   <head rend="bold">AUNT EMMA'S FRUIT CAKE.</head>
                   <p>One and one-half cups light brown sugar, ⅔ cup butter, 2 eggs, ½ cup sour milk,
                      scant 2½ cups flour, ⅔ cup raisins, ⅔ teaspoon soda, 2 tablespoons cut citron
                      or ¼ cup chopped nuts.</p>
-                  <p><name type="person" ref="Emma_Till">-Mrs. Emma Till.</name></p>
+                  <p>-Mrs. <name type="person" ref="#Emma_Till">Emma Till</name>.</p>
                </div>
             </div>
          </div>
       </body>
       <back>
-            <listBibl>
-               <bibl xml:id="Seattle_Times" n="1" type="webpage">
-                  <author>Daniel Neman</author>, <title>A delicious decade: The food of
-                     1910-1920</title>
-                  <publisher>Seattle Times</publisher>
-                  <date>2016</date>
-                  <ref
-                     target="https://www.seattletimes.com/life/food-drink/a-delicious-decade-the-food-of-1910-1920/"
-                  />
-               </bibl>
-               <bibl xml:id="Cookstove_Community" n="2" type="webpage">
-                  <author>Michael Umphrey</author>
-                  <title>Foodways in 1910</title>
-                  <publisher>The Montana Heritage Project</publisher>
-                  <date>2004</date>
-                  <ref target="https://cookstoves.net/articles/cookstove-history/foodways-1910/"/>
-               </bibl>
-               <bibl xml:id="Food_Timeline" n="3" type="digital_book"><author>Frances Stern and
-                     Gertrude Spitz</author>
-                  <title>Food for the Worker</title>
-                  <publisher>Witcomb and Barrows</publisher>
-                  <date>1917</date>
-                  <pubPlace>Boston</pubPlace>
-                  <ref target="https://www.foodtimeline.org/1917prices.pdf"/></bibl>
-               <bibl xml:id="American_Cookery" n="4" type="digital_book"><author>Amelia
-                     Simmons</author>
-                  <title>American Cookery</title>
-                  <publisher>Hudson and Goodwin</publisher>
-                  <pubPlace>Hartford</pubPlace>
-                  <date>1796</date>
-                  <ref target="http://www.fullbooks.com/American-Cookery.html"/>
-               </bibl>
-               <bibl xml:id="Wikipedia" n="5" type="webpage">
-                  <title>Spokane, Washington</title>
-                  <publisher>Wikipedia</publisher>
-                  <date>edited 2024</date></bibl>
-            </listBibl>
+         <listPerson>
+            <person xml:id="M._F._Mendenhall">
+               <persName>M. F. Mendenhall</persName>
+            </person>
+            <person xml:id="John_R._Corkery">
+               <persName>John R. Corkery</persName>
+            </person>
+            <person xml:id="McCreary">
+               <persName>McCreary</persName>
+            </person>
+            <person xml:id="E.C._McRae">
+               <persName>E.C. McRae</persName>
+            </person>
+            <person xml:id="Bruce_Blake">
+               <persName>Bruce Blake</persName>
+            </person>
+            <person xml:id="Joseph_Briggs">
+               <persName>Joseph Briggs</persName>
+            </person>
+            <person xml:id="A._B._Lee">
+               <persName>A. B. Lee</persName>
+            </person>
+            <person xml:id="B._L._Jenkins">
+               <persName>B. L. Jenkins</persName>
+            </person>
+            <person xml:id="J._K._Cecil">
+               <persName>J. K. Cecil</persName>
+            </person>
+            <person xml:id="Newman">
+               <persName>Newman</persName>
+            </person>
+            <person xml:id="A._D._Butler">
+               <persName>A. D. Butler</persName>
+            </person>
+            <person xml:id="Rutter">
+               <persName>Rutter</persName>
+            </person>
+            <person xml:id="J._E._Daniel">
+               <persName>J. E. Daniel</persName>
+            </person>
+            <person xml:id="Mathers">
+               <persName>Mathers</persName>
+            </person>
+            <person xml:id="W._S._McCrea">
+               <persName>W. S. McCrea</persName>
+            </person>
+            <person xml:id="E._F._Waggoner">
+               <persName>E. F. Waggoner</persName>
+            </person>
+            <person xml:id="Wm._Merryweather">
+               <persName>Wm. Merryweather</persName>
+            </person>
+            <person xml:id="E._Taylor">
+               <persName>E. Taylor</persName>
+            </person>
+            <person xml:id="W._H._Matthews">
+               <persName>W. H. Matthews</persName>
+            </person>
+            <person xml:id="M._K.">
+               <persName>M. K.</persName>
+            </person>
+            <person xml:id="J._D._Ellis">
+               <persName>J. D. Ellis</persName>
+            </person>
+            <person xml:id="Mae_Jones">
+               <persName>Mae Jones</persName>
+            </person>
+            <person xml:id="A._E._Blake">
+               <persName>A. E. Blake</persName>
+            </person>
+            <person xml:id="May_Jason">
+               <persName>May Jason</persName>
+            </person>
+            <person xml:id="Dana_Child">
+               <persName>Dana Child</persName>
+            </person>
+            <person xml:id="F._H._Quilliam">
+               <persName>F. H. Quilliam</persName>
+            </person>
+            <person xml:id="J._E._Horton">
+               <persName>J. E. Horton</persName>
+            </person>
+            <person xml:id="A._M._Johnson">
+               <persName>A. M. Johnson</persName>
+            </person>
+            <person xml:id="H._A._Flood">
+               <persName>H. A. Flood</persName>
+            </person>
+            <person xml:id="Glenn_Russell">
+               <persName>Glenn Russell</persName>
+            </person>
+            <person xml:id="Chas_L._Featherstone">
+               <persName>Chas L. Featherstone</persName>
+            </person>
+            <person xml:id="G._W._Paine">
+               <persName>G. W. Paine</persName>
+            </person>
+            <person xml:id="A._E._Keats">
+               <persName>A. E. Keats</persName>
+            </person>
+            <person xml:id="Z._Stewart">
+               <persName>Z. Stewart</persName>
+            </person>
+            <person xml:id="Emma_Till">
+               <persName>Emma Till</persName>
+            </person>
+         </listPerson>
+         <listBibl>
+            <bibl xml:id="Seattle_Times" n="1" type="webpage">
+               <author>Daniel Neman</author>, <title>A delicious decade: The food of
+                  1910-1920</title>
+               <publisher>Seattle Times</publisher>
+               <date>2016</date>
+               <ptr
+                  target="https://www.seattletimes.com/life/food-drink/a-delicious-decade-the-food-of-1910-1920/"
+               />
+            </bibl>
+            <bibl xml:id="Cookstove_Community" n="2" type="webpage">
+               <author>Michael Umphrey</author>
+               <title>Foodways in 1910</title>
+               <publisher>The Montana Heritage Project</publisher>
+               <date>2004</date>
+               <ptr target="https://cookstoves.net/articles/cookstove-history/foodways-1910/"/>
+            </bibl>
+            <bibl xml:id="Food_Timeline" n="3" type="digital_book"><author>Frances Stern and
+                  Gertrude Spitz</author>
+               <title>Food for the Worker</title>
+               <publisher>Witcomb and Barrows</publisher>
+               <date>1917</date>
+               <pubPlace>Boston</pubPlace>
+               <ptr target="https://www.foodtimeline.org/1917prices.pdf"/></bibl>
+            <bibl xml:id="American_Cookery" n="4" type="digital_book"><author>Amelia
+                  Simmons</author>
+               <title>American Cookery</title>
+               <publisher>Hudson and Goodwin</publisher>
+               <pubPlace>Hartford</pubPlace>
+               <date>1796</date>
+               <ptr target="http://www.fullbooks.com/American-Cookery.html"/>
+            </bibl>
+            <bibl xml:id="Wikipedia" n="5" type="webpage">
+               <title>Spokane, Washington</title>
+               <publisher>Wikipedia</publisher>
+               <date>edited 2024</date></bibl>
+         </listBibl>
       </back>
    </text>
 </TEI>
