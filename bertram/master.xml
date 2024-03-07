@@ -85,16 +85,16 @@
          </div>
       </front>
       <group>
-         <text>
+         <text rend="typewritten">
             <body>
-               <opener rend="typewritten">
+               <opener>
                   <orgName ref="#Cralle"><hi rend="caps">J B. Cralle &amp; Co.</hi></orgName>
                   <dateline><date when="1907-04-30"><hi rend="caps">Apr</hi> 30
                      1907</date></dateline>
                   <stamp rend="caps">Atty's.</stamp>
                   <salute>Dear Sir:</salute></opener>
 
-               <div rend="typewritten">
+               <div>
                   <p>We have recieved and filled your claim with the proper offi<pc
                         type="EOLhyphen>">-</pc><lb/>cial of the Government, and will prosecute it
                      to a final settlement.<lb/></p>
@@ -132,7 +132,7 @@
                   <p>We must ask that you comply with this request at once!<lb/></p>
                </div>
 
-               <closer rend="typewritten">
+               <closer>
                   <salute>Very truly yours,</salute>
                   <signed><orgName ref="#Cralle">J. B Cralle &amp; Co</orgName></signed>
                </closer>
@@ -147,9 +147,9 @@
                </div>
             </back>
          </text>
-         <text>
+         <text rend="cursive">
             <body>
-               <opener rend="cursive">
+               <opener>
                   <placeName>B Green KY</placeName>
                   <dateline><date when="1903-10-18">Oct 18th 03</date>
                   </dateline>
@@ -157,7 +157,7 @@
                      >Marry Bertram</persName>
                   <salute>Dear brother &amp; Sister</salute>
                </opener>
-               <div rend="cursive">
+               <div>
                   <p>After waiting a long time we <lb/> received your nice letter and was<lb/> so proud of it,
                      yes I tried to<lb/> have the family reunion at<lb/> any of our houses but failed<lb/> hence
                      the disapointment to all<lb/></p>
@@ -194,7 +194,7 @@
                         <date when="1903-07-01">first of July</date> and hasent used<lb/> her any Since
                      but think he can<lb/> use her in a few days now write<lb/> us as soon as you can<lb/></p>
                </div>
-               <closer rend="cursive">
+               <closer>
                   <salute>as ever your Brother</salute>
                   <signed><persName ref="#DH_Bertram">DH Bertram</persName></signed>
                </closer>
@@ -222,18 +222,18 @@
                </div>
             </back>
          </text>
-         <text>
+         <text rend="typewritten">
             <body>
                <head rend="small_caps"> Notary public, real estates, inusrance. Propery interests of
                   non-residents looked after. </head>
                <head rend="caps"><orgName> Chelan Real Estate office</orgName></head>
                <head rend="small_caps"><placeName>Chelan. Washington</placeName><date
                      when="1907-08-07"> Aug 7th, 1907</date></head>
-               <opener rend="typewritten">
+               <opener>
                   <salute>Mr. J.H.Bertram,</salute>
                   <placeName>Seattle Wash.</placeName>
                </opener>
-               <p rend="typewritten">Dear sir: Through <persName>Dr. A.I. Mitchell</persName>, I
+               <p>Dear sir: Through <persName>Dr. A.I. Mitchell</persName>, I
                   learn that you are interested in the <placeName ref="#Chelan_country">Chelan
                      Country</placeName>,and contemplate settling here. If you will write me
                   telling me just what you would like in the way of land and how much you would care
@@ -262,28 +262,28 @@
                </div>
             </back>
          </text>
-         <text>
+         <text rend="cursive">
             <body>
-               <opener rend="cursive">
+               <opener>
                   <persName>Douglas</persName>
                   <dateline><date when="1908-03">March 1908</date></dateline>
                   <salute>Dear grandpa,</salute>
                </opener>
-               <p rend="cursive">I thought you might like to hear from your only grandson.
+               <p>I thought you might like to hear from your only grandson.
                      <persName>Mama</persName> is going to write too. I am going to school and
                   trying to learn fast. I have a nice sled and a nice little kitten. Many nice books
                   and playmates. If you will write I will answer your letter. All the uncles are
                   well, and so is <persName ref="#Aunt_nettie">aunt nettie.</persName> Our coldest
                   day this winter was yesterday,<date> March the 14th.</date> What do you think of
                   that for spring?</p>
-               <closer rend="cursive">
+               <closer>
                   <salute>With much love,</salute>
                   <signed><persName>Ralph</persName>.</signed>
                </closer>
             </body>
          </text>
          <!-- Start of Nic Staley's documents -->
-         <text xml:id="tn_letter" rend="cursive script">
+         <text xml:id="tn_letter" rend="cursive">
             <body>
                <opener><dateline><placeName type="city" ref="#Roseland">Roseland</placeName>
                      <placeName type="state" ref="#Louisiana">La</placeName>. <date
@@ -368,7 +368,7 @@
                <head place="left"><hi rend="bold">Form 1816</hi>.<lb/> Ed. Jan. 6-09-2,000.</head>
                <lb/>
                <opener><hi rend="caps">notice to claimant-no differences</hi>.<lb/>
-                  <unclear rend="cursive script">mcx</unclear> Appeal No. <hi rend="typewritten"
+                  <unclear rend="cursive">mcx</unclear> Appeal No. <hi rend="typewritten"
                      >16518.</hi>
                   <hi rend="gothic"><orgName ref="#Treasury">Treauty Department</orgName>,</hi><lb/>
                   <hi rend="caps">office of the<lb/> comptroller of the treasury</hi>.<lb/>
@@ -409,8 +409,8 @@
                   computing bounty.</p>
                <lb/>
                <closer>Respectfully, <signed><hi rend="cursive">L.P. Mitchell</hi></signed>
-                  <hi rend="cursive script">J.W.R.</hi>
-                  <hi rend="typewritten">Assistant</hi> Comptroller <hi rend="cursive script"
+                  <hi rend="cursive">J.W.R.</hi>
+                  <hi rend="typewritten">Assistant</hi> Comptroller <hi rend="cursive"
                      >C.H.</hi></closer>
             </body>
             <back>
