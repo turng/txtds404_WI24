@@ -73,27 +73,24 @@
       </front>
       <body>
          <div type="roster">
-            <list>
                <head>Members of the Shakespeare Club 1896</head>
-               <item>1 Mrs. Ames,</item>
-               <item>2 " Condon-</item>
-               <item>3 Miss Dowling-</item>
-               <item>4 Mrs. Fitzhenry-</item>
-               <item>5 Miss Carrie Gove</item>
-               <item>6 " Emily "</item>
-               <item>7 " Eva "</item>
-               <item>8 " Maurie Kiernan "</item>
-               <item> 9 " Lizzie "</item>
-               <item>11 " Longfellow,</item>
-               <item> 12 " " McPhee --</item>
-               <item>13 " Robinson,</item>
-               <item>14 Mrs Wylde Joined Aug. 26th 95 </item>
-               <item>15 Miss Hallie Thornton " " " "</item>
-               <item> 10 Miss Lizzie [Kristoll]</item>
-               <item> Mrs. F [Fickett] " Nov. 25/95</item>
-               <item>Miss Maurie Gove " Oct. 26/96</item>
-            </list>
-
+               <p>1 <name type="person" ref="#Ames">Mrs. Ames</name>,</p>
+               <p>2 " <name>Condon</name>-</p>
+               <p>3 <name>Miss Dowling</name>-</p>
+               <p>4 Mrs. Fitzhenry-</p>
+               <p>5 Miss Carrie Gove</p>
+               <p>6 " Emily "</p>
+               <p>7 " Eva "</p>
+               <p>8 " Maurie Kiernan "</p>
+               <p> 9 " Lizzie "</p>
+               <p>11 " Longfellow,</p>
+               <p> 12 " " McPhee --</p>
+               <p>13 " Robinson,</p>
+               <p>14 Mrs Wylde Joined Aug. 26th 95 </p>
+               <p>15 Miss Hallie Thornton " " " "</p>
+               <p> 10 Miss Lizzie [Kristoll]</p>
+               <p> Mrs. F [Fickett] " Nov. 25/95</p>
+               <p>Miss Maurie Gove " Oct. 26/96</p>
             <list>
                <head>Members for 1897.</head>
 
