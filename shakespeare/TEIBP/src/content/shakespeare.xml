@@ -614,6 +614,34 @@
                      <surname>Gove</surname>
                   </persName>
                </person>
+               <person xml:id="Eva">
+                  <persName>
+                     <forename>Eva</forename>
+                  </persName>
+               </person>
+               <person xml:id="Dowling">
+                  <persName>
+                     <roleName>Miss</roleName>
+                     <surname>Dowling</surname>
+                  </persName>
+               </person>
+               <person xml:id="Thornton">
+                  <persName>
+                     <roleName>Miss</roleName>
+                     <forename>Hallie</forename>
+                     <surname>Thornton</surname>
+                  </persName>
+               </person>
+               <person xml:id="Lizzie">
+                  <persName>
+                     <forename>Lizzie</forename>
+                  </persName>
+               </person>
+               <person xml:id="Longfellow">
+                  <persName>
+                     <surname>Longfellow</surname>
+                  </persName>
+               </person>
             </listPerson>
          </div>
       </back>
