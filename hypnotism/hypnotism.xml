@@ -94,19 +94,20 @@
          </div>
       </front>
       <body>
-         <div type="introduction">
+         <div type="introduction" xml:id="introduction">
             <head>
-               <hi rend="bold uppercase"><title type="book">Suggestions and Directions for the Study of
-                     Personal Magnetism and Hypnotism.</title></hi>
+               <hi rend="bold uppercase"><title type="book">Suggestions and Directions for the Study
+                     of Personal Magnetism and Hypnotism.</title></hi>
                <note n="1" type="editorial">"Personal Magnetism" is in reference to a speaking style
                   more common during this time, used by people such as politicians for influence
-                     <ref target="#young">(Young)</ref>.</note> By <name type="person" rend="uppercase">X. La Motte
-                  Sage, A. M., Ph. D., LL. D.</name>, formerly Professor in <name type="place"
-                  >Pieree College</name>, <placeName><settlement>Philadelphia</settlement>,
-                     <region>Pa</region></placeName>. <note n="2" type="editorial">"X. La Motte
-                  Sage" is an alias used by Neal <ref target="#conroy">(Conroy)</ref>.</note>
+                     <ref target="#young">(Young)</ref>.</note> By <name type="person"
+                  rend="uppercase">X. La Motte Sage, A. M., Ph. D., LL. D.</name>, formerly
+               Professor in <name type="place">Pieree College</name>,
+                     <placeName><settlement>Philadelphia</settlement>,
+                  <region>Pa</region></placeName>. <note n="2" type="editorial">"X. La Motte Sage"
+                  is an alias used by Neal <ref target="#conroy">(Conroy)</ref>.</note>
             </head>
-            <div type="section">
+            <div type="section" n="1">
                <head><hi rend="bold uppercase">Read the Instructions Very Carefully.</hi></head>
                <p>Be sure that you thoroughly understand just what to do before attempting to
                   hypnotize anyone.</p>
@@ -117,7 +118,7 @@
                   operators and noted hypnotists came to be such only by long practical
                   experience.</p>
             </div>
-            <div type="section">
+            <div type="section" n="2">
                <head><hi rend="bold uppercase">Perseverance.</hi></head>
                <p>If you do not succeed with the first five or ten that you try, do not give up, but
                   continue trying. Try twenty or thirty different persons, or more if necessary, and
@@ -134,7 +135,7 @@
                   mysterious power. Bear in mind that perseverance is the price of success;
                   knowledge does not come unsought.</p>
             </div>
-            <div type="section">
+            <div type="section" n="3">
                <head><hi rend="bold uppercase">The Stumbling Block</hi></head>
                <p>is hypnotizing the first one. <note n="3" type="editorial">The beginning of this
                      sentence is a direct transcription, not an error (including the
@@ -154,7 +155,7 @@
                   is, after you have hypnotized the first one or two, you will have confidence, and
                   you yourself will be surprised and mystified at your work.</p>
             </div>
-            <div type="section">
+            <div type="section" n="4">
                <head><hi rend="bold uppercase">Suggestions.</hi></head>
                <p>You must be sure to give all your suggestions in a very positive tone. A feeble,
                   whining way of speaking never accomplishes anything. Be a person of some force of
@@ -169,7 +170,7 @@
                   proper method of procedure. Many, however, who find the work a little difficult at
                   first, make the finest hypnotists.</p>
             </div>
-            <div type="section">
+            <div type="section" n="5">
                <head><hi rend="bold uppercase">Confidence.</hi></head>
                <p>To be successful in influencing people one must have confidence and perseverance.
                   A weak, vacillating <note n="4" type="editorial">(always changing)</note>
@@ -179,7 +180,7 @@
                   arrogant, haughty disposition are not the necessary elements with which to control
                   people.</p>
             </div>
-            <div type="section">
+            <div type="section" n="6">
                <head><hi rend="bold uppercase">Inborn Power.</hi></head>
                <p>There is a subtle, unseen force by which people are influenced, and the minds of
                   the multitude swayed. This secret power may be acquired by everyone who is willing
@@ -187,7 +188,7 @@
                   to the few, it is inborn in every person, and it is only necessary for one to put
                   forth a proper effort to achieve the success which God intended.</p>
             </div>
-            <div type="section">
+            <div type="section" n="7">
                <head><hi rend="bold uppercase">Personal Influence.</hi></head>
                <p>In taking up the study of these subjects you are entering a new field of science,
                   a new sphere of life, you are taking a very important step; your success in these
@@ -200,7 +201,7 @@
                   the human mind is molded and swayed, of that intangible and subtle power which
                   controls where bayonets fail.</p>
             </div>
-            <div type="section">
+            <div type="section" n="8">
                <head><hi rend="bold uppercase">Important Trifles.</hi></head>
                <p>It matters not how unimportant the instructions may seem to you, or how simple
                   they are, make up your mind to follow them in every detail; do not pass judgment
@@ -210,7 +211,7 @@
                   will master them, if you will only give them a thorough trial, you will be more
                   enthusiastic in their praises than the authors of this course. </p>
             </div>
-            <div type="section">
+            <div type="section" n="9">
                <head><hi rend="bold uppercase">Tact.</hi></head>
                <p>If you wish to exert a lasting influence over a person, you must influence him in
                   such a manner that he does not dream that you are affecting him. He must think
@@ -226,7 +227,7 @@
                   practice the more proficient you will become, and the greater the influence you
                   will be able to exert.</p>
             </div>
-            <div type="section">
+            <div type="section" n="10">
                <head><hi rend="bold uppercase">Simple Tests.</hi></head>
                <p>For the purpose of developing the power of personal magnetism we have devised some
                   very simple tests. If you can succeed with these little things, you can succeed
@@ -235,7 +236,7 @@
                   your complete mastery of these sciences is only a question of a very short
                   time.</p>
             </div>
-            <div type="section">
+            <div type="section" n="11">
                <head><hi rend="bold uppercase">Method of Study.</hi></head>
                <p>Take the tests in order and study each one thoroughly. Do not read the last part
                   of the instructions until you have learned the first part. It is time worse than
@@ -248,14 +249,14 @@
                   Without a thorough knowledge of the fundamental principles of any science, higher
                   instruction is useless.</p>
             </div>
-            <div type="section">
+            <div type="section" n="12">
                <head><hi rend="bold uppercase">Preparatory.</hi></head>
                <p>The first part of the course is the notation, numeration, addition and subtraction
                   of personal magnetism, hypnotism, suggestive therapeutics and magnetic healing. It
                   is the key, without which you can do absolutely nothing. Master it well and your
                   complete success is certain.</p>
             </div>
-            <div type="section">
+            <div type="section" n="13">
                <head><hi rend="bold uppercase">Plan of Teaching.</hi></head>
                <p>The majority of those who teach hypnotism instruct you to put the subject asleep
                   first, but such a method is generally impracticable. Most people who are
@@ -281,7 +282,7 @@
                   with which you develop the real power of personal magnetism-you learn how to
                   influenoe people without putting them to sleep.</p>
             </div>
-            <div type="section">
+            <div type="section" n="14">
                <head><hi rend="bold uppercase">Occult Sciences.</hi></head>
                <p>The science of hypnotism unfolds the secret law. of all personal influence. A man
                   who sways multitudes by the charm of his voice uses no less of hypnotism than he
@@ -292,7 +293,7 @@
                   is no better way of developing the higher power of personal magnetism than by
                   practicing simple hypnotic tests.</p>
             </div>
-            <div type="section">
+            <div type="section" n="15">
                <head><hi rend="bold uppercase">To Be a Good Hypnotist.</hi></head>
                <p>you must be positive, you must persevere. Persevere and you will learn how to be
                   positive; hence, the only essential conditions are perseverance and a desire to
@@ -304,7 +305,7 @@
             </div>
          </div>
 
-         <div type="part">
+         <div type="part" xml:id="how_to_hypnotize">
             <head><hi rend="bold uppercase">How to Hypnotize</hi> By <name type="person">L. E.
                   KASSEALL.</name></head>
             <note n="5" type="editorial">At the time of publishing, Lulu Elizabeth Kasseall was the
@@ -313,7 +314,7 @@
             <p>In this article I shall give the student my three favorite methods of producing
                hypnosis, and in doing so I shall endeavor to explain the methods so that the student
                may learn just how to hypnotize and mesmerize.</p>
-            <div type="section">
+            <div type="section" n="1">
                <head><hi rend="bold uppercase">Method No. 1.</hi></head>
                <p>Have the subject seated in a comfortable chair or lying on a bed or couch. Place
                   the thumb of the subject’s left hand against your left thumb, with the inside of
@@ -348,7 +349,7 @@
                   arrange a sitting for another day. He should be treated daily, giving him at least
                   a half hour’s trial at each sitting.</p>
             </div>
-            <div type="section">
+            <div type="section" n="2">
                <head><hi rend="bold uppercase">Method No. 2.</hi></head>
                <p>Have the subject seated in a common kitchen chair, so that the shoulders are above
                   the back of the chair. Tell the subject to sit with his feet flat on the floor, to
@@ -383,7 +384,7 @@
                   have tried, altogether others will often produce the effect when this one will
                   not, and vice versa.</p>
             </div>
-            <div type="section">
+            <div type="section" n="3">
                <head><hi rend="bold uppercase">Method No. 3.</hi></head>
                <figure xml:id="figure3" type="example">
                   <graphic url="images/figure3.png"/>
