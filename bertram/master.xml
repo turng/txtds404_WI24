@@ -216,9 +216,9 @@
             </body>
             <back>
                <div type="footnotes">
-                  <note xml:id="Mary_Bertram_Note"> Mary Bertram, orignally Mary Huselby, married Jasper
-                     N. Bertram in 1896.<ref type="biblio" target="#Bertram_Papers">See the Jasper
-                        N. Bertram Papers</ref>.</note>
+                  <note xml:id="Mary_Bertram_Note"> Mary Bertram, orignally Mary Huselby, married
+                     Jasper N. Bertram in 1896.<ref type="biblio" target="#Bertram_Papers">See the
+                        Jasper N. Bertram Papers</ref>.</note>
                   <note xml:id="Diptheria_Note">Diphtheria is a bacterial respiratory illness that
                      primarily affects children under 5. The disease was considered highly
                      contagious and deadly during its height, at the end of the 19th and beginning
@@ -227,7 +227,8 @@
                      widely distributed until the 1920s. <ref type="biblio"
                         target="#Diptheria_History">See the source on the history of
                      Diptheria</ref>.</note>
-                  <note xml:id="DH_Bertram_Note">DH Bertam was the brother of Jasper N. Bertram.</note>
+                  <note xml:id="DH_Bertram_Note">DH Bertam was the brother of Jasper N.
+                     Bertram.</note>
                </div>
             </back>
          </text>
@@ -264,11 +265,12 @@
             </body>
             <back>
                <div type="footnotes">
-                  <note xml:id="Chelan_Note">Chelan County is located in central Washington.<ref type="biblio"
-                        target="#Chelan_County_Bib">See the Chelan County website</ref>.</note>
-                  <note xml:id="Lakeside_Note">Lakeside is an unincorporated community located in Chelan County. <ref
-                        type="biblio" target="#Lakeside_Bib">See the Lakeside Wikipedia
-                     page</ref>.</note>
+                  <note xml:id="Chelan_Note">Chelan County is located in central Washington.<ref
+                        type="biblio" target="#Chelan_County_Bib">See the Chelan County
+                        website</ref>.</note>
+                  <note xml:id="Lakeside_Note">Lakeside is an unincorporated community located in
+                     Chelan County. <ref type="biblio" target="#Lakeside_Bib">See the Lakeside
+                        Wikipedia page</ref>.</note>
                </div>
             </back>
          </text>
@@ -581,7 +583,8 @@
                <org xml:id="Phil_rec">
                   <orgName>The Philadelphia Record</orgName>
                   <note>A daily newspaper published in Philadelphia from <date when="1877"
-                        >1877</date>to <date when="1947">1947</date>.</note>
+                     >1877</date>to <date when="1947">1947</date>. <ref type="biblio" target="#Philadelphia_Record_Bib"
+                        >See The Philadelphia Record Wikipedia</ref>.</note>
                </org>
                <org xml:id="Treasury">
                   <orgName>United States Department of the Treasury</orgName>
@@ -679,6 +682,11 @@
                      the Federal Immigration Service</title>. <publisher>USCIS</publisher>.<ptr
                      target="https://www.uscis.gov/about-us/our-history/explore-agency-history/overview-of-agency-history/origins-of-the-federal-immigration-service#:~:text=The%20Act%20of%20June%206,laws%20to%20the%20Commissioner%2DGeneral"
                   />
+               </bibl>
+               <bibl xml:id="Philadelphia_Record_Bib" type="webpage">
+                  <author>Wikipedia Contributors</author>,<title level="a">The Philadelphia
+                     Record</title>.<publisher>Wikipedia, the Free Encyclopedia</publisher>. <ptr
+                     target="https://en.wikipedia.org/wiki/The_Philadelphia_Record"/>
                </bibl>
             </listBibl>
          </div>
