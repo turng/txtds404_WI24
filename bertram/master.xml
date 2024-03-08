@@ -99,9 +99,10 @@
                         type="EOLhyphen>">-</pc><lb/>cial of the Government, and will prosecute it
                      to a final settlement.<lb/></p>
 
-                  <p>Prior to <date when="1900-06-06">June 6, 1900</date>, attorneys' fee were
-                     deducted and<lb/> paid them by the Government upon the allowance of claims, but
-                     this <lb/>practice in reagrd to fees as follows:<lb/></p>
+                  <p>Prior to <date when="1900-06-06" ref="#Act_of_Congress">June 6, 1900</date>,
+                     attorneys' fee were deducted and<lb/> paid them by the Government upon the
+                     allowance of claims, but this <lb/>practice in reagrd to fees as
+                     follows:<lb/></p>
 
                   <p>"<hi rend="caps">Provided</hi>, That in the settlement of claims of
                      officers,<lb/> soldiers, sailors, and marines, of their representatives,<lb/>
@@ -147,7 +148,8 @@
                      <note xml:id="Act_of_Congress">The United States Congress passed an Act on June
                         6th, 1900 that "consolidated immigration enforcement by assigning
                         enforcement of both Alien Contract Labor laws and Chinese Exclusion laws to
-                        the Commissioner-General."<ref type="biblio" target="#Federal_Immigration_Service"></ref></note>
+                        the Commissioner-General."<ref type="biblio"
+                           target="#Federal_Immigration_Service"/></note>
                   </note>
                </div>
             </back>
@@ -172,6 +174,7 @@
                   <p>I have never seen your discharge<lb/> you must to have lost them<lb/> before
                      you came here<lb/></p>
                   <p>We shall be so proud if you<lb/></p>
+                  <pb n="1"/>
                   <p>will stop with us<lb/> on your way to <placeName type="state"
                         >Washington</placeName><lb/> we shall expect it and<lb/> write us at once or
                      as Soon<lb/> as your can aseertain the facts<lb/>
@@ -186,6 +189,7 @@
                      you<lb/> Shall Share with us<lb/></p>
                   <p>We are having Scarlett feaver<lb/> &amp; diptheria have had several
                      deths<lb/></p>
+                  <pb n="2"/>
                   <p>have had Several deths<lb/> we have a very Serious case close<lb/> to us it
                         <persName>J. H. Hollands</persName> his 12 year <add place="below">^old
                      </add>boy<lb/> but is on the rode to helth again<lb/></p>
@@ -199,9 +203,10 @@
                      <persName>Hial</persName> excpects to go to<lb/>
                      <persName>Omar</persName> &amp; <persName>Carol</persName> is getting a<lb/>
                      long as usual has two pet<lb/> Squieruls and a fish his little<lb/> gray man
-                     got her high braK<gap rend="strikethrough"/><lb/> the <date when="1903-07-01"
+                     got her high braK<del rend="strikethrough"/><lb/> the <date when="1903-07-01"
                         >first of July</date> and hasent used<lb/> her any Since but think he
                      can<lb/> use her in a few days now write<lb/> us as soon as you can<lb/></p>
+                  <pb n="3"/>
                </div>
                <closer>
                   <salute>as ever your Brother</salute>
@@ -210,14 +215,16 @@
             </body>
             <back>
                <div type="footnotes">
-                  <note xml:id="Mary_Bertram"/>
+                  <note xml:id="Mary_Bertram"> Mary Bertram, orignally Mary Huselby, married Jasper
+                     N. Bertram in 1896.<ref type="biblio" target="#Bertram_Papers">See Source
+                        1</ref></note>
                   <note xml:id="Diptheria">Diphtheria is a bacterial respiratory illness that
                      primarily affects children under 5. The disease was considered highly
                      contagious and deadly during its height, at the end of the 19th and beginning
                      of the 20th century. Before the first vaccine was created in the 1890s, 1 out
                      of 10 children infected by the disease died. Although, the vaccine was not
-                     widely distributed until the 1920s. <ref type="biblio" target="#Source5">See
-                        source 5</ref>.</note>
+                     widely distributed until the 1920s. <ref type="biblio"
+                        target="#Diptheria_History">See source 5</ref>.</note>
                   <note xml:id="DH_Bertram">DH Bertam was the brother of Jasper N. Bertram.</note>
                </div>
             </back>
@@ -230,8 +237,8 @@
                <head rend="small_caps"><placeName>Chelan. Washington</placeName><date
                      when="1907-08-07"> Aug 7th, 1907</date></head>
                <opener>
-                  <salute>Mr. J.H.Bertram,</salute>
-                  <placeName>Seattle Wash.</placeName>
+                  <salute><persName>Mr. J.H.Bertram</persName>,</salute>
+                  <placeName type="settlement">Seattle Wash.</placeName>
                </opener>
                <p>Dear sir: Through <persName>Dr. A.I. Mitchell</persName>, I learn that you are
                   interested in the <placeName ref="#Chelan_county">Chelan Country</placeName>,and
@@ -250,7 +257,7 @@
                   you may wish.</p>
                <closer rend="cursive">
                   <salute>Very truly,</salute>
-                  <signed>Barnett Stillery.</signed>
+                  <signed><persName>Barnett Stillery</persName>.</signed>
                </closer>
             </body>
             <back>
@@ -628,7 +635,7 @@
                      target="https://en.wikipedia.org/w/index.php?title=Lakeside,_Washington&amp;oldid=1186419158"
                      >https://en.wikipedia.org/w/index.php?title=Lakeside,_Washington&amp;oldid=1186419158</ref>
                </bibl>
-               <bibl xml:id="Diphtheria" type="webpage">
+               <bibl xml:id="Diphtheria_History" type="webpage">
                   <author>Case Western Reserve University</author>,<title level="a"
                      >Diphtheria</title>.<publisher>Case Western Reserve University</publisher>,
                      <ref
