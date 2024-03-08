@@ -74,9 +74,9 @@
       <body>
          <div type="roster">
                <head>Members of the Shakespeare Club 1896</head>
-               <p>1 <name type="person" ref="#Ames">Mrs. Ames</name>,</p>
-               <p>2 " <name type="person" ref="#Condon">Condon</name>-</p>
-               <p>3 <name type="person" ref="#Dowling">Miss Dowling</name>-</p>
+               <l>1 <name type="person" ref="#Ames">Mrs. Ames</name>,</l>
+               <l>2 " <name type="person" ref="#Condon">Condon</name>-</l>
+               <l>3 <name type="person" ref="#Dowling">Miss Dowling</name>-</l>
                <p>4<name type="person" ref="#Fitzhenry"> Mrs. Fitzhenry</name>-</p>
                <p>5 <name type="person" ref="#Carrie-Gove">Miss Carrie Gove</name></p>
                <p>6 " <name type="person" ref="#E-Gove">Emily</name> "</p>
