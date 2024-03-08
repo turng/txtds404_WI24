@@ -1951,6 +1951,6 @@ div.facsImage img:first-child {
 standOff {
   visibility: hidden;
 }
-.roster > div > p {
-      line-height: 1;
+div[type="letter"] > head {
+  font-size: 180%;
 }

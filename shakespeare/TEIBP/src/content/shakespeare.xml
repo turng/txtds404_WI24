@@ -346,12 +346,12 @@
          <div type="entry">
             <head><date when="1897-02-01">February 1st 1897</date></head>
             <p>On <date when="1897-02-01">the 1st of February</date> the Shakespeare Club met at <name type="location" ref="#Fitzhenry"> Mrs. Fitzhenry</name>'s</p>
-            <p>At 7.20 the Club was called to order by the President. The roll call given the members present answering with quotations from <title type="play">Much Ado About Nothing</title></p>
+            <p>At 7.20 the Club was called to order by the President. The roll call given the members present answering with quotations from <title type="play" ref="#Much-Ado">Much Ado About Nothing</title></p>
             <p><name type="person" ref="#Fickett">Mrs. Fickett</name> was absent at the meeting.</p>
             <p>After the roll call the minutes of the meeting of <del>F</del> <date when="1897-01-25">January 25</date>th were<del> ommission</del> and approved.</p>
             <p>Some ten minutes was then spent with questions from the grammar.</p>
             <p>There being no business to attend to the Reading began at 7.35, reading the last act of Romeo &amp; Juliet it being finished at 7.58--</p>
-            <p><title type="play">Much Ado About Nothing</title> was then taken up and four acts were read 00 and finished at ten o'clock at which time the Club adjourned to meet <date when="1897-02-08">February 8th</date> the place of meeting being <name type="person" ref="Fickett">Mrs. Fickett</name>'s and the reading is to be the last act of<title type="play"> Much Ado</title> and a portion of <title type="play">Twelfth Night</title> which had been cast by <name type="person" ref="Condon">Mrs. Condon</name> with cast as follows</p>
+            <p><title type="play" ref="Much-Ado">Much Ado About Nothing</title> was then taken up and four acts were read 00 and finished at ten o'clock at which time the Club adjourned to meet <date when="1897-02-08">February 8th</date> the place of meeting being <name type="person" ref="Fickett">Mrs. Fickett</name>'s and the reading is to be the last act of<title type="play" ref="#Much-Ado"> Much Ado</title> and a portion of <title type="play" ref="Twelfth">Twelfth Night</title> which had been cast by <name type="person" ref="Condon">Mrs. Condon</name> with cast as follows</p>
            <castList> 
               <head><title type="play" ref="#Twelfth">Twelfth Night</title></head>
               <castItem>
@@ -415,16 +415,16 @@
          <div type="entry">
             <head><date when="1897-02-08">February 8th 1897</date></head>
             <p>On <date when="1897-02-08">February 8th</date> the Shakespeare Club met at the home of <name type="location" ref="#Fickett">Mrs. Fickett</name>.</p>
-            <p>The club was called to order at 7.15. The roll call given and all members present answering with quotations from <title type="play">Twelfth Night</title>.</p>
+            <p>The club was called to order at 7.15. The roll call given and all members present answering with quotations from <title type="play" ref="#Twelfth">Twelfth Night</title>.</p>
             <p><name type="person" ref="#Gove">Miss Gove</name> was absent from this meeting.</p>
-            <p><name type="person" ref="#Robinson">Miss Robinson</name> informed the Club that she would be absent from the Club on <date when="1897-02-15">Feb. 15th</date> &amp; probably <date when="1897-02-22">Feb. 22nd</date> and <name type="person" ref="#Wylde">Mrs. Wylde</name> made the motion that someone be appointed to fill the place of President during the absence. <name type="person" ref="#Ames">Mrs. Ames</name> was mentioned, voted on and received a unanimous vote to act in the capacity of President during the few meeting [sic] at which <name ref="#Robinson">Miss Robinson</name> would be absent.</p>
+            <p><name type="person" ref="#Robinson">Miss Robinson</name> informed the Club that she would be absent from the Club on <date when="1897-02-15">Feb. 15th</date> &amp; probably <date when="1897-02-22">Feb. 22nd</date> and <name type="person" ref="#Wylde">Mrs. Wylde</name> made the motion that someone be appointed to fill the place of President during the absence. <name type="person" ref="#Ames">Mrs. Ames</name> was mentioned, voted on and received a unanimous vote to act in the capacity of President during the few meeting [sic] at which <name type="person" ref="#Robinson">Miss Robinson</name> would be absent.</p>
             <p>There being no further business to attend to, Miss Robinson then gave some questions from the Grammar--</p>
             <p>Ten minutes were thus satisfied.</p>
-            <p>At 7.35- began the reading of <title type="play">Much Ado About Nothing</title> beginning at the 5th act and the play was finished.</p>
-            <p><title type="play">Twelfth Night</title> was begun - &amp; reading through two acts</p>
-            <p>At 10- the Club adjourned to meet February 15th the place of meeting being <name ref="#Ames">Miss Ame</name>'s the play being</p>
-            <p><title type="play"> As You Like It</title></p>
-            <p>As You Like It which had been cast as follows by </p>
+            <p>At 7.35- began the reading of <title type="play" ref="#Much-Ado">Much Ado About Nothing</title> beginning at the 5th act and the play was finished.</p>
+            <p><title type="play" ref="#Twelfth">Twelfth Night</title> was begun - &amp; reading through two acts</p>
+            <p>At 10- the Club adjourned to meet February 15th the place of meeting being <name type="person" ref="#Ames">Miss Ame</name>'s the play being</p>
+            <p><title type="play" ref="#As-You-Like-It">As You Like It</title> which had been cast as follows by </p>
+            <p><title type="play" ref="#As-You-Like-It">As You Like It</title></p>
             <list>
                <item>(Duke Senior/Corin) Miss Robinson</item>
                <item>(Frederick/Jaques/Jacques de Boys/Amiens) Mrs. Ames</item>
@@ -446,24 +446,24 @@
          <div type="letter">
             <head>
                <lg type="sender-address">
-                  <l>Port Gamble, Wash.</l>
+                  <l><name type="location" ref="#Gamble">Port Gamble</name>, Wash.</l>
                </lg>
                <lg type="date">
                   <l>Dec. 14 - 1897</l>
                </lg>
                <lg type="addressee">
-                  <l><name ref="#Ames">Mrs. E. G. Ames</name>,</l>
+                  <l><name type="person" ref="#Ames">Mrs. E. G. Ames</name>,</l>
                   <l>President of Shakespeare Club</l>
                </lg>
             </head>
             <opener>
                <salute>Dear President,</salute>
             </opener>
-            <p><name ref="#Carrie">Carrie</name> told me to-day that mention was made at the Club last evening about my non-attendance, so I decided to address an explanation to you as President.</p>
-            <p>When the Club first formed for this winter, I told the members that I could not possible attend while Carrie and <name ref="#Emily">Emily</name> were both away from home as I had no time for study and did not want to go with my lesson unprepared. I also said I thought that I could begin again at the first of the year.</p> 
-            <p>But I did not know then that Carrie would be married soon. You can see that now she is gone &amp; I am in the same predicament I was before.</p> 
+            <p><name type="person" ref="#Carrie-Gove">Carrie</name> told me to-day that mention was made at the Club last evening about my non-attendance, so I decided to address an explanation to you as President.</p>
+            <p>When the Club first formed for this winter, I told the members that I could not possible attend while Carrie and <name type="person" ref="#E-Gove">Emily</name> were both away from home as I had no time for study and did not want to go with my lesson unprepared. I also said I thought that I could begin again at the first of the year.</p> 
+            <p>But I did not know then that <name type="person" ref="#Carrie-Gove">Carrie</name> would be married soon. You can see that now she is gone &amp; I am in the same predicament I was before.</p> 
             <p>I did not think about resigning, for I hoped to be able to attend before very long, and also wished to help the Club in anything they might understake for Xmas, etc.</p> 
-            <p>Now that we have decided to move to <name type="place" ref="#Townsend">Port Townsend </name>in three or four months, I think it may be well for me to hand in my resignation. So will you kindly inform the Club of my desire that they may take the necessary action.</p>
+            <p>Now that we have decided to move to <name type="location" ref="#Townsend">Port Townsend </name>in three or four months, I think it may be well for me to hand in my resignation. So will you kindly inform the Club of my desire that they may take the necessary action.</p>
             <p>I have enjoyed the work and sociability very much and hope the society will ever be as earnest and enjoyable as when I was in it.</p>
             <p> If there is ever anything I can do to help you, please let me know as I will always be interested.</p>
             <p>Hoping my explanation is acceptable, and wishing you all sucess, I remain</p>
@@ -489,35 +489,27 @@
                a series of comical misunderstandings and the clever wives outwitting the would-be
                seducer in the bustling town of Windsor.<ref type="bibliography" target="#source3"
                /></note>
-            <note xml:id="Venice">This is a Shakespearean comedy that follows the story of a
+            <note xml:id="Merchant">This is a Shakespearean comedy that follows the story of a
                merchant named Antonio, his friend Bassanio, the wealthy heiress Portia, and the
                moneylender Shylock in Venice and Belmont.<ref type="bibliography" target="#source4"
                /></note>
-            <note xml:id="Juliet">This is a tragic play by William Shakespeare that tells the story
+            <note xml:id="Romeo-Juliet">This is a tragic play by William Shakespeare that tells the story
                of two young lovers from feuding families in Verona, whose passionate romance
                ultimately leads to their untimely deaths and reconciliation between their rival
                   families.<ref type="bibliography" target="#source5"/></note>
-
+            <note xml:id="Much-Ado">The Shakespeare play Much Ado About Nothing.</note>
+            <note xml:id="Twelfth">The Shakespeare play Twelfth Night.</note>
+            <note xml:id="As-You-Like-It">The Shakespeare play As You Like It.</note>
          </div>
          <div type="bibliography">
             <listBibl>
-               <bibl xml:id="source1"> Eakins, Jan M. “Historic American Engineering Record Port
-                  Gamble, Washington, William Gove House (House No. 21) Houses Erected by
-                  Employees.” Historic American Engineering Record Columbia Cascades Support Office,
-                  HAER No. WA-149, 1997,
-                  memory.loc.gov/master/pnp/habshaer/wa/wa0600/wa0677/data/wa0677data.pdf</bibl>
-               <bibl xml:id="source2">“Overview: Romeo and Juliet.” Oxford Reference,
-                  https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100427839.
-                  Accessed 22 Feb. 2024.</bibl>
+               <bibl xml:id="source1"> Eakins, Jan M. “Historic American Engineering Record Port Gamble, Washington, William Gove House (House No. 21) Houses Erected by Employees.” Historic American Engineering Record Columbia Cascades Support Office, HAER No. WA-149, 1997, memory.loc.gov/master/pnp/habshaer/wa/wa0600/wa0677/data/wa0677data.pdf</bibl>
+               <bibl xml:id="source2">“Overview: Romeo and Juliet.” Oxford Reference, https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100427839. Accessed 22 Feb. 2024.</bibl>
                <bibl xml:id="source3">“Merry Wives of Windsor.” Oxford Reference,
                   https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100151834.
                   Accessed 22 Feb. 2024. </bibl>
-               <bibl xml:id="source4">“The Merchant of Venice.” Oxford Reference,
-                  https://www.oxfordreference.com/display/10.1093/acref/9780198708735.001.0001/acref-9780198708735-e-1885?rskey=vVD8o3result=1.Accessed
-                  22 Feb. 2024.</bibl>
-               <bibl xml:id="source5">“Overview: Romeo and Juliet.” Oxford Reference,
-                  https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100427839.
-                  Accessed 22 Feb. 2024.</bibl>
+               <bibl xml:id="source4">“The Merchant of Venice.” Oxford Reference, https://www.oxfordreference.com/display/10.1093/acref/9780198708735.001.0001/acref-9780198708735-e-1885?rskey=vVD8o3result=1.Accessed. 22 Feb. 2024.</bibl>
+               <bibl xml:id="source5">“Overview: Romeo and Juliet.” Oxford Reference, https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100427839. Accessed 22 Feb. 2024.</bibl>
             </listBibl>
          </div>
          <div type="members">
