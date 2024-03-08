@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+   <?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -19,9 +19,8 @@
             <date>2024-03-04</date>
          </publicationStmt>
          <sourceDesc>
-            <p>We were able to read the pamphlet in the collection classroom located on the base level
-            of Allen Library North. 
-               <bibl>
+            <p>We were able to read the pamphlet in the collection classroom located on the base
+               level of Allen Library North. <bibl>
                   <title>Harlequin and Friar Bacon</title>
                   <author>Francesco Frost</author>
                   <publisher>The Music-Publishing Company</publisher>
@@ -37,7 +36,8 @@
          </samplingDecl>
          <editorialDecl>
             <normalization method="silent">
-               <p>Original punctuation conventions in the 1863's edition will be retained as much as possible</p>
+               <p>Original punctuation conventions in the 1863's edition will be retained as much as
+                  possible</p>
             </normalization>
             <interpretation>
                <p>Italics will be recorded without interpretation</p>
@@ -50,127 +50,174 @@
    </teiHeader>
    <text>
       <body>
-         <p>“Harlequin and Friar Bacon” is a British pantomime play from the collection of Glenn Hughes who used the collection in the 1930s and 1940s as a tool for research and teaching his students in the drama program at the University of Washington. It comes from a collection of over 3,000 plays, the majority British. It is likely that “Harlequin and Friar Bacon” belongs to the subset within the collection of works added from a single contributing collection, all of which were made as sales or gifts to the audience of a performance, mainly consisting of Christmas extravaganzas, pantomimes, and burlesques. Pantomimes are usually performed around Christmas and are comedies that often include slapstick humor, jokes, innuendos, magic, fairies, and gender reversal.</p>
-	 <p>The focus of our edition of “Harlequin and Friar Bacon” is digitizing the original play to become accessible to actors and students who are interested in its content, whether that be for purposes of studying drama or gleaning an understanding of the content of historical plays. Pantomimes are still performed in the United States but with less frequency and popularity than in England, so the edition will also function to introduce actors to studies of plays on a global scale.</p>
-	 <p>Our edition features a transcription which is intended to maintain as much of the original content as possible, including preserving the British spellings for words as opposed to Americanizing them. Racial slurs have been redacted and given note in the end notes if relevant to understanding the passage. Any italics and bold are preserved as they are displayed in the original play. In the original print, advertisements line the jacket and are interspersed throughout the text, which have not been preserved in this digital edition because it is not intended for viewing by audiences but by actors.</p>
-         <div type='editorial'>
-            <listPerson>
-               <!-- GT: good! Is this a cast list? You could also use the TEI element <castList>: https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-castList.html
-                  The other thing I'd suggest is giving more evocative xml:id's. Eg. for the first one: @xml:id="goodfellows" , etc. 
-                  The notes are terrific. Nice job. -->
-               <person xml:id="char1" role="fictional">
-                  <persName>
-                     <surname>Goodfellows</surname>
-                     <forename>Robin</forename>
-                     <!-- GT: here you don't need <choice>. You only use <choice> when you present 2 options. Here there's just one -->
-                     <choice>
-                        <orig>The Puck</orig>
-                     </choice>
-                  </persName>
-                  <note>
-                     <p>In English folklore, The Puck, also known as Goodfellows, are/is a domestic and nature sprite, demon, or fairy.</p>
-                  </note>
-               </person>
-               
-               <person xml:id="char2" role="fictional" sex="m">
-                  <persName>Oberon</persName>
-                  <note>
-                     <p>Oberon is a king of the fairies in medieval and Renaissance literature. He is best known as a character in William 
-                        Shakespeare's play A Midsummer Night's Dream, in which he is King of the Fairies and spouse of Titania, Queen of 
-                        the Fairies.</p>
-                  </note>
-               </person>
-               
-               <person xml:id="char3" role="fictional" sex="m">
-                  <persName>Harry Bailly or Harry Bailey</persName>
-                  <note>
-                     <p>The Host is a character who plays a key role in and throughout Geoffrey Chaucer's The Canterbury Tales. He is the 
-                        owner of the Tabard Inn in London, where the pilgrimage begins and he agrees to travel on the pilgrimage, and promises to judge both the tales the pilgrims tell, and disputes among the pilgrims.</p>
-                  </note>
-               </person>
-               
-               <person xml:id="char4" role="real" sex="m">
-                  <persName>Geoffrey Chaucer</persName>
-                  <birth>1340s</birth>
-                  <death>25 October 1400</death>
-                  <note>
-                     <p>Geoffrey Chaucer was an English poet, author, and civil servant best known for The Canterbury Tales. He has been 
-                        called the "father of English literature", or, alternatively, the "father of English poetry".</p>
-                  </note>
-               </person>
-               
-               <person xml:id="char5" role="real" sex="m">
-                  <persName>
-                     John of Gaunt
-                  </persName>
-                  <birth>6 March 1340</birth>
-                  <death>3 February 1399</death>
-                  <note>
-                     <p>John of Gaunt, Duke of Lancaster was an English royal prince, military leader, and statesman. He was the fourth son of 
-                        King Edward III of England, and the father of King Henry IV. </p>
-                  </note>
-               </person>
-            </listPerson>
-            
+         <head>Introduction</head>
+         <p>“Harlequin and Friar Bacon” is a British pantomime play from the collection of Glenn
+            Hughes who used the collection in the 1930s and 1940s as a tool for research and
+            teaching his students in the drama program at the University of Washington. It comes
+            from a collection of over 3,000 plays, the majority British. It is likely that
+            “Harlequin and Friar Bacon” belongs to the subset within the collection of works added
+            from a single contributing collection, all of which were made as sales or gifts to the
+            audience of a performance, mainly consisting of Christmas extravaganzas, pantomimes, and
+            burlesques. Pantomimes are usually performed around Christmas and are comedies that
+            often include slapstick humor, jokes, innuendos, magic, fairies, and gender
+            reversal.</p>
+         <p>The focus of our edition of “Harlequin and Friar Bacon” is digitizing the original play
+            to become accessible to actors and students who are interested in its content, whether
+            that be for purposes of studying drama or gleaning an understanding of the content of
+            historical plays. Pantomimes are still performed in the United States but with less
+            frequency and popularity than in England, so the edition will also function to introduce
+            actors to studies of plays on a global scale.</p>
+         <p>Our edition features a transcription which is intended to maintain as much of the
+            original content as possible, including preserving the British spellings for words as
+            opposed to Americanizing them. Racial slurs have been redacted and given note in the end
+            notes if relevant to understanding the passage. Any italics and bold are preserved as
+            they are displayed in the original play. In the original print, advertisements line the
+            jacket and are interspersed throughout the text, which have not been preserved in this
+            digital edition because it is not intended for viewing by audiences but by actors.</p>
+         <div type="editorial">
+            <castList>
+
+               <castGroup>
+                  <castItem>
+                     <role xml:id="Robin">
+                        <persName>Robin Goodfellows</persName>
+                     </role>
+                     <note>
+                        <p>In English folklore, The Puck, also known as Goodfellows, are/is a
+                           domestic and nature sprite, demon, or fairy.</p>
+                     </note>
+                  </castItem>
+                  <castItem>
+                     <role xml:id="Oberon">
+                        <persName>Oberon</persName>
+                     </role>
+                     <note>
+                        <p>Oberon is a king of the fairies in medieval and Renaissance literature.
+                           He is best known as a character in William Shakespeare's play A Midsummer
+                           Night's Dream, in which he is King of the Fairies and spouse of Titania,
+                           Queen of the Fairies.</p>
+                     </note>
+                  </castItem>
+                  <castItem>
+                     <role xml:id="Harry">
+                        <persName>Harry Bailly or Harry Bailey</persName>
+                     </role>
+                     <note>
+                        <p>The Host is a character who plays a key role in and throughout Geoffrey
+                           Chaucer's The Canterbury Tales. He is the owner of the Tabard Inn in
+                           London, where the pilgrimage begins and he agrees to travel on the
+                           pilgrimage, and promises to judge both the tales the pilgrims tell, and
+                           disputes among the pilgrims.</p>
+                     </note>
+                  </castItem>
+                  <castItem>
+                     <role xml:id="Chaucer">
+                        <persName>Geoffrey Chaucer</persName>
+                     </role>
+                     <note>
+                        <p>Geoffrey Chaucer was an English poet, author, and civil servant best
+                           known for The Canterbury Tales. He has been called the "father of English
+                           literature", or, alternatively, the "father of English poetry". He was
+                           born around 1340s and died on October 25 1400.</p>
+                     </note>
+                  </castItem>
+
+                  <castItem>
+                     <role xml:id="John">
+                        <persName> John of Gaunt </persName>
+                     </role>
+                     <note>
+                        <p>John of Gaunt, Duke of Lancaster was an English royal prince, military
+                           leader, and statesman. He was the fourth son of King Edward III of
+                           England, and the father of King Henry IV. He was born March 6 1340 and
+                           died February 3 1399. </p>
+                     </note>
+                  </castItem>
+                  <castItem>
+                     <role xml:id="Fairy">
+                        <persName>Fairy</persName>
+                     </role>
+                  </castItem>
+                  <castItem>
+                     <role xml:id="Imagination">Imagination</role>
+                  </castItem>
+                  <castItem>
+                     <role xml:id="Harlequin">Harlequin</role>
+                     <note>
+                        <p>A harlequin is a stock character, mute and often depicted in a checkered
+                           costume with a slapstick wand. The Harlequin's role is light-hearted and
+                           humorous, and he is often shown alongside a clown.</p>
+                     </note>
+                  </castItem>
+               </castGroup>
+            </castList>
+
             <bibl n="1">
                <title>Puck (folklore)</title>
                <!-- GT: use the @when attribute with <date> -->
-               <date>This page was last edited on 26 January 2024, at 15:00 (UTC).</date>
-               <!-- GT: And use <ptr/> if there's no content:
-                  <ptr target="URL"/> -->
-               <ref target="https://en.wikipedia.org/wiki/Puck_(folklore)"/>
+               <date>This page was accessed on 26 January 2024, at 15:00 (UTC).</date>
+               <ptr target="https://en.wikipedia.org/wiki/Puck_(folklore)"/>
             </bibl>
-            
+
             <bibl n="2">
                <title>Oberon</title>
-               <date>This page was last edited on 21 January 2024, at 15:31 (UTC).</date>
-               <ref target="https://en.wikipedia.org/wiki/Oberon"/>
+               <date>This page was accessed on 21 January 2024, at 15:31 (UTC).</date>
+               <ptr target="https://en.wikipedia.org/wiki/Oberon"/>
             </bibl>
-            
+
             <bibl n="3">
                <title>The Host (Canterbury Tales)</title>
-               <date>This page was last edited on 25 January 2022, at 13:16 (UTC).</date>
-               <ref target="https://en.wikipedia.org/wiki/The_Host"/>
+               <date>This page was accessed on 25 January 2022, at 13:16 (UTC).</date>
+               <ptr target="https://en.wikipedia.org/wiki/The_Host"/>
             </bibl>
-            
+
             <bibl n="4">
                <title>Geoffrey Chaucer</title>
-               <date>This page was last edited on 7 February 2024, at 09:54 (UTC).</date>
-               <ref target="https://en.wikipedia.org/wiki/Geoffrey_Chaucer"/>
+               <date>This page was accessed on 7 February 2024, at 09:54 (UTC).</date>
+               <ptr target="https://en.wikipedia.org/wiki/Geoffrey_Chaucer"/>
             </bibl>
-            
+
             <bibl n="5">
                <title>John of Gaunt</title>
-               <date>This page was last edited on 8 February 2024, at 16:06 (UTC).</date>
-               <ref target="https://en.wikipedia.org/wiki/John_of_Gaunt"/>
+               <date>This page was accessed on 8 February 2024, at 16:06 (UTC).</date>
+               <ptr target="https://en.wikipedia.org/wiki/John_of_Gaunt"/>
             </bibl>
-		 
-	    <bibl n="6">
-    		<title>19th century acting editions collection, 1762-1946</title>
-    		<date>Historical note and collection information added 2017</date>
-    		<ref target="https://archiveswest.orbiscascade.org/ark:80444/xv656279"/>
-	    </bibl>
 
-	    <bibl n="7">
-   		<title>A Complete Guide to Pantomime</title>
-   		<date>03 June 2022</date>
-   		<ref target="https://www.blackpoolgrand.co.uk/complete-guide-to-pantomime"/>
-	    </bibl>
-         </div><!-- GT: I think you're missing a closing </bibl> here... -->
+            <bibl n="6">
+               <title>Harlequin</title>
+               <date>This page was accessed on 8 March 2024, at 15:33 (UTC).</date>
+               <ptr target="https://en.wikipedia.org/wiki/Harlequin"/>
+            </bibl>
 
-<!-- TITLE PAGE -->
+            <bibl n="7">
+               <title>19th century acting editions collection, 1762-1946</title>
+               <date>Historical note and collection information added 2017</date>
+               <ptr target="https://archiveswest.orbiscascade.org/ark:80444/xv656279"/>
+            </bibl>
+
+            <bibl n="8">
+               <title>A Complete Guide to Pantomime</title>
+               <date>03 June 2022</date>
+               <ptr target="https://www.blackpoolgrand.co.uk/complete-guide-to-pantomime"/>
+            </bibl>
+
+         </div>
+
+         <!-- TITLE PAGE -->
          <div type="title_page">
             <head rend="caps">Harlequin and Friar Bacon</head>
             <head rend="caps">or</head>
-            <head rend="caps">Great Grim John of Gaunt, and the Enchanted Lance of Robin Goodfellow:</head>
+            <head rend="caps">Great Grim John of Gaunt, and the Enchanted Lance of Robin
+               Goodfellow:</head>
             <p> rend="caps">An entirely new and original grotesque, burlesque, poetic, pictorial,
                spectacular, historical, dramatic, and hippo-dramatic, grand comic Christmas
                Pantomime.</p>
             <p rend="caps">By Francesco Frost.</p>
-            <p rend="caps">London: The Music-Publishing Company, 19 Peter’s Hill, St. Paul’s, E.C.</p>
+            <p rend="caps">London: The Music-Publishing Company, 19 Peter’s Hill, St. Paul’s,
+               E.C.</p>
          </div>
 
-<!-- SYNOPSIS AND CHARACTERS -->
+         <!-- SYNOPSIS AND CHARACTERS -->
          <div type="synopsis">
             <head rend="caps">Synopsis of Scenery, Incidents, and Characters,</head>
             <p rend="caps">Fairy Encampment by Moonlight.</p>
@@ -255,11 +302,11 @@
             <stage>(From the Continental Theatres.</stage>
          </div>
 
-<!-- SCENE I -->
+         <!-- SCENE I -->
          <div type="scene" n="1">
             <head rend="caps">Friar Bacon.</head>
-            <head rend="italic bold">Scene 1.–Fairy encampment, by moonlight, on the
-                  plains of phantasy</head>
+            <head rend="italic bold">Scene 1.–Fairy encampment, by moonlight, on the plains of
+               phantasy</head>
             <stage><hi rend="italics">A picturesque view of a Fairy Camp, with Mushrooms for Tents,
                   appearing to occupy on extensive plain, with hills beyond, dotted with lines of
                   Mushrooms, diminishing in perspective–Two large Mushrooms, as tents, in the
@@ -275,7 +322,7 @@
             <p>Here appear now, in a hurry.</p>
             <stage rend="italics">[Music.–Mushroom Tents all expand, and the stage becomes filled
                with Fairies, each bearing a fantastic bulrush as a weapon.–Tableau.</stage>
-            <sp who="#ROBIN">
+            <sp who="#Robin">
                <speaker rend="italics">Robin.</speaker>
                <l>A fair assembly, formed in gallant style.</l>
                <l>How does my old acquaintance of this isle?</l>
@@ -405,247 +452,365 @@
             </sp>
             <stage rend="italics">[Gradual descent, and change to</stage>
          </div>
-<!-- SCENE II -->
-   <div type="scene" n='2'>
-      <head rend="italic bold">Scene II.–The Grotto of Good Idea, in the World of Fancy. </head>
-      <p rend="italics">In the Rainbow Car is Imagination, attended by Romance, Reverie, Fiction, Poetry, Wit, and Humour–at the back is inscribed, in glistening letters, ‘Chaucer’s Canterbury Tales.’</p> 
-   <sp who="#IMAGINATION"><speaker rend="italics">Imagination.</speaker> 
-      <l> I’m here to serve you, and can serve you greatly; I’ve been in much request in Christmas, lately. </l>
-      <l>Behold what never can be old! Take these </l>
-      <l>Immortal Tales, and use them as you please. </l>
-      <l>At once, then, stepping just five centuries back,</l> 
-      <l>Here shall you start upon your annual track.</l> 
-      <l>Old Geoffrey Chaucer, he my eldest child, </l>
-      <l>Who quaffed the well of English undefiled, </l>
-      <l>Shall wake to life again–and with him those </l>
-      <l>Who lived about that period, we’ll suppose; </l>
-      <l>The ancient Tabard shall once more be found,</l> 
-      <l>With pilgrims famed to Canterbury bound.</l></sp> 
-   <stage rend="italics">[Music.–Old Pantomime expresses his thanks for aid. </stage>
-   <sp who="#IMAGINATION #OBERON #ROBIN GOODFELLOW"><speaker rend="italics">Trio.–Imagination, Oberon, and Robin Goodfellow. </speaker>
-      <l>By Imagination’s aid, </l>
-      <l>Thus are we to-night conveyed </l>
-      <l>Far away into the past, </l>
-      <l>To a region that will last </l>
-      <l>Enshrined in fame for ever.</l> 
-      <l>But, whilst we glean from poet’s page </l>
-      <l>Memories of a bygone age, </l>
-      <l>Let us borrow, by the way,</l> 
-      <l>Something from the present day, </l>
-      <l>To show what we endeavor. </l> </sp>
-   <sp who="#CHORUS"><speaker rend="italics">Chorus.</speaker> <l>Then lightly, sprightly, trip along– </l>
-      <l>Which always ends a fairy song.</l></sp> 
-   <stage rend="italics">[At conclusion Imagination returns to her Car, and ascends with her Attendants, whilst Oberson and the Fairies go off on one side, and Robin Goodfellow leads off Pantomime and his retinue on the other.</stage> </div>
+         <!-- SCENE II -->
+         <div type="scene" n="2">
+            <head rend="italic bold">Scene II.–The Grotto of Good Idea, in the World of Fancy. </head>
+            <p rend="italics">In the Rainbow Car is Imagination, attended by Romance, Reverie,
+               Fiction, Poetry, Wit, and Humour–at the back is inscribed, in glistening letters,
+               ‘Chaucer’s Canterbury Tales.’</p>
+            <sp who="#IMAGINATION">
+               <speaker rend="italics">Imagination.</speaker>
+               <l> I’m here to serve you, and can serve you greatly; I’ve been in much request in
+                  Christmas, lately. </l>
+               <l>Behold what never can be old! Take these </l>
+               <l>Immortal Tales, and use them as you please. </l>
+               <l>At once, then, stepping just five centuries back,</l>
+               <l>Here shall you start upon your annual track.</l>
+               <l>Old Geoffrey Chaucer, he my eldest child, </l>
+               <l>Who quaffed the well of English undefiled, </l>
+               <l>Shall wake to life again–and with him those </l>
+               <l>Who lived about that period, we’ll suppose; </l>
+               <l>The ancient Tabard shall once more be found,</l>
+               <l>With pilgrims famed to Canterbury bound.</l>
+            </sp>
+            <stage rend="italics">[Music.–Old Pantomime expresses his thanks for aid. </stage>
+            <sp who="#IMAGINATION #OBERON #ROBIN GOODFELLOW">
+               <speaker rend="italics">Trio.–Imagination, Oberon, and Robin Goodfellow. </speaker>
+               <l>By Imagination’s aid, </l>
+               <l>Thus are we to-night conveyed </l>
+               <l>Far away into the past, </l>
+               <l>To a region that will last </l>
+               <l>Enshrined in fame for ever.</l>
+               <l>But, whilst we glean from poet’s page </l>
+               <l>Memories of a bygone age, </l>
+               <l>Let us borrow, by the way,</l>
+               <l>Something from the present day, </l>
+               <l>To show what we endeavor. </l>
+            </sp>
+            <sp who="#CHORUS">
+               <speaker rend="italics">Chorus.</speaker>
+               <l>Then lightly, sprightly, trip along– </l>
+               <l>Which always ends a fairy song.</l>
+            </sp>
+            <stage rend="italics">[At conclusion Imagination returns to her Car, and ascends with
+               her Attendants, whilst Oberson and the Fairies go off on one side, and Robin
+               Goodfellow leads off Pantomime and his retinue on the other.</stage>
+         </div>
 
-<!-- SCENE III -->
-   <div type="scene" n='3'>
-      <head rend="italic bold">Scene III.–The Ancient Hostelrie of The Tabard, in the Borough.* </head>
-      <stage rend="italics">The scene occupies the full extent of the stage, with the Inn-Yard and projecting galleries of the period distinctly marked.–Lively Music. 
-      <stage rend="italics">Ostler appears as if just risen, goes to stable at side, and gets large sieve Labelled ‘Oats’–signifies he must feed the horses–goes to stable, and the heads of your horses are visible projecting over a rack–is about to feed them, but thinks a little roguery better–empties oats into his pocket and beats horses heads back again with sieve, which he throws in amongst them.</stage>
-      <stage rend="italics">Bell rings–Boots rushes from door into Inn-yard with an arm full of boots and shoes, and upsets Ostler in his hurry, who tumbles into horse-trough at side.–Whilst Ostler is being extricated, bells ring again violently, from all sides.</stage>
-      <stage rend="italics">Two Chambermaids rush in, with mop and broom, as if in great bustle–mop off Ostler–and Boots, picking up the bundle of boots, and shoes, goes up to gallery above, and is seen to deposit a pair at each door–whilst this is going on above,</stage> 
-      <stage><hi rend="small-caps">Master Henry Bailly</hi><hi rend="italics">, the host, enters, with Waiters, who spread table for breakfast at side, their movements being accelerated by the occasional insertion of the points of large carving knife and fork–Huge tankards of ale, large loaves, round of beef, and chine of ham, are brought on and placed on table.</hi></stage> 
-      <stage><hi rend="small caps">Rose</hi><hi rend="italics">, the Barmaid, enters, with dish of eggs, and at the same time </hi><hi rend="small-caps">Geoffrey Chaucer</hi><hi rend="italics"> comes on, from opposite doorway–they exchange tokens of recognition–the Host observes them, and is indignant–Geoffrey takes the eggs from Rose, to put on table, when just as he has placed them there, the Host comes between them and jumping on table, to prevent their love-making, sits down upon the eggs–hearty merriment of Waiters, who are immediatel re-proved by the forks as before–Host sends Rose off to get more eggs, and quietly signifies he shall attend to her lover by and bye</hi>.</stage>
-      <stage rend="italics">The Pilgrims now all make their appearance–the Knight, the Squire, the Yeomen his attendants, the Prior, the Monk, the Miller, the Friar, the Scholar, the Serjeant of the Law, the Doctor, the Franklin, and the Wife of Bath.</stage> 
-      <stage><hi rend="small-caps">Rose</hi><hi rend="italics"> returns with another dish of eggs, and they all commence breakfast but Chaucer, who is making love to Rose–wanting to get the Host out of the way, he asks for his bill–the Host goes off, and returns with it immediately, chuckling over the prices he has charged–Chaucer waits to examine it–the Host and two Waiters then unroll the scroll which is raised by prop to nearly roof of inn–and there is then seen, to Chaucer’s amazement, this:–</hi></stage>
-      <p>The Tabard, Family Hotel and Posting-House,</p>
-      <p>High Street, Borough.</p>
-      <p>May-day, 1383.</p> 
-      <p>Number – £ s. d. </p>
-      <p>Mutton Chop .......... 0 5 0 </p>
-      <p>Pickles ……………. 0 3 0 </p>
-      <p>Penny Roll ………… 0 1 0 </p>
-      <p>Salt ……………… 0 0 6</p> 
-      <p>Pepper …………… 0 0 6 </p>
-      <p>Glass Pale Ale ………. 0 1 0</p> 
-      <p>Bed ……………… 0 3 0 </p>
-      <p>Apartments …………. 0 8 0 </p>
-      <p>A Farthing Rushlight …. 0 2 6 </p>
-      <p>Attendance ………… 0 6 0 </p>
-      <p>(summation bar) 1 10 6 </p>
-      <stage rend="italics">Chaucer pulls out purse, and reluctantly pays money–the Host calls down Waiters with pen and ink and, after much flourishing, puts a cross to the bill as his signature. </stage>
-      <sp who="#CHAUCER">
-          <speaker rend="italics">Chaucer.</speaker> 
-             <l>What! charge one man so much! I hate to boast, But see how one man now can charge a Host.</l></sp>
-      <stage rend="italics">[Chaucer wrests his pen from the landlord, and is about to drive him in with it, when a trumpet sounds, without–Pilgrims all rise. </stage>
-      <sp who="#HOST">
-          <speaker>Host.</speaker>
-             <l>What means that martial flourish? Ha! by Mars,</l>
-             <l>Tis John of Gaunt, returning from the wars.</l></sp>
-      <sp who="#CHAUCER">
-          <speaker rend="italics">Chaucer.</speaker> 
-             <l>If War is near, then Industry may stump it, </l>
-             <l>For then nought flourishes, except the trumpet.</l></sp>
-      <stage rend="italics">March.–Enter the Soldiers and Retainers of John of Gaunt, one carry-ing a banner, ‘Down with the Dust,’ another with double spear banner, a head being impaled on the top of each, and a motto, ‘Two Heads are better than One.”–’Squire, with shield, inscribed ‘No Thoroughfare,’ which he keeps placed over his body.–Lastly, <hi rend="small caps">John of Gaunt </hi>him-self, a grim, gaunt personage, with tremendous mask–he carries a large sword and shield, the latter with his inscription, ‘Jack’s Alive!” –Pantomime business.</stage>
-      <sp who="#JOHN">
-            <speaker rend="italics">John.</speaker>
-              <l>So long a march has made us dry again.</l>
-              <l>So here we’ll rest, and do a quiet drain.</l> 
-              <l>What ho! some wine, and for our heroes here</l> 
-              <l>Bring forth a gallon</l>
-      <stage rend="italics">[All shout.]</stage> 
-         <l>of small table-beer.</l></sp>
-      <stage rend="italics">[Grumbling–Host obeys the order with alacrity, supplies John of Gaunt with wine, and sends Waiter round with kegs of beer to his followers–he then waits for payment expectantly.</stage> 
-      <sp who="#JOHN">
-            <speaker rend="italics">John.</speaker>
-            <l>Just score it up with John of Gaunt, who’ll pay</l> 
-            <l> The very next time that he comes this way.</l></sp>
-      <stage rend="italics"> [Host disappointed, but, producing a large piece of chalk, signifies that he shall score double, and goes off to the door to make entries against it accordingly.–Morris Dance, during which John Gaunt is struck with the beauty of Rose. </stage>
-      <sp who="#JOHN">
-         <speaker rend="italics">John.</speaker>
-         <l>Who have we here? a buxom barmaid, too.</l> 
-         <l>This nectar being on draught, we’ll take some.</l></sp> 
-      <stage rend="italics">[Is about to kiss her, when Rose smacks his face.</stage>
-      <sp who="#JOHN">
-            <speaker rend="italics">John.</speaker>
-               <l>Pooh!</l> 
-               <l> I’m one of the excise, and so, my beauty,</l> 
-               <l> Can’t let this spirit pass without the duty.</l> </sp>
-      <stage rend="italics"> [Is going to seize her, when Chaucer interposes.</stage> 
-      <sp who="#CHAUCER">
-         <speaker rend="italics">Chaucer.</speaker>
-            <l>My lord of Lancaster, one small objection– </l>
-            <l>This lovely Rose is under my protection.</l></sp> 
-      <sp who="#JOHN">
-         <speaker rend="italics">John.</speaker>
-            <l>What! shall a peer be baffled by a poet!</l>
-            <l> Not when I choose, sir Chaucer, if I know it.</l>
-            <l> A duke’s estate this lovely Rose shall deck,</l>
-            <l> And our king’s castle keep this knight in check.</l></sp> 
-      <stage rend="italics"> [Music.–John of Gaunt beckons forward two of his retainers–they seize Chaucer, whilst two others bear Rose away.–A general melee ensues–Chaucer breaks away, and attacks John of Gaunt, but the Monk interferes as he is struck down, and John of Gaunt goes off with his retinue triumphantly–Chaucer is in despair.–The Pil-grims busy themselves with preparations for departure–Chaucer is reflecting on his condition, when these two lines appear on a scroll, behind him, on a trough, in golden letters:–</stage>
-         <p>‘Fear not, your pilgrimage pursue</p>
-         <p>For Fairies aid all lovers true.’</p>
-      <stage rend="italics">[Chaucer reads the magic scroll, and becomes reassured.–The Pilgrims now return down stage, when the Chambermaid, Head Waiter, Boots, Ostler, &amp; c. (each showing their vocation on a scroll) appeal to them severally for the usual fees–difficulty of supplying them. Business–Pilgrims depart, and a Tableau is formed, whilst the scene changes to–</stage> 
-      </stage>
-
-<!-- SCENE IV -->
-	  <div type="scene" n='4'>
-      <head rend="italic bold"> Scene IV.–Old Bridle-Way and Wishing-Gate, on the Road to Canterbury. </head>
-      <stage rend="italics">Finger-Post, ‘To Canterbury.–The Wishing-Guide in the centre–Haw-thorn Tree in blossom, and bank. </stage>
-      <sp who="#CHORUS">
-         <speaker rend="bold">Chorus of Pilgrims,</speaker>
-      <stage>[Without.] </stage>
-            <l> Now as every pilgrim tells</l> 
-            <l> A tale that shall make short the day,</l> 
-            <l> Jingling g our palfrey bells, </l>
-            <l>As we onward wind our way.</l> </sp>
-      <stage rend="italics">[Pilgrims enter, on horseback, across the stage, and, after them, Chaucer, who comes on despondingly, whilst the Pilgrims are seen moving in perspective across the scene–he leans against the Gate, and the Chorus is heard faintly repeated in the distance. </stage>
-      <sp who="#CHAUCER">
-            <speaker rend="italics">Chaucer.</speaker>
+         <!-- SCENE III -->
+         <div type="scene" n="3">
+            <head rend="italic bold">Scene III.–The Ancient Hostelrie of The Tabard, in the
+               Borough.* </head>
+            <stage rend="italics">The scene occupies the full extent of the stage, with the Inn-Yard
+               and projecting galleries of the period distinctly marked.–Lively Music. <stage
+                  rend="italics">Ostler appears as if just risen, goes to stable at side, and gets
+                  large sieve Labelled ‘Oats’–signifies he must feed the horses–goes to stable, and
+                  the heads of your horses are visible projecting over a rack–is about to feed them,
+                  but thinks a little roguery better–empties oats into his pocket and beats horses
+                  heads back again with sieve, which he throws in amongst them.</stage>
+               <stage rend="italics">Bell rings–Boots rushes from door into Inn-yard with an arm
+                  full of boots and shoes, and upsets Ostler in his hurry, who tumbles into
+                  horse-trough at side.–Whilst Ostler is being extricated, bells ring again
+                  violently, from all sides.</stage>
+               <stage rend="italics">Two Chambermaids rush in, with mop and broom, as if in great
+                  bustle–mop off Ostler–and Boots, picking up the bundle of boots, and shoes, goes
+                  up to gallery above, and is seen to deposit a pair at each door–whilst this is
+                  going on above,</stage>
+               <stage><hi rend="small-caps">Master Henry Bailly</hi><hi rend="italics">, the host,
+                     enters, with Waiters, who spread table for breakfast at side, their movements
+                     being accelerated by the occasional insertion of the points of large carving
+                     knife and fork–Huge tankards of ale, large loaves, round of beef, and chine of
+                     ham, are brought on and placed on table.</hi></stage>
+               <stage><hi rend="small caps">Rose</hi><hi rend="italics">, the Barmaid, enters, with
+                     dish of eggs, and at the same time </hi><hi rend="small-caps">Geoffrey
+                     Chaucer</hi><hi rend="italics"> comes on, from opposite doorway–they exchange
+                     tokens of recognition–the Host observes them, and is indignant–Geoffrey takes
+                     the eggs from Rose, to put on table, when just as he has placed them there, the
+                     Host comes between them and jumping on table, to prevent their love-making,
+                     sits down upon the eggs–hearty merriment of Waiters, who are immediatel
+                     re-proved by the forks as before–Host sends Rose off to get more eggs, and
+                     quietly signifies he shall attend to her lover by and bye</hi>.</stage>
+               <stage rend="italics">The Pilgrims now all make their appearance–the Knight, the
+                  Squire, the Yeomen his attendants, the Prior, the Monk, the Miller, the Friar, the
+                  Scholar, the Serjeant of the Law, the Doctor, the Franklin, and the Wife of
+                  Bath.</stage>
+               <stage><hi rend="small-caps">Rose</hi><hi rend="italics"> returns with another dish
+                     of eggs, and they all commence breakfast but Chaucer, who is making love to
+                     Rose–wanting to get the Host out of the way, he asks for his bill–the Host goes
+                     off, and returns with it immediately, chuckling over the prices he has
+                     charged–Chaucer waits to examine it–the Host and two Waiters then unroll the
+                     scroll which is raised by prop to nearly roof of inn–and there is then seen, to
+                     Chaucer’s amazement, this:–</hi></stage>
+               <p>The Tabard, Family Hotel and Posting-House,</p>
+               <p>High Street, Borough.</p>
+               <p>May-day, 1383.</p>
+               <p>Number – £ s. d. </p>
+               <p>Mutton Chop .......... 0 5 0 </p>
+               <p>Pickles ……………. 0 3 0 </p>
+               <p>Penny Roll ………… 0 1 0 </p>
+               <p>Salt ……………… 0 0 6</p>
+               <p>Pepper …………… 0 0 6 </p>
+               <p>Glass Pale Ale ………. 0 1 0</p>
+               <p>Bed ……………… 0 3 0 </p>
+               <p>Apartments …………. 0 8 0 </p>
+               <p>A Farthing Rushlight …. 0 2 6 </p>
+               <p>Attendance ………… 0 6 0 </p>
+               <p>(summation bar) 1 10 6 </p>
+               <stage rend="italics">Chaucer pulls out purse, and reluctantly pays money–the Host
+                  calls down Waiters with pen and ink and, after much flourishing, puts a cross to
+                  the bill as his signature. </stage>
+               <sp who="#CHAUCER">
+                  <speaker rend="italics">Chaucer.</speaker>
+                  <l>What! charge one man so much! I hate to boast, But see how one man now can
+                     charge a Host.</l>
+               </sp>
+               <stage rend="italics">[Chaucer wrests his pen from the landlord, and is about to
+                  drive him in with it, when a trumpet sounds, without–Pilgrims all rise. </stage>
+               <sp who="#HOST">
+                  <speaker>Host.</speaker>
+                  <l>What means that martial flourish? Ha! by Mars,</l>
+                  <l>Tis John of Gaunt, returning from the wars.</l>
+               </sp>
+               <sp who="#CHAUCER">
+                  <speaker rend="italics">Chaucer.</speaker>
+                  <l>If War is near, then Industry may stump it, </l>
+                  <l>For then nought flourishes, except the trumpet.</l>
+               </sp>
+               <stage rend="italics">March.–Enter the Soldiers and Retainers of John of Gaunt, one
+                  carry-ing a banner, ‘Down with the Dust,’ another with double spear banner, a head
+                  being impaled on the top of each, and a motto, ‘Two Heads are better than
+                  One.”–’Squire, with shield, inscribed ‘No Thoroughfare,’ which he keeps placed
+                  over his body.–Lastly, <hi rend="small caps">John of Gaunt </hi>him-self, a grim,
+                  gaunt personage, with tremendous mask–he carries a large sword and shield, the
+                  latter with his inscription, ‘Jack’s Alive!” –Pantomime business.</stage>
+               <sp who="#JOHN">
+                  <speaker rend="italics">John.</speaker>
+                  <l>So long a march has made us dry again.</l>
+                  <l>So here we’ll rest, and do a quiet drain.</l>
+                  <l>What ho! some wine, and for our heroes here</l>
+                  <l>Bring forth a gallon</l>
+                  <stage rend="italics">[All shout.]</stage>
+                  <l>of small table-beer.</l>
+               </sp>
+               <stage rend="italics">[Grumbling–Host obeys the order with alacrity, supplies John of
+                  Gaunt with wine, and sends Waiter round with kegs of beer to his followers–he then
+                  waits for payment expectantly.</stage>
+               <sp who="#JOHN">
+                  <speaker rend="italics">John.</speaker>
+                  <l>Just score it up with John of Gaunt, who’ll pay</l>
+                  <l> The very next time that he comes this way.</l>
+               </sp>
+               <stage rend="italics"> [Host disappointed, but, producing a large piece of chalk,
+                  signifies that he shall score double, and goes off to the door to make entries
+                  against it accordingly.–Morris Dance, during which John Gaunt is struck with the
+                  beauty of Rose. </stage>
+               <sp who="#JOHN">
+                  <speaker rend="italics">John.</speaker>
+                  <l>Who have we here? a buxom barmaid, too.</l>
+                  <l>This nectar being on draught, we’ll take some.</l>
+               </sp>
+               <stage rend="italics">[Is about to kiss her, when Rose smacks his face.</stage>
+               <sp who="#JOHN">
+                  <speaker rend="italics">John.</speaker>
+                  <l>Pooh!</l>
+                  <l> I’m one of the excise, and so, my beauty,</l>
+                  <l> Can’t let this spirit pass without the duty.</l>
+               </sp>
+               <stage rend="italics"> [Is going to seize her, when Chaucer interposes.</stage>
+               <sp who="#CHAUCER">
+                  <speaker rend="italics">Chaucer.</speaker>
+                  <l>My lord of Lancaster, one small objection– </l>
+                  <l>This lovely Rose is under my protection.</l>
+               </sp>
+               <sp who="#JOHN">
+                  <speaker rend="italics">John.</speaker>
+                  <l>What! shall a peer be baffled by a poet!</l>
+                  <l> Not when I choose, sir Chaucer, if I know it.</l>
+                  <l> A duke’s estate this lovely Rose shall deck,</l>
+                  <l> And our king’s castle keep this knight in check.</l>
+               </sp>
+               <stage rend="italics"> [Music.–John of Gaunt beckons forward two of his
+                  retainers–they seize Chaucer, whilst two others bear Rose away.–A general melee
+                  ensues–Chaucer breaks away, and attacks John of Gaunt, but the Monk interferes as
+                  he is struck down, and John of Gaunt goes off with his retinue
+                  triumphantly–Chaucer is in despair.–The Pil-grims busy themselves with
+                  preparations for departure–Chaucer is reflecting on his condition, when these two
+                  lines appear on a scroll, behind him, on a trough, in golden letters:–</stage>
+               <p>‘Fear not, your pilgrimage pursue</p>
+               <p>For Fairies aid all lovers true.’</p>
+               <stage rend="italics">[Chaucer reads the magic scroll, and becomes reassured.–The
+                  Pilgrims now return down stage, when the Chambermaid, Head Waiter, Boots, Ostler,
+                  &amp; c. (each showing their vocation on a scroll) appeal to them severally for
+                  the usual fees–difficulty of supplying them. Business–Pilgrims depart, and a
+                  Tableau is formed, whilst the scene changes to–</stage>
+            </stage>
+         </div>
+         <!-- SCENE IV -->
+         <div type="scene" n="4">
+            <head rend="italic bold"> Scene IV.–Old Bridle-Way and Wishing-Gate, on the Road to
+               Canterbury. </head>
+            <stage rend="italics">Finger-Post, ‘To Canterbury.–The Wishing-Guide in the
+               centre–Haw-thorn Tree in blossom, and bank. </stage>
+            <sp who="#CHORUS">
+               <speaker rend="bold">Chorus of Pilgrims,</speaker>
+               <stage>[Without.] </stage>
+               <l> Now as every pilgrim tells</l>
+               <l> A tale that shall make short the day,</l>
+               <l> Jingling g our palfrey bells, </l>
+               <l>As we onward wind our way.</l>
+            </sp>
+            <stage rend="italics">[Pilgrims enter, on horseback, across the stage, and, after them,
+               Chaucer, who comes on despondingly, whilst the Pilgrims are seen moving in
+               perspective across the scene–he leans against the Gate, and the Chorus is heard
+               faintly repeated in the distance. </stage>
+            <sp who="#CHAUCER">
+               <speaker rend="italics">Chaucer.</speaker>
                <l>Their merry tales have well beguiled the way,</l>
                <l> Yet still upon the road I lingering stay. </l>
-               <l> The wishing-gate! as legends have instilled,</l> 
+               <l> The wishing-gate! as legends have instilled,</l>
                <l> Who breathes a wish here has that wish fulfilled. </l>
                <l> If truth will come of that old fable, let it, </l>
-               <l> I’ll wish for aid, and wish that I may get it.</l></sp> 
-      <stage rend="italics">[Music.–The Hawthorn Tree, which by this time has become completely covered with Red May, opens, Robin Goodfellow appears, and at the same time Fairies enter at different sides, and a group is formed in the centre.</stage> 
-      <sp who="#ROBIN">
-            <speaker rend="italics">Robin.</speaker>
+               <l> I’ll wish for aid, and wish that I may get it.</l>
+            </sp>
+            <stage rend="italics">[Music.–The Hawthorn Tree, which by this time has become
+               completely covered with Red May, opens, Robin Goodfellow appears, and at the same
+               time Fairies enter at different sides, and a group is formed in the centre.</stage>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
                <l>You have your wish, we come as soon as wanted, </l>
                <l> And, in this sort of style, behold it granted. </l>
                <l> You have only got whate’er you wish to say, </l>
-               <l> And, like this Hawthorn, we respond with May!</l> 
+               <l> And, like this Hawthorn, we respond with May!</l>
                <l> So much we owe the poet for existence, </l>
-               <l> We can but render you our best assistance.</l> </sp>
-      <sp who="#CHAUCER">
-            <speaker rend="italics">Chaucer.</speaker>
-               <l>How to commence my tale of woe–I’m fluttered!</l></sp> 
-      <sp who="#ROBIN">
-            <speaker rend="italics">Robin.</speaker>
-               <l>Fear not, I know your story, ere ‘tis uttered.</l></sp>
-      <sp who="#CHAUCER">
-            <speaker rend="italics">Chaucer.</speaker>
-               <l>Wonderful being!–Marvellous penetration!</l> 
-               <l>This saves a deal of tedious explanation.</l> </sp>
-      <sp who="#ROBIN">
-            <speaker rend="italics">Robin.</speaker>
+               <l> We can but render you our best assistance.</l>
+            </sp>
+            <sp who="#CHAUCER">
+               <speaker rend="italics">Chaucer.</speaker>
+               <l>How to commence my tale of woe–I’m fluttered!</l>
+            </sp>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
+               <l>Fear not, I know your story, ere ‘tis uttered.</l>
+            </sp>
+            <sp who="#CHAUCER">
+               <speaker rend="italics">Chaucer.</speaker>
+               <l>Wonderful being!–Marvellous penetration!</l>
+               <l>This saves a deal of tedious explanation.</l>
+            </sp>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
                <l>Of course it does.–That party you suppose</l>
-               <l>To be a party who–no matter–Rose!</l> 
-      <stage>[Very mysteriously. </stage>
-               <l>Has met a party, who did sneer and scoff,</l> 
-               <l>And then this party, took that party off.</l></sp> 
-	   <sp who="#CHAUCER">
-	        <speaker rend="italics">Chaucer.</speaker>
-	            <l>Most true!</l></sp>
-      <sp who="#ROBIN">
-            <speaker rend="italics">Robin.</speaker>
-               <l>He’s one that every body rifles,</l> 
-               <l>‘A snapper-up of unconsidered trifles.’</l> </sp>
-      <sp who="CHAUCER">
-            <speaker rend="italics">Chaucer.</speaker>
-               <l>Trifles!</l></sp>
-      <sp who="#ROBIN">
-            <speaker rend="italics">Robin.</speaker>
-               <l>‘Twas but a small quotation–no offence–</l> 
+               <l>To be a party who–no matter–Rose!</l>
+               <stage>[Very mysteriously. </stage>
+               <l>Has met a party, who did sneer and scoff,</l>
+               <l>And then this party, took that party off.</l>
+            </sp>
+            <sp who="#CHAUCER">
+               <speaker rend="italics">Chaucer.</speaker>
+               <l>Most true!</l>
+            </sp>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
+               <l>He’s one that every body rifles,</l>
+               <l>‘A snapper-up of unconsidered trifles.’</l>
+            </sp>
+            <sp who="CHAUCER">
+               <speaker rend="italics">Chaucer.</speaker>
+               <l>Trifles!</l>
+            </sp>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
+               <l>‘Twas but a small quotation–no offence–</l>
                <l>From one that’s going to live two centuries hence.</l>
                <l>But now to business: at his castle haunt</l>
-               <l>You must yourself attack grim John of Gaunt!</l> 
+               <l>You must yourself attack grim John of Gaunt!</l>
                <l>With fairy weapons you shall make advance.</l>
-               <l>What ho! my Gnomes, bring forth the enchanted lance!</l></sp>
-      <stage rend="italics">[Music.–Trap opens and small Cavern rises, in which two Imps, like the famous Kobold, or Gnomes, ar seen finishing a highly-polished lance–Robin Goodfellow takes it, approves the workmanship, and the Cavern descends with Gnomes–Robin then presents it to Chaucer, who appears delighted at the gift. </stage>
-      <sp who="#ROBIN">
-            <speaker rend="italics">Robin.</speaker>
+               <l>What ho! my Gnomes, bring forth the enchanted lance!</l>
+            </sp>
+            <stage rend="italics">[Music.–Trap opens and small Cavern rises, in which two Imps, like
+               the famous Kobold, or Gnomes, ar seen finishing a highly-polished lance–Robin
+               Goodfellow takes it, approves the workmanship, and the Cavern descends with
+               Gnomes–Robin then presents it to Chaucer, who appears delighted at the gift. </stage>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
                <l>With this go forth. The magic power such is</l>
-               <l>That nothing can resist it which it touches.</l></sp>
-      <sp who="#CHAUCER">
-            <speaker rend="italics">Chaucer.</speaker>
-               <l>Nay, this is coming to the point indeed.</l></sp>
-      <sp who="#ROBIN">
-            <speaker rend="italics">Robin.</speaker>
-               <l>We will be near you.</l></sp> 
-      <sp who="#CHAUCER">
-            <speaker rend="italics">Chaucer.</speaker>
-               <l>Then let Gaunt take heed.</l></sp> 
-      <stage rend="italics">[Music.–Chaucer thanks Robin for the gift, and goes off rejoicingly on one side, whilst the Fairies and Robin trip off on the other. </stage>
-      <sp who="#CHORUS">
-            <speaker rend="italics">Chorus.</speaker>
-               <l>Use but well your magic lance,</l> 
-               <l> You may teach your foes to dance.</l> </sp>
-            <p> Duet, Robin and Chaucer.–Air, ‘Soldiers’ Chorus,’ Il Trovatore.</p> 
-      <sp who="#ROBIN">
-            <speaker rend="italics">Robin.</speaker>
+               <l>That nothing can resist it which it touches.</l>
+            </sp>
+            <sp who="#CHAUCER">
+               <speaker rend="italics">Chaucer.</speaker>
+               <l>Nay, this is coming to the point indeed.</l>
+            </sp>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
+               <l>We will be near you.</l>
+            </sp>
+            <sp who="#CHAUCER">
+               <speaker rend="italics">Chaucer.</speaker>
+               <l>Then let Gaunt take heed.</l>
+            </sp>
+            <stage rend="italics">[Music.–Chaucer thanks Robin for the gift, and goes off
+               rejoicingly on one side, whilst the Fairies and Robin trip off on the other. </stage>
+            <sp who="#CHORUS">
+               <speaker rend="italics">Chorus.</speaker>
+               <l>Use but well your magic lance,</l>
+               <l> You may teach your foes to dance.</l>
+            </sp>
+            <p> Duet, Robin and Chaucer.–Air, ‘Soldiers’ Chorus,’ Il Trovatore.</p>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
                <l>For glory your story is like the Trovatore,</l>
-               <l> Which all the more we hear of it does popular become.</l></sp>
-      <sp who="#ROBIN">
-            <speaker rend="italics">Chaucer.</speaker>
-               <l>For glory a story we work out con amore,</l> 
-               <l> Makes Chaucer feel that he is quite at home.</l> </sp>
-      <sp who="#ROBIN #CHAUCER">
-            <speaker rend="italics">Together.</speaker>
-               <l>With (my/your) lance advancing, all the risk (I’m/you’re) chancing,</l> 
-               <l> So that, if they can’t sing, your foes you’ll set a dancing,</l> 
-               <l>With oh my! ah! I thought you’d soon be prancing,</l> 
-               <l> When you felt the pointed weapon of the gnome.</l></sp> 
-      <stage rend="italics">[As they are going off.</stage>
-      <sp who="#ROBIN">
-            <speaker rend="italics">Robin.</speaker>
-               <l>Then on, thrust–</l></sp>
-      <sp who="#CHAUCER">
-            <speaker rend="italics">Chaucer.</speaker>
+               <l> Which all the more we hear of it does popular become.</l>
+            </sp>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Chaucer.</speaker>
+               <l>For glory a story we work out con amore,</l>
+               <l> Makes Chaucer feel that he is quite at home.</l>
+            </sp>
+            <sp who="#ROBIN #CHAUCER">
+               <speaker rend="italics">Together.</speaker>
+               <l>With (my/your) lance advancing, all the risk (I’m/you’re) chancing,</l>
+               <l> So that, if they can’t sing, your foes you’ll set a dancing,</l>
+               <l>With oh my! ah! I thought you’d soon be prancing,</l>
+               <l> When you felt the pointed weapon of the gnome.</l>
+            </sp>
+            <stage rend="italics">[As they are going off.</stage>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
+               <l>Then on, thrust–</l>
+            </sp>
+            <sp who="#CHAUCER">
+               <speaker rend="italics">Chaucer.</speaker>
                <l>You must–couldn’t think of taking first</l>
-               <l>The precedence of any one who’s super-nat-ur-al.</l></sp> 
-      <sp who="#ROBIN">
-            <speaker rend="italics">Robin.</speaker>
+               <l>The precedence of any one who’s super-nat-ur-al.</l>
+            </sp>
+            <sp who="#ROBIN">
+               <speaker rend="italics">Robin.</speaker>
                <l>I do think you won’t become the very worst</l>
-               <l>Of youths I could have chosen for the gal.</l></sp>
-	   <stage>[Exeunt.</stage>
-	  </div>
-         
-<!-- SCENE V -->
+               <l>Of youths I could have chosen for the gal.</l>
+            </sp>
+            <stage>[Exeunt.</stage>
+         </div>
+
+         <!-- SCENE V -->
          <div type="scene" n="5">
-            <head rend="italic bold">SCENE V. – FRIAR BACON’S OBSERVATORY AT SUNNINGWELL NEAR OXFORD, AND DISTANT VIEW OF JOHN OF GAUNT‘
-               S CASTLE, BY SUNSET</head>
-            <stage>Over door of observatory, an inscription— ‘<hi rend="italic">Friar Bacon, Licensed Dealer in Black Art.</hi>’ 
-               –Other boards about, such as ‘<hi rend="italic">Conjuring Tricks provided, Evening Parties attended</hi>’ — 
-               ‘<hi rend="italic">Dissolving Views lent out for the Evening</hi>’ — ‘<hi rend="italic">Love-Philters made up</hi>’— ‘
-               <hi rend="italic">Private Lessons in Parlour Magic.</hi>’ Expressive Music.</stage>
-            <p>JOHN OF GAUNT enters, mysteriously. Enveloped in a large cloak, and attended by his ‘Squire, whom he dismisses as soon as he 
-               finds himself at the house of which he is in search—points to board, ‘<hi rend="italic">Love Philters made up,’</hi> and 
-               signifies that is the sort of thing he requires —knocks at door—House Pocus, the Friar’s servant, appears—john desires to 
-               see the learned <hi rend="bold italic">Friar Bacon</hi>—man refuses—brings out board—‘<hi rend="italic">The Friar is engaged 
-                  in profound study</hi>’—John of Gaunt tries a bribe, and succeeds—the Friar is summoned, and appears with a large frying-pan,
-               as if disturbed in frying a rasher of being discovered at this culinary operation, slaps man in, throws frying-pan after him, 
-               and attends to John of Gaunt, who takes him mysteriously down stage.</p>
+            <head rend="italic bold">SCENE V. – FRIAR BACON’S OBSERVATORY AT SUNNINGWELL NEAR
+               OXFORD, AND DISTANT VIEW OF JOHN OF GAUNT‘ S CASTLE, BY SUNSET</head>
+            <stage>Over door of observatory, an inscription— ‘<hi rend="italic">Friar Bacon,
+                  Licensed Dealer in Black Art.</hi>’ –Other boards about, such as ‘<hi
+                  rend="italic">Conjuring Tricks provided, Evening Parties attended</hi>’ — ‘<hi
+                  rend="italic">Dissolving Views lent out for the Evening</hi>’ — ‘<hi rend="italic"
+                  >Love-Philters made up</hi>’— ‘ <hi rend="italic">Private Lessons in Parlour
+                  Magic.</hi>’ Expressive Music.</stage>
+            <p>JOHN OF GAUNT enters, mysteriously. Enveloped in a large cloak, and attended by his
+               ‘Squire, whom he dismisses as soon as he finds himself at the house of which he is in
+               search—points to board, ‘<hi rend="italic">Love Philters made up,’</hi> and signifies
+               that is the sort of thing he requires —knocks at door—House Pocus, the Friar’s
+               servant, appears—john desires to see the learned <hi rend="bold italic">Friar
+                  Bacon</hi>—man refuses—brings out board—‘<hi rend="italic">The Friar is engaged in
+                  profound study</hi>’—John of Gaunt tries a bribe, and succeeds—the Friar is
+               summoned, and appears with a large frying-pan, as if disturbed in frying a rasher of
+               being discovered at this culinary operation, slaps man in, throws frying-pan after
+               him, and attends to John of Gaunt, who takes him mysteriously down stage.</p>
             <sp who="#JOHN">
                <speaker>John.</speaker>
                <l>Before me, I behold, or I’m mistaken,</l>
@@ -685,14 +850,16 @@
                <l>You have heard aright. Here, Hocus Pocus, quick,</l>
                <l>Bring me my magic drugs—I’ll show you a trick.</l>
             </sp>
-            <p>[<hi rend="italic">Hocus Pocus appears from door, and receives instructions—goes off, and returns with large Brazier and
-               large Bottle, which the Friar arranges on the stage—The assistant then brings in Packets, severally inscribed ’10,000 a year’
-               —‘Unlimited Pin Money’—‘Marriage Settlement’—‘A new Bonnet every Week’—these are successively put into the Bottle.</hi> 
+            <p>[<hi rend="italic">Hocus Pocus appears from door, and receives instructions—goes off,
+                  and returns with large Brazier and large Bottle, which the Friar arranges on the
+                  stage—The assistant then brings in Packets, severally inscribed ’10,000 a year’
+                  —‘Unlimited Pin Money’—‘Marriage Settlement’—‘A new Bonnet every Week’—these are
+                  successively put into the Bottle.</hi>
             </p>
             <p>These various things united—mark the list—</p>
             <p>I never knew a woman to resist.</p>
-            <p>[<hi rend="italic">Red Fire is kindled below, and the Friar then draws a Phial forth from the Bottle. 
-               One trial proves the fact: its worth the heeding,</hi>
+            <p>[<hi rend="italic">Red Fire is kindled below, and the Friar then draws a Phial forth
+                  from the Bottle. One trial proves the fact: its worth the heeding,</hi>
             </p>
             <p>Though some might call this quite a phial proceeding.</p>
             <sp who="#JOHN">
@@ -705,8 +872,8 @@
             </sp>
             <sp who="#JOHN">
                <speaker>John.</speaker>
-               <l>We’ll talk of that anon.	Now, Friar, learn,</l> 
-               <l>To-day, in honor of my safe return,</l> 
+               <l>We’ll talk of that anon. Now, Friar, learn,</l>
+               <l>To-day, in honor of my safe return,</l>
                <l>We give a sumptuous spread—it there you walk,</l>
                <l>You are sure to find a friendly knife and fork—</l>
                <l> This ticket will admit you to the fete.</l>
@@ -723,38 +890,44 @@
                <l>Consoling himself.</l>
                <l>Well, I’ll do some business on my own account.</l>
             </sp>
-            <p>[<hi rend="italic">Friar calls on Hocus Pocus, who has cleared off the other articles whilst the Friar puts on clean collar, and goes through 
-               toilet business, and a Box is brought on, labelled ‘Conjuring Tricks.’ which the Friar takes and goes off with, followed 
-               by Hocus Pocus, bearing a Box, labelled ‘Magic Lantern.’—Excunt(Latin)—scene closes.</hi></p>
+            <p>[<hi rend="italic">Friar calls on Hocus Pocus, who has cleared off the other articles
+                  whilst the Friar puts on clean collar, and goes through toilet business, and a Box
+                  is brought on, labelled ‘Conjuring Tricks.’ which the Friar takes and goes off
+                  with, followed by Hocus Pocus, bearing a Box, labelled ‘Magic
+                  Lantern.’—Excunt(Latin)—scene closes.</hi></p>
          </div>
-         
-<!-- SCENE VI -->
+
+         <!-- SCENE VI -->
          <div type="scene" n="6">
             <head rend="italic bold">SCENE VI.—GOTHIC CORRIDOR, LEADING TO BANQUETING ROOM.</head>
-            <p>
-               Lively Music. –The Retainers and Servants of John of Gaunt cross the stage, bearing the customary Pantomimic, Viands for 
-               the Banquet—after they have crossed, JOHN OF GAUNT enters, with ROSE, whom he drags on—he renews his protestations- she 
-               repulses him—CHAUCER, with his lance in his hand, appears at the back, through sliding panel—he observes them—Servant 
-               crosses with Goblet of Wine on a tray, which Gaunt takes—unseen by Rose, he turns into it the contents of the phial—offers 
-               it to Rose—Chaucer stepping forward at the moment touches it with his Lance, and the contents of the goblet blaze up and 
-               are gone.—Through being over the flame, John of Gaunt is seized with a sudden fit of sneezing.—In the confusion, Chaucer 
-               escapes with Rose—Servants return—John wreaks his vengeance upon them—Herald enters, with Trumpet and Scroll, labelled 
-            </p>
+            <p> Lively Music. –The Retainers and Servants of John of Gaunt cross the stage, bearing
+               the customary Pantomimic, Viands for the Banquet—after they have crossed, JOHN OF
+               GAUNT enters, with ROSE, whom he drags on—he renews his protestations- she repulses
+               him—CHAUCER, with his lance in his hand, appears at the back, through sliding
+               panel—he observes them—Servant crosses with Goblet of Wine on a tray, which Gaunt
+               takes—unseen by Rose, he turns into it the contents of the phial—offers it to
+               Rose—Chaucer stepping forward at the moment touches it with his Lance, and the
+               contents of the goblet blaze up and are gone.—Through being over the flame, John of
+               Gaunt is seized with a sudden fit of sneezing.—In the confusion, Chaucer escapes with
+               Rose—Servants return—John wreaks his vengeance upon them—Herald enters, with Trumpet
+               and Scroll, labelled </p>
             <p rend="center">‘THE TOURNAMENT HAS COMMENCED’</p>
             <p>All rush off—and scene draws, discovering</p>
          </div>
-         
-<!-- SCENE VII -->
+
+         <!-- SCENE VII -->
          <div type="scene" n="7">
             <head rend="italic bold">SCENE VII.—THE COURT-YARD OF JOHN OF GAUNT’S CASTLE.</head>
-            <p>Pavilion at back—The Lists are formed—The Galleries are filled with spectators—Stage full at the sides, and
-               only the centre kept clear for the Combatants—Herald blows a trumpet—Chaucer enters with Rose, and signifies 
-               he is confident of success—Large Scroll unfolded, ‘The Victor may claims any Prize in the Lists.’—JOHN OF GAUNT 
-               enters and flings down large gauntlet into the arena—Chaucer picks it up, and challenges John of Gaunt, who first of 
-               all produces sword and shield—These are no sooner touched by the Magic Lance than the shield expands into a large bouquet 
-               of Roses, and the sword opens into a large Fan—John of Gaunt gives them to a Lady of the Court, and then commences a 
-               Comic Combat with lances, which ends in the discomfiture of John of Gaunt.—Chaucer goes to the Pavilion and leads Rose down.
-            </p>
+            <p>Pavilion at back—The Lists are formed—The Galleries are filled with spectators—Stage
+               full at the sides, and only the centre kept clear for the Combatants—Herald blows a
+               trumpet—Chaucer enters with Rose, and signifies he is confident of success—Large
+               Scroll unfolded, ‘The Victor may claims any Prize in the Lists.’—JOHN OF GAUNT enters
+               and flings down large gauntlet into the arena—Chaucer picks it up, and challenges
+               John of Gaunt, who first of all produces sword and shield—These are no sooner touched
+               by the Magic Lance than the shield expands into a large bouquet of Roses, and the
+               sword opens into a large Fan—John of Gaunt gives them to a Lady of the Court, and
+               then commences a Comic Combat with lances, which ends in the discomfiture of John of
+               Gaunt.—Chaucer goes to the Pavilion and leads Rose down. </p>
             <sp who="#CHAUCER">
                <speaker>Chaucer.</speaker>
                <l>Be witness all—this is the prize I choose.</l>
@@ -762,21 +935,23 @@
             <sp who="#JOHN">
                <speaker>John.</speaker>
                <l>A slight mistake—that maiden I refuse.</l>
-               <l>What ho, there!  Seize the caitiff!—now I’m calmer.</l>
-               <p>[<hi rend = "italic">Retainers seize Chaucer, whilst John of Gaunt snatches the lamp.</hi></p>
+               <l>What ho, there! Seize the caitiff!—now I’m calmer.</l>
+               <p>[<hi rend="italic">Retainers seize Chaucer, whilst John of Gaunt snatches the
+                     lamp.</hi></p>
                <l>I have his charms, and now I’ll have his charmer.</l>
             </sp>
             <sp who="#CHAUCER">
                <speaker>Chaucer.</speaker>
                <l>Then thus on Robin Goodfellow I call.</l>
             </sp>
-            <p rend = "right italic">Chord—and instantaneous change to</p>
+            <p rend="right italic">Chord—and instantaneous change to</p>
          </div>
-         
-<!-- SCENE VIII -->
+
+         <!-- SCENE VIII -->
          <div type="scene" n="8">
-            <head rend="italic bold">SCENE VIII.—THE TRANSPARENT REALMS OF ILLUTIONS, IN THE REGIONS OF POETRY.</head>
-            <p rend = "center italic"> All the Fairies discovered.</p>
+            <head rend="italic bold">SCENE VIII.—THE TRANSPARENT REALMS OF ILLUTIONS, IN THE REGIONS
+               OF POETRY.</head>
+            <p rend="center italic"> All the Fairies discovered.</p>
             <sp who="#ROBIN">
                <speaker>Robin.</speaker>
                <l>Behold our Fairy Court assembled all.</l>
@@ -786,54 +961,60 @@
                <l>He now has fairly won her for his prize.</l>
                <l>To aid the promised revels of to-night,</l>
                <l>As Columbine, henceforth the world delight.</l>
-               <p rend = "right italic">[Change Rose to COLUMBINE.</p>
+               <p rend="right italic">[Change Rose to COLUMBINE.</p>
                <l>You, whose poetic feet we nimble see,</l>
                <l>As Harlequin, her lover still shall be</l>
-               <p rend = "right italic">[Change Chaucer to HARLEQUIN.</p>
+               <p rend="right italic">[Change Chaucer to HARLEQUIN.</p>
             </sp>
-            <p rend = "center">Enter IMAGINATION.</p>
-            <sp who = "#IMAGINATION">
-               <speaker>Imagination.</speaker> 
+            <p rend="center">Enter IMAGINATION.</p>
+            <sp who="#IMAGINATION">
+               <speaker>Imagination.</speaker>
                <l>To do without me you were much mistaken,</l>
                <l> From all this change, you shall not save your Bacon.</l>
                <l> So, Friar, stand forth, these robes abandon soon,</l>
                <l>And only have a band on Pantaloon.</l>
-               <p rend = "right italics">[Change Friar Bacon to PANTALOON.</p>
             </sp>
-            <sp who = "#ROBIN">
-               <speaker>Robin.</speaker>	
+            <stage rend="right italics">[Change Friar Bacon to PANTALOON.</stage>
+
+            <sp who="#ROBIN">
+               <speaker>Robin.</speaker>
                <l> John of Gaunt escape? In well-know lingo</l>
                <l>I’ll swear he still shall have more thumps, by jingo.</l>
                <l>So, change to Clown—your fame has spread afar—</l>
                <l>And charm each ear with jocund ‘Here we are.;’</l>
-               <p rend  = "right italic">[Change John of Gaunt to CLOWN.</p>
-               <l><hi rend = "italic">[To Harlequin,]</hi> Your magic lance, sir, this will supersede;</l>
-               <l>But still ‘twill answer in the hour of need.	 <hi rend = "right italic">[Gives bat.</hi></l>
+               <p rend="right italic">[Change John of Gaunt to CLOWN.</p>
+               <l><hi rend="italic"><stage>[To Harlequin,]</stage></hi> Your magic lance, sir, this
+                  will supersede;</l>
+               <l>But still ‘twill answer in the hour of need. </l>
             </sp>
-            <sp who = "IMAGINATION">
-               <speaker>Imagination.</speaker> 
+            <stage rend="right italic">[Gives bat.</stage>
+
+            <sp who="IMAGINATION">
+               <speaker>Imagination.</speaker>
                <l> Yet one word more—behold this Christmas Tree,</l>
                <l>Shall this appear and we no blossom see?</l>
                <l>Not so! Receive this little augmentation</l>
                <l>Of all these ‘pleasures of Imagination!’</l>
-               <p rend = "right italic">[SPRITE appears.</p>
+               <stage rend="right italic">[SPRITE appears.</stage>
             </sp>
-            <sp who = "#ROBIN">
-               <speaker>Robin.</speaker>	
+            <sp who="#ROBIN">
+               <speaker>Robin.</speaker>
                <l>Now, then, away, once more, to quote the poet,</l>
                <l>In all your merriment be wise—</l>
             </sp>
-            <sp who = "#IMAGINATION">
-               <speaker>Imagination.</speaker>						
-               <l rend = "right">And go it.</l>
+            <sp who="#IMAGINATION">
+               <speaker>Imagination.</speaker>
+               <l rend="right">And go it.</l>
             </sp>
          </div>
-         
+         <!-- Location Notes -->
          <div>
+            <head rend="italic bold">Location Notes</head>
             <p rend="bold italic center"> (Comic Business Commences)</p>
             <p rend="bold center">Scene I.—TOY SHOP AND CONFECTIONER’S.</p>
             <p rend="bold center">By Messrs. T. Totum and Toffey</p>
-            <p rend="bold center">Scene II.—A SURBURBAN BOARDING-SCHOOL and YOUNG LADIES’ SEMINARY.</p>
+            <p rend="bold center">Scene II.—A SURBURBAN BOARDING-SCHOOL and YOUNG LADIES’
+               SEMINARY.</p>
             <p rend="bold center">By Mr. Birch and Miss O’Thwackham.</p>
             <p rend="bold center">Scene III.—COTTON BROKERS AND GENERAL DEALERS.</p>
             <p rend="bold center">By A. Sell and E. Sell.</p>
@@ -843,33 +1024,41 @@
             <p rend="bold center">By Touch and Go.</p>
             <p rend="bold center">Scene VI.—and Last –The Grand Finale.</p>
             <p rend="bold center">The SALAMANDRINE TEMPLE.</p>
-            <p rend="bold">With the Wonder of the World in a cage with a thousand fires, the Children’s Christmas Squibs, and the Triumph of 
-               Francisco Frost, with a Darby effect.</p>
+            <p rend="bold">With the Wonder of the World in a cage with a thousand fires, the
+               Children’s Christmas Squibs, and the Triumph of Francisco Frost, with a Darby
+               effect.</p>
          </div>
-         
-<!-- FOOTNOTE PAGE -->
+
+         <!-- FOOTNOTE PAGE -->
          <div type="footnote">
             <head>Footnote Page</head>
-            <p>THE TABARD.—As the Borough High Street was formerly the great passage into a great part of the kingdom to and from the capital, 
-               it was well furnished with inns, the above having been immortalized by Chaucer. The sign is now perverted into ‘The Talbot.’ 
-               It originally was ‘The Tabard,’ so called from the sign, a sleeveless coat open on both sides, with a square collar and winged 
-               at the shoulders: worn by persons of rank in the wars, with their arms painted on them, that they might be known. The use of 
-               this coat is now transferred to the heralds. This was the rendezvous of the jolly pilgrims who formed the group which our 
-               ‘father of poetry’ describes sallying out to pay their devotions to the great saint, Thomas a Beckett, whose shrine, for a 
-               long time, surperseded almost every other, being resorted to down to the Reformation by pilgrims from every part of Christendom. 
-               The sign was changed from the ‘Tabard’ to the ‘Talbot,’ about the year 1676. The following inscription used to appear on the 
-               frieze of the beams which hung across the road, and from the centre of which the sign was suspended.—‘This is the inn where 
-               Sir Jeffery Chaucer and the nine-and -twenty pilgrims lay, in their journey to Canterbury, anno 1383.</p>
+            <p>THE TABARD.—As the Borough High Street was formerly the great passage into a great
+               part of the kingdom to and from the capital, it was well furnished with inns, the
+               above having been immortalized by Chaucer. The sign is now perverted into ‘The
+               Talbot.’ It originally was ‘The Tabard,’ so called from the sign, a sleeveless coat
+               open on both sides, with a square collar and winged at the shoulders: worn by persons
+               of rank in the wars, with their arms painted on them, that they might be known. The
+               use of this coat is now transferred to the heralds. This was the rendezvous of the
+               jolly pilgrims who formed the group which our ‘father of poetry’ describes sallying
+               out to pay their devotions to the great saint, Thomas a Beckett, whose shrine, for a
+               long time, surperseded almost every other, being resorted to down to the Reformation
+               by pilgrims from every part of Christendom. The sign was changed from the ‘Tabard’ to
+               the ‘Talbot,’ about the year 1676. The following inscription used to appear on the
+               frieze of the beams which hung across the road, and from the centre of which the sign
+               was suspended.—‘This is the inn where Sir Jeffery Chaucer and the nine-and -twenty
+               pilgrims lay, in their journey to Canterbury, anno 1383.</p>
          </div>
-         
-<!-- ACKNOWLEDGEMENT PAGE -->
+
+         <!-- ACKNOWLEDGEMENT PAGE -->
          <div type="acknowledgement">
             <head>Acknowledgement Page</head>
-            <p>The Scenery (from historical authorities), with the Grand Transformation Effects, the greatest and most extraordinary ever yet 
-               attempted, by Mr. GATES, assisted by Messrs. Albert Callcott, W. Broadfoot, Gourie, Lambert, Devigne, Buckley, and Atkins.</p>
-            <p>For an Illustrative Pictorial Tableau of the residence of the Ancient Magician, Friar Bacon, at Sunningwell, the valuable 
-               services of Mr. CHARLES JAMES have been specially secured, whose artistic pencil will add and additional charm to the highly 
-               elaborate scenic illustrations.</p>
+            <p>The Scenery (from historical authorities), with the Grand Transformation Effects, the
+               greatest and most extraordinary ever yet attempted, by Mr. GATES, assisted by Messrs.
+               Albert Callcott, W. Broadfoot, Gourie, Lambert, Devigne, Buckley, and Atkins.</p>
+            <p>For an Illustrative Pictorial Tableau of the residence of the Ancient Magician, Friar
+               Bacon, at Sunningwell, the valuable services of Mr. CHARLES JAMES have been specially
+               secured, whose artistic pencil will add and additional charm to the highly elaborate
+               scenic illustrations.</p>
             <p>The Pantomime invented and written by the celebrated FRANCESCO FROST, Esq.</p>
             <p>The Music by J. H. TULLY. Esq.</p>
             <p>The Ballet and Dances by Signor MILANO.</p>
@@ -878,8 +1067,11 @@
             <p>The Costumes by Mr. LAURI</p>
             <p>The Properties by Mr. MOON.</p>
             <p>The Extensive Machinery by Mr. SLOMAN.</p>
-            <p>The Box Department by Mr. CHARLES NUGENT, of Her Majesty’s Theatre, to to whom a telegraph or letter will secure places 
-               without charge for booking.</p>
-            <p>And the whole Arranged and Produced under the entire direction of Mr. T. H. HIGGIE, Stage-manager.</p>
-       </div>
+            <p>The Box Department by Mr. CHARLES NUGENT, of Her Majesty’s Theatre, to to whom a
+               telegraph or letter will secure places without charge for booking.</p>
+            <p>And the whole Arranged and Produced under the entire direction of Mr. T. H. HIGGIE,
+               Stage-manager.</p>
+         </div>
+      </body>
+   </text>
 </TEI>
