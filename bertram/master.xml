@@ -233,12 +233,12 @@
             <body>
                <head rend="small_caps"> Notary public, real estates, inusrance. Propery interests of
                   non-residents looked after. </head>
-               <head rend="caps"><orgName> Chelan Real Estate office</orgName></head>
-               <head rend="small_caps"><placeName>Chelan. Washington</placeName><date
+               <head rend="caps"><orgName>Chelan Real Estate office</orgName></head>
+               <head rend="small_caps"><placeName type="city">Chelan. Washington</placeName><date
                      when="1907-08-07"> Aug 7th, 1907</date></head>
                <opener>
                   <salute><persName>Mr. J.H.Bertram</persName>,</salute>
-                  <placeName type="settlement">Seattle Wash.</placeName>
+                  <placeName type="city">Seattle Wash.</placeName>
                </opener>
                <p>Dear sir: Through <persName>Dr. A.I. Mitchell</persName>, I learn that you are
                   interested in the <placeName ref="#Chelan_county">Chelan Country</placeName>,and
@@ -425,10 +425,11 @@
                      <p>The contract price for the building, including<lb/> the power plant is
                         $275,000. The value of the lot<lb/> is $150.000. The entire floor space of
                         the build<pc type="EOLhyphen>">-</pc><lb/> ing amounts to about 135,000
-                        square feet, or about<lb/> three acres. The building will be completed
-                        in<lb/> July 1904, when <orgName ref="#Winston_co">The John C. Winston
-                           Company</orgName><lb/> will move into it their offices and printing
-                        and<lb/> binding plant.-<hi rend="ital">Phila.Record.</hi><pb/></p>
+                        square feet, or about<lb/> three acres. The building will be completed in<lb/>
+                        <date when="1904-07">July 1904</date>, when <orgName ref="#Winston_co">The
+                           John C. Winston Company</orgName><lb/> will move into it their offices
+                        and printing and<lb/> binding plant.-<hi rend="ital"
+                        >Phila.Record.</hi><pb/></p>
                   </div>
                </div>
                <div type="pamphlet_back">
@@ -476,12 +477,13 @@
                         is known as the "International" line of<lb/> Bibles. This line of Bibles was
                         originally published under the joint<lb/> management of two of the largest
                         religious publication houses in the<lb/>
-                        <country>United States</country>. Our Company bought out this business, and
-                        has greatly<lb/> increased the line, until it now comprises over 500 styles
-                        of Bibles and<lb/> Testaments. It is said that we are the largest Bible
-                        publication house in<lb/> the <country>United States</country>, and
-                        certainly, taking into account our books and Bibles<lb/> together, we are
-                        the largest concern making this line of goods in the world.<lb/></p>
+                        <placeName type="country">United States</placeName>. Our Company bought out
+                        this business, and has greatly<lb/> increased the line, until it now
+                        comprises over 500 styles of Bibles and<lb/> Testaments. It is said that we
+                        are the largest Bible publication house in<lb/> the <placeName
+                           type="country">United States</placeName>, and certainly, taking into
+                        account our books and Bibles<lb/> together, we are the largest concern
+                        making this line of goods in the world.<lb/></p>
                   </div>
                   <div>
                      <head rend="caps">our business acquaintance.<lb/></head>
