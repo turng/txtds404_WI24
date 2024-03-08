@@ -401,11 +401,12 @@
                      <date when="1903-08-06">August 6, 1903</date><lb/></head>
                   <div style="columns">
                      <p>Workmen yesterday began the demolition of<lb/> the picturesque old Arch
-                        Street Presbyterian<lb/> Church, on Arch Street, above Tenth, whose
-                        site<lb/> is to be occupied by a large building for <orgName
-                           ref="#Winston_co">The John<lb/> C. Winston Company</orgName>. The church
-                        has not been<lb/> used for several years, and its removal marks an<lb/>
-                        important step in the improvement of Arch<lb/> Street for commercial
+                        Street Presbyterian<lb/> Church, on <placeName type="street">Arch
+                           Street</placeName>, above Tenth, whose site<lb/> is to be occupied by a
+                        large building for <orgName ref="#Winston_co">The John<lb/> C. Winston
+                           Company</orgName>. The church has not been<lb/> used for several years,
+                        and its removal marks an<lb/> important step in the improvement of
+                           <placeName type="street">Arch<lb/> Street</placeName> for commercial
                         purposes. The inroads of<lb/> trade have driven out nearly all the
                         residents<lb/> east of Broad Street, and west of that throrough<pc
                            type="EOLhyphen>">-</pc><lb/>fare they are also gradually being forced
@@ -533,7 +534,7 @@
                Republican Party worker in 1882 in the 3rd Congressional District. After his first
                wife died in 1888, he moved to Seattle where he was district manager and salesman. He
                married Mary Huselby in 1896. He died on July 1, 1928 in Seattle, Washington." <ref
-                  type="biblio" target="#Source1">See source 1</ref>.</note>
+                  type="biblio" target="#Bertram_Papers">See source 1</ref>.</note>
 
             <listPerson>
                <person xml:id="JN_Bertram">
@@ -548,8 +549,8 @@
                      Kentucky in 1873 and a Republican Party worker in 1882 in the 3rd Congressional
                      District. After his first wife died in 1888, he moved to Seattle where he was
                      district manager and salesman. He married Mary Huselby in 1896. He died on July
-                     1, 1928 in Seattle, Washington." <ref type="biblio" target="#Source1">See
-                        source 1</ref>.</note>
+                     1, 1928 in Seattle, Washington." <ref type="biblio" target="#Bertram_Papers"
+                        >See source 1</ref>.</note>
                </person>
                <person xml:id="T_Noel">
                   <persName>
@@ -628,7 +629,7 @@
                </bibl>
                <bibl xml:id="Chelan_County" type="webpage">
                   <title level="a">City of Chelan County</title>,<ref
-                     target="https://cityofchelan.us/">cityofchelan.us</ref>
+                     target="https://cityofchelan.us/">https://cityofchelan.us</ref>
                </bibl>
                <bibl xml:id="lakeside" type="webpage">
                   <author>Wikipedia Contributors</author>,<title level="a">Lakeside,
