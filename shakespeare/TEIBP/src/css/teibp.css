@@ -1951,3 +1951,6 @@ div.facsImage img:first-child {
 standOff {
   visibility: hidden;
 }
+div.roster > p {
+      line-height: 1;
+}

@@ -88,7 +88,7 @@
                <p>13 " <name type="person" ref="#Robinson">Robinson</name>,</p>
                <p>14 <name type="person" ref="#Wylde">Mrs Wylde</name> Joined Aug. 26th 95 </p>
                <p>15 <name type="person" ref="#Thornton">Miss Hallie Thornton</name> " " " "</p>
-            <p> 10 <name type="person" ref="#Kristoll">Miss Lizzie [Kristoll]</name></p>
+               <p> 10 <name type="person" ref="#Kristoll">Miss Lizzie [Kristoll]</name></p>
                <p> <name type="person" ref="#Fickett">Mrs. F Fickett</name> " Nov. 25/95</p>
                <p><name type="person" ref="#Marie-Gove">Miss Maurie Gove</name> " Oct. 26/96</p>
          </div>
@@ -98,7 +98,7 @@
                <p>2 <name type="person" ref="#Dowling">Miss Dowling</name></p>
                <p>3 <name type="person" ref="#Fitzhenry">Mrs Fitzhenry</name></p>
                <p>4 <name type="person" ref="#Kiernan">Miss Kiernan</name></p>
-            <p>5 " <name type="person" ref="#Kristoll">[Kristoll]</name></p>
+               <p>5 " <name type="person" ref="#Kristoll">[Kristoll]</name></p>
                <p> 6 " <name type="person" ref="#McPhee">McPhee</name></p>
                <p>7 " <name type="person" ref="#Robinson">Robinson</name></p>
                <p>8 <name type="person" ref="#Wylde">Mrs Wylde</name> Moved away Nov. 1897</p>
