@@ -20,8 +20,8 @@
          </publicationStmt>
          <sourceDesc>
             <p> The Jasper N. Bertram papers are a collection of letters that include personal
-               correspondence, business correspondence, and newspaper clippings. The material
-               transcribed in this edition is a sample from those three categories, including
+               correspondences, business correspondences, and newspaper clippings. The materials
+               transcribed in this edition are a sample from those three categories, including
                handwritten letters, typewritten correspondences, and newspaper clippings. <bibl>
                   <title>Jasper N. Bertram Papers</title>
                   <author>Various</author>
@@ -143,9 +143,9 @@
             <back>
                <div type="footnotes">
                   <note>
-                     <note xml:id="Cralle">JB Cralle &amp; Co were claim and pension attorneys.
+                     <note xml:id="Cralle_Note">JB Cralle &amp; Co were claim and pension attorneys.
                         Their firm was located in Washington DC.<ref type="biblio"
-                           target="#Cralle_Co"/>See JB Cralle &amp; Co.</note>
+                           target="#Cralle_Co_Bib"/>See JB Cralle &amp; Co.</note>
                      <note xml:id="Act_of_Congress">"The United States Congress passed an Act on
                         June 6th, 1900 that "consolidated immigration enforcement by assigning
                         enforcement of both Alien Contract Labor laws and Chinese Exclusion laws to
@@ -589,6 +589,9 @@
                <org xml:id="Treasury">
                   <orgName>United States Department of the Treasury</orgName>
                </org>
+               <org xml:id="Cralle">
+                  <orgName>JB Cralle &amp; Co</orgName>
+               </org>
             </listOrg>
             <listPlace>
                <place xml:id="Kentucky">
@@ -672,7 +675,7 @@
                      target="https://artsci.case.edu/dittrick/2014/04/29/deadly-diphtheria-the-childrens-plague/"
                   />
                </bibl>
-               <bibl xml:id="Cralle_Co" type="webpage">
+               <bibl xml:id="Cralle_Co_Bib" type="webpage">
                   <author>JB Cralle &amp; Co</author>,<title level="a">JB Cralle &amp; Co</title>.
                      <ptr
                      target="https://www.nps.gov/common/uploads/teachers/lessonplans/General%20Affadavit%201905.pdf"
