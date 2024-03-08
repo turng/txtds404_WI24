@@ -9,7 +9,7 @@
          <titleStmt>
             <title>A Floriography Dictionary</title>
             <author>Kate Greenaway</author>
-            <editor>Victoria Rincon, Cari Coe, Brianna Patane</editor>
+            <editor>Cari Coe, Victoria Rincon, Brianna Patane</editor>
          </titleStmt>
          <publicationStmt>
             <p>Our text is meant to be published as a digital edition for a webpage that an audience
@@ -135,9 +135,9 @@
          </div>
          <titlePage>
             <docTitle>
-               <titlePart><ref target="#Language">Language of Flowers</ref></titlePart>
+               <titlePart><ref target="#language">Language of Flowers</ref></titlePart>
             </docTitle>
-            <byline>Illustrated by <ref target="#Greenaway">Kate Greenaway</ref></byline>
+            <byline>Illustrated by <ref target="#greenaway">Kate Greenaway</ref></byline>
             <docImprint>
                <pubPlace>London</pubPlace>
                <pubPlace>New York</pubPlace>
@@ -728,7 +728,7 @@
                   <l>And then my heart with pleasure fills,</l>
                   <l>And dances with the <ref target="#daffodil">Daffodils</ref>.</l>
                </lg>
-               <byline><ref target="wordsworth">WORDSWORTH.</ref></byline>
+               <byline><ref target="#wordsworth">WORDSWORTH.</ref></byline>
             </lg>
 
             <!-- p. 64 (Brianna) -->
@@ -762,7 +762,7 @@
                </lg>
 
                <lg type="stanza">
-                  <l>I'll pu' the budding <ref target="rose">rose</ref>, when Phoebus peeps in
+                  <l>I'll pu' the budding <ref target="#rose">rose</ref>, when Phoebus peeps in
                      view,</l>
                   <l>For it's like a baumy kiss o' her sweet bonnie mou;</l>
                   <l>The hyacinth's for constancy w' its unchanging blue,</l>
@@ -809,11 +809,11 @@
             <!-- p. 71 (Victoria) -->
             <lg type="poem">
                <head>
-                  <title><ref target="#flecther">CONSTANCY</ref></title>
+                  <title><ref target="#fletcher">CONSTANCY</ref></title>
                   <bibl>
                      <author>
                         <persName>
-                           <surname><ref target="#flecther">Flecther</ref></surname>
+                           <surname><ref target="#fletcher">Fletcher</ref></surname>
                            <forename>Samuel</forename>
                         </persName>
                      </author>
@@ -828,7 +828,7 @@
                   <l>From my hour of birth.</l>
                   <l>Upon my buried body lie</l>
                   <l>Lightly, gentle earth!</l>
-                  <byline><ref target="#Flecther">SAMUEL FLECTHER.</ref></byline>
+                  <byline><ref target="#fletcher">SAMUEL FLETCHER.</ref></byline>
                </lg>
 
                <lg type="poem">
@@ -883,7 +883,7 @@
                      <l>Wide o'er the naked world declare</l>
                      <l>The worth we've lost!</l>
                   </lg>
-                  <byline><ref target="#Burns">BURNS.</ref></byline>
+                  <byline><ref target="#burns">BURNS.</ref></byline>
                </lg>
 
                <!-- p. 76 (Brianna) -->
@@ -1134,7 +1134,7 @@
                </monogr>
             </biblStruct>
             <biblStruct>
-            <monogr xml:id="jflectcher" n="6">
+            <monogr xml:id="jfletcher" n="6">
                   <author>Editors of Encyclopedia Britannica</author>
                   <title level="j">"John Fletcher"</title>
                   <ref>target="https://www.britannica.com/biography/John-Fletcher"</ref>
@@ -1306,7 +1306,7 @@
                </persName>
                <birth> 25 January 1759 </birth>
                <death>21 July 1796</death>
-               <note><ref target="daiches">Burns</ref> was a Scottish poet and tenant farmer. He
+               <note><ref target="#daiches">Burns</ref> was a Scottish poet and tenant farmer. He
                   struggled through much of his life, but when he published his book of poems,
                   he was almost instantly heralded as a great writer. Many of his poems were
                   written to popular folk tunes that he was familiar with, which is why "O
@@ -1347,7 +1347,7 @@
                </persName>
                <birth>7 April 1770</birth>
                <death>23 April 1850</death>
-               <note><ref target="parrish">William Wordsworth</ref> launched the Romantic movement with
+               <note><ref target="#parrish">William Wordsworth</ref> launched the Romantic movement with
                   help from Samuel Taylor Coleridge. Most of our modern understanding of
                   poetry, what it is and why it exists, has its roots in the work that
                   Wordsworth did over his career and life.</note>
@@ -1362,19 +1362,17 @@
             <note xml:id="bride" n="6">Mourning bride flowers are associated with "unfortunate attachment" or with losing "it all" <ref target="#langauge">(Greenaway)</ref>. They are pincushion flowers, which means they have dense bursts of petals at their heads, and they come in many different colors. The mourning bride in particular is usually a dark red and black <ref target="#wilkinson">(Wilkinson 294)</ref>. These are annual flowers that need a lot of sun <ref target="#wilkinson">(297)</ref>, so they would not always grow well in England, but they do very well in southern Europe <ref target="#wilkinson">(297)</ref>. With care, however, they can be grown almost anywhere.</note>
             <note xml:id="mulberry" n="7">White mulberry trees represent wisdom, and black mulberry trees represent the feeling that without another person, one will not survive <ref target="#language">(Greenaway)</ref>. They are native to the Middle East, Southeast Asia, and North America, and they are valued for the sweet fruit they produce <ref target="#mpetruzzello">("Mulberry").</ref> They can also be used as homes for silkworms <ref target="#mpetruzzello">("Mulberry").</ref></note>
             <note xml:id="periwinkle" n="8">Periwinkle, like <ref target="#larkspur">larkspur</ref> and <ref target="#daisy">daisies</ref>, has different associated meanings depending on the color of the plant. Blue periwinkle represents early friendship, and white periwinkle represents the pleasures of memory <ref target="#langauge">(Greenaway)</ref>. Periwinkle grows as a trailing plant <ref target="#wilkinson">(Wilkinson 357)</ref>, so it can create beautiful overhanging notes in any bouquet. These are native to Great Britain and do best in cool, moist climates <ref target="#wilkinson">(357)</ref>.</note>
-            <note xml:id="posie" n="9">A posy is another word for a nosegay or a small bouquet. This was the most popular form of floral communication in Victorian England <ref target="#nosegay">("Nosegay")</ref>. Women would often carry posies as part of their accoutrement, and, of course, nosegays were extremely popular forms of communication from an admirer to his would-be beau. In his poem, <ref target="#burns">Robert Burns</ref> is telling his readers the work he endures to show his "dear Mae" how much he loves her <ref target="#language">("The Posie")</ref> through floral communication. Women could respond in kind, with flowers that showed their love, such as the <ref target="#daisy">daisy</ref>, or that showed their indifference, such as the mustard seed <ref target="#nosegay">("Nosegay")</ref>.</note>
+            <note xml:id="posie" n="9">A posie is another word for a nosegay or a small bouquet. This was the most popular form of floral communication in Victorian England <ref target="#nosegay">("Nosegay")</ref>. Women would often carry posies as part of their accoutrement, and, of course, nosegays were extremely popular forms of communication from an admirer to his would-be beau. In his poem, <ref target="#burns">Robert Burns</ref> is telling his readers the work he endures to show his "dear Mae" how much he loves her <ref target="#language">("The Posie")</ref> through floral communication. Women could respond in kind, with flowers that showed their love, such as the <ref target="#daisy">daisy</ref>, or that showed their indifference, such as the mustard seed <ref target="#nosegay">("Nosegay")</ref>.</note>
             <note xml:id="rose" n="10">The rose, of course, is the symbol of romantic love. Bridal roses represent happy love, and yellow roses represent jealousy. White rosebuds represent girlhood, and sending someone campions means that only they deserve the sender's love. Damask roses are a sign of freshness, and a garland of roses was a tribute to the receiver's virtue. There are over three hundred species of roses, and most of them are somehow related to love in significance and meaning. The rose that most U.S. and European readers think of when they think of a "rose" is the long-stemmed hybrid tea rose <ref target="#wilkinson">(Wilkinson 276)</ref>. These are the close petals and small thorns found on the bouquets of red roses sold in most stores around Valentine's Day. North America and Great Britian do have some native species, but the classic roses that most people assocaite with love were imported from China or other Asian countries and then hybridized and cultivated into the many species we have today (273). The damask and attar roses are especially useful in creating perfumes and other scents. Growing and caring for roses is not that difficult, but the gardener must take care to keep them sheltered from the wind and provide well-drained, rich soil for their nutrients <ref target="#wilkinson">(278)</ref>.</note>
             <note xml:id="william" n="11">Sweet williams are associated with gallantry, so it makes sense that they would be included in a bouquet meant to encourage a woman to accept a man's admiration, respect, and love. These perennial flowers can be any shade of red, purple, or white and are often used as borders to a bouquet <ref target="#wilkinson">(Wilkinson 70)</ref>. They do not bloom until their second year of growth, but the beauty and edibility of the flowers made it a popular garden flower in the Victorian age <ref target="#wilkinson">(70).</ref></note>
             <note xml:id="thrift" n="12">Thrift is associated with sympathy. These might have been sent when someone died or when a young lover was jilted. The colors of the flowers can vary in any shade of white, yellow, blue, lilac, or red, and the perennial nature guarantees blooming for at least three years <ref target="#wilkinson">(Wilkinson 312)</ref>. Even though they are associated with sympathy, their pom-pom style blossoms add cheerfulness to any nosegay.</note>
          </noteGrp>
          <noteGrp type="editorial">
-            <note xml:id="headings">While the original text does not include headings for each section, we added them for ease of reading. "Flowers" indicates the section that lists the flowers first, and then their meanings; "Meanings" indicates the section that lists the meanings first, and then the flowers; and "Poetry" indicates the section of poems that relate to the flowers in the text as well as some flowers or meanings that are not included in our excerpts here.</note>
-            <note xml:id="ash">Whenever there is an ash phonetic symbol in the text, we changed it to a standard type "a" and "e" for ease of reading.</note>
-            <note xml:id="spelling">In the original text, several "o's" are typed as "u", so we adjusted these letters for ease of reading and understanding.</note>
-            <note xml:id="insert">In the source text, this poem does not have a title and is not complete. We included the title of the poem to help those who wanted to read the whole thing find it more easily. There is a reference to the complete poem as well as a modernized version in the biography section for <ref target="#burns">Burns.</ref></note>
-         </noteGrp>
-         <noteGrp type="context">
-            <note xml:id="context"><p>Floriography was a popular study in the Victorian age, in part due to the Victorians’ obsession with reference manuals, classification, and dictionaries <ref target="#engelhardt">(Engelhardt 137)</ref>. In this period, however, floriography moved from a pastime for just women to a wider project of social service and science by a growing field of amateur botanists. This study became assumed common knowledge, as Engelhardt notes that “Victorian writers expected a certain degree of floral literacy from their readers and used floral codes strategically in their fiction as subtexts for practitioners of the language of flowers” <ref target="#engelhardt">(136)</ref>. These readers and writers would pull on information put out by amateur botanists in this fledgling scientific field through their reference manuals codifying flowers and their meanings so that both writers and readers  could “extend the parameters of courtship and imaginative play” <ref target="#engelhardt">(156)</ref>.</p> 
+            <note xml:id="headings" n="1">While the original text does not include headings for each section, we added them for ease of reading. "Flowers" indicates the section that lists the flowers first, and then their meanings; "Meanings" indicates the section that lists the meanings first, and then the flowers; and "Poetry" indicates the section of poems that relate to the flowers in the text as well as some flowers or meanings that are not included in our excerpts here.</note>
+            <note xml:id="ash" n="2">Whenever there is an ash phonetic symbol in the text, we changed it to a standard type "a" and "e" for ease of reading.</note>
+            <note xml:id="spelling" n="3">In the original text, several "o's" are typed as "u", so we adjusted these letters for ease of reading and understanding.</note>
+            <note xml:id="insert" n="4">In the source text, this poem does not have a title and is not complete. We included the title of the poem to help those who wanted to read the whole thing find it more easily. There is a reference to the complete poem as well as a modernized version in the biography section for <ref target="#burns">Burns.</ref></note>
+            <note xml:id="context" n="5"><p>Floriography was a popular study in the Victorian age, in part due to the Victorians’ obsession with reference manuals, classification, and dictionaries <ref target="#engelhardt">(Engelhardt 137)</ref>. In this period, however, floriography moved from a pastime for just women to a wider project of social service and science by a growing field of amateur botanists. This study became assumed common knowledge, as Engelhardt notes that “Victorian writers expected a certain degree of floral literacy from their readers and used floral codes strategically in their fiction as subtexts for practitioners of the language of flowers” <ref target="#engelhardt">(136)</ref>. These readers and writers would pull on information put out by amateur botanists in this fledgling scientific field through their reference manuals codifying flowers and their meanings so that both writers and readers  could “extend the parameters of courtship and imaginative play” <ref target="#engelhardt">(156)</ref>.</p> 
                <p>This knowledge, along with the proliferation of other Victorian manuals on etiquette and other subjects, reflects a growing middle class and the emergence of new forms of marketing towards that middle class. These etiquette guides, while serving other social purposes, also show new desires and demands for commodities and material goods in the Victorian age <ref target="#weller">(Weller)</ref>.</p> 
                <p>From this information, we can conclude that this booklet was one kind of informational booklet that would have been purchased for children, debutantes, and anyone else who was interested in the study of floriography, even if they were not part of the upper echelons of London society during this time. </p>
             </note>
