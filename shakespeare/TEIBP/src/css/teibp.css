@@ -1952,5 +1952,5 @@ standOff {
   visibility: hidden;
 }
 div[type="letter"] > head {
-  font-size: 180%;
+  font-size: 120%;
 }
