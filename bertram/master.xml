@@ -58,7 +58,7 @@
    <text>
       <front>
          <titlePage>
-            <titlePart>...</titlePart>
+            <titlePart>Editorial Statement</titlePart>
          </titlePage>
          <div type="editorial_intro">
             <p>The present documents reflect a small sample of the corpus known as the Jasper N.
@@ -84,7 +84,8 @@
                of multiple document types found throughout the collection.</p>
          </div>
       </front>
-      <group>
+      <group xml:id="Complete_Docs">
+         <head>Selected Documents</head>
          <text xml:id="Cralle_Doc" rend="typewritten">
             <body>
                <opener>
