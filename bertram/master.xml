@@ -323,9 +323,6 @@
                      >Ky</placeName> and would<lb/> like to combine business<lb/> with pleasure
                   while there</p>
             </body>
-            <back>
-               <div type="footnotes"> </div>
-            </back>
          </text>
          <text xml:id="Treasury_Dept_Doc" rend="print">
             <body>
@@ -379,9 +376,6 @@
                   <hi rend="typewritten">Assistant</hi> Comptroller <hi rend="cursive"
                   >C.H.</hi></closer>
             </body>
-            <back>
-               <div type="footnotes"> </div>
-            </back>
          </text>
          <text xml:id="Winston_Doc" rend="print">
             <body>
@@ -517,12 +511,6 @@
                   </div>
                </div>
             </body>
-            <back>
-               <div type="footnotes">
-                  <note xml:id="n2">"Philedelphia book publisher, 1884 to 1960, original specialty
-                     Bibles." <ref type="biblio" target="#Source2">See source 2</ref>.</note>
-               </div>
-            </back>
             <!-- End of Nic Staley's documents -->
          </text>
       </group>
@@ -535,8 +523,7 @@
                Republican Party worker in 1882 in the 3rd Congressional District. After his first
                wife died in 1888, he moved to Seattle where he was district manager and salesman. He
                married Mary Huselby in 1896. He died on July 1, 1928 in Seattle, Washington." <ref
-                  type="biblio" target="#Bertram_Papers">See source 1</ref>.</note>
-
+                  type="biblio" target="#Bertram_Papers">See the Jasper N. Bertram Papers.</ref>.</note>
             <listPerson>
                <person xml:id="JN_Bertram">
                   <persName>
@@ -551,7 +538,7 @@
                      District. After his first wife died in 1888, he moved to Seattle where he was
                      district manager and salesman. He married Mary Huselby in 1896. He died on July
                      1, 1928 in Seattle, Washington." <ref type="biblio" target="#Bertram_Papers"
-                        >See source 1</ref>.</note>
+                        >See the Jasper N. Bertram Papers</ref>.</note>
                </person>
                <person xml:id="T_Noel">
                   <persName>
@@ -559,27 +546,26 @@
                      <forename>Theophilus</forename>
                   </persName>
                   <note>Soldier in the Confederate army during the United Stated Civil War. Born
-                        <date when="1840">1840</date>. <ref type="biblio" target="#sourceNUMB">See
-                        source numb#</ref>.</note>
+                     <date when="1840">1840</date>. <ref type="biblio" target="#Theo_Noel_Bio">See the Autobiography and reminiscences of Theophilus Noel</ref>.</note>
                </person>
                <person xml:id="J_Winston">
                   <persName>
                      <surname>Winston</surname>
                      <forename>John</forename>
                   </persName>
-                  <note>Born <date when="1856">1856</date>. Died<date when="1920"/>. <ref
-                        type="biblio" target="#sourceNUMB">See source numb#</ref>.</note>
+                  <note>Philadelphia civic leader. Born <date when="1856">1856</date>. Died<date
+                        when="1920"/>. <ref type="biblio" target="#John_Winston_Bio">See John Clark Winson</ref>.</note>
                </person>
             </listPerson>
             <listOrg>
                <org xml:id="TN_co">
-                  <orgName> Theo Noel Company </orgName>
+                  <orgName>Theo Noel Company</orgName>
                   <note>Publishing company based in <placeName ref="#Chicago">Chicago</placeName>.
-                        <ref type="biblio" target="#sourceNUMB">See source numb#</ref>.</note>
+                        <ref type="biblio" target="#Theo_Noel_Bio">See the Autobiography and reminiscences of Theophilus Noel</ref>.</note>
                </org>
                <org xml:id="Winston_co">
                   <orgName>The John C. Winston Company</orgName>
-                  <note>Founded in <date when="1884">1884</date>.</note>
+                  <note>Philadelphia book publisher founded in <date when="1884">1884</date>. Manufactured specialty bibles.<ref type="biblio" target="#Winston_Company_Bio">See the John C. Winston Company</ref>.</note>
                </org>
                <org xml:id="Phil_rec">
                   <orgName>The Philadelphia Record</orgName>
@@ -617,45 +603,51 @@
          </div>
          <div type="bibliography">
             <listBibl>
-               <bibl xml:id="Bertram_Papers">
+               <bibl xml:id="Bertram_Papers" type="archive">
                   <title level="a">Jasper N. Bertram papers</title>.<publisher>Special Collections,
-                     University of Washington Libraries</publisher>, <ref
-                     target="https://archiveswest.orbiscascade.org/ark:/80444/xv10931"
-                     >https://archiveswest.orbiscascade.org/ark:/80444/xv10931</ref>
+                     University of Washington Libraries</publisher>.<ptr
+                     target="https://archiveswest.orbiscascade.org/ark:/80444/xv10931"/>
                </bibl>
-               <bibl xml:id="Winston_Company">
-                  <title level="a">John C. Winston Company</title>.<publisher>Wikidata</publisher>,
-                     <ref target="https://www.wikidata.org/wiki/Q21808712"
-                     >https://www.wikidata.org/wiki/Q21808712</ref>
+               <bibl xml:id="Winston_Company_Bio" type="webpage">
+                  <title level="a">John C. Winston Company</title>.<publisher>Wikidata</publisher>.
+                     <ptr target="https://www.wikidata.org/wiki/Q21808712"/>
+               </bibl>
+               <bibl xml:id="John_Winston_Bio" type="webpage">
+                  <title level="a">John Clark Winston</title>.<publisher>Wikidata</publisher>.<ptr
+                     target="https://www.wikidata.org/wiki/Q21809622"/>
+               </bibl>
+               <bibl xml:id="Theo_Noel_Bio" type="book">
+                  <title level="m">Autobiography and reminiscences of Theophilus Noel</title>.<publisher>Theo. Noel company print</publisher>, <date>1904</date>.<ptr
+                     target="https://catalog.hathitrust.org/Record/007667658"/>
                </bibl>
                <bibl xml:id="Chelan_County" type="webpage">
-                  <title level="a">City of Chelan County</title>,<ref
-                     target="https://cityofchelan.us/">https://cityofchelan.us</ref>
+                  <title level="a">City of Chelan County</title>.<ptr
+                     target="https://cityofchelan.us/"/>
                </bibl>
-               <bibl xml:id="lakeside" type="webpage">
+               <bibl xml:id="Lakeside_Bib" type="webpage">
                   <author>Wikipedia Contributors</author>,<title level="a">Lakeside,
-                     Washington</title>.<publisher>Wikipedia, the Free Encyclopedia</publisher>,
-                     <ref
+                     Washington</title>.<publisher>Wikipedia, the Free Encyclopedia</publisher>.
+                     <ptr
                      target="https://en.wikipedia.org/w/index.php?title=Lakeside,_Washington&amp;oldid=1186419158"
-                     >https://en.wikipedia.org/w/index.php?title=Lakeside,_Washington&amp;oldid=1186419158</ref>
+                  />
                </bibl>
                <bibl xml:id="Diphtheria_History" type="webpage">
                   <author>Case Western Reserve University</author>,<title level="a"
-                     >Diphtheria</title>.<publisher>Case Western Reserve University</publisher>,
-                     <ref
+                     >Diphtheria</title>.<publisher>Case Western Reserve University</publisher>.
+                     <ptr
                      target="https://artsci.case.edu/dittrick/2014/04/29/deadly-diphtheria-the-childrens-plague/"
-                     >https://artsci.case.edu/dittrick/2014/04/29/deadly-diphtheria-the-childrens-plague/</ref>
+                  />
                </bibl>
-               <bibl xml:id="Cralle_Co">
+               <bibl xml:id="Cralle_Co" type="webpage">
                   <author>JB Cralle &amp; Co</author>,<title level="a">JB Cralle &amp; Co</title>.
-                     <ref
+                     <ptr
                      target="https://www.nps.gov/common/uploads/teachers/lessonplans/General%20Affadavit%201905.pdf"
-                     >https://www.nps.gov/common/uploads/teachers/lessonplans/General%20Affadavit%201905.pdf</ref>
+                  />
                </bibl>
-               <bibl xml:id="Federal_Immigration_Service"><title level="a">Origins of the Federal
-                     Immigration Service</title>. <publisher>USCIS</publisher>,<ref
+               <bibl xml:id="Federal_Immigration_Service" type="webpage"><title level="a">Origins of the Federal
+                     Immigration Service</title>. <publisher>USCIS</publisher>.<ptr
                      target="https://www.uscis.gov/about-us/our-history/explore-agency-history/overview-of-agency-history/origins-of-the-federal-immigration-service#:~:text=The%20Act%20of%20June%206,laws%20to%20the%20Commissioner%2DGeneral"
-                     >https://www.uscis.gov/about-us/our-history/explore-agency-history/overview-of-agency-history/origins-of-the-federal-immigration-service#:~:text=The%20Act%20of%20June%206,laws%20to%20the%20Commissioner%2DGeneral</ref>.
+                  />
                </bibl>
             </listBibl>
          </div>
