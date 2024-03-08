@@ -55,7 +55,12 @@
          </samplingDecl>
          <editorialDecl>
             <normalization>
-               <p>We only updated the spelling of "u" to "o" where necessary and adjusted any "ash" symbols to "ae." These are referenced in the notes. Otherwise, we maintained the spelling of the original, but for the difficult poems, we included a reference in the bibliography to a modernized edition for anyone who wanted to research these further. We hope this keeps the romantic flair of the text while also providing our readers easier understanding of a Victorian work.</p>
+               <p>We only updated the spelling of "u" to "o" where necessary and adjusted any "ash"
+                  symbols to "ae." These are referenced in the notes. Otherwise, we maintained the
+                  spelling of the original, but for the difficult poems, we included a reference in
+                  the bibliography to a modernized edition for anyone who wanted to research these
+                  further. We hope this keeps the romantic flair of the text while also providing
+                  our readers easier understanding of a Victorian work.</p>
             </normalization>
             <segmentation>
                <p>We have segmented the text into three sections: two lists and one section of
@@ -80,46 +85,48 @@
                   <head><ref target="#context">Language of Flowers</ref></head>
                   <figDesc>The figure shows a woman in a green dress decorating a straw hat with
                      flowers while sitting in a blue, straight-backed wooden chair.</figDesc>
-               </figure>
-               The small illustrated book, <ref target="#context">Language of Flowers</ref> (1884) is meant to be read as an
-               illustrated dictionary of meanings for common northern hemisphere flowers,
-               reflecting the popularity of floriography in the Victorian era. To enhance the
-               reader’s understanding of the meaning of the flowers, the illustrator Kate Greenaway
-               (attributed as author) drew specific images that reflect on specific flowers and
-               their meanings and included poems that relate or mention certain flowers that are
-               listed in the main portion of the text. While the text was originally published as a
-               children’s educational book, it would also have been useful for new debutantes as
-               they entered society. The illustrations and poetry add a romantic flair, which would
-               have added to the appeal for this group when they began courting.</p>
+               </figure> The small illustrated book, <ref target="#context">Language of
+                  Flowers</ref> (1884) is meant to be read as an illustrated dictionary of meanings
+               for common northern hemisphere flowers, reflecting the popularity of floriography in
+               the Victorian era. To enhance the reader’s understanding of the meaning of the
+               flowers, the illustrator Kate Greenaway (attributed as author) drew specific images
+               that reflect on specific flowers and their meanings and included poems that relate or
+               mention certain flowers that are listed in the main portion of the text. While the
+               text was originally published as a children’s educational book, it would also have
+               been useful for new debutantes as they entered society. The illustrations and poetry
+               add a romantic flair, which would have added to the appeal for this group when they
+               began courting.</p>
             <p>
                <figure>
                   <graphic url="cherub_cornucopia.png"/>
-                  <figDesc>Two cherbus dressed in white robes are carrying a flower-filled cornucopia
-                     tied with blue ribbon through the grass.</figDesc>
-                  
-               </figure>
-               For our edition, we seek to introduce fans of novels from the Victorian and Georgian
-               eras to something that might educate them about the use of flowers, particularly in
-               the Victorian era. The information we provide via annotations is what we believe the
-               original audience would have innately understood. To do this, we provide annotations
-               on how the flowers might have been used, information about the poets cited in the
-               back of the book, and we also provide some background on scholars’ research
-               pertaining to Victorian etiquette and floriography. To connect everything together,
-               we specifically chose to annotate flowers with meanings explicitly illustrated in the
-               original text. We hope our target audience can still enjoy shows such as Bridgerton
-               while bringing a more realistic understanding of real life in the Victorian era to
-               their viewing.</p>
+                  <figDesc>Two cherbus dressed in white robes are carrying a flower-filled
+                     cornucopia tied with blue ribbon through the grass.</figDesc>
+
+               </figure> For our edition, we seek to introduce fans of novels from the Victorian and
+               Georgian eras to something that might educate them about the use of flowers,
+               particularly in the Victorian era. The information we provide via annotations is what
+               we believe the original audience would have innately understood. To do this, we
+               provide annotations on how the flowers might have been used, information about the
+               poets cited in the back of the book, and we also provide some background on scholars’
+               research pertaining to Victorian etiquette and floriography. To connect everything
+               together, we specifically chose to annotate flowers with meanings explicitly
+               illustrated in the original text. We hope our target audience can still enjoy shows
+               such as Bridgerton while bringing a more realistic understanding of real life in the
+               Victorian era to their viewing.</p>
             <p>
                <figure>
                   <graphic url="dancing_cherubs.png"/>
                   <figDesc>Three cherubs dressed in white robes are dancing in a circle. All three
-                     cherubs are wearing hats, and the cherub on the left is carrying a bow and quiver
-                     full of arrows while the cherub on the right is standing in front of a bow placed
-                     on the ground. Two cherubs are wearing straw hats with blue ribbons, and the
-                     middle cherub is wearing a black top hat.></figDesc>
-               </figure>
-               One major change we do make is adding in titles to the three different sections of
-               the text. We do this for ease of reading and understanding, but we also hope to keep the romantic flair of the original by not updating the language of the poems at the end of the book. We do make minor spelling changes as noted in the text, but we do not feel this sacrifices any part of the original or our intent to educate our audience on floriography.</p>
+                     cherubs are wearing hats, and the cherub on the left is carrying a bow and
+                     quiver full of arrows while the cherub on the right is standing in front of a
+                     bow placed on the ground. Two cherubs are wearing straw hats with blue ribbons,
+                     and the middle cherub is wearing a black top hat.></figDesc>
+               </figure> One major change we do make is adding in titles to the three different
+               sections of the text. We do this for ease of reading and understanding, but we also
+               hope to keep the romantic flair of the original by not updating the language of the
+               poems at the end of the book. We do make minor spelling changes as noted in the text,
+               but we do not feel this sacrifices any part of the original or our intent to educate
+               our audience on floriography.</p>
          </div>
          <div type="front_pages">
             <figure>
@@ -196,10 +203,12 @@
                <item>Laburnum.....<hi rend="italics">Forsaken. Pensive Beauty.</hi></item>
                <item>Lady's Slipper.....<hi rend="italics">Capricious Beauty. Win me and wear
                      me.</hi></item>
-               <item><ref target="#ash">Lagerstraemia</ref>, Indian.....<hi rend="italics">Eloquence.</hi></item>
+               <item><ref target="#ash">Lagerstraemia</ref>, Indian.....<hi rend="italics"
+                     >Eloquence.</hi></item>
                <item>Lantana.....<hi rend="italics">Rigour.</hi></item>
                <item>Larch.....<hi rend="italics">Audacity. Boldness.</hi></item>
-               <item><ref target="#larkspur">Larkspur</ref>.....<hi rend="italics">Lightness. Levity.</hi></item>
+               <item><ref target="#larkspur">Larkspur</ref>.....<hi rend="italics">Lightness.
+                     Levity.</hi></item>
                <item><ref target="#larkspur">Larkspur, Pink</ref>.....<hi rend="italics"
                      >Fickleness.</hi></item>
                <item><ref target="#larkspur">Larkspur, Purple</ref>.....<hi rend="italics"
@@ -225,7 +234,8 @@
                <item>Mercury.....<hi rend="italics">Goodness.</hi></item>
                <item>Mesembryanthemum.....<hi rend="italics">Idleness.</hi></item>
                <item>Mezeron.....<hi rend="italics">Desire to please.</hi></item>
-               <item><ref target="#daisy">Michaelmas Daisy</ref>.....<hi rend="italics">Afterthought.</hi></item>
+               <item><ref target="#daisy">Michaelmas Daisy</ref>.....<hi rend="italics"
+                     >Afterthought.</hi></item>
                <item>Mignionette.....<hi rend="italics">Your qualities surpass your
                   charms.</hi></item>
                <item>Milfoil.....<hi rend="italics">War.</hi></item>
@@ -254,7 +264,8 @@
                <item>Mugwort.....<hi rend="italics">Happiness.</hi></item>
                <item><ref target="#mulberry">Mulberry Tree (Black)</ref>.....<hi rend="italics">I
                      shall not survive you.</hi></item>
-               <item><ref target="#mulberry">Mulberry Tree (White)</ref>.....<hi rend="italics">Wisdom.</hi></item>
+               <item><ref target="#mulberry">Mulberry Tree (White)</ref>.....<hi rend="italics"
+                     >Wisdom.</hi></item>
                <item>Mushroom.....<hi rend="italics">Suspicion.</hi></item>
                <item>Musk Plant.....<hi rend="italics">Weakness.</hi></item>
                <item>Mustard Seed.....<hi rend="italics">Indifference.</hi></item>
@@ -318,15 +329,23 @@
                <item>Rhubarb.....<hi rend="italics">Advice.</hi></item>
                <item>Rocket.....<hi rend="italics">Rivalry.</hi></item>
                <item><ref target="#rose">Rose</ref>.....<hi rend="italics">Love.</hi></item>
-               <item><ref target="#rose">Rose, Austrian</ref>.....<hi rend="italics">Thou art all that is lovely.</hi></item>
-               <item><ref target="#rose">Rose, Bridal</ref>.....<hi rend="italics">Happy love.</hi></item>
-               <item><ref target="#rose">Rose, Burgundy</ref>.....<hi rend="italics">Unconscious beauty.</hi></item>
-               <item><ref target="#rose">Rose, Cabbage</ref>.....<hi rend="italics">Ambassador of love.</hi></item>
+               <item><ref target="#rose">Rose, Austrian</ref>.....<hi rend="italics">Thou art all
+                     that is lovely.</hi></item>
+               <item><ref target="#rose">Rose, Bridal</ref>.....<hi rend="italics">Happy
+                  love.</hi></item>
+               <item><ref target="#rose">Rose, Burgundy</ref>.....<hi rend="italics">Unconscious
+                     beauty.</hi></item>
+               <item><ref target="#rose">Rose, Cabbage</ref>.....<hi rend="italics">Ambassador of
+                     love.</hi></item>
                <item><ref target="#rose">Rose, Campion</ref>.....<hi rend="italics">Only deserve my
                      love.</hi></item>
-               <item> <ref target="#rose">Rose, Carolina</ref>.....<hi rend="italics">Love is dangerous.</hi></item>
-               <item><ref target="#rose">Rose, China</ref>.....<hi rend="italics">Beauty always new.</hi></item>
-               <item><ref target="#rose">Rose, Christmas</ref>.....<hi rend="italics">Tranquillize my anxiety.</hi></item>
+               <item>
+                  <ref target="#rose">Rose, Carolina</ref>.....<hi rend="italics">Love is
+                     dangerous.</hi></item>
+               <item><ref target="#rose">Rose, China</ref>.....<hi rend="italics">Beauty always
+                     new.</hi></item>
+               <item><ref target="#rose">Rose, Christmas</ref>.....<hi rend="italics">Tranquillize
+                     my anxiety.</hi></item>
 
                <!-- p. 40 (Cari) -->
                <figure>
@@ -346,7 +365,8 @@
                <item>Thistle, Scotch.....<hi rend="italics">Retaliation.</hi></item>
                <item>Thorn Apple.....<hi rend="italics">Deceitful charms.</hi></item>
                <item>Thorn, Branch of.....<hi rend="italics">Severity.</hi></item>
-               <item><ref target="#thrift">Thrift</ref>.....<hi rend="italics">Beauty always new.</hi></item>
+               <item><ref target="#thrift">Thrift</ref>.....<hi rend="italics">Beauty always
+                     new.</hi></item>
                <item><ref target="#thrift">Thrift</ref>.....<hi rend="italics">Sympathy.</hi></item>
                <item>Throatwort.....<hi rend="italics">Neglected beauty.</hi></item>
                <item>Tiger Flower.....<hi rend="italics">For once may pride befriend me.</hi></item>
@@ -406,8 +426,7 @@
                <item>Forsaken.......<hi rend="italics">Garden Anemone.</hi></item>
                <item>Forsaken.......<hi rend="italics">Laburnum.</hi></item>
                <item>Frankness.......<hi rend="italics">Osier.</hi></item>
-               <item>Fraternal love.......<hi rend="italics">
-                     Woodbine.</hi></item>
+               <item>Fraternal love.......<hi rend="italics"> Woodbine.</hi></item>
                <item>Freedom.......<hi rend="italics">Water Willow.</hi></item>
                <item>Freshness.......<hi rend="italics"><ref target="#rose">Damask
                   Rose.</ref></hi></item>
@@ -415,7 +434,8 @@
                <item>Friendship, early.......<hi rend="italics"><ref target="#periwinkle">Blue
                         Periwinkle.</ref></hi></item>
                <item>Friendship, true.......<hi rend="italics">Oak-leaved Geranium.</hi></item>
-               <item>Friendship, unchanging.......<hi rend="italics">Arbor <ref target="#ash">Vitae.</ref></hi></item>
+               <item>Friendship, unchanging.......<hi rend="italics">Arbor <ref target="#ash"
+                        >Vitae.</ref></hi></item>
                <item>Frivolity.......<hi rend="italics">London Pride.</hi></item>
                <item>Frugality.......<hi rend="italics">Chicory. Endive.</hi></item>
 
@@ -476,7 +496,8 @@
                <item>Humility.......<hi rend="italics">Field Lilac.</hi></item>
                <item>I am too happy.......<hi rend="italics">Cape Jasmine.</hi></item>
                <item>I am your captive.......<hi rend="italics">Peach Blossom.</hi></item>
-               <item>I am worthy of you.......<hi rend="italics"><ref target="#rose">White Rose.</ref></hi></item>
+               <item>I am worthy of you.......<hi rend="italics"><ref target="#rose">White
+                        Rose.</ref></hi></item>
                <item>I change but in death.......<hi rend="italics">Bay Leaf.</hi></item>
                <item>I declare against you.......<hi rend="italics">Belvedere.</hi></item>
                <item>I declare against you.......<hi rend="italics">.</hi>Liquorice.</item>
@@ -491,16 +512,18 @@
                <item>I love.......<hi rend="italics">Red Chrysanthemum.</hi></item>
                <item>I partake of your sentiments.......<hi rend="italics">Double China
                   Aster.</hi></item>
-               <item>I partake of your sentiments.......<hi rend="italics"><ref target="#daisy">Garden Daisy.</ref></hi></item>
+               <item>I partake of your sentiments.......<hi rend="italics"><ref target="#daisy"
+                        >Garden Daisy.</ref></hi></item>
                <item>I shall die to-morrow.......<hi rend="italics">Gum Cistus.</hi></item>
                <item>I shall not survive you.......<hi rend="italics"><ref target="#mulberry">Black
                         Mulberry.</ref></hi></item>
                <item>I surmount difficulties.......<hi rend="italics">Mistletoe.</hi></item>
                <item>I will think of it.......<hi rend="italics">Single China Aster.</hi></item>
-               <item>I will think of it.......<hi rend="italics"><ref target="#daisy">Wild Daisy.</ref></hi></item>
+               <item>I will think of it.......<hi rend="italics"><ref target="#daisy">Wild
+                        Daisy.</ref></hi></item>
                <item>I wound to heal.......<hi rend="italics">Eglantine (Sweetbrier).</hi></item>
-               <item>If you love me, you will find it out.......<hi rend="italics"><ref target="#rose">Maiden Blush
-                     Rose.</ref></hi></item>
+               <item>If you love me, you will find it out.......<hi rend="italics"><ref
+                        target="#rose">Maiden Blush Rose.</ref></hi></item>
                <item>Idleness.......<hi rend="italics">Mesembryanthemum.</hi></item>
                <item>Ill-natured beauty.......<hi rend="italics">Citron.</hi></item>
                <item>Imagination.......<hi rend="italics">Lupine.</hi></item>
@@ -558,7 +581,8 @@
                <item>Lightheartedness.......<hi rend="italics">Shamrock.</hi></item>
                <item>Lightness.......<hi rend="italics"><ref target="#larkspur"
                   >Larkspur.</ref></hi></item>
-               <item>Live for me.......<hi rend="italics">Arbor <ref target="#ash">Vitae.</ref></hi></item>
+               <item>Live for me.......<hi rend="italics">Arbor <ref target="#ash"
+                  >Vitae.</ref></hi></item>
                <item><ref target="#rose">Love.......<hi rend="italics">Myrtle.</hi></ref></item>
                <item>Love.......<hi rend="italics"><ref target="#rose">Rose.</ref></hi></item>
                <item>Love, forsaken.......<hi rend="italics">Creeping Willow.</hi></item>
@@ -568,7 +592,8 @@
                <item>Lustre.......<hi rend="italics">Aconite-leaved Crowfoot, or Fair Maid of
                      France.</hi></item>
                <item>Luxury.......<hi rend="italics">Chesnut Tree.</hi></item>
-               <item>Magnificent beauty.......<hi rend="italics">Calla, <ref target="#ash">AEthiopica</ref>.</hi></item>
+               <item>Magnificent beauty.......<hi rend="italics">Calla, <ref target="#ash"
+                        >AEthiopica</ref>.</hi></item>
                <item>Majesty.......<hi rend="italics">Crown Imperial.</hi></item>
                <item>Malevolence.......<hi rend="italics">Lobelia.</hi></item>
                <item>Marriage.......<hi rend="italics">Ivy.</hi></item>
@@ -636,7 +661,8 @@
                <item>Volubility.......<hi rend="italics">Abecedary.</hi></item>
                <item>Voraciousness.......<hi rend="italics"/>Lupine</item>
                <item>Vulgar Minds.......<hi rend="italics">African Marigold.</hi></item>
-               <item>War.......<hi rend="italics"><ref target="#rose">York and Lancaster Rose.</ref></hi></item>
+               <item>War.......<hi rend="italics"><ref target="#rose">York and Lancaster
+                     Rose.</ref></hi></item>
                <item>War.......<hi rend="italics">Achillea Millefolia.</hi></item>
                <item>Warmth of feeling.......<hi rend="italics">Peppermint.</hi></item>
                <item>Watchfulness.......<hi rend="italics">Dame Violet.</hi></item>
@@ -646,7 +672,8 @@
                <item>Widowhood.......<hi rend="italics">Sweet Scabious.</hi></item>
                <item>Win me and wear me.......<hi rend="italics">Lady's Slipper.</hi></item>
                <item>Winning grace.......<hi rend="italics">Cowslip.</hi></item>
-               <item>Winter.......<hi rend="italics"><ref target="#rose">Guelder Rose.</ref></hi></item>
+               <item>Winter.......<hi rend="italics"><ref target="#rose">Guelder
+                  Rose.</ref></hi></item>
                <item>Wit.......<hi rend="italics">Meadow Lychnis.</hi></item>
                <item>Witchcraft.......<hi rend="italics"><ref target="#nightshade">Enchanter's
                         Nightshade.</ref></hi></item>
@@ -734,7 +761,8 @@
             <!-- p. 64 (Brianna) -->
             <lg type="poem">
                <head>
-                  <title><ref target="#posie">O <ref target="#spelling">LOVE</ref> WILL VENTURE IN, &amp; c.</ref></title>
+                  <title><ref target="#posie">O <ref target="#spelling">LOVE</ref> WILL VENTURE IN,
+                        &amp; c.</ref></title>
                   <bibl>
                      <author>
                         <persName>
@@ -745,17 +773,16 @@
                   </bibl>
                </head>
                <lg type="stanza">
-                  <l>O <ref target="#rose"><ref target="#spelling">LOVE</ref></ref> will venture in, where it daur na weel be
-                     seen,</l>
-                  <l>O <ref target="#rose"><ref target="#spelling">love</ref></ref> will venture in, where wisdom ance has
-                     been;</l>
+                  <l>O <ref target="#rose"><ref target="#spelling">LOVE</ref></ref> will venture in,
+                     where it daur na weel be seen,</l>
+                  <l>O <ref target="#rose"><ref target="#spelling">love</ref></ref> will venture in,
+                     where wisdom ance has been;</l>
                   <l>But I will down yon river rove, amang the wood sae green,</l>
                   <l>And a' to pu' a <ref target="#posie">posie</ref> to my ain dear May.</l>
                </lg>
 
                <lg type="stanza">
-                  <l>The primrose I will pu', the firstling o' the
-                     year,</l>
+                  <l>The primrose I will pu', the firstling o' the year,</l>
                   <l>And I will pu' the pink, the emblem o' my dear,</l>
                   <l>For she's the pink o' womankind, and blooms without a peer;</l>
                   <l>And a' to be a <ref target="#posie">posie</ref> to my ain dear May.</l>
@@ -786,8 +813,7 @@
                </lg>
 
                <lg type="stanza">
-                  <l>The woodbine I will pu' when the e'ening star is
-                     near,</l>
+                  <l>The woodbine I will pu' when the e'ening star is near,</l>
                   <l>And the diamond-drops o' dew shall be her e'en sae clear:</l>
                   <l>The violet's for modesty which weel she fa's to wear,</l>
                   <l>And a' to be a <ref target="#posie">posie</ref> to my ain dear May.</l>
@@ -797,7 +823,8 @@
                   <l>I'll tie the <ref target="#posie">posie</ref> round w' the silken band o'
                      luve,</l>
                   <l>And I'll place it in her breast, and I'll swear by a' above,</l>
-                  <l>That to my latest draught o' life the band shall ne'er <ref target="#spelling">remove</ref>.</l>
+                  <l>That to my latest draught o' life the band shall ne'er <ref target="#spelling"
+                        >remove</ref>.</l>
                   <l>And this will be a <ref target="#posie">posie</ref> to my ain dear May.</l>
                </lg>
 
@@ -833,7 +860,8 @@
 
                <lg type="poem">
                   <head>
-                     <title><ref target="#burns"><ref target="#insert">Elegy on Captain Matthew Henderson</ref></ref></title>
+                     <title><ref target="#burns"><ref target="#insert">Elegy on Captain Matthew
+                              Henderson</ref></ref></title>
                      <bibl>
                         <author>
                            <persName>
@@ -1008,7 +1036,8 @@
                   down</hi>.....24</item>
                <item><hi rend="gothic">K</hi> KENNEDIA.....<hi rend="gothic">Mental
                   beauty</hi>.....25</item>
-               <item><hi rend="gothic">L</hi> <ref target="#larkspur">LARKSPUR, PURPLE</ref>
+               <item><hi rend="gothic">L</hi>
+                  <ref target="#larkspur">LARKSPUR, PURPLE</ref>
                   <hi rend="gothic">Haughtiness</hi>.....26</item>
                <item><hi rend="gothic">M</hi> MOSS.....<hi rend="gothic">Maternal
                   love</hi>.....28</item>
@@ -1040,7 +1069,7 @@
             </list>
          </div>
       </body>
-      
+
       <back>
          <listBibl>
             <biblStruct>
@@ -1064,7 +1093,7 @@
                </monogr>
             </biblStruct>
             <biblStruct>
-            <monogr xml:id="daiches" n="2">
+               <monogr xml:id="daiches" n="2">
                   <author>
                      <persName>
                         <surname>Daiches</surname>
@@ -1081,7 +1110,7 @@
                </monogr>
             </biblStruct>
             <biblStruct>
-            <monogr xml:id="engelhardt" n="3">
+               <monogr xml:id="engelhardt" n="3">
                   <author>
                      <persName>
                         <surname>Engelhardt</surname>
@@ -1101,7 +1130,7 @@
                </monogr>
             </biblStruct>
             <biblStruct>
-            <monogr xml:id="examples" n="4">
+               <monogr xml:id="examples" n="4">
                   <author>
                      <persName>
                         <surname>Greenaway</surname>
@@ -1118,7 +1147,7 @@
                </monogr>
             </biblStruct>
             <biblStruct>
-            <monogr xml:id="language" n="5">
+               <monogr xml:id="language" n="5">
                   <author>
                      <persName>
                         <surname>Greenaway</surname>
@@ -1134,7 +1163,7 @@
                </monogr>
             </biblStruct>
             <biblStruct>
-            <monogr xml:id="jfletcher" n="6">
+               <monogr xml:id="jfletcher" n="6">
                   <author>Editors of Encyclopedia Britannica</author>
                   <title level="j">"John Fletcher"</title>
                   <ref>target="https://www.britannica.com/biography/John-Fletcher"</ref>
@@ -1146,7 +1175,7 @@
                </monogr>
             </biblStruct>
             <biblStruct>
-            <monogr xml:id="mdrayton" n="7">
+               <monogr xml:id="mdrayton" n="7">
                   <author>Editors of Encyclopedia Britannica </author>
                   <title level="j">"Michael Drayton</title>
                   <ref>target="https://www.britannica.com/biography/Michael-Drayton"</ref>
@@ -1237,7 +1266,7 @@
                </monogr>
             </biblStruct>
             <biblStruct>
-            <monogr xml:id="weller" n="12">
+               <monogr xml:id="weller" n="12">
                   <author>
                      <persName>
                         <surname>Weller</surname>
@@ -1292,12 +1321,12 @@
                <birth>17 March 1846 </birth>
                <death>6 November 1901</death>
                <note><ref target="#neal">Kate Greenaway</ref> was born the same year the first
-                  Christmas card came out, and she even inspired Robert Louis
-                  Stevenson! While she is most well-known for her illustrations of
-                  children's books, she was also prolific in designing Christmas cards and
-                  watercolor portraits. The Language of Flowers is perhaps the most well-known of
-                  all her works, but to study more of her work, see <ref target="#examples">"Kate
-                     Greenaway: 16 Examples in Colour of the Artist's Work."</ref></note>
+                  Christmas card came out, and she even inspired Robert Louis Stevenson! While she
+                  is most well-known for her illustrations of children's books, she was also
+                  prolific in designing Christmas cards and watercolor portraits. The Language of
+                  Flowers is perhaps the most well-known of all her works, but to study more of her
+                  work, see <ref target="#examples">"Kate Greenaway: 16 Examples in Colour of the
+                     Artist's Work."</ref></note>
             </person>
             <person xml:id="burns" role="poet" n="2">
                <persName>
@@ -1307,10 +1336,17 @@
                <birth> 25 January 1759 </birth>
                <death>21 July 1796</death>
                <note><ref target="#daiches">Burns</ref> was a Scottish poet and tenant farmer. He
-                  struggled through much of his life, but when he published his book of poems,
-                  he was almost instantly heralded as a great writer. Many of his poems were
-                  written to popular folk tunes that he was familiar with, which is why "O
-                  Luve Will Venture In" is attached to the tune of "The Posie." To see a modernized version of this poem, visit this site:  <ref>http://www.robertburnsfederation.com/poems/translations/504.htm</ref> and to see a complete and modernized version of the Elegy on Captain Matthew Henderson, visit this site: <ref>http://www.robertburnsfederation.com/poems/translations/elegy_on_captain_mathew_henderson.htm</ref>. These both come from the Robert Burns Federation online, a website dedicated to Robert Burns and his poetry.</note>
+                  struggled through much of his life, but when he published his book of poems, he
+                  was almost instantly heralded as a great writer. Many of his poems were written to
+                  popular folk tunes that he was familiar with, which is why "O Luve Will Venture
+                  In" is attached to the tune of "The Posie." To see a modernized version of this
+                  poem, visit this site:
+                     <ref>http://www.robertburnsfederation.com/poems/translations/504.htm</ref> and
+                  to see a complete and modernized version of the Elegy on Captain Matthew
+                  Henderson, visit this site:
+                     <ref>http://www.robertburnsfederation.com/poems/translations/elegy_on_captain_mathew_henderson.htm</ref>.
+                  These both come from the Robert Burns Federation online, a website dedicated to
+                  Robert Burns and his poetry.</note>
             </person>
             <person xml:id="drayton" role="poet" n="3">
                <persName>
@@ -1319,12 +1355,12 @@
                </persName>
                <birth>1563</birth>
                <death>1631</death>
-               <note>While "Arrangement of a Bouquet" is attributed to
-                  Nicholas Drayton, we believe that this references <ref target="#mdrayton">Michael Drayton</ref>, an early
-                  17th century poet and playwright. This poem is found in Drayton's larger
-                  work "The Muses Elysium," which confirms our understanding of this artist.
-                  He lived and worked in England, spending most of his time in London, but he
-                  never achieved great reknown.</note>
+               <note>While "Arrangement of a Bouquet" is attributed to Nicholas Drayton, we believe
+                  that this references <ref target="#mdrayton">Michael Drayton</ref>, an early 17th
+                  century poet and playwright. This poem is found in Drayton's larger work "The
+                  Muses Elysium," which confirms our understanding of this artist. He lived and
+                  worked in England, spending most of his time in London, but he never achieved
+                  great reknown.</note>
             </person>
             <person xml:id="fletcher" role="poet" n="4">
                <persName>
@@ -1333,12 +1369,11 @@
                </persName>
                <birth>December 1579</birth>
                <death>29 August 1625</death>
-               <note>This poem is mistakenly attributed to Samuel
-                  Fletcher when the playwright who composed it was named <ref target="#jfletcher">John Fletcher</ref>. This
-                  poem is found in the work composed by John Fletcher and Francis Beaumont
-                  titled "The Maides Tragedy." John Fletcher became the chief playwright of
-                  the King's Men for the Globe Theater after Shakespeare's retirement around
-                  1613!</note>
+               <note>This poem is mistakenly attributed to Samuel Fletcher when the playwright who
+                  composed it was named <ref target="#jfletcher">John Fletcher</ref>. This poem is
+                  found in the work composed by John Fletcher and Francis Beaumont titled "The
+                  Maides Tragedy." John Fletcher became the chief playwright of the King's Men for
+                  the Globe Theater after Shakespeare's retirement around 1613!</note>
             </person>
             <person xml:id="wordsworth" role="poet" n="5">
                <persName>
@@ -1347,34 +1382,163 @@
                </persName>
                <birth>7 April 1770</birth>
                <death>23 April 1850</death>
-               <note><ref target="#parrish">William Wordsworth</ref> launched the Romantic movement with
-                  help from Samuel Taylor Coleridge. Most of our modern understanding of
-                  poetry, what it is and why it exists, has its roots in the work that
-                  Wordsworth did over his career and life.</note>
+               <note><ref target="#parrish">William Wordsworth</ref> launched the Romantic movement
+                  with help from Samuel Taylor Coleridge. Most of our modern understanding of
+                  poetry, what it is and why it exists, has its roots in the work that Wordsworth
+                  did over his career and life.</note>
             </person>
          </listPerson>
          <noteGrp type="flowers">
-            <note xml:id="daffodil" n="1">In our source text, daffodils are associated with regard and with <ref target="#wordsworth">Wordsworth's</ref> poem of the same title. It is also known as the narcissus <ref target="#wilkinson">(Wilkinson 197)</ref>, and they can be white, yellow, or orange. They grow from bulbs and have been worked on extensively in Holland as well as England <ref target="#wilkinson">(157).</ref> They grow best in sandy loam or heavy soil (201), and they fail in very hot climates <ref target="#wilkinson">(209).</ref> Because they are bulb flowers, they must be <ref target="#wilkinson">"well rooted" (206)</ref> before they can be grown in a greenhouse or before blooms can be expected.Once they have bloomed, the tall flowers make for striking boutquets, and they may have been used in courting to alert a woman to possible interest without being a full declaration of love.</note>
-            <note xml:id="daisy" n="2">Not all daisies have the same meaning. The michaelmas daisy, for example, means "farewell" and also "afterthought" according to <ref target="#greenaway">Kate Greenaway, but the garden daisy means "I partake of your sentiments," and the wild daisy means "I will think of it." For daisies that don't fall under these categories, Greenaway claims that the standard daisy represents "innocence" <ref target="#language">(Language).</ref> While <ref target="#burns">Burns</ref> does not use this exact phrase, he does think that the daisy represents "simplicity" and an "unaffected air." So many varieties of daisies exist because people have been selectively breeding them for centuries, and now many of them can be found in the wild <ref target="#wilkinson">(Wilkinson 21)</ref>. Most daisies are perennial, which means they will bloom live for three years or more, but a couple of kinds, including the michelmas daisy, are merely annual plants. They tend to bloom in early spring, and they cannot be planted too close together if they are to thrive <ref target="#wilkinson">(22)</ref>. </ref></note>
-            <note xml:id="nightshade" n="3">Is it any surprise that a book written to children and young women includes the flower associated with witchcraft and sorcery? Enchanter's nightshade is called such because the latin name, circaea lutetiana, references Circe, the Greek goddess known for herbology and magic <ref target="#woodland">(Woodland)</ref>. The flower was often used medicinally, especially in its native Scotland and Britain. Some have also used it as an aprhodisiac, although this is no longer recommended <ref target="#woodland">(Woodland).</ref></note>
-            <note xml:id="larkspur" n="4">Pink and purple larkspur each have their own associated meanings (fickleness and haughtiness, repsectively), and all other larkspur is associated with lightness and levity <ref target="#language">(Greenaway)</ref>. This flower is not referenced in any of the poems included in this edition, but their tall stems and long stalks of flowers add interest to any bouquet. Larkspur is the annual flower in the delphinium family <ref target="#wilkinson">(Wilkinson 67)</ref>, and although they are beautiful, they are poisonous to both people and animals <ref target="#petruzzello">("Larkspur")</ref>.</note>
-            <note xml:id="lily" n="5">The yellow lily represents falsehood and gaiety <ref target="#language">(Greenaway)</ref>, but <ref target="#burns">Burns</ref> remarks that the lily is "pure" and "fair" in <ref target="#posie">"The Posie."</ref> Since he does not give us a color, we can't be sure if <ref target="#burns">Burns</ref> is referencing a yellow lily, and that is why Greenaway included this poem, or a white lily, which more commonly represents death or sorrow yet is not included in either this edition or our source text.</note>
-            <note xml:id="bride" n="6">Mourning bride flowers are associated with "unfortunate attachment" or with losing "it all" <ref target="#langauge">(Greenaway)</ref>. They are pincushion flowers, which means they have dense bursts of petals at their heads, and they come in many different colors. The mourning bride in particular is usually a dark red and black <ref target="#wilkinson">(Wilkinson 294)</ref>. These are annual flowers that need a lot of sun <ref target="#wilkinson">(297)</ref>, so they would not always grow well in England, but they do very well in southern Europe <ref target="#wilkinson">(297)</ref>. With care, however, they can be grown almost anywhere.</note>
-            <note xml:id="mulberry" n="7">White mulberry trees represent wisdom, and black mulberry trees represent the feeling that without another person, one will not survive <ref target="#language">(Greenaway)</ref>. They are native to the Middle East, Southeast Asia, and North America, and they are valued for the sweet fruit they produce <ref target="#mpetruzzello">("Mulberry").</ref> They can also be used as homes for silkworms <ref target="#mpetruzzello">("Mulberry").</ref></note>
-            <note xml:id="periwinkle" n="8">Periwinkle, like <ref target="#larkspur">larkspur</ref> and <ref target="#daisy">daisies</ref>, has different associated meanings depending on the color of the plant. Blue periwinkle represents early friendship, and white periwinkle represents the pleasures of memory <ref target="#langauge">(Greenaway)</ref>. Periwinkle grows as a trailing plant <ref target="#wilkinson">(Wilkinson 357)</ref>, so it can create beautiful overhanging notes in any bouquet. These are native to Great Britain and do best in cool, moist climates <ref target="#wilkinson">(357)</ref>.</note>
-            <note xml:id="posie" n="9">A posie is another word for a nosegay or a small bouquet. This was the most popular form of floral communication in Victorian England <ref target="#nosegay">("Nosegay")</ref>. Women would often carry posies as part of their accoutrement, and, of course, nosegays were extremely popular forms of communication from an admirer to his would-be beau. In his poem, <ref target="#burns">Robert Burns</ref> is telling his readers the work he endures to show his "dear Mae" how much he loves her <ref target="#language">("The Posie")</ref> through floral communication. Women could respond in kind, with flowers that showed their love, such as the <ref target="#daisy">daisy</ref>, or that showed their indifference, such as the mustard seed <ref target="#nosegay">("Nosegay")</ref>.</note>
-            <note xml:id="rose" n="10">The rose, of course, is the symbol of romantic love. Bridal roses represent happy love, and yellow roses represent jealousy. White rosebuds represent girlhood, and sending someone campions means that only they deserve the sender's love. Damask roses are a sign of freshness, and a garland of roses was a tribute to the receiver's virtue. There are over three hundred species of roses, and most of them are somehow related to love in significance and meaning. The rose that most U.S. and European readers think of when they think of a "rose" is the long-stemmed hybrid tea rose <ref target="#wilkinson">(Wilkinson 276)</ref>. These are the close petals and small thorns found on the bouquets of red roses sold in most stores around Valentine's Day. North America and Great Britian do have some native species, but the classic roses that most people assocaite with love were imported from China or other Asian countries and then hybridized and cultivated into the many species we have today (273). The damask and attar roses are especially useful in creating perfumes and other scents. Growing and caring for roses is not that difficult, but the gardener must take care to keep them sheltered from the wind and provide well-drained, rich soil for their nutrients <ref target="#wilkinson">(278)</ref>.</note>
-            <note xml:id="william" n="11">Sweet williams are associated with gallantry, so it makes sense that they would be included in a bouquet meant to encourage a woman to accept a man's admiration, respect, and love. These perennial flowers can be any shade of red, purple, or white and are often used as borders to a bouquet <ref target="#wilkinson">(Wilkinson 70)</ref>. They do not bloom until their second year of growth, but the beauty and edibility of the flowers made it a popular garden flower in the Victorian age <ref target="#wilkinson">(70).</ref></note>
-            <note xml:id="thrift" n="12">Thrift is associated with sympathy. These might have been sent when someone died or when a young lover was jilted. The colors of the flowers can vary in any shade of white, yellow, blue, lilac, or red, and the perennial nature guarantees blooming for at least three years <ref target="#wilkinson">(Wilkinson 312)</ref>. Even though they are associated with sympathy, their pom-pom style blossoms add cheerfulness to any nosegay.</note>
+            <note xml:id="daffodil" n="1">In our source text, daffodils are associated with regard
+               and with <ref target="#wordsworth">Wordsworth's</ref> poem of the same title. It is
+               also known as the narcissus <ref target="#wilkinson">(Wilkinson 197)</ref>, and they
+               can be white, yellow, or orange. They grow from bulbs and have been worked on
+               extensively in Holland as well as England <ref target="#wilkinson">(157).</ref> They
+               grow best in sandy loam or heavy soil (201), and they fail in very hot climates <ref
+                  target="#wilkinson">(209).</ref> Because they are bulb flowers, they must be <ref
+                  target="#wilkinson">"well rooted" (206)</ref> before they can be grown in a
+               greenhouse or before blooms can be expected.Once they have bloomed, the tall flowers
+               make for striking boutquets, and they may have been used in courting to alert a woman
+               to possible interest without being a full declaration of love.</note>
+            <note xml:id="daisy" n="2">Not all daisies have the same meaning. The michaelmas daisy,
+               for example, means "farewell" and also "afterthought" according to <ref
+                  target="#greenaway">Kate Greenaway, but the garden daisy means "I partake of your
+                  sentiments," and the wild daisy means "I will think of it." For daisies that don't
+                  fall under these categories, Greenaway claims that the standard daisy represents
+                  "innocence" <ref target="#language">(Language).</ref> While <ref target="#burns"
+                     >Burns</ref> does not use this exact phrase, he does think that the daisy
+                  represents "simplicity" and an "unaffected air." So many varieties of daisies
+                  exist because people have been selectively breeding them for centuries, and now
+                  many of them can be found in the wild <ref target="#wilkinson">(Wilkinson
+                     21)</ref>. Most daisies are perennial, which means they will bloom live for
+                  three years or more, but a couple of kinds, including the michelmas daisy, are
+                  merely annual plants. They tend to bloom in early spring, and they cannot be
+                  planted too close together if they are to thrive <ref target="#wilkinson"
+                     >(22)</ref>. </ref></note>
+            <note xml:id="nightshade" n="3">Is it any surprise that a book written to children and
+               young women includes the flower associated with witchcraft and sorcery? Enchanter's
+               nightshade is called such because the latin name, circaea lutetiana, references
+               Circe, the Greek goddess known for herbology and magic <ref target="#woodland"
+                  >(Woodland)</ref>. The flower was often used medicinally, especially in its native
+               Scotland and Britain. Some have also used it as an aprhodisiac, although this is no
+               longer recommended <ref target="#woodland">(Woodland).</ref></note>
+            <note xml:id="larkspur" n="4">Pink and purple larkspur each have their own associated
+               meanings (fickleness and haughtiness, repsectively), and all other larkspur is
+               associated with lightness and levity <ref target="#language">(Greenaway)</ref>. This
+               flower is not referenced in any of the poems included in this edition, but their tall
+               stems and long stalks of flowers add interest to any bouquet. Larkspur is the annual
+               flower in the delphinium family <ref target="#wilkinson">(Wilkinson 67)</ref>, and
+               although they are beautiful, they are poisonous to both people and animals <ref
+                  target="#petruzzello">("Larkspur")</ref>.</note>
+            <note xml:id="lily" n="5">The yellow lily represents falsehood and gaiety <ref
+                  target="#language">(Greenaway)</ref>, but <ref target="#burns">Burns</ref> remarks
+               that the lily is "pure" and "fair" in <ref target="#posie">"The Posie."</ref> Since
+               he does not give us a color, we can't be sure if <ref target="#burns">Burns</ref> is
+               referencing a yellow lily, and that is why Greenaway included this poem, or a white
+               lily, which more commonly represents death or sorrow yet is not included in either
+               this edition or our source text.</note>
+            <note xml:id="bride" n="6">Mourning bride flowers are associated with "unfortunate
+               attachment" or with losing "it all" <ref target="#langauge">(Greenaway)</ref>. They
+               are pincushion flowers, which means they have dense bursts of petals at their heads,
+               and they come in many different colors. The mourning bride in particular is usually a
+               dark red and black <ref target="#wilkinson">(Wilkinson 294)</ref>. These are annual
+               flowers that need a lot of sun <ref target="#wilkinson">(297)</ref>, so they would
+               not always grow well in England, but they do very well in southern Europe <ref
+                  target="#wilkinson">(297)</ref>. With care, however, they can be grown almost
+               anywhere.</note>
+            <note xml:id="mulberry" n="7">White mulberry trees represent wisdom, and black mulberry
+               trees represent the feeling that without another person, one will not survive <ref
+                  target="#language">(Greenaway)</ref>. They are native to the Middle East,
+               Southeast Asia, and North America, and they are valued for the sweet fruit they
+               produce <ref target="#mpetruzzello">("Mulberry").</ref> They can also be used as
+               homes for silkworms <ref target="#mpetruzzello">("Mulberry").</ref></note>
+            <note xml:id="periwinkle" n="8">Periwinkle, like <ref target="#larkspur">larkspur</ref>
+               and <ref target="#daisy">daisies</ref>, has different associated meanings depending
+               on the color of the plant. Blue periwinkle represents early friendship, and white
+               periwinkle represents the pleasures of memory <ref target="#langauge"
+                  >(Greenaway)</ref>. Periwinkle grows as a trailing plant <ref target="#wilkinson"
+                  >(Wilkinson 357)</ref>, so it can create beautiful overhanging notes in any
+               bouquet. These are native to Great Britain and do best in cool, moist climates <ref
+                  target="#wilkinson">(357)</ref>.</note>
+            <note xml:id="posie" n="9">A posie is another word for a nosegay or a small bouquet.
+               This was the most popular form of floral communication in Victorian England <ref
+                  target="#nosegay">("Nosegay")</ref>. Women would often carry posies as part of
+               their accoutrement, and, of course, nosegays were extremely popular forms of
+               communication from an admirer to his would-be beau. In his poem, <ref target="#burns"
+                  >Robert Burns</ref> is telling his readers the work he endures to show his "dear
+               Mae" how much he loves her <ref target="#language">("The Posie")</ref> through floral
+               communication. Women could respond in kind, with flowers that showed their love, such
+               as the <ref target="#daisy">daisy</ref>, or that showed their indifference, such as
+               the mustard seed <ref target="#nosegay">("Nosegay")</ref>.</note>
+            <note xml:id="rose" n="10">The rose, of course, is the symbol of romantic love. Bridal
+               roses represent happy love, and yellow roses represent jealousy. White rosebuds
+               represent girlhood, and sending someone campions means that only they deserve the
+               sender's love. Damask roses are a sign of freshness, and a garland of roses was a
+               tribute to the receiver's virtue. There are over three hundred species of roses, and
+               most of them are somehow related to love in significance and meaning. The rose that
+               most U.S. and European readers think of when they think of a "rose" is the
+               long-stemmed hybrid tea rose <ref target="#wilkinson">(Wilkinson 276)</ref>. These
+               are the close petals and small thorns found on the bouquets of red roses sold in most
+               stores around Valentine's Day. North America and Great Britian do have some native
+               species, but the classic roses that most people assocaite with love were imported
+               from China or other Asian countries and then hybridized and cultivated into the many
+               species we have today (273). The damask and attar roses are especially useful in
+               creating perfumes and other scents. Growing and caring for roses is not that
+               difficult, but the gardener must take care to keep them sheltered from the wind and
+               provide well-drained, rich soil for their nutrients <ref target="#wilkinson"
+                  >(278)</ref>.</note>
+            <note xml:id="william" n="11">Sweet williams are associated with gallantry, so it makes
+               sense that they would be included in a bouquet meant to encourage a woman to accept a
+               man's admiration, respect, and love. These perennial flowers can be any shade of red,
+               purple, or white and are often used as borders to a bouquet <ref target="#wilkinson"
+                  >(Wilkinson 70)</ref>. They do not bloom until their second year of growth, but
+               the beauty and edibility of the flowers made it a popular garden flower in the
+               Victorian age <ref target="#wilkinson">(70).</ref></note>
+            <note xml:id="thrift" n="12">Thrift is associated with sympathy. These might have been
+               sent when someone died or when a young lover was jilted. The colors of the flowers
+               can vary in any shade of white, yellow, blue, lilac, or red, and the perennial nature
+               guarantees blooming for at least three years <ref target="#wilkinson">(Wilkinson
+                  312)</ref>. Even though they are associated with sympathy, their pom-pom style
+               blossoms add cheerfulness to any nosegay.</note>
          </noteGrp>
          <noteGrp type="editorial">
-            <note xml:id="headings" n="1">While the original text does not include headings for each section, we added them for ease of reading. "Flowers" indicates the section that lists the flowers first, and then their meanings; "Meanings" indicates the section that lists the meanings first, and then the flowers; and "Poetry" indicates the section of poems that relate to the flowers in the text as well as some flowers or meanings that are not included in our excerpts here.</note>
-            <note xml:id="ash" n="2">Whenever there is an ash phonetic symbol in the text, we changed it to a standard type "a" and "e" for ease of reading.</note>
-            <note xml:id="spelling" n="3">In the original text, several "o's" are typed as "u", so we adjusted these letters for ease of reading and understanding.</note>
-            <note xml:id="insert" n="4">In the source text, this poem does not have a title and is not complete. We included the title of the poem to help those who wanted to read the whole thing find it more easily. There is a reference to the complete poem as well as a modernized version in the biography section for <ref target="#burns">Burns.</ref></note>
-            <note xml:id="context" n="5"><p>Floriography was a popular study in the Victorian age, in part due to the Victorians’ obsession with reference manuals, classification, and dictionaries <ref target="#engelhardt">(Engelhardt 137)</ref>. In this period, however, floriography moved from a pastime for just women to a wider project of social service and science by a growing field of amateur botanists. This study became assumed common knowledge, as Engelhardt notes that “Victorian writers expected a certain degree of floral literacy from their readers and used floral codes strategically in their fiction as subtexts for practitioners of the language of flowers” <ref target="#engelhardt">(136)</ref>. These readers and writers would pull on information put out by amateur botanists in this fledgling scientific field through their reference manuals codifying flowers and their meanings so that both writers and readers  could “extend the parameters of courtship and imaginative play” <ref target="#engelhardt">(156)</ref>.</p> 
-               <p>This knowledge, along with the proliferation of other Victorian manuals on etiquette and other subjects, reflects a growing middle class and the emergence of new forms of marketing towards that middle class. These etiquette guides, while serving other social purposes, also show new desires and demands for commodities and material goods in the Victorian age <ref target="#weller">(Weller)</ref>.</p> 
-               <p>From this information, we can conclude that this booklet was one kind of informational booklet that would have been purchased for children, debutantes, and anyone else who was interested in the study of floriography, even if they were not part of the upper echelons of London society during this time. </p>
+            <note xml:id="headings" n="1">While the original text does not include headings for each
+               section, we added them for ease of reading. "Flowers" indicates the section that
+               lists the flowers first, and then their meanings; "Meanings" indicates the section
+               that lists the meanings first, and then the flowers; and "Poetry" indicates the
+               section of poems that relate to the flowers in the text as well as some flowers or
+               meanings that are not included in our excerpts here.</note>
+            <note xml:id="ash" n="2">Whenever there is an ash phonetic symbol in the text, we
+               changed it to a standard type "a" and "e" for ease of reading.</note>
+            <note xml:id="spelling" n="3">In the original text, several "o's" are typed as "u", so
+               we adjusted these letters for ease of reading and understanding.</note>
+            <note xml:id="insert" n="4">In the source text, this poem does not have a title and is
+               not complete. We included the title of the poem to help those who wanted to read the
+               whole thing find it more easily. There is a reference to the complete poem as well as
+               a modernized version in the biography section for <ref target="#burns"
+               >Burns.</ref></note>
+            <note xml:id="context" n="5"><p>Floriography was a popular study in the Victorian age,
+                  in part due to the Victorians’ obsession with reference manuals, classification,
+                  and dictionaries <ref target="#engelhardt">(Engelhardt 137)</ref>. In this period,
+                  however, floriography moved from a pastime for just women to a wider project of
+                  social service and science by a growing field of amateur botanists. This study
+                  became assumed common knowledge, as Engelhardt notes that “Victorian writers
+                  expected a certain degree of floral literacy from their readers and used floral
+                  codes strategically in their fiction as subtexts for practitioners of the language
+                  of flowers” <ref target="#engelhardt">(136)</ref>. These readers and writers would
+                  pull on information put out by amateur botanists in this fledgling scientific
+                  field through their reference manuals codifying flowers and their meanings so that
+                  both writers and readers could “extend the parameters of courtship and imaginative
+                  play” <ref target="#engelhardt">(156)</ref>.</p>
+               <p>This knowledge, along with the proliferation of other Victorian manuals on
+                  etiquette and other subjects, reflects a growing middle class and the emergence of
+                  new forms of marketing towards that middle class. These etiquette guides, while
+                  serving other social purposes, also show new desires and demands for commodities
+                  and material goods in the Victorian age <ref target="#weller">(Weller)</ref>.</p>
+               <p>From this information, we can conclude that this booklet was one kind of
+                  informational booklet that would have been purchased for children, debutantes, and
+                  anyone else who was interested in the study of floriography, even if they were not
+                  part of the upper echelons of London society during this time. </p>
             </note>
          </noteGrp>
       </back>
