@@ -88,7 +88,7 @@
          <text xml:id="Cralle_Doc" rend="typewritten">
             <body>
                <opener>
-                  <orgName ref="#Cralle"><hi rend="caps">J B. Cralle &amp; Co.</hi></orgName>
+                  <orgName ref="#Cralle" rend="caps">J B. Cralle &amp; Co.</orgName>
                   <dateline><date when="1907-04-30"><hi rend="caps">Apr</hi> 30
                      1907</date></dateline>
                   <stamp rend="caps">Atty's.</stamp>
@@ -104,7 +104,7 @@
                      this <lb/>practice in reagrd to fees as follows:<lb/></p>
 
                   <p>"<hi rend="caps">Provided</hi>, That in the settlement of claims of
-                     officers,<lb/> soldiers, sailors, and marines, of their repreentatives,<lb/>
+                     officers,<lb/> soldiers, sailors, and marines, of their representatives,<lb/>
                      and all other claims for pay and allowances within the jurisdiction<lb/> of the
                      Auditor for the <lb/>War Department or the Auditor for the Navy Department,
                      presented and filed hereafter in which it is<lb/> the present practice to make
@@ -118,7 +118,8 @@
                         >-</pc><lb/>ment between claimants and attorneys, and the Government <hi
                         rend="caps">does not <lb/>now deduct and pay fees to attorneys as
                         formerly</hi> in any of the above <lb/>described claims filed since the Act
-                     of Congress approved <date when="1900-06-06">June 6,<lb/> 1900</date>.<lb/></p>
+                     of Congress approved <date when="1900-06-06" ref="#Act_of_Congress">June
+                        6,<lb/> 1900</date>.<lb/></p>
 
                   <p>The former practice of the Government in deducting and <lb/>paying the attorney
                      fees upon settlement with the claimants was <lb/>greatly preferred by us, but
@@ -141,8 +142,12 @@
                <div type="footnotes">
                   <note>
                      <note xml:id="Cralle">JB Cralle &amp; Co were claim and pension attorneys.
-                        Their firm was located in Washington DC.<ref type="biblio" target="#Source6"
-                        />See source 6.</note>
+                        Their firm was located in Washington DC.<ref type="biblio"
+                           target="#Cralle_Co"/>See source 6.</note>
+                     <note xml:id="Act_of_Congress">The United States Congress passed an Act on June
+                        6th, 1900 that "consolidated immigration enforcement by assigning
+                        enforcement of both Alien Contract Labor laws and Chinese Exclusion laws to
+                        the Commissioner-General."<ref type="biblio" target="#Federal_Immigration_Service"></ref></note>
                   </note>
                </div>
             </back>
@@ -268,9 +273,9 @@
                      <persName>Mama</persName> is going to write too. I am going to school and
                   trying to learn fast. I have a nice sled and a nice little kitten. Many nice books
                   and playmates. If you will write I will answer your letter. All the uncles are
-                  well, and so is <persName>aunt nettie.</persName> Our coldest
-                  day this winter was yesterday,<date> March the 14th.</date> What do you think of
-                  that for spring?</p>
+                  well, and so is <persName>aunt nettie.</persName> Our coldest day this winter was
+                     yesterday,<date> March the 14th.</date> What do you think of that for
+                  spring?</p>
                <closer>
                   <salute>With much love,</salute>
                   <signed><persName>Ralph</persName>.</signed>
@@ -367,9 +372,7 @@
                   >C.H.</hi></closer>
             </body>
             <back>
-               <div type="footnotes">
-                  
-               </div>
+               <div type="footnotes"> </div>
             </back>
          </text>
          <text xml:id="Winston_Doc" rend="print">
@@ -506,7 +509,7 @@
             <back>
                <div type="footnotes">
                   <note xml:id="n2">"Philedelphia book publisher, 1884 to 1960, original specialty
-               Bibles." <ref type="biblio" target="#Source2">See source 2</ref>.</note>
+                     Bibles." <ref type="biblio" target="#Source2">See source 2</ref>.</note>
                </div>
             </back>
             <!-- End of Nic Staley's documents -->
@@ -522,22 +525,22 @@
                wife died in 1888, he moved to Seattle where he was district manager and salesman. He
                married Mary Huselby in 1896. He died on July 1, 1928 in Seattle, Washington." <ref
                   type="biblio" target="#Source1">See source 1</ref>.</note>
-            
+
             <listPerson>
                <person xml:id="JN_Bertram">
                   <persName>
-                  <surname>Bertram</surname>
-                  <forename>Jasper</forename>
-               </persName>
-                  <note>"Jasper N. Bertram (1840-1928) was born in Wayne,
-                  Kentucky. He enlisted in the Civil War with the Kentucky Volunteers, 9th
-                  Regiment, 3rd Division, 1862-1864. He married Mary Ann Garrett on January 1,
-                  1866, in Overton, Tennessee and they had five children. He was listed as a
-                  school teacher in Kentucky in 1873 and a Republican Party worker in 1882 in the
-                  3rd Congressional District. After his first wife died in 1888, he moved to
-                  Seattle where he was district manager and salesman. He married Mary Huselby in
-                  1896. He died on July 1, 1928 in Seattle, Washington." <ref type="biblio"
-                     target="#Source1">See source 1</ref>.</note>
+                     <surname>Bertram</surname>
+                     <forename>Jasper</forename>
+                  </persName>
+                  <note>"Jasper N. Bertram (1840-1928) was born in Wayne, Kentucky. He enlisted in
+                     the Civil War with the Kentucky Volunteers, 9th Regiment, 3rd Division,
+                     1862-1864. He married Mary Ann Garrett on January 1, 1866, in Overton,
+                     Tennessee and they had five children. He was listed as a school teacher in
+                     Kentucky in 1873 and a Republican Party worker in 1882 in the 3rd Congressional
+                     District. After his first wife died in 1888, he moved to Seattle where he was
+                     district manager and salesman. He married Mary Huselby in 1896. He died on July
+                     1, 1928 in Seattle, Washington." <ref type="biblio" target="#Source1">See
+                        source 1</ref>.</note>
                </person>
                <person xml:id="T_Noel">
                   <persName>
@@ -546,23 +549,22 @@
                   </persName>
                   <note>Soldier in the Confederate army during the United Stated Civil War. Born
                         <date when="1840">1840</date>. <ref type="biblio" target="#sourceNUMB">See
-                     source numb#</ref>.</note>
+                        source numb#</ref>.</note>
                </person>
                <person xml:id="J_Winston">
                   <persName>
                      <surname>Winston</surname>
                      <forename>John</forename>
                   </persName>
-                  <note>Born <date when="1856">1856</date>. Died<date when="1920"/>. <ref type="biblio" target="#sourceNUMB">See
-                     source numb#</ref>.</note>
+                  <note>Born <date when="1856">1856</date>. Died<date when="1920"/>. <ref
+                        type="biblio" target="#sourceNUMB">See source numb#</ref>.</note>
                </person>
             </listPerson>
             <listOrg>
                <org xml:id="TN_co">
                   <orgName> Theo Noel Company </orgName>
                   <note>Publishing company based in <placeName ref="#Chicago">Chicago</placeName>.
-                     <ref type="biblio" target="#sourceNUMB">See
-                        source numb#</ref>.</note>
+                        <ref type="biblio" target="#sourceNUMB">See source numb#</ref>.</note>
                </org>
                <org xml:id="Winston_co">
                   <orgName>The John C. Winston Company</orgName>
@@ -573,9 +575,9 @@
                   <note>A daily newspaper published in Philadelphia from <date when="1877"
                         >1877</date>to <date when="1947">1947</date>.</note>
                </org>
-                  <org xml:id="Treasury">
-                     <orgName>United States Department of the Treasury</orgName>
-                  </org>
+               <org xml:id="Treasury">
+                  <orgName>United States Department of the Treasury</orgName>
+               </org>
             </listOrg>
             <listPlace>
                <place xml:id="Kentucky">
@@ -638,6 +640,11 @@
                      <ref
                      target="https://www.nps.gov/common/uploads/teachers/lessonplans/General%20Affadavit%201905.pdf"
                      >https://www.nps.gov/common/uploads/teachers/lessonplans/General%20Affadavit%201905.pdf</ref>
+               </bibl>
+               <bibl xml:id="Federal_Immigration_Service"><title level="a">Origins of the Federal
+                     Immigration Service</title>. <publisher>USCIS</publisher>,<ref
+                     target="https://www.uscis.gov/about-us/our-history/explore-agency-history/overview-of-agency-history/origins-of-the-federal-immigration-service#:~:text=The%20Act%20of%20June%206,laws%20to%20the%20Commissioner%2DGeneral"
+                     >https://www.uscis.gov/about-us/our-history/explore-agency-history/overview-of-agency-history/origins-of-the-federal-immigration-service#:~:text=The%20Act%20of%20June%206,laws%20to%20the%20Commissioner%2DGeneral</ref>.
                </bibl>
             </listBibl>
          </div>
