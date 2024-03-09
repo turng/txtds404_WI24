@@ -513,15 +513,13 @@
                   type="person" ref="#Ames">Miss Ame</name>'s the play being</p>
             <p><title type="play" ref="#As-You-Like-It">As You Like It</title> which had been cast
                as follows by </p>
-
             <castList>
                <head><title type="play" ref="#As-You-Like-It">As You Like It</title></head>
-
                <castItem>
                   <role>Duke Senior</role>
                   <role>Corin</role>
                   <actor>
-                     <name type="person" ref="#Robinson">Miss Robinson</name></actor></castItem>
+                  <name type="person" ref="#Robinson">Miss Robinson</name></actor></castItem>
                <castItem>
                   <role>Frederick</role>
                   <role>Jaques</role>
@@ -529,33 +527,40 @@
                   <role>Amiens</role>
                   <actor><name type="person" ref="#Ames"> Mrs. Ames</name></actor>
                </castItem>
-               <castItem><role>Silvius</role><actor><name type="person" ref="#Fickett"> Mrs.
-                        Fickett</name></actor></castItem>
+               <castItem>
+                  <role>Silvius</role>
+                  <actor><name type="person" ref="#Fickett"> Mrs. Fickett</name></actor>
+               </castItem>
                <castItem><role>Charles</role>
                   <role>William</role>
                   <actor><name type="person" ref="#McPhee">Miss McPhee</name></actor></castItem>
-               <castItem><role>Oliver</role>
+               <castItem>
+                  <role>Oliver</role>
                   <role>Hymen</role>
                   <role>1st Page</role>
                   <actor><name type="person" ref="#Condon">Mrs. Condon</name></actor></castItem>
-               <castItem><role>Orlando</role>
+               <castItem>
+                  <role>Orlando</role>
                   <role>Audrey</role>
                   <actor><name type="person" ref="#E-Gove">Miss E. Gove</name></actor></castItem>
-               <castItem><role>Adam</role>
+               <castItem>
+                  <role>Adam</role>
                   <role>Le Beau</role>
                   <actor><name type="person" ref="#Wylde">Mrs. Wylde</name></actor></castItem>
                <castItem>
                   <role>Touchstone</role>
                   <role>1st Lord</role>
-                  <actor><name type="person" ref="#Marie-Gove">Miss M.
-                  Gove</name></actor></castItem>
-               <castItem><role>Rosalind</role>
+                  <actor><name type="person" ref="#Marie-Gove">Miss M. Gove</name></actor></castItem>
+               <castItem>
+                  <role>Rosalind</role>
                   <role>Epilogue</role>
                   <actor><name type="person" ref="#Kiernan">Miss Kiernan</name></actor></castItem>
-               <castItem><role>Celia</role>
+               <castItem>
+                  <role>Celia</role>
                   <role>2nd Page </role>
                   <actor><name type="person" ref="#Carrie-Gove">Miss Gove</name></actor></castItem>
-               <castItem><role>Phebe</role>
+               <castItem>
+                  <role>Phebe</role>
                   <role>Forester</role>
                   <actor><name type="person" ref="#Kimball">Miss Kimball</name></actor></castItem>
                <castItem>
@@ -563,8 +568,7 @@
                   <role>2nd Lord</role>
                   <role>Lord</role>
                   <role>Sir Oliver Martex</role>
-                  <actor><name type="person" ref="#Fitzhenry">Mrs
-                  Fitzhenry</name></actor>.</castItem>
+                  <actor><name type="person" ref="#Fitzhenry">Mrs Fitzhenry</name></actor>.</castItem>
             </castList>
 
             <signed>M.W. Ames</signed>
