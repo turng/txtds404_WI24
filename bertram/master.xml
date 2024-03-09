@@ -143,13 +143,13 @@
             <back>
                <div type="footnotes">
                   <note>
-                     <note xml:id="Cralle_Note">JB Cralle &amp; Co were claim and pension attorneys.
-                        Their firm was located in Washington DC.<ref type="biblio"
-                           target="#Cralle_Co_Bib"/>See JB Cralle &amp; Co.</note>
+                     <note xml:id="Cralle_Note">J.B. Cralle &amp; Co were claim and pension
+                        attorneys. Their firm was located in Washington DC.<ptr type="biblio"
+                           target="#Cralle_Co_Bib"/>See J.B. Cralle &amp; Co.</note>
                      <note xml:id="Act_of_Congress">"The United States Congress passed an Act on
                         June 6th, 1900 that "consolidated immigration enforcement by assigning
                         enforcement of both Alien Contract Labor laws and Chinese Exclusion laws to
-                        the Commissioner-General."<ref type="biblio"
+                        the Commissioner-General."<ptr type="biblio"
                            target="#Federal_Immigration_Service"/></note>
                   </note>
                </div>
@@ -234,8 +234,8 @@
          </text>
          <text xml:id="Chelan_Doc" rend="typewritten">
             <body>
-               <head rend="small_caps"> Notary public <lb/> real estates <lb/> inusrance <lb/> Propery interests<lb/> of
-                  non-residents<lb/> looked after. </head>
+               <head rend="small_caps"> Notary public <lb/> real estates <lb/> inusrance <lb/>
+                  Propery interests<lb/> of non-residents<lb/> looked after. </head>
                <head rend="caps"><orgName>Chelan Real Estate office</orgName></head>
                <head rend="small_caps"><placeName type="county">Chelan. Washington</placeName><date
                      when="1907-08-07"> Aug 7th, 1907</date></head>
@@ -244,20 +244,21 @@
                   <placeName type="city" ref="#Seattle">Seattle Wash.</placeName>
                </opener>
                <p>Dear sir: Through <persName>Dr. A.I. Mitchell</persName>, I learn that you are
-                  interested<lb/> in the <placeName ref="#Chelan_County">Chelan Country</placeName>,and
-                  contemplate settling here. If you will write<lb/> me telling me just what you would
-                  like in the way of land and how<lb/> much you would care to invest I could answer your
-                  letter and tell you<lb/> whether such land could be<lb/> had att all and what the cost would
-                  be. You understand we have a fine fruit country and that tha country is<lb/> rough or
-                  rolling .We have also a fine country and few extremes of eithe<lb/> rheat or
-                  col.Reinquishments and homesteads are practically gone.I can s<lb/> sell you a 40 close
-                  to town <hi rend="strikethrough">and</hi> atv $20. an acre. Out of this 40 there<lb/>
-                  is 25 acres of the best of fruit land and the balance is pasture.No<lb/>
+                  interested<lb/> in the <placeName ref="#Chelan_County">Chelan
+                  Country</placeName>,and contemplate settling here. If you will write<lb/> me
+                  telling me just what you would like in the way of land and how<lb/> much you would
+                  care to invest I could answer your letter and tell you<lb/> whether such land
+                  could be<lb/> had att all and what the cost would be. You understand we have a
+                  fine fruit country and that tha country is<lb/> rough or rolling .We have also a
+                  fine country and few extremes of eithe<lb/> rheat or col.Reinquishments and
+                  homesteads are practically gone.I can s<lb/> sell you a 40 close to town <hi
+                     rend="strikethrough">and</hi> atv $20. an acre. Out of this 40 there<lb/> is 25
+                  acres of the best of fruit land and the balance is pasture.No<lb/>
                   improvements.This land joins <placeName ref="#Lakeside">Lakeside</placeName> on
                   the<lb/> south and is on teh first bench above. It is within reach of the town and
-                  hangs ovre the hill<lb/> A person could live in Lakeside if they wish and farm it. I
-                  would be<lb/> glad to hear from you on the subject and will furnish you any information
-                  you may wish.<lb/></p>
+                  hangs ovre the hill<lb/> A person could live in Lakeside if they wish and farm it.
+                  I would be<lb/> glad to hear from you on the subject and will furnish you any
+                  information you may wish.<lb/></p>
                <closer rend="cursive">
                   <salute>Very truly,</salute>
                   <signed><persName>Barnett Stillery</persName>.</signed>
@@ -283,11 +284,11 @@
                </opener>
                <p>I thought you might like to hear from your only grandson.<lb/>
                   <persName>Mama</persName> is going to write too.<lb/> I am going to school and
-                  trying to learn fast.<lb/> I have a nice sled and a nice little kitten.<lb/> Many nice books
-                  and playmates.<lb/> If you will write I will answer your <pb/> letter.<lb/> All the uncles are
-                  well, and so is <persName>aunt nettie.</persName><lb/> Our coldest day this winter was
-                  yesterday,<date> March the 14th.<lb/></date> What do you think of that for
-                  spring?<lb/></p>
+                  trying to learn fast.<lb/> I have a nice sled and a nice little kitten.<lb/> Many
+                  nice books and playmates.<lb/> If you will write I will answer your <pb/>
+                  letter.<lb/> All the uncles are well, and so is <persName>aunt
+                  nettie.</persName><lb/> Our coldest day this winter was yesterday,<date> March the
+                     14th.<lb/></date> What do you think of that for spring?<lb/></p>
                <closer>
                   <salute>With much love,</salute>
                   <signed><persName>Ralph</persName>.</signed>
@@ -583,14 +584,16 @@
                <org xml:id="Phil_rec">
                   <orgName>The Philadelphia Record</orgName>
                   <note>A daily newspaper published in Philadelphia from <date when="1877"
-                     >1877</date>to <date when="1947">1947</date>. <ref type="biblio" target="#Philadelphia_Record_Bib"
-                        >See The Philadelphia Record Wikipedia</ref>.</note>
+                        >1877</date>to <date when="1947">1947</date>. <ref type="biblio"
+                        target="#Philadelphia_Record_Bib">See The Philadelphia Record
+                        Wikipedia</ref>.</note>
                </org>
                <org xml:id="Treasury">
                   <orgName>United States Department of the Treasury</orgName>
                </org>
                <org xml:id="Cralle">
-                  <orgName>JB Cralle &amp; Co</orgName>
+                  <orgName>J.B. Cralle &amp; Co</orgName>
+                  <note><ref type="biblio" target="#Cralle_Co_Bib"/>See J.B. Cralle &amp; Co.</note>
                </org>
             </listOrg>
             <listPlace>
@@ -621,12 +624,12 @@
                      <settlement>Chelan</settlement>
                      <region>Washington</region>
                   </placeName>
+               </place>
                <place>
-                  <placeName>
-                     <settlement>Seaettle</settlement>
+                  <placeName xml:id="Seattle">
+                     <settlement>Seattle</settlement>
                      <region>Washington</region>
                   </placeName>
-               </place>
                </place>
                <place xml:id="Lakeside">
                   <placeName>
@@ -676,8 +679,8 @@
                   />
                </bibl>
                <bibl xml:id="Cralle_Co_Bib" type="webpage">
-                  <author>JB Cralle &amp; Co</author>,<title level="a">JB Cralle &amp; Co</title>.
-                     <ptr
+                  <author>J.B. Cralle &amp; Co</author>,<title level="a">J.B. Cralle &amp;
+                     Co</title>. <ptr
                      target="https://www.nps.gov/common/uploads/teachers/lessonplans/General%20Affadavit%201905.pdf"
                   />
                </bibl>
