@@ -593,7 +593,7 @@
                </org>
                <org xml:id="Cralle">
                   <orgName>J.B. Cralle &amp; Co</orgName>
-                  <note><ref type="biblio" target="#Cralle_Co_Bib"/>See J.B. Cralle &amp; Co.</note>
+                  <note><ptr type="biblio" target="#Cralle_Co_Bib"/>See J.B. Cralle &amp; Co.</note>
                </org>
             </listOrg>
             <listPlace>
