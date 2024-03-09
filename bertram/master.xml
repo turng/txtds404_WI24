@@ -197,9 +197,9 @@
                   <p>no new calls that I know of<lb/> brother Sister be shure to spend<lb/> a while
                      with us us you <add place="below">^go</add> North or<lb/> Northwest feeal that
                      that will<lb/> be our last meeting and parting<lb/> without Sum unexcpected
-                     change ___ <persName>Omar</persName> is at <placeName>Birm<pc type="EOLhyphen>"
+                     change ___ <persName>Omar</persName> is at <placeName type="city">Birm<pc type="EOLhyphen>"
                            >-</pc><lb/>ingham</placeName>
-                     <persName>Ala Bruce</persName> at <placeName>Indiana<pc type="EOLhyphen>"
+                     <persName>Ala Bruce</persName> at <placeName type="city">Indiana<pc type="EOLhyphen>"
                            >-</pc><lb/>polis</placeName>
                      <persName>Hial</persName> excpects to go to<lb/>
                      <persName>Omar</persName> &amp; <persName>Carol</persName> is getting a<lb/>
@@ -287,7 +287,7 @@
                   trying to learn fast.<lb/> I have a nice sled and a nice little kitten.<lb/> Many
                   nice books and playmates.<lb/> If you will write I will answer your <pb/>
                   letter.<lb/> All the uncles are well, and so is <persName>aunt
-                  nettie.</persName><lb/> Our coldest day this winter was yesterday,<date> March the
+                  nettie.</persName><lb/> Our coldest day this winter was yesterday,<date when="1908-03-14> March the
                      14th.<lb/></date> What do you think of that for spring?<lb/></p>
                <closer>
                   <salute>With much love,</salute>
@@ -408,7 +408,7 @@
                         and its removal marks an<lb/> important step in the improvement of
                            <placeName type="street">Arch<lb/> Street</placeName> for commercial
                         purposes. The inroads of<lb/> trade have driven out nearly all the
-                        residents<lb/> east of Broad Street, and west of that throrough<pc
+                        residents<lb/> east of <placeName type="street">Broad Street</placeName>, and west of that throrough<pc
                            type="EOLhyphen>">-</pc><lb/>fare they are also gradually being forced
                         out.<lb/> The old church has long been admired for the<lb/> purity of its
                         architecture, and its disappearance<lb/> will be regretted by many.<lb/></p>
